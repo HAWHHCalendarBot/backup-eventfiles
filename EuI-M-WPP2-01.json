@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "EuI-M-WPP2/01",
+    "Location": "0401",
+    "Description": "Dozent: WNC/STKR",
+    "StartTime": "2022-10-17T08:10:00+02:00",
+    "EndTime": "2022-10-17T11:25:00+02:00"
+  },
+  {
+    "Name": "EuI-M-WPP2/01",
+    "Location": "0401",
+    "Description": "Dozent: WNC/STKR",
+    "StartTime": "2022-11-14T08:10:00+01:00",
+    "EndTime": "2022-11-14T11:25:00+01:00"
+  },
+  {
+    "Name": "EuI-M-WPP2/01",
+    "Location": "0401",
+    "Description": "Dozent: WNC/STKR",
+    "StartTime": "2022-12-05T08:10:00+01:00",
+    "EndTime": "2022-12-05T11:25:00+01:00"
+  },
+  {
+    "Name": "EuI-M-WPP2/01",
+    "Location": "0401",
+    "Description": "Dozent: WNC/STKR",
+    "StartTime": "2023-01-09T08:10:00+01:00",
+    "EndTime": "2023-01-09T11:25:00+01:00"
+  }
+]

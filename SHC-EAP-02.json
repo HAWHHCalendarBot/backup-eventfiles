@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "SHC-EAP/02",
+    "Location": "0560",
+    "Description": "Dozent: RTH/[Pot]",
+    "StartTime": "2022-12-09T12:10:00+01:00",
+    "EndTime": "2022-12-09T15:40:00+01:00"
+  },
+  {
+    "Name": "SHC-EAP/02",
+    "Location": "0301",
+    "Description": "Dozent: RTH/[Pot]",
+    "StartTime": "2022-12-12T08:10:00+01:00",
+    "EndTime": "2022-12-12T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-EAP/02",
+    "Location": "0301",
+    "Description": "Dozent: RTH/[Pot]",
+    "StartTime": "2022-12-19T08:10:00+01:00",
+    "EndTime": "2022-12-19T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-EAP/02",
+    "Location": "0301",
+    "Description": "Dozent: RTH/[Pot]",
+    "StartTime": "2023-01-09T08:10:00+01:00",
+    "EndTime": "2023-01-09T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-EAP/02",
+    "Location": "0301",
+    "Description": "Dozent: RTH/[Pot]",
+    "StartTime": "2023-01-16T08:10:00+01:00",
+    "EndTime": "2023-01-16T11:25:00+01:00"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1265",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-10-06T08:10:00+02:00",
+    "EndTime": "2022-10-06T11:25:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1065",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-10-10T08:10:00+02:00",
+    "EndTime": "2022-10-10T11:25:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1065",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-10-17T08:10:00+02:00",
+    "EndTime": "2022-10-17T11:25:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1065",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-10-24T08:10:00+02:00",
+    "EndTime": "2022-10-24T11:25:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1065",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-10-26T08:10:00+02:00",
+    "EndTime": "2022-10-26T11:25:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "0660",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-11-05T10:00:00+01:00",
+    "EndTime": "2022-11-05T14:00:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1065",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-11-07T08:10:00+01:00",
+    "EndTime": "2022-11-07T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1065",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-11-14T08:10:00+01:00",
+    "EndTime": "2022-11-14T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1065",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-11-21T08:10:00+01:00",
+    "EndTime": "2022-11-21T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "0660",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-11-26T10:00:00+01:00",
+    "EndTime": "2022-11-26T14:00:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1065",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-11-28T08:10:00+01:00",
+    "EndTime": "2022-11-28T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1265",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-12-01T08:10:00+01:00",
+    "EndTime": "2022-12-01T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1281",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-12-02T12:10:00+01:00",
+    "EndTime": "2022-12-02T15:40:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1065",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-12-05T08:10:00+01:00",
+    "EndTime": "2022-12-05T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1065",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-12-12T08:10:00+01:00",
+    "EndTime": "2022-12-12T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1065",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2022-12-19T08:10:00+01:00",
+    "EndTime": "2022-12-19T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1065",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2023-01-09T08:10:00+01:00",
+    "EndTime": "2023-01-09T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1065",
+    "Description": "Dozent: LZRB",
+    "StartTime": "2023-01-16T08:10:00+01:00",
+    "EndTime": "2023-01-16T11:25:00+01:00"
+  }
+]

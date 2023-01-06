@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "IE3-EME/03 opt",
+    "Location": "1281",
+    "Description": "Dozent: SHOK",
+    "StartTime": "2022-10-20T08:10:00+02:00",
+    "EndTime": "2022-10-20T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-EME/03 opt",
+    "Location": "1281",
+    "Description": "Dozent: SHOK",
+    "StartTime": "2022-11-10T08:10:00+01:00",
+    "EndTime": "2022-11-10T11:25:00+01:00"
+  },
+  {
+    "Name": "IE3-EME/03 opt",
+    "Location": "1281",
+    "Description": "Dozent: SHOK",
+    "StartTime": "2022-12-01T08:10:00+01:00",
+    "EndTime": "2022-12-01T11:25:00+01:00"
+  },
+  {
+    "Name": "IE3-EME/03 opt",
+    "Location": "1281",
+    "Description": "Dozent: SHOK",
+    "StartTime": "2022-12-22T08:10:00+01:00",
+    "EndTime": "2022-12-22T11:25:00+01:00"
+  }
+]

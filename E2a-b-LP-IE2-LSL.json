@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "E2a/b-LP/IE2-LSL",
+    "Location": "Alexanderstr.1 R0.26",
+    "Description": "",
+    "StartTime": "2022-09-19T09:00:00+02:00",
+    "EndTime": "2022-09-19T11:25:00+02:00"
+  },
+  {
+    "Name": "E2a/b-LP/IE2-LSL",
+    "Location": "0501, 0502, 0505, 0801, 0804, 0865, 0880",
+    "Description": "",
+    "StartTime": "2022-09-19T12:10:00+02:00",
+    "EndTime": "2022-09-19T18:00:00+02:00"
+  },
+  {
+    "Name": "E2a/b-LP/IE2-LSL",
+    "Location": "0501, 0804",
+    "Description": "",
+    "StartTime": "2022-09-20T08:10:00+02:00",
+    "EndTime": "2022-09-20T17:25:00+02:00"
+  },
+  {
+    "Name": "E2a/b-LP/IE2-LSL",
+    "Location": "0502, 0865",
+    "Description": "",
+    "StartTime": "2022-09-21T08:10:00+02:00",
+    "EndTime": "2022-09-21T17:25:00+02:00"
+  },
+  {
+    "Name": "E2a/b-LP/IE2-LSL",
+    "Location": "0505, 0880",
+    "Description": "",
+    "StartTime": "2022-09-22T08:10:00+02:00",
+    "EndTime": "2022-09-22T17:25:00+02:00"
+  },
+  {
+    "Name": "E2a/b-LP/IE2-LSL",
+    "Location": "0801",
+    "Description": "",
+    "StartTime": "2022-09-23T08:10:00+02:00",
+    "EndTime": "2022-09-23T17:25:00+02:00"
+  },
+  {
+    "Name": "E2a/b-LP/IE2-LSL",
+    "Location": "BT21 Aula",
+    "Description": "",
+    "StartTime": "2022-09-24T08:00:00+02:00",
+    "EndTime": "2022-09-24T16:00:00+02:00"
+  }
+]

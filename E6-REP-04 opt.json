@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E6-REP/04 opt",
+    "Location": "0303",
+    "Description": "Dozent: WNK/SZNY",
+    "StartTime": "2022-10-27T08:10:00+02:00",
+    "EndTime": "2022-10-27T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-REP/04 opt",
+    "Location": "0303",
+    "Description": "Dozent: WNK/SZNY",
+    "StartTime": "2022-11-17T08:10:00+01:00",
+    "EndTime": "2022-11-17T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-REP/04 opt",
+    "Location": "0303",
+    "Description": "Dozent: WNK/SZNY",
+    "StartTime": "2022-12-08T08:10:00+01:00",
+    "EndTime": "2022-12-08T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-REP/04 opt",
+    "Location": "0303",
+    "Description": "Dozent: WNK/SZNY",
+    "StartTime": "2023-01-12T08:10:00+01:00",
+    "EndTime": "2023-01-12T11:25:00+01:00"
+  }
+]

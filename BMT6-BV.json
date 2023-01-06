@@ -1,0 +1,72 @@
+[
+  {
+    "Name": "BMT6-BV",
+    "Location": "0460",
+    "Description": "Dozent: SPPK",
+    "StartTime": "2022-09-26T08:15:00+02:00",
+    "EndTime": "2022-09-26T11:30:00+02:00"
+  },
+  {
+    "Name": "BMT6-BV",
+    "Location": "0460",
+    "Description": "Dozent: SPPK",
+    "StartTime": "2022-10-04T08:15:00+02:00",
+    "EndTime": "2022-10-04T11:30:00+02:00"
+  },
+  {
+    "Name": "BMT6-BV",
+    "Location": "0460",
+    "Description": "Dozent: SPPK",
+    "StartTime": "2022-10-10T08:15:00+02:00",
+    "EndTime": "2022-10-10T11:30:00+02:00"
+  },
+  {
+    "Name": "BMT6-BV",
+    "Location": "0460",
+    "Description": "Dozent: SPPK",
+    "StartTime": "2022-10-24T08:15:00+02:00",
+    "EndTime": "2022-10-24T11:30:00+02:00"
+  },
+  {
+    "Name": "BMT6-BV",
+    "Location": "0460",
+    "Description": "Dozent: SPPK",
+    "StartTime": "2022-11-07T08:15:00+01:00",
+    "EndTime": "2022-11-07T11:30:00+01:00"
+  },
+  {
+    "Name": "BMT6-BV",
+    "Location": "0460",
+    "Description": "Dozent: SPPK",
+    "StartTime": "2022-11-21T08:15:00+01:00",
+    "EndTime": "2022-11-21T11:30:00+01:00"
+  },
+  {
+    "Name": "BMT6-BV",
+    "Location": "0460",
+    "Description": "Dozent: SPPK",
+    "StartTime": "2022-11-28T08:15:00+01:00",
+    "EndTime": "2022-11-28T11:30:00+01:00"
+  },
+  {
+    "Name": "BMT6-BV",
+    "Location": "0460",
+    "Description": "Dozent: SPPK",
+    "StartTime": "2022-12-12T08:15:00+01:00",
+    "EndTime": "2022-12-12T11:30:00+01:00"
+  },
+  {
+    "Name": "BMT6-BV",
+    "Location": "0460",
+    "Description": "Dozent: SPPK",
+    "StartTime": "2022-12-19T08:15:00+01:00",
+    "EndTime": "2022-12-19T11:30:00+01:00"
+  },
+  {
+    "Name": "BMT6-BV",
+    "Location": "0460",
+    "Description": "Dozent: SPPK",
+    "StartTime": "2023-01-16T08:15:00+01:00",
+    "EndTime": "2023-01-16T11:30:00+01:00"
+  }
+]

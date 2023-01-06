@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "IE3-ELL2/01",
+    "Location": "0505",
+    "Description": "Dozent: CMPN/[Has]",
+    "StartTime": "2022-10-17T08:10:00+02:00",
+    "EndTime": "2022-10-17T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-ELL2/01",
+    "Location": "0505",
+    "Description": "Dozent: CMPN/[Has]",
+    "StartTime": "2022-11-07T08:10:00+01:00",
+    "EndTime": "2022-11-07T11:25:00+01:00"
+  },
+  {
+    "Name": "IE3-ELL2/01",
+    "Location": "0505",
+    "Description": "Dozent: CMPN/[Has]",
+    "StartTime": "2022-11-21T08:10:00+01:00",
+    "EndTime": "2022-11-21T11:25:00+01:00"
+  },
+  {
+    "Name": "IE3-ELL2/01",
+    "Location": "0505",
+    "Description": "Dozent: CMPN/[Has]",
+    "StartTime": "2022-12-05T08:10:00+01:00",
+    "EndTime": "2022-12-05T11:25:00+01:00"
+  },
+  {
+    "Name": "IE3-ELL2/01",
+    "Location": "0804",
+    "Description": "Dozent: CMPN",
+    "StartTime": "2022-12-19T08:10:00+01:00",
+    "EndTime": "2022-12-19T11:25:00+01:00"
+  },
+  {
+    "Name": "IE3-ELL2/01",
+    "Location": "0804",
+    "Description": "Dozent: CMPN",
+    "StartTime": "2023-01-16T08:10:00+01:00",
+    "EndTime": "2023-01-16T11:25:00+01:00"
+  }
+]

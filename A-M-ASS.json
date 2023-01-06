@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "A-M-ASS",
+    "Location": "1065",
+    "Description": "Dozent: WNC",
+    "StartTime": "2022-10-07T08:10:00+02:00",
+    "EndTime": "2022-10-07T11:25:00+02:00"
+  },
+  {
+    "Name": "A-M-ASS",
+    "Location": "1065",
+    "Description": "Dozent: WNC",
+    "StartTime": "2022-10-14T08:10:00+02:00",
+    "EndTime": "2022-10-14T11:25:00+02:00"
+  },
+  {
+    "Name": "A-M-ASS",
+    "Location": "1065",
+    "Description": "Dozent: WNC",
+    "StartTime": "2022-10-21T08:10:00+02:00",
+    "EndTime": "2022-10-21T11:25:00+02:00"
+  },
+  {
+    "Name": "A-M-ASS",
+    "Location": "1065",
+    "Description": "Dozent: WNC",
+    "StartTime": "2022-10-28T08:10:00+02:00",
+    "EndTime": "2022-10-28T11:25:00+02:00"
+  },
+  {
+    "Name": "A-M-ASS",
+    "Location": "1065",
+    "Description": "Dozent: WNC",
+    "StartTime": "2022-11-04T08:10:00+01:00",
+    "EndTime": "2022-11-04T11:25:00+01:00"
+  },
+  {
+    "Name": "A-M-ASS",
+    "Location": "1065",
+    "Description": "Dozent: WNC",
+    "StartTime": "2022-11-11T08:10:00+01:00",
+    "EndTime": "2022-11-11T11:25:00+01:00"
+  }
+]

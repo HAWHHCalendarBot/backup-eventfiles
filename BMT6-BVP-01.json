@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BMT6-BVP/01",
+    "Location": "0761",
+    "Description": "Dozent: SPPK/[DeG]",
+    "StartTime": "2022-10-17T08:15:00+02:00",
+    "EndTime": "2022-10-17T11:30:00+02:00"
+  },
+  {
+    "Name": "BMT6-BVP/01",
+    "Location": "0761",
+    "Description": "Dozent: SPPK/[DeG]",
+    "StartTime": "2022-11-14T08:15:00+01:00",
+    "EndTime": "2022-11-14T11:30:00+01:00"
+  },
+  {
+    "Name": "BMT6-BVP/01",
+    "Location": "0761",
+    "Description": "Dozent: SPPK/[DeG]",
+    "StartTime": "2022-12-05T08:15:00+01:00",
+    "EndTime": "2022-12-05T11:30:00+01:00"
+  },
+  {
+    "Name": "BMT6-BVP/01",
+    "Location": "0761",
+    "Description": "Dozent: SPPK/[DeG]",
+    "StartTime": "2023-01-09T08:15:00+01:00",
+    "EndTime": "2023-01-09T11:30:00+01:00"
+  }
+]

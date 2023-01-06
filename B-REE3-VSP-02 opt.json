@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "B-REE3-VSP/02 opt",
+    "Location": "1360",
+    "Description": "Dozent: GTF",
+    "StartTime": "2022-11-04T08:10:00+01:00",
+    "EndTime": "2022-11-04T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-VSP/02 opt",
+    "Location": "1360",
+    "Description": "Dozent: GTF",
+    "StartTime": "2022-11-25T08:10:00+01:00",
+    "EndTime": "2022-11-25T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-VSP/02 opt",
+    "Location": "1360",
+    "Description": "Dozent: GTF",
+    "StartTime": "2022-12-16T08:10:00+01:00",
+    "EndTime": "2022-12-16T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-VSP/02 opt",
+    "Location": "1360",
+    "Description": "Dozent: GTF",
+    "StartTime": "2023-01-20T08:10:00+01:00",
+    "EndTime": "2023-01-20T11:25:00+01:00"
+  }
+]

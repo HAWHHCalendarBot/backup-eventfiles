@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "IE1-EEL1/03",
+    "Location": "0501",
+    "Description": "Dozent: LHN/WTMR",
+    "StartTime": "2022-11-02T12:10:00+01:00",
+    "EndTime": "2022-11-02T15:25:00+01:00"
+  },
+  {
+    "Name": "IE1-EEL1/03",
+    "Location": "0501",
+    "Description": "Dozent: LHN/WTMR",
+    "StartTime": "2022-11-23T12:10:00+01:00",
+    "EndTime": "2022-11-23T15:25:00+01:00"
+  },
+  {
+    "Name": "IE1-EEL1/03",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: LHN/WTMR",
+    "StartTime": "2022-12-14T12:10:00+01:00",
+    "EndTime": "2022-12-14T15:25:00+01:00"
+  },
+  {
+    "Name": "IE1-EEL1/03",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: LHN/WTMR",
+    "StartTime": "2023-01-18T12:10:00+01:00",
+    "EndTime": "2023-01-18T15:25:00+01:00"
+  }
+]

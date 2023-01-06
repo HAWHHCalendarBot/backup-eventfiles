@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E3-NSP/01",
+    "Location": "1381",
+    "Description": "Dozent: REIT",
+    "StartTime": "2022-10-25T12:10:00+02:00",
+    "EndTime": "2022-10-25T15:40:00+02:00"
+  },
+  {
+    "Name": "E3-NSP/01",
+    "Location": "1381",
+    "Description": "Dozent: REIT",
+    "StartTime": "2022-11-15T12:10:00+01:00",
+    "EndTime": "2022-11-15T15:40:00+01:00"
+  },
+  {
+    "Name": "E3-NSP/01",
+    "Location": "1381",
+    "Description": "Dozent: REIT",
+    "StartTime": "2022-12-06T12:10:00+01:00",
+    "EndTime": "2022-12-06T15:40:00+01:00"
+  },
+  {
+    "Name": "E3-NSP/01",
+    "Location": "1381",
+    "Description": "Dozent: REIT",
+    "StartTime": "2022-12-20T08:10:00+01:00",
+    "EndTime": "2022-12-20T11:25:00+01:00"
+  }
+]

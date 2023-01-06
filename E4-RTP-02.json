@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E4-RTP/02",
+    "Location": "0606",
+    "Description": "Dozent: ERD/[Huss]",
+    "StartTime": "2022-10-25T08:10:00+02:00",
+    "EndTime": "2022-10-25T11:25:00+02:00"
+  },
+  {
+    "Name": "E4-RTP/02",
+    "Location": "0606",
+    "Description": "Dozent: ERD/[Huss]",
+    "StartTime": "2022-11-15T08:10:00+01:00",
+    "EndTime": "2022-11-15T11:25:00+01:00"
+  },
+  {
+    "Name": "E4-RTP/02",
+    "Location": "0606",
+    "Description": "Dozent: ERD/[Huss]",
+    "StartTime": "2022-12-06T08:10:00+01:00",
+    "EndTime": "2022-12-06T11:25:00+01:00"
+  },
+  {
+    "Name": "E4-RTP/02",
+    "Location": "0606",
+    "Description": "Dozent: ERD/[Huss]",
+    "StartTime": "2023-01-10T08:10:00+01:00",
+    "EndTime": "2023-01-10T11:25:00+01:00"
+  }
+]

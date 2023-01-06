@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "E6-DY",
+    "Location": "1065",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-09-20T08:10:00+02:00",
+    "EndTime": "2022-09-20T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-DY",
+    "Location": "1065",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-09-27T08:10:00+02:00",
+    "EndTime": "2022-09-27T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-DY",
+    "Location": "1065",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-10-11T08:10:00+02:00",
+    "EndTime": "2022-10-11T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-DY",
+    "Location": "1065",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-10-18T08:10:00+02:00",
+    "EndTime": "2022-10-18T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-DY",
+    "Location": "1065",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-10-25T08:10:00+02:00",
+    "EndTime": "2022-10-25T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-DY",
+    "Location": "1065",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-11-01T08:10:00+01:00",
+    "EndTime": "2022-11-01T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-DY",
+    "Location": "1065",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-11-08T08:10:00+01:00",
+    "EndTime": "2022-11-08T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-DY",
+    "Location": "1065",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-11-15T08:10:00+01:00",
+    "EndTime": "2022-11-15T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-DY",
+    "Location": "1065",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-11-22T08:10:00+01:00",
+    "EndTime": "2022-11-22T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-DY",
+    "Location": "1065",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-11-29T08:10:00+01:00",
+    "EndTime": "2022-11-29T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-DY",
+    "Location": "1065",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-12-06T08:10:00+01:00",
+    "EndTime": "2022-12-06T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-DY",
+    "Location": "1065",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-12-13T08:10:00+01:00",
+    "EndTime": "2022-12-13T11:25:00+01:00"
+  }
+]

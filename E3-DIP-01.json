@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E3-DIP/01",
+    "Location": "0801",
+    "Description": "Dozent: SCZ/RDGR",
+    "StartTime": "2022-10-18T12:10:00+02:00",
+    "EndTime": "2022-10-18T15:40:00+02:00"
+  },
+  {
+    "Name": "E3-DIP/01",
+    "Location": "0801",
+    "Description": "Dozent: SCZ/RDGR",
+    "StartTime": "2022-11-08T12:10:00+01:00",
+    "EndTime": "2022-11-08T15:40:00+01:00"
+  },
+  {
+    "Name": "E3-DIP/01",
+    "Location": "0801",
+    "Description": "Dozent: SCZ/RDGR",
+    "StartTime": "2022-11-29T12:10:00+01:00",
+    "EndTime": "2022-11-29T15:40:00+01:00"
+  },
+  {
+    "Name": "E3-DIP/01",
+    "Location": "0801",
+    "Description": "Dozent: SCZ/RDGR",
+    "StartTime": "2022-12-20T12:10:00+01:00",
+    "EndTime": "2022-12-20T15:40:00+01:00"
+  }
+]

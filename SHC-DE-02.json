@@ -1,0 +1,163 @@
+[
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-10-06T08:10:00+02:00",
+    "EndTime": "2022-10-06T11:25:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1281",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-10-07T12:10:00+02:00",
+    "EndTime": "2022-10-07T15:40:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-10-13T08:10:00+02:00",
+    "EndTime": "2022-10-13T11:25:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1281",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-10-14T12:10:00+02:00",
+    "EndTime": "2022-10-14T15:40:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "0660",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-10-19T08:10:00+02:00",
+    "EndTime": "2022-10-19T11:25:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-10-20T08:10:00+02:00",
+    "EndTime": "2022-10-20T11:25:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1281",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-10-21T12:10:00+02:00",
+    "EndTime": "2022-10-21T15:40:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "0660",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-10-26T08:10:00+02:00",
+    "EndTime": "2022-10-26T11:25:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-10-27T08:10:00+02:00",
+    "EndTime": "2022-10-27T11:25:00+02:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-11-03T08:10:00+01:00",
+    "EndTime": "2022-11-03T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1060",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-11-05T10:00:00+01:00",
+    "EndTime": "2022-11-05T14:00:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-11-10T08:10:00+01:00",
+    "EndTime": "2022-11-10T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-11-17T08:10:00+01:00",
+    "EndTime": "2022-11-17T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-11-24T08:10:00+01:00",
+    "EndTime": "2022-11-24T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1060",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-11-26T10:00:00+01:00",
+    "EndTime": "2022-11-26T14:00:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-12-01T08:10:00+01:00",
+    "EndTime": "2022-12-01T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1465",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-12-05T08:10:00+01:00",
+    "EndTime": "2022-12-05T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-12-08T08:10:00+01:00",
+    "EndTime": "2022-12-08T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-12-15T08:10:00+01:00",
+    "EndTime": "2022-12-15T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1465",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-12-20T12:10:00+01:00",
+    "EndTime": "2022-12-20T15:40:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2022-12-22T08:10:00+01:00",
+    "EndTime": "2022-12-22T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2023-01-12T08:10:00+01:00",
+    "EndTime": "2023-01-12T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1283",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2023-01-19T08:10:00+01:00",
+    "EndTime": "2023-01-19T11:25:00+01:00"
+  }
+]

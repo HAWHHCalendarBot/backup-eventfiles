@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "IE1-LSL1/02",
+    "Location": "0861",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-11-10T12:10:00+01:00",
+    "EndTime": "2022-11-10T15:40:00+01:00"
+  },
+  {
+    "Name": "IE1-LSL1/02",
+    "Location": "0861",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-11-17T12:10:00+01:00",
+    "EndTime": "2022-11-17T15:40:00+01:00"
+  },
+  {
+    "Name": "IE1-LSL1/02",
+    "Location": "0861",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-12-01T12:10:00+01:00",
+    "EndTime": "2022-12-01T15:40:00+01:00"
+  },
+  {
+    "Name": "IE1-LSL1/02",
+    "Location": "0861",
+    "Description": "Dozent: LTL",
+    "StartTime": "2022-12-08T12:10:00+01:00",
+    "EndTime": "2022-12-08T15:40:00+01:00"
+  }
+]
