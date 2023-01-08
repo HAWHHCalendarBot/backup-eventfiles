@@ -3,112 +3,112 @@
     "Name": "E6-RE",
     "Location": "1260",
     "Description": "Dozent: HRNG",
-    "StartTime": "2022-09-19T16:00:00+02:00",
-    "EndTime": "2022-09-19T19:30:00+02:00"
+    "StartTime": "2023-09-18T16:00:00+02:00",
+    "EndTime": "2023-09-18T19:30:00+02:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0405",
     "Description": "Dozent: HRNG",
-    "StartTime": "2022-09-27T16:00:00+02:00",
-    "EndTime": "2022-09-27T19:30:00+02:00"
+    "StartTime": "2023-09-26T16:00:00+02:00",
+    "EndTime": "2023-09-26T19:30:00+02:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0360",
     "Description": "Dozent: HRNG",
-    "StartTime": "2022-10-04T16:00:00+02:00",
-    "EndTime": "2022-10-04T19:30:00+02:00"
+    "StartTime": "2023-10-02T16:00:00+02:00",
+    "EndTime": "2023-10-02T19:30:00+02:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0360",
     "Description": "Dozent: HRNG",
-    "StartTime": "2022-10-10T16:00:00+02:00",
-    "EndTime": "2022-10-10T19:30:00+02:00"
+    "StartTime": "2023-10-09T16:00:00+02:00",
+    "EndTime": "2023-10-09T19:30:00+02:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0360",
     "Description": "Dozent: HRNG",
-    "StartTime": "2022-10-17T16:00:00+02:00",
-    "EndTime": "2022-10-17T19:30:00+02:00"
+    "StartTime": "2023-10-16T16:00:00+02:00",
+    "EndTime": "2023-10-16T19:30:00+02:00"
   },
   {
     "Name": "E6-RE",
     "Location": "",
     "Description": "Dozent: HRNG",
-    "StartTime": "2022-10-19T08:00:00+02:00",
-    "EndTime": "2022-10-19T18:00:00+02:00"
+    "StartTime": "2023-10-18T08:00:00+02:00",
+    "EndTime": "2023-10-18T18:00:00+02:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0405",
     "Description": "Dozent: HRNG",
-    "StartTime": "2022-11-01T16:00:00+01:00",
-    "EndTime": "2022-11-01T19:30:00+01:00"
+    "StartTime": "2023-10-31T16:00:00+01:00",
+    "EndTime": "2023-10-31T19:30:00+01:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0360",
     "Description": "Dozent: HRNG",
-    "StartTime": "2022-11-07T16:00:00+01:00",
-    "EndTime": "2022-11-07T19:30:00+01:00"
+    "StartTime": "2023-11-06T16:00:00+01:00",
+    "EndTime": "2023-11-06T19:30:00+01:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0360",
     "Description": "Dozent: HRNG",
-    "StartTime": "2022-11-14T16:00:00+01:00",
-    "EndTime": "2022-11-14T19:30:00+01:00"
+    "StartTime": "2023-11-13T16:00:00+01:00",
+    "EndTime": "2023-11-13T19:30:00+01:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0360",
     "Description": "Dozent: HRNG",
-    "StartTime": "2022-11-21T16:00:00+01:00",
-    "EndTime": "2022-11-21T19:30:00+01:00"
+    "StartTime": "2023-11-20T16:00:00+01:00",
+    "EndTime": "2023-11-20T19:30:00+01:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0360",
     "Description": "Dozent: HRNG",
-    "StartTime": "2022-11-28T16:00:00+01:00",
-    "EndTime": "2022-11-28T19:30:00+01:00"
+    "StartTime": "2023-11-27T16:00:00+01:00",
+    "EndTime": "2023-11-27T19:30:00+01:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0360",
     "Description": "Dozent: VPL",
-    "StartTime": "2022-12-05T16:00:00+01:00",
-    "EndTime": "2022-12-05T19:30:00+01:00"
+    "StartTime": "2023-12-04T16:00:00+01:00",
+    "EndTime": "2023-12-04T19:30:00+01:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0360",
     "Description": "Dozent: VPL",
-    "StartTime": "2022-12-12T16:00:00+01:00",
-    "EndTime": "2022-12-12T19:30:00+01:00"
+    "StartTime": "2023-12-11T16:00:00+01:00",
+    "EndTime": "2023-12-11T19:30:00+01:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0360",
     "Description": "Dozent: VPL",
-    "StartTime": "2022-12-19T16:00:00+01:00",
-    "EndTime": "2022-12-19T19:30:00+01:00"
+    "StartTime": "2023-12-18T16:00:00+01:00",
+    "EndTime": "2023-12-18T19:30:00+01:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0360",
     "Description": "Dozent: VPL",
-    "StartTime": "2023-01-09T16:00:00+01:00",
-    "EndTime": "2023-01-09T19:30:00+01:00"
+    "StartTime": "2024-01-08T16:00:00+01:00",
+    "EndTime": "2024-01-08T19:30:00+01:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0360",
     "Description": "Dozent: VPL",
-    "StartTime": "2023-01-16T16:00:00+01:00",
-    "EndTime": "2023-01-16T19:30:00+01:00"
+    "StartTime": "2024-01-15T16:00:00+01:00",
+    "EndTime": "2024-01-15T19:30:00+01:00"
   }
 ]

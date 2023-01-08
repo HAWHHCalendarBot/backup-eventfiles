@@ -3,28 +3,28 @@
     "Name": "E3-NSP/03",
     "Location": "1301a, 1301b",
     "Description": "Dozent: LGE",
-    "StartTime": "2022-10-24T08:10:00+02:00",
-    "EndTime": "2022-10-24T11:25:00+02:00"
+    "StartTime": "2023-10-23T08:10:00+02:00",
+    "EndTime": "2023-10-23T11:25:00+02:00"
   },
   {
     "Name": "E3-NSP/03",
     "Location": "1360",
     "Description": "Dozent: LGE",
-    "StartTime": "2022-11-14T08:10:00+01:00",
-    "EndTime": "2022-11-14T11:25:00+01:00"
+    "StartTime": "2023-11-13T08:10:00+01:00",
+    "EndTime": "2023-11-13T11:25:00+01:00"
   },
   {
     "Name": "E3-NSP/03",
     "Location": "1360",
     "Description": "Dozent: LGE",
-    "StartTime": "2022-12-05T08:10:00+01:00",
-    "EndTime": "2022-12-05T11:25:00+01:00"
+    "StartTime": "2023-12-04T08:10:00+01:00",
+    "EndTime": "2023-12-04T11:25:00+01:00"
   },
   {
     "Name": "E3-NSP/03",
     "Location": "1360",
     "Description": "Dozent: LGE",
-    "StartTime": "2023-01-09T08:10:00+01:00",
-    "EndTime": "2023-01-09T11:25:00+01:00"
+    "StartTime": "2024-01-08T08:10:00+01:00",
+    "EndTime": "2024-01-08T11:25:00+01:00"
   }
 ]

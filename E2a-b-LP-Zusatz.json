@@ -3,63 +3,63 @@
     "Name": "E2a/b-LP-Zusatz",
     "Location": "1486",
     "Description": "Dozent: EGR/GTF/HST/LGE/LAP/LHN/RDT",
-    "StartTime": "2022-09-19T16:00:00+02:00",
-    "EndTime": "2022-09-19T18:00:00+02:00"
+    "StartTime": "2023-09-18T16:00:00+02:00",
+    "EndTime": "2023-09-18T18:00:00+02:00"
   },
   {
     "Name": "E2a/b-LP-Zusatz",
     "Location": "0862",
     "Description": "Dozent: LAP",
-    "StartTime": "2022-09-20T10:00:00+02:00",
-    "EndTime": "2022-09-20T10:30:00+02:00"
+    "StartTime": "2023-09-19T10:00:00+02:00",
+    "EndTime": "2023-09-19T10:30:00+02:00"
   },
   {
     "Name": "E2a/b-LP-Zusatz",
     "Location": "1486",
     "Description": "Dozent: EGR/GTF/HST/LGE/LAP/LHN/RDT",
-    "StartTime": "2022-09-20T16:00:00+02:00",
-    "EndTime": "2022-09-20T18:00:00+02:00"
+    "StartTime": "2023-09-19T16:00:00+02:00",
+    "EndTime": "2023-09-19T18:00:00+02:00"
   },
   {
     "Name": "E2a/b-LP-Zusatz",
     "Location": "1065",
     "Description": "Dozent: LAP",
-    "StartTime": "2022-09-21T10:00:00+02:00",
-    "EndTime": "2022-09-21T10:30:00+02:00"
+    "StartTime": "2023-09-20T10:00:00+02:00",
+    "EndTime": "2023-09-20T10:30:00+02:00"
   },
   {
     "Name": "E2a/b-LP-Zusatz",
     "Location": "1486",
     "Description": "Dozent: EGR/GTF/HST/LGE/LAP/LHN/RDT",
-    "StartTime": "2022-09-21T16:00:00+02:00",
-    "EndTime": "2022-09-21T18:00:00+02:00"
+    "StartTime": "2023-09-20T16:00:00+02:00",
+    "EndTime": "2023-09-20T18:00:00+02:00"
   },
   {
     "Name": "E2a/b-LP-Zusatz",
     "Location": "0862",
     "Description": "Dozent: LAP",
-    "StartTime": "2022-09-22T10:00:00+02:00",
-    "EndTime": "2022-09-22T10:30:00+02:00"
+    "StartTime": "2023-09-21T10:00:00+02:00",
+    "EndTime": "2023-09-21T10:30:00+02:00"
   },
   {
     "Name": "E2a/b-LP-Zusatz",
     "Location": "1486",
     "Description": "Dozent: EGR/GTF/HST/LGE/LAP/LHN/RDT",
-    "StartTime": "2022-09-22T16:00:00+02:00",
-    "EndTime": "2022-09-22T18:00:00+02:00"
+    "StartTime": "2023-09-21T16:00:00+02:00",
+    "EndTime": "2023-09-21T18:00:00+02:00"
   },
   {
     "Name": "E2a/b-LP-Zusatz",
     "Location": "0862",
     "Description": "Dozent: LAP",
-    "StartTime": "2022-09-23T10:00:00+02:00",
-    "EndTime": "2022-09-23T10:30:00+02:00"
+    "StartTime": "2023-09-22T10:00:00+02:00",
+    "EndTime": "2023-09-22T10:30:00+02:00"
   },
   {
     "Name": "E2a/b-LP-Zusatz",
     "Location": "1486",
     "Description": "Dozent: EGR/GTF/HST/LGE/LAP/LHN/RDT",
-    "StartTime": "2022-09-23T16:00:00+02:00",
-    "EndTime": "2022-09-23T18:00:00+02:00"
+    "StartTime": "2023-09-22T16:00:00+02:00",
+    "EndTime": "2023-09-22T18:00:00+02:00"
   }
 ]

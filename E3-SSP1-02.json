@@ -3,28 +3,28 @@
     "Name": "E3-SSP1/02",
     "Location": "1360",
     "Description": "Dozent: RAU",
-    "StartTime": "2022-10-18T12:10:00+02:00",
-    "EndTime": "2022-10-18T13:40:00+02:00"
+    "StartTime": "2023-10-17T12:10:00+02:00",
+    "EndTime": "2023-10-17T13:40:00+02:00"
   },
   {
     "Name": "E3-SSP1/02",
     "Location": "1360",
     "Description": "Dozent: RAU",
-    "StartTime": "2022-11-08T12:10:00+01:00",
-    "EndTime": "2022-11-08T13:40:00+01:00"
+    "StartTime": "2023-11-07T12:10:00+01:00",
+    "EndTime": "2023-11-07T13:40:00+01:00"
   },
   {
     "Name": "E3-SSP1/02",
     "Location": "1360",
     "Description": "Dozent: RAU",
-    "StartTime": "2022-11-29T12:10:00+01:00",
-    "EndTime": "2022-11-29T13:40:00+01:00"
+    "StartTime": "2023-11-28T12:10:00+01:00",
+    "EndTime": "2023-11-28T13:40:00+01:00"
   },
   {
     "Name": "E3-SSP1/02",
     "Location": "1360",
     "Description": "Dozent: RAU",
-    "StartTime": "2023-01-17T14:10:00+01:00",
-    "EndTime": "2023-01-17T15:40:00+01:00"
+    "StartTime": "2024-01-16T14:10:00+01:00",
+    "EndTime": "2024-01-16T15:40:00+01:00"
   }
 ]

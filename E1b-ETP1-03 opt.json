@@ -3,28 +3,28 @@
     "Name": "E1b-ETP1/03 opt",
     "Location": "0502, 1301a, 1301b",
     "Description": "Dozent: SOLR/[Rac]",
-    "StartTime": "2022-11-02T08:10:00+01:00",
-    "EndTime": "2022-11-02T11:25:00+01:00"
+    "StartTime": "2023-11-01T08:10:00+01:00",
+    "EndTime": "2023-11-01T11:25:00+01:00"
   },
   {
     "Name": "E1b-ETP1/03 opt",
     "Location": "0502, 1301a, 1301b",
     "Description": "Dozent: SOLR/[Rac]",
-    "StartTime": "2022-11-23T08:10:00+01:00",
-    "EndTime": "2022-11-23T11:25:00+01:00"
+    "StartTime": "2023-11-22T08:10:00+01:00",
+    "EndTime": "2023-11-22T11:25:00+01:00"
   },
   {
     "Name": "E1b-ETP1/03 opt",
     "Location": "0502, 1301a, 1301b",
     "Description": "Dozent: SOLR/[Rac]",
-    "StartTime": "2022-12-14T08:10:00+01:00",
-    "EndTime": "2022-12-14T11:25:00+01:00"
+    "StartTime": "2023-12-13T08:10:00+01:00",
+    "EndTime": "2023-12-13T11:25:00+01:00"
   },
   {
     "Name": "E1b-ETP1/03 opt",
     "Location": "0502, 1301a, 1301b",
     "Description": "Dozent: SOLR/[Rac]",
-    "StartTime": "2023-01-18T08:10:00+01:00",
-    "EndTime": "2023-01-18T11:25:00+01:00"
+    "StartTime": "2024-01-17T08:10:00+01:00",
+    "EndTime": "2024-01-17T11:25:00+01:00"
   }
 ]

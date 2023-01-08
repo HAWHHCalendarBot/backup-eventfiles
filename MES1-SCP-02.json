@@ -3,49 +3,49 @@
     "Name": "MES1-SCP/02",
     "Location": "0801",
     "Description": "Dozent: FTZ",
-    "StartTime": "2022-10-14T12:10:00+02:00",
-    "EndTime": "2022-10-14T17:25:00+02:00"
+    "StartTime": "2023-10-13T12:10:00+02:00",
+    "EndTime": "2023-10-13T17:25:00+02:00"
   },
   {
     "Name": "MES1-SCP/02",
     "Location": "0801",
     "Description": "Dozent: FTZ",
-    "StartTime": "2022-10-28T12:10:00+02:00",
-    "EndTime": "2022-10-28T17:25:00+02:00"
+    "StartTime": "2023-10-27T12:10:00+02:00",
+    "EndTime": "2023-10-27T17:25:00+02:00"
   },
   {
     "Name": "MES1-SCP/02",
     "Location": "0801",
     "Description": "Dozent: FTZ",
-    "StartTime": "2022-11-11T12:10:00+01:00",
-    "EndTime": "2022-11-11T17:25:00+01:00"
+    "StartTime": "2023-11-10T12:10:00+01:00",
+    "EndTime": "2023-11-10T17:25:00+01:00"
   },
   {
     "Name": "MES1-SCP/02",
     "Location": "0801",
     "Description": "Dozent: FTZ",
-    "StartTime": "2022-11-25T12:10:00+01:00",
-    "EndTime": "2022-11-25T17:25:00+01:00"
+    "StartTime": "2023-11-24T12:10:00+01:00",
+    "EndTime": "2023-11-24T17:25:00+01:00"
   },
   {
     "Name": "MES1-SCP/02",
     "Location": "0801",
     "Description": "Dozent: FTZ",
-    "StartTime": "2022-12-09T12:10:00+01:00",
-    "EndTime": "2022-12-09T17:25:00+01:00"
+    "StartTime": "2023-12-08T12:10:00+01:00",
+    "EndTime": "2023-12-08T17:25:00+01:00"
   },
   {
     "Name": "MES1-SCP/02",
     "Location": "0801",
     "Description": "Dozent: FTZ",
-    "StartTime": "2022-12-23T12:10:00+01:00",
-    "EndTime": "2022-12-23T17:25:00+01:00"
+    "StartTime": "2023-12-22T12:10:00+01:00",
+    "EndTime": "2023-12-22T17:25:00+01:00"
   },
   {
     "Name": "MES1-SCP/02",
     "Location": "0801",
     "Description": "Dozent: FTZ",
-    "StartTime": "2023-01-20T12:10:00+01:00",
-    "EndTime": "2023-01-20T17:25:00+01:00"
+    "StartTime": "2024-01-19T12:10:00+01:00",
+    "EndTime": "2024-01-19T17:25:00+01:00"
   }
 ]
