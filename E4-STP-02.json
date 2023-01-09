@@ -3,28 +3,28 @@
     "Name": "E4-STP/02",
     "Location": "0402",
     "Description": "Dozent: SLR/STKR",
-    "StartTime": "2023-10-27T08:10:00+02:00",
-    "EndTime": "2023-10-27T11:25:00+02:00"
+    "StartTime": "2022-10-28T08:10:00+02:00",
+    "EndTime": "2022-10-28T11:25:00+02:00"
   },
   {
     "Name": "E4-STP/02",
     "Location": "0402",
     "Description": "Dozent: SLR/STKR",
-    "StartTime": "2023-11-17T08:10:00+01:00",
-    "EndTime": "2023-11-17T11:25:00+01:00"
+    "StartTime": "2022-11-18T08:10:00+01:00",
+    "EndTime": "2022-11-18T11:25:00+01:00"
   },
   {
     "Name": "E4-STP/02",
     "Location": "0402",
     "Description": "Dozent: SLR/STKR",
-    "StartTime": "2023-12-08T08:10:00+01:00",
-    "EndTime": "2023-12-08T11:25:00+01:00"
+    "StartTime": "2022-12-09T08:10:00+01:00",
+    "EndTime": "2022-12-09T11:25:00+01:00"
   },
   {
     "Name": "E4-STP/02",
     "Location": "0402",
     "Description": "Dozent: SLR/STKR",
-    "StartTime": "2024-01-12T08:10:00+01:00",
-    "EndTime": "2024-01-12T11:25:00+01:00"
+    "StartTime": "2023-01-13T08:10:00+01:00",
+    "EndTime": "2023-01-13T11:25:00+01:00"
   }
 ]

@@ -3,28 +3,28 @@
     "Name": "E4-GNP/01",
     "Location": "1401",
     "Description": "Dozent: LI/NGBR",
-    "StartTime": "2023-11-01T12:10:00+01:00",
-    "EndTime": "2023-11-01T15:40:00+01:00"
+    "StartTime": "2022-11-02T12:10:00+01:00",
+    "EndTime": "2022-11-02T15:40:00+01:00"
   },
   {
     "Name": "E4-GNP/01",
     "Location": "1401",
     "Description": "Dozent: LI/NGBR",
-    "StartTime": "2023-11-22T12:10:00+01:00",
-    "EndTime": "2023-11-22T15:40:00+01:00"
+    "StartTime": "2022-11-23T12:10:00+01:00",
+    "EndTime": "2022-11-23T15:40:00+01:00"
   },
   {
     "Name": "E4-GNP/01",
     "Location": "1401",
     "Description": "Dozent: SHN/NGBR",
-    "StartTime": "2023-12-13T12:10:00+01:00",
-    "EndTime": "2023-12-13T15:40:00+01:00"
+    "StartTime": "2022-12-14T12:10:00+01:00",
+    "EndTime": "2022-12-14T15:40:00+01:00"
   },
   {
     "Name": "E4-GNP/01",
     "Location": "1401",
     "Description": "Dozent: SHN/NGBR",
-    "StartTime": "2024-01-17T12:10:00+01:00",
-    "EndTime": "2024-01-17T15:40:00+01:00"
+    "StartTime": "2023-01-18T12:10:00+01:00",
+    "EndTime": "2023-01-18T15:40:00+01:00"
   }
 ]

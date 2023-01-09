@@ -3,28 +3,28 @@
     "Name": "IE1-MAE1/01",
     "Location": "0862",
     "Description": "Dozent: KMLV",
-    "StartTime": "2023-10-20T08:10:00+02:00",
-    "EndTime": "2023-10-20T11:25:00+02:00"
+    "StartTime": "2022-10-21T08:10:00+02:00",
+    "EndTime": "2022-10-21T11:25:00+02:00"
   },
   {
     "Name": "IE1-MAE1/01",
     "Location": "0862",
     "Description": "Dozent: KMLV",
-    "StartTime": "2023-11-10T08:10:00+01:00",
-    "EndTime": "2023-11-10T11:25:00+01:00"
+    "StartTime": "2022-11-11T08:10:00+01:00",
+    "EndTime": "2022-11-11T11:25:00+01:00"
   },
   {
     "Name": "IE1-MAE1/01",
     "Location": "0862",
     "Description": "Dozent: KMLV",
-    "StartTime": "2023-12-01T08:10:00+01:00",
-    "EndTime": "2023-12-01T11:25:00+01:00"
+    "StartTime": "2022-12-02T08:10:00+01:00",
+    "EndTime": "2022-12-02T11:25:00+01:00"
   },
   {
     "Name": "IE1-MAE1/01",
     "Location": "0862",
     "Description": "Dozent: KMLV",
-    "StartTime": "2023-12-22T08:10:00+01:00",
-    "EndTime": "2023-12-22T11:25:00+01:00"
+    "StartTime": "2022-12-23T08:10:00+01:00",
+    "EndTime": "2022-12-23T11:25:00+01:00"
   }
 ]

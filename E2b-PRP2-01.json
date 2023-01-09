@@ -3,28 +3,28 @@
     "Name": "E2b-PRP2/01",
     "Location": "1365",
     "Description": "Dozent: EDOM/SHN",
-    "StartTime": "2023-10-19T08:10:00+02:00",
-    "EndTime": "2023-10-19T11:25:00+02:00"
+    "StartTime": "2022-10-20T08:10:00+02:00",
+    "EndTime": "2022-10-20T11:25:00+02:00"
   },
   {
     "Name": "E2b-PRP2/01",
     "Location": "1365",
     "Description": "Dozent: EDOM/SHN",
-    "StartTime": "2023-11-09T08:10:00+01:00",
-    "EndTime": "2023-11-09T11:25:00+01:00"
+    "StartTime": "2022-11-10T08:10:00+01:00",
+    "EndTime": "2022-11-10T11:25:00+01:00"
   },
   {
     "Name": "E2b-PRP2/01",
     "Location": "1365",
     "Description": "Dozent: EDOM/SHN",
-    "StartTime": "2023-11-30T08:10:00+01:00",
-    "EndTime": "2023-11-30T11:25:00+01:00"
+    "StartTime": "2022-12-01T08:10:00+01:00",
+    "EndTime": "2022-12-01T11:25:00+01:00"
   },
   {
     "Name": "E2b-PRP2/01",
     "Location": "1365",
     "Description": "Dozent: EDOM/SHN",
-    "StartTime": "2023-12-21T08:10:00+01:00",
-    "EndTime": "2023-12-21T11:25:00+01:00"
+    "StartTime": "2022-12-22T08:10:00+01:00",
+    "EndTime": "2022-12-22T11:25:00+01:00"
   }
 ]
