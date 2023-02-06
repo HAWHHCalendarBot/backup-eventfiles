@@ -1,30 +1,30 @@
 [
   {
     "Name": "IE3-DIL/01",
-    "Location": "0804",
-    "Description": "Dozent: SCZ/RDGR",
-    "StartTime": "2022-10-20T08:10:00+02:00",
-    "EndTime": "2022-10-20T11:25:00+02:00"
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2023-04-11T08:10:00+02:00",
+    "EndTime": "2023-04-11T11:25:00+02:00"
   },
   {
     "Name": "IE3-DIL/01",
-    "Location": "0804",
-    "Description": "Dozent: SCZ/RDGR",
-    "StartTime": "2022-11-10T08:10:00+01:00",
-    "EndTime": "2022-11-10T11:25:00+01:00"
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2023-05-02T08:10:00+02:00",
+    "EndTime": "2023-05-02T11:25:00+02:00"
   },
   {
     "Name": "IE3-DIL/01",
-    "Location": "0804",
-    "Description": "Dozent: SCZ/RDGR",
-    "StartTime": "2022-12-01T08:10:00+01:00",
-    "EndTime": "2022-12-01T11:25:00+01:00"
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2023-05-23T08:10:00+02:00",
+    "EndTime": "2023-05-23T11:25:00+02:00"
   },
   {
     "Name": "IE3-DIL/01",
-    "Location": "0804",
-    "Description": "Dozent: SCZ/RDGR",
-    "StartTime": "2022-12-22T08:10:00+01:00",
-    "EndTime": "2022-12-22T11:25:00+01:00"
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2023-06-20T08:10:00+02:00",
+    "EndTime": "2023-06-20T11:25:00+02:00"
   }
 ]

@@ -2,29 +2,29 @@
   {
     "Name": "E4-ELP3/01",
     "Location": "0804, 0865",
-    "Description": "Dozent: RDGR/SHRR",
-    "StartTime": "2022-10-21T12:10:00+02:00",
-    "EndTime": "2022-10-21T15:40:00+02:00"
+    "Description": "Dozent: SHRR",
+    "StartTime": "2023-04-06T12:10:00+02:00",
+    "EndTime": "2023-04-06T15:40:00+02:00"
   },
   {
     "Name": "E4-ELP3/01",
     "Location": "0804, 0865",
-    "Description": "Dozent: RDGR/SHRR",
-    "StartTime": "2022-11-11T12:10:00+01:00",
-    "EndTime": "2022-11-11T15:40:00+01:00"
+    "Description": "Dozent: SHRR",
+    "StartTime": "2023-04-27T12:10:00+02:00",
+    "EndTime": "2023-04-27T15:40:00+02:00"
   },
   {
     "Name": "E4-ELP3/01",
     "Location": "0804, 0865",
-    "Description": "Dozent: RDGR/SHRR",
-    "StartTime": "2022-12-02T12:10:00+01:00",
-    "EndTime": "2022-12-02T15:40:00+01:00"
+    "Description": "Dozent: SHRR",
+    "StartTime": "2023-05-25T12:10:00+02:00",
+    "EndTime": "2023-05-25T15:40:00+02:00"
   },
   {
     "Name": "E4-ELP3/01",
     "Location": "0804, 0865",
-    "Description": "Dozent: RDGR/SHRR",
-    "StartTime": "2022-12-23T12:10:00+01:00",
-    "EndTime": "2022-12-23T15:40:00+01:00"
+    "Description": "Dozent: SHRR",
+    "StartTime": "2023-06-15T12:10:00+02:00",
+    "EndTime": "2023-06-15T15:40:00+02:00"
   }
 ]

@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BMT4-MSP2/01",
+    "Location": "1360",
+    "Description": "Dozent: HSS",
+    "StartTime": "2023-04-28T08:10:00+02:00",
+    "EndTime": "2023-04-28T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT4-MSP2/01",
+    "Location": "1360",
+    "Description": "Dozent: HSS",
+    "StartTime": "2023-05-19T08:10:00+02:00",
+    "EndTime": "2023-05-19T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT4-MSP2/01",
+    "Location": "1360",
+    "Description": "Dozent: HSS",
+    "StartTime": "2023-06-09T08:10:00+02:00",
+    "EndTime": "2023-06-09T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT4-MSP2/01",
+    "Location": "1360",
+    "Description": "Dozent: HSS",
+    "StartTime": "2023-06-30T08:10:00+02:00",
+    "EndTime": "2023-06-30T11:25:00+02:00"
+  }
+]

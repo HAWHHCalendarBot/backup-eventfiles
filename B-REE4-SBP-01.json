@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "B-REE4-SBP/01",
+    "Location": "0402",
+    "Description": "Dozent: GLLS/STKR",
+    "StartTime": "2023-04-20T08:10:00+02:00",
+    "EndTime": "2023-04-20T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-SBP/01",
+    "Location": "0402",
+    "Description": "Dozent: GLLS/STKR",
+    "StartTime": "2023-05-11T08:10:00+02:00",
+    "EndTime": "2023-05-11T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-SBP/01",
+    "Location": "0402",
+    "Description": "Dozent: GLLS/STKR",
+    "StartTime": "2023-06-08T08:10:00+02:00",
+    "EndTime": "2023-06-08T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-SBP/01",
+    "Location": "0402",
+    "Description": "Dozent: GLLS/STKR",
+    "StartTime": "2023-06-29T08:10:00+02:00",
+    "EndTime": "2023-06-29T11:25:00+02:00"
+  }
+]

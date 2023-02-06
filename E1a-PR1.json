@@ -1,58 +1,58 @@
 [
   {
     "Name": "E1a-PR1",
-    "Location": "1260",
-    "Description": "Dozent: HST",
-    "StartTime": "2022-09-22T08:10:00+02:00",
-    "EndTime": "2022-09-22T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: EGR",
+    "StartTime": "2023-03-17T08:10:00+01:00",
+    "EndTime": "2023-03-17T11:25:00+01:00"
   },
   {
     "Name": "E1a-PR1",
-    "Location": "0360",
-    "Description": "Dozent: HST",
-    "StartTime": "2022-09-27T08:10:00+02:00",
-    "EndTime": "2022-09-27T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: EGR",
+    "StartTime": "2023-03-24T08:10:00+01:00",
+    "EndTime": "2023-03-24T11:25:00+01:00"
   },
   {
     "Name": "E1a-PR1",
-    "Location": "0560",
-    "Description": "Dozent: HST",
-    "StartTime": "2022-10-18T08:10:00+02:00",
-    "EndTime": "2022-10-18T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: EGR",
+    "StartTime": "2023-04-14T08:10:00+02:00",
+    "EndTime": "2023-04-14T11:25:00+02:00"
   },
   {
     "Name": "E1a-PR1",
-    "Location": "0560",
-    "Description": "Dozent: HST",
-    "StartTime": "2022-11-01T08:10:00+01:00",
-    "EndTime": "2022-11-01T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: EGR",
+    "StartTime": "2023-04-21T08:10:00+02:00",
+    "EndTime": "2023-04-21T11:25:00+02:00"
   },
   {
     "Name": "E1a-PR1",
-    "Location": "0560",
-    "Description": "Dozent: HST",
-    "StartTime": "2022-11-15T08:10:00+01:00",
-    "EndTime": "2022-11-15T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: EGR",
+    "StartTime": "2023-04-28T08:10:00+02:00",
+    "EndTime": "2023-04-28T11:25:00+02:00"
   },
   {
     "Name": "E1a-PR1",
-    "Location": "0560",
-    "Description": "Dozent: HST",
-    "StartTime": "2022-11-29T08:10:00+01:00",
-    "EndTime": "2022-11-29T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: EGR",
+    "StartTime": "2023-05-12T08:10:00+02:00",
+    "EndTime": "2023-05-12T11:25:00+02:00"
   },
   {
     "Name": "E1a-PR1",
-    "Location": "0560",
-    "Description": "Dozent: HST",
-    "StartTime": "2022-12-13T08:10:00+01:00",
-    "EndTime": "2022-12-13T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: EGR",
+    "StartTime": "2023-05-26T08:10:00+02:00",
+    "EndTime": "2023-05-26T11:25:00+02:00"
   },
   {
     "Name": "E1a-PR1",
-    "Location": "0560",
-    "Description": "Dozent: HST",
-    "StartTime": "2023-01-10T08:10:00+01:00",
-    "EndTime": "2023-01-10T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: EGR",
+    "StartTime": "2023-06-09T08:10:00+02:00",
+    "EndTime": "2023-06-09T11:25:00+02:00"
   }
 ]

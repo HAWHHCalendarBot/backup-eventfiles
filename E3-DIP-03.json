@@ -2,29 +2,29 @@
   {
     "Name": "E3-DIP/03",
     "Location": "0801",
-    "Description": "Dozent: SCZ/RDGR",
-    "StartTime": "2022-11-01T12:10:00+01:00",
-    "EndTime": "2022-11-01T15:40:00+01:00"
+    "Description": "Dozent: FTZ",
+    "StartTime": "2023-04-12T12:10:00+02:00",
+    "EndTime": "2023-04-12T15:40:00+02:00"
   },
   {
     "Name": "E3-DIP/03",
     "Location": "0801",
-    "Description": "Dozent: SCZ/RDGR",
-    "StartTime": "2022-11-22T12:10:00+01:00",
-    "EndTime": "2022-11-22T15:40:00+01:00"
+    "Description": "Dozent: FTZ",
+    "StartTime": "2023-05-10T12:10:00+02:00",
+    "EndTime": "2023-05-10T15:40:00+02:00"
   },
   {
     "Name": "E3-DIP/03",
     "Location": "0801",
-    "Description": "Dozent: SCZ/RDGR",
-    "StartTime": "2022-12-13T12:10:00+01:00",
-    "EndTime": "2022-12-13T15:40:00+01:00"
+    "Description": "Dozent: FTZ",
+    "StartTime": "2023-05-31T12:10:00+02:00",
+    "EndTime": "2023-05-31T15:40:00+02:00"
   },
   {
     "Name": "E3-DIP/03",
     "Location": "0801",
-    "Description": "Dozent: SCZ/RDGR",
-    "StartTime": "2023-01-17T12:10:00+01:00",
-    "EndTime": "2023-01-17T15:40:00+01:00"
+    "Description": "Dozent: FTZ",
+    "StartTime": "2023-06-21T12:10:00+02:00",
+    "EndTime": "2023-06-21T15:40:00+02:00"
   }
 ]

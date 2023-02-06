@@ -1,86 +1,86 @@
 [
   {
     "Name": "E6-EN",
-    "Location": "0660",
+    "Location": "",
     "Description": "Dozent: WNK",
-    "StartTime": "2022-09-22T08:10:00+02:00",
-    "EndTime": "2022-09-22T11:25:00+02:00"
+    "StartTime": "2023-03-14T08:10:00+01:00",
+    "EndTime": "2023-03-14T11:25:00+01:00"
   },
   {
     "Name": "E6-EN",
-    "Location": "0660",
+    "Location": "",
     "Description": "Dozent: WNK",
-    "StartTime": "2022-09-29T08:10:00+02:00",
-    "EndTime": "2022-09-29T11:25:00+02:00"
+    "StartTime": "2023-03-21T08:10:00+01:00",
+    "EndTime": "2023-03-21T11:25:00+01:00"
   },
   {
     "Name": "E6-EN",
-    "Location": "0660",
+    "Location": "",
     "Description": "Dozent: WNK",
-    "StartTime": "2022-10-06T08:10:00+02:00",
-    "EndTime": "2022-10-06T11:25:00+02:00"
+    "StartTime": "2023-03-28T08:10:00+02:00",
+    "EndTime": "2023-03-28T11:25:00+02:00"
   },
   {
     "Name": "E6-EN",
-    "Location": "1001",
+    "Location": "",
     "Description": "Dozent: WNK",
-    "StartTime": "2022-10-13T08:10:00+02:00",
-    "EndTime": "2022-10-13T11:25:00+02:00"
+    "StartTime": "2023-04-04T08:10:00+02:00",
+    "EndTime": "2023-04-04T11:25:00+02:00"
   },
   {
     "Name": "E6-EN",
-    "Location": "1001",
+    "Location": "",
     "Description": "Dozent: WNK",
-    "StartTime": "2022-10-20T08:10:00+02:00",
-    "EndTime": "2022-10-20T11:25:00+02:00"
+    "StartTime": "2023-04-11T08:10:00+02:00",
+    "EndTime": "2023-04-11T11:25:00+02:00"
   },
   {
     "Name": "E6-EN",
-    "Location": "1001",
+    "Location": "",
     "Description": "Dozent: WNK",
-    "StartTime": "2022-11-03T08:10:00+01:00",
-    "EndTime": "2022-11-03T11:25:00+01:00"
+    "StartTime": "2023-04-18T08:10:00+02:00",
+    "EndTime": "2023-04-18T11:25:00+02:00"
   },
   {
     "Name": "E6-EN",
-    "Location": "1001",
+    "Location": "",
     "Description": "Dozent: WNK",
-    "StartTime": "2022-11-10T08:10:00+01:00",
-    "EndTime": "2022-11-10T11:25:00+01:00"
+    "StartTime": "2023-04-25T08:10:00+02:00",
+    "EndTime": "2023-04-25T11:25:00+02:00"
   },
   {
     "Name": "E6-EN",
-    "Location": "1001",
+    "Location": "",
     "Description": "Dozent: WNK",
-    "StartTime": "2022-11-24T08:10:00+01:00",
-    "EndTime": "2022-11-24T11:25:00+01:00"
+    "StartTime": "2023-05-02T08:10:00+02:00",
+    "EndTime": "2023-05-02T11:25:00+02:00"
   },
   {
     "Name": "E6-EN",
-    "Location": "1001",
+    "Location": "",
     "Description": "Dozent: WNK",
-    "StartTime": "2022-12-01T08:10:00+01:00",
-    "EndTime": "2022-12-01T11:25:00+01:00"
+    "StartTime": "2023-05-09T08:10:00+02:00",
+    "EndTime": "2023-05-09T11:25:00+02:00"
   },
   {
     "Name": "E6-EN",
-    "Location": "1001",
+    "Location": "",
     "Description": "Dozent: WNK",
-    "StartTime": "2022-12-15T08:10:00+01:00",
-    "EndTime": "2022-12-15T11:25:00+01:00"
+    "StartTime": "2023-05-16T08:10:00+02:00",
+    "EndTime": "2023-05-16T11:25:00+02:00"
   },
   {
     "Name": "E6-EN",
-    "Location": "1001",
+    "Location": "",
     "Description": "Dozent: WNK",
-    "StartTime": "2022-12-22T08:10:00+01:00",
-    "EndTime": "2022-12-22T11:25:00+01:00"
+    "StartTime": "2023-05-23T08:10:00+02:00",
+    "EndTime": "2023-05-23T11:25:00+02:00"
   },
   {
     "Name": "E6-EN",
-    "Location": "1001",
+    "Location": "",
     "Description": "Dozent: WNK",
-    "StartTime": "2023-01-19T08:10:00+01:00",
-    "EndTime": "2023-01-19T11:25:00+01:00"
+    "StartTime": "2023-06-06T08:10:00+02:00",
+    "EndTime": "2023-06-06T11:25:00+02:00"
   }
 ]

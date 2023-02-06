@@ -1,86 +1,86 @@
 [
   {
     "Name": "E4-RT",
-    "Location": "NB 01.13",
-    "Description": "Dozent: ERD",
-    "StartTime": "2022-09-22T08:10:00+02:00",
-    "EndTime": "2022-09-22T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-03-17T12:10:00+01:00",
+    "EndTime": "2023-03-17T15:40:00+01:00"
   },
   {
     "Name": "E4-RT",
-    "Location": "NB 01.13",
-    "Description": "Dozent: ERD",
-    "StartTime": "2022-09-29T08:10:00+02:00",
-    "EndTime": "2022-09-29T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-03-24T12:10:00+01:00",
+    "EndTime": "2023-03-24T15:40:00+01:00"
   },
   {
     "Name": "E4-RT",
-    "Location": "NB 01.13",
-    "Description": "Dozent: ERD",
-    "StartTime": "2022-10-06T08:10:00+02:00",
-    "EndTime": "2022-10-06T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-03-31T12:10:00+02:00",
+    "EndTime": "2023-03-31T15:40:00+02:00"
   },
   {
     "Name": "E4-RT",
-    "Location": "NB 01.13",
-    "Description": "Dozent: ERD",
-    "StartTime": "2022-10-13T08:10:00+02:00",
-    "EndTime": "2022-10-13T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-04-14T12:10:00+02:00",
+    "EndTime": "2023-04-14T15:40:00+02:00"
   },
   {
     "Name": "E4-RT",
-    "Location": "NB 01.13",
-    "Description": "Dozent: ERD",
-    "StartTime": "2022-10-20T08:10:00+02:00",
-    "EndTime": "2022-10-20T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-04-21T12:10:00+02:00",
+    "EndTime": "2023-04-21T15:40:00+02:00"
   },
   {
     "Name": "E4-RT",
-    "Location": "NB 01.13",
-    "Description": "Dozent: ERD",
-    "StartTime": "2022-10-27T08:10:00+02:00",
-    "EndTime": "2022-10-27T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-04-28T12:10:00+02:00",
+    "EndTime": "2023-04-28T15:40:00+02:00"
   },
   {
     "Name": "E4-RT",
-    "Location": "NB 01.13",
-    "Description": "Dozent: ERD",
-    "StartTime": "2022-11-03T08:10:00+01:00",
-    "EndTime": "2022-11-03T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-05-05T12:10:00+02:00",
+    "EndTime": "2023-05-05T15:40:00+02:00"
   },
   {
     "Name": "E4-RT",
-    "Location": "NB 01.13",
-    "Description": "Dozent: ERD",
-    "StartTime": "2022-11-10T08:10:00+01:00",
-    "EndTime": "2022-11-10T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-05-12T12:10:00+02:00",
+    "EndTime": "2023-05-12T15:40:00+02:00"
   },
   {
     "Name": "E4-RT",
-    "Location": "NB 01.13",
-    "Description": "Dozent: ERD",
-    "StartTime": "2022-11-17T08:10:00+01:00",
-    "EndTime": "2022-11-17T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-05-19T12:10:00+02:00",
+    "EndTime": "2023-05-19T15:40:00+02:00"
   },
   {
     "Name": "E4-RT",
-    "Location": "NB 01.13",
-    "Description": "Dozent: ERD",
-    "StartTime": "2022-11-24T08:10:00+01:00",
-    "EndTime": "2022-11-24T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-05-26T12:10:00+02:00",
+    "EndTime": "2023-05-26T15:40:00+02:00"
   },
   {
     "Name": "E4-RT",
-    "Location": "NB 01.13",
-    "Description": "Dozent: ERD",
-    "StartTime": "2022-12-01T08:10:00+01:00",
-    "EndTime": "2022-12-01T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-06-02T12:10:00+02:00",
+    "EndTime": "2023-06-02T15:40:00+02:00"
   },
   {
     "Name": "E4-RT",
-    "Location": "NB 01.13",
-    "Description": "Dozent: ERD",
-    "StartTime": "2023-01-12T08:10:00+01:00",
-    "EndTime": "2023-01-12T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-06-09T12:10:00+02:00",
+    "EndTime": "2023-06-09T15:40:00+02:00"
   }
 ]

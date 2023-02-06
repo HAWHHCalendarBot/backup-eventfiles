@@ -2,29 +2,29 @@
   {
     "Name": "E3-ELP2/04 opt",
     "Location": "0505",
-    "Description": "Dozent: LGE/[Has]",
-    "StartTime": "2022-11-03T12:10:00+01:00",
-    "EndTime": "2022-11-03T15:40:00+01:00"
+    "Description": "Dozent: DHL/[Has]",
+    "StartTime": "2023-04-20T08:10:00+02:00",
+    "EndTime": "2023-04-20T11:25:00+02:00"
   },
   {
     "Name": "E3-ELP2/04 opt",
     "Location": "0505",
-    "Description": "Dozent: LGE/[Has]",
-    "StartTime": "2022-11-24T12:10:00+01:00",
-    "EndTime": "2022-11-24T15:40:00+01:00"
+    "Description": "Dozent: DHL/[Has]",
+    "StartTime": "2023-05-11T08:10:00+02:00",
+    "EndTime": "2023-05-11T11:25:00+02:00"
   },
   {
     "Name": "E3-ELP2/04 opt",
     "Location": "0505",
-    "Description": "Dozent: LGE/[Has]",
-    "StartTime": "2022-12-15T12:10:00+01:00",
-    "EndTime": "2022-12-15T15:40:00+01:00"
+    "Description": "Dozent: DHL/[Has]",
+    "StartTime": "2023-06-08T08:10:00+02:00",
+    "EndTime": "2023-06-08T11:25:00+02:00"
   },
   {
     "Name": "E3-ELP2/04 opt",
     "Location": "0505",
-    "Description": "Dozent: LGE/[Has]",
-    "StartTime": "2023-01-19T12:10:00+01:00",
-    "EndTime": "2023-01-19T15:40:00+01:00"
+    "Description": "Dozent: DHL/[Has]",
+    "StartTime": "2023-06-29T08:10:00+02:00",
+    "EndTime": "2023-06-29T11:25:00+02:00"
   }
 ]

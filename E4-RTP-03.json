@@ -2,29 +2,29 @@
   {
     "Name": "E4-RTP/03",
     "Location": "0606",
-    "Description": "Dozent: SLER/[Huss]",
-    "StartTime": "2022-11-01T08:10:00+01:00",
-    "EndTime": "2022-11-01T11:25:00+01:00"
+    "Description": "Dozent: JHNS/[Huss]",
+    "StartTime": "2023-04-11T08:10:00+02:00",
+    "EndTime": "2023-04-11T11:25:00+02:00"
   },
   {
     "Name": "E4-RTP/03",
     "Location": "0606",
-    "Description": "Dozent: SLER/[Huss]",
-    "StartTime": "2022-11-22T08:10:00+01:00",
-    "EndTime": "2022-11-22T11:25:00+01:00"
+    "Description": "Dozent: JHNS/[Huss]",
+    "StartTime": "2023-05-02T08:10:00+02:00",
+    "EndTime": "2023-05-02T11:25:00+02:00"
   },
   {
     "Name": "E4-RTP/03",
     "Location": "0606",
-    "Description": "Dozent: SLER/[Huss]",
-    "StartTime": "2022-12-13T08:10:00+01:00",
-    "EndTime": "2022-12-13T11:25:00+01:00"
+    "Description": "Dozent: JHNS/[Huss]",
+    "StartTime": "2023-05-23T08:10:00+02:00",
+    "EndTime": "2023-05-23T11:25:00+02:00"
   },
   {
     "Name": "E4-RTP/03",
     "Location": "0606",
-    "Description": "Dozent: SLER/[Huss]",
-    "StartTime": "2023-01-17T08:10:00+01:00",
-    "EndTime": "2023-01-17T11:25:00+01:00"
+    "Description": "Dozent: JHNS/[Huss]",
+    "StartTime": "2023-06-20T08:10:00+02:00",
+    "EndTime": "2023-06-20T11:25:00+02:00"
   }
 ]

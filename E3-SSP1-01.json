@@ -1,30 +1,30 @@
 [
   {
     "Name": "E3-SSP1/01",
-    "Location": "1360",
-    "Description": "Dozent: RAU",
-    "StartTime": "2022-11-01T12:10:00+01:00",
-    "EndTime": "2022-11-01T13:40:00+01:00"
+    "Location": "1365",
+    "Description": "Dozent: ERD",
+    "StartTime": "2023-04-13T09:55:00+02:00",
+    "EndTime": "2023-04-13T11:25:00+02:00"
   },
   {
     "Name": "E3-SSP1/01",
-    "Location": "1360",
-    "Description": "Dozent: RAU",
-    "StartTime": "2022-11-22T12:10:00+01:00",
-    "EndTime": "2022-11-22T13:40:00+01:00"
+    "Location": "1365",
+    "Description": "Dozent: ERD",
+    "StartTime": "2023-05-04T09:55:00+02:00",
+    "EndTime": "2023-05-04T11:25:00+02:00"
   },
   {
     "Name": "E3-SSP1/01",
-    "Location": "1360",
-    "Description": "Dozent: RAU",
-    "StartTime": "2022-12-13T12:10:00+01:00",
-    "EndTime": "2022-12-13T13:40:00+01:00"
+    "Location": "1365",
+    "Description": "Dozent: ERD",
+    "StartTime": "2023-06-01T09:55:00+02:00",
+    "EndTime": "2023-06-01T11:25:00+02:00"
   },
   {
     "Name": "E3-SSP1/01",
-    "Location": "1360",
-    "Description": "Dozent: RAU",
-    "StartTime": "2023-01-17T12:10:00+01:00",
-    "EndTime": "2023-01-17T13:40:00+01:00"
+    "Location": "1365",
+    "Description": "Dozent: ERD",
+    "StartTime": "2023-06-22T09:55:00+02:00",
+    "EndTime": "2023-06-22T11:25:00+02:00"
   }
 ]

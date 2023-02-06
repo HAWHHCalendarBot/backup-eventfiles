@@ -3,28 +3,28 @@
     "Name": "BMT4-MPP/01",
     "Location": "0880",
     "Description": "Dozent: SCZ/[Schwender]",
-    "StartTime": "2022-11-01T08:10:00+01:00",
-    "EndTime": "2022-11-01T11:25:00+01:00"
+    "StartTime": "2023-04-14T08:10:00+02:00",
+    "EndTime": "2023-04-14T11:25:00+02:00"
   },
   {
     "Name": "BMT4-MPP/01",
     "Location": "0880",
     "Description": "Dozent: SCZ/[Schwender]",
-    "StartTime": "2022-11-22T08:10:00+01:00",
-    "EndTime": "2022-11-22T11:25:00+01:00"
+    "StartTime": "2023-05-05T08:10:00+02:00",
+    "EndTime": "2023-05-05T11:25:00+02:00"
   },
   {
     "Name": "BMT4-MPP/01",
     "Location": "0880",
     "Description": "Dozent: SCZ/[Schwender]",
-    "StartTime": "2022-12-13T08:10:00+01:00",
-    "EndTime": "2022-12-13T11:25:00+01:00"
+    "StartTime": "2023-05-26T08:10:00+02:00",
+    "EndTime": "2023-05-26T11:25:00+02:00"
   },
   {
     "Name": "BMT4-MPP/01",
     "Location": "0880",
     "Description": "Dozent: SCZ/[Schwender]",
-    "StartTime": "2023-01-17T08:10:00+01:00",
-    "EndTime": "2023-01-17T11:25:00+01:00"
+    "StartTime": "2023-06-16T08:10:00+02:00",
+    "EndTime": "2023-06-16T11:25:00+02:00"
   }
 ]

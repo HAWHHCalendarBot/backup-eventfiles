@@ -1,51 +1,30 @@
 [
   {
     "Name": "IE2-SOL2/02",
-    "Location": "0565",
-    "Description": "Dozent: RNZ/ [Reh]",
-    "StartTime": "2022-10-05T12:10:00+02:00",
-    "EndTime": "2022-10-05T13:40:00+02:00"
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: GTF/ [Koch]",
+    "StartTime": "2023-04-21T12:10:00+02:00",
+    "EndTime": "2023-04-21T15:40:00+02:00"
   },
   {
     "Name": "IE2-SOL2/02",
-    "Location": "0565",
-    "Description": "Dozent: RNZ/ [Reh]",
-    "StartTime": "2022-10-19T12:10:00+02:00",
-    "EndTime": "2022-10-19T13:40:00+02:00"
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: GTF/ [Koch]",
+    "StartTime": "2023-05-12T12:10:00+02:00",
+    "EndTime": "2023-05-12T15:40:00+02:00"
   },
   {
     "Name": "IE2-SOL2/02",
-    "Location": "0565",
-    "Description": "Dozent: RNZ/ [Reh]",
-    "StartTime": "2022-11-02T12:10:00+01:00",
-    "EndTime": "2022-11-02T13:40:00+01:00"
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: GTF/ [Koch]",
+    "StartTime": "2023-06-02T12:10:00+02:00",
+    "EndTime": "2023-06-02T15:40:00+02:00"
   },
   {
     "Name": "IE2-SOL2/02",
-    "Location": "0565",
-    "Description": "Dozent: RNZ/ [Reh]",
-    "StartTime": "2022-11-16T12:10:00+01:00",
-    "EndTime": "2022-11-16T13:40:00+01:00"
-  },
-  {
-    "Name": "IE2-SOL2/02",
-    "Location": "0565",
-    "Description": "Dozent: RNZ/ [Reh]",
-    "StartTime": "2022-11-30T12:10:00+01:00",
-    "EndTime": "2022-11-30T13:40:00+01:00"
-  },
-  {
-    "Name": "IE2-SOL2/02",
-    "Location": "0565",
-    "Description": "Dozent: RNZ/ [Reh]",
-    "StartTime": "2022-12-14T12:10:00+01:00",
-    "EndTime": "2022-12-14T13:40:00+01:00"
-  },
-  {
-    "Name": "IE2-SOL2/02",
-    "Location": "0565",
-    "Description": "Dozent: RNZ/ [Reh]",
-    "StartTime": "2023-01-11T12:10:00+01:00",
-    "EndTime": "2023-01-11T13:40:00+01:00"
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: GTF/ [Koch]",
+    "StartTime": "2023-06-23T12:10:00+02:00",
+    "EndTime": "2023-06-23T15:40:00+02:00"
   }
 ]

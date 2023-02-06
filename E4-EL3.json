@@ -1,86 +1,86 @@
 [
   {
     "Name": "E4-EL3",
-    "Location": "0804, 0865",
-    "Description": "Dozent: RDGR",
-    "StartTime": "2022-09-19T08:10:00+02:00",
-    "EndTime": "2022-09-19T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM",
+    "StartTime": "2023-03-15T12:10:00+01:00",
+    "EndTime": "2023-03-15T15:40:00+01:00"
   },
   {
     "Name": "E4-EL3",
-    "Location": "0804, 0865",
-    "Description": "Dozent: RDGR",
-    "StartTime": "2022-09-26T08:10:00+02:00",
-    "EndTime": "2022-09-26T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM",
+    "StartTime": "2023-03-22T12:10:00+01:00",
+    "EndTime": "2023-03-22T15:40:00+01:00"
   },
   {
     "Name": "E4-EL3",
-    "Location": "0804, 0865",
-    "Description": "Dozent: RDGR",
-    "StartTime": "2022-10-03T08:10:00+02:00",
-    "EndTime": "2022-10-03T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM",
+    "StartTime": "2023-03-29T12:10:00+02:00",
+    "EndTime": "2023-03-29T15:40:00+02:00"
   },
   {
     "Name": "E4-EL3",
-    "Location": "0804, 0865",
-    "Description": "Dozent: RDGR",
-    "StartTime": "2022-10-10T08:10:00+02:00",
-    "EndTime": "2022-10-10T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM",
+    "StartTime": "2023-04-05T12:10:00+02:00",
+    "EndTime": "2023-04-05T15:40:00+02:00"
   },
   {
     "Name": "E4-EL3",
-    "Location": "0804, 0865",
-    "Description": "Dozent: RDGR",
-    "StartTime": "2022-10-17T08:10:00+02:00",
-    "EndTime": "2022-10-17T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM",
+    "StartTime": "2023-04-12T12:10:00+02:00",
+    "EndTime": "2023-04-12T15:40:00+02:00"
   },
   {
     "Name": "E4-EL3",
-    "Location": "0804, 0865",
-    "Description": "Dozent: RDGR",
-    "StartTime": "2022-10-24T08:10:00+02:00",
-    "EndTime": "2022-10-24T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM",
+    "StartTime": "2023-04-19T12:10:00+02:00",
+    "EndTime": "2023-04-19T15:40:00+02:00"
   },
   {
     "Name": "E4-EL3",
-    "Location": "0804, 0865",
-    "Description": "Dozent: RDGR",
-    "StartTime": "2022-11-07T08:10:00+01:00",
-    "EndTime": "2022-11-07T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: VLM",
+    "StartTime": "2023-04-26T12:10:00+02:00",
+    "EndTime": "2023-04-26T15:40:00+02:00"
   },
   {
     "Name": "E4-EL3",
-    "Location": "0804, 0865",
-    "Description": "Dozent: RDGR",
-    "StartTime": "2022-11-18T12:10:00+01:00",
-    "EndTime": "2022-11-18T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: VLM",
+    "StartTime": "2023-05-10T12:10:00+02:00",
+    "EndTime": "2023-05-10T15:40:00+02:00"
   },
   {
     "Name": "E4-EL3",
-    "Location": "0804, 0865",
-    "Description": "Dozent: RDGR",
-    "StartTime": "2022-11-21T08:10:00+01:00",
-    "EndTime": "2022-11-21T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: VLM",
+    "StartTime": "2023-05-17T12:10:00+02:00",
+    "EndTime": "2023-05-17T15:40:00+02:00"
   },
   {
     "Name": "E4-EL3",
-    "Location": "0804, 0865",
-    "Description": "Dozent: RDGR",
-    "StartTime": "2022-11-28T08:10:00+01:00",
-    "EndTime": "2022-11-28T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: VLM",
+    "StartTime": "2023-05-24T12:10:00+02:00",
+    "EndTime": "2023-05-24T15:40:00+02:00"
   },
   {
     "Name": "E4-EL3",
-    "Location": "0804, 0865",
-    "Description": "Dozent: RDGR",
-    "StartTime": "2022-12-05T08:10:00+01:00",
-    "EndTime": "2022-12-05T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: VLM",
+    "StartTime": "2023-05-31T12:10:00+02:00",
+    "EndTime": "2023-05-31T15:40:00+02:00"
   },
   {
     "Name": "E4-EL3",
-    "Location": "0804, 0865",
-    "Description": "Dozent: RDGR",
-    "StartTime": "2022-12-09T12:10:00+01:00",
-    "EndTime": "2022-12-09T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: VLM",
+    "StartTime": "2023-06-07T12:10:00+02:00",
+    "EndTime": "2023-06-07T15:40:00+02:00"
   }
 ]

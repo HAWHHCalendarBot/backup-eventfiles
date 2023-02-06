@@ -1,128 +1,107 @@
 [
   {
     "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-09-29T08:10:00+02:00",
-    "EndTime": "2022-09-29T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-03-16T08:10:00+01:00",
+    "EndTime": "2023-03-16T11:25:00+01:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-10-13T08:10:00+02:00",
-    "EndTime": "2022-10-13T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-03-23T08:10:00+01:00",
+    "EndTime": "2023-03-23T11:25:00+01:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "NB 01.12",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-10-17T08:10:00+02:00",
-    "EndTime": "2022-10-17T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-03-30T08:10:00+02:00",
+    "EndTime": "2023-03-30T11:25:00+02:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-10-20T08:10:00+02:00",
-    "EndTime": "2022-10-20T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-04-06T08:10:00+02:00",
+    "EndTime": "2023-04-06T11:25:00+02:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-10-27T08:10:00+02:00",
-    "EndTime": "2022-10-27T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-04-13T08:10:00+02:00",
+    "EndTime": "2023-04-13T11:25:00+02:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-11-03T08:10:00+01:00",
-    "EndTime": "2022-11-03T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-04-20T08:10:00+02:00",
+    "EndTime": "2023-04-20T11:25:00+02:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-11-10T08:10:00+01:00",
-    "EndTime": "2022-11-10T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-04-27T08:10:00+02:00",
+    "EndTime": "2023-04-27T11:25:00+02:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "NB 01.12",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-11-14T08:10:00+01:00",
-    "EndTime": "2022-11-14T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-05-04T08:10:00+02:00",
+    "EndTime": "2023-05-04T11:25:00+02:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-11-17T08:10:00+01:00",
-    "EndTime": "2022-11-17T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-05-11T08:10:00+02:00",
+    "EndTime": "2023-05-11T11:25:00+02:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-11-24T08:10:00+01:00",
-    "EndTime": "2022-11-24T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-05-25T08:10:00+02:00",
+    "EndTime": "2023-05-25T11:25:00+02:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-12-01T08:10:00+01:00",
-    "EndTime": "2022-12-01T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-06-01T08:10:00+02:00",
+    "EndTime": "2023-06-01T11:25:00+02:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "NB 01.12",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-12-05T08:10:00+01:00",
-    "EndTime": "2022-12-05T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-06-08T08:10:00+02:00",
+    "EndTime": "2023-06-08T11:25:00+02:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-12-08T08:10:00+01:00",
-    "EndTime": "2022-12-08T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-06-15T08:10:00+02:00",
+    "EndTime": "2023-06-15T11:25:00+02:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-12-15T08:10:00+01:00",
-    "EndTime": "2022-12-15T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-06-22T08:10:00+02:00",
+    "EndTime": "2023-06-22T11:25:00+02:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2022-12-22T08:10:00+01:00",
-    "EndTime": "2022-12-22T11:25:00+01:00"
-  },
-  {
-    "Name": "IE1-MA1",
-    "Location": "NB 01.12",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2023-01-09T08:10:00+01:00",
-    "EndTime": "2023-01-09T11:25:00+01:00"
-  },
-  {
-    "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2023-01-12T08:10:00+01:00",
-    "EndTime": "2023-01-12T11:25:00+01:00"
-  },
-  {
-    "Name": "IE1-MA1",
-    "Location": "1260",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2023-01-19T08:10:00+01:00",
-    "EndTime": "2023-01-19T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-06-29T08:10:00+02:00",
+    "EndTime": "2023-06-29T11:25:00+02:00"
   }
 ]

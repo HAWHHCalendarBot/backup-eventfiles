@@ -1,86 +1,86 @@
 [
   {
     "Name": "E3-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: LGE",
-    "StartTime": "2022-09-23T12:10:00+02:00",
-    "EndTime": "2022-09-23T15:40:00+02:00"
+    "Location": "",
+    "Description": "Dozent: JNM",
+    "StartTime": "2023-03-14T08:10:00+01:00",
+    "EndTime": "2023-03-14T11:25:00+01:00"
   },
   {
     "Name": "E3-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: LGE",
-    "StartTime": "2022-09-30T12:10:00+02:00",
-    "EndTime": "2022-09-30T15:40:00+02:00"
+    "Location": "",
+    "Description": "Dozent: JNM",
+    "StartTime": "2023-03-21T08:10:00+01:00",
+    "EndTime": "2023-03-21T11:25:00+01:00"
   },
   {
     "Name": "E3-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: LGE",
-    "StartTime": "2022-10-07T12:10:00+02:00",
-    "EndTime": "2022-10-07T15:40:00+02:00"
+    "Location": "",
+    "Description": "Dozent: JNM",
+    "StartTime": "2023-03-28T08:10:00+02:00",
+    "EndTime": "2023-03-28T11:25:00+02:00"
   },
   {
     "Name": "E3-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: LGE",
-    "StartTime": "2022-10-14T12:10:00+02:00",
-    "EndTime": "2022-10-14T15:40:00+02:00"
+    "Location": "",
+    "Description": "Dozent: JNM",
+    "StartTime": "2023-04-04T08:10:00+02:00",
+    "EndTime": "2023-04-04T11:25:00+02:00"
   },
   {
     "Name": "E3-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: LGE",
-    "StartTime": "2022-10-28T12:10:00+02:00",
-    "EndTime": "2022-10-28T15:40:00+02:00"
+    "Location": "",
+    "Description": "Dozent: JNM",
+    "StartTime": "2023-04-11T08:10:00+02:00",
+    "EndTime": "2023-04-11T11:25:00+02:00"
   },
   {
     "Name": "E3-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: LGE",
-    "StartTime": "2022-11-04T12:10:00+01:00",
-    "EndTime": "2022-11-04T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: JNM",
+    "StartTime": "2023-04-18T08:10:00+02:00",
+    "EndTime": "2023-04-18T11:25:00+02:00"
   },
   {
     "Name": "E3-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: LGE",
-    "StartTime": "2022-11-18T12:10:00+01:00",
-    "EndTime": "2022-11-18T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: JNM",
+    "StartTime": "2023-04-25T08:10:00+02:00",
+    "EndTime": "2023-04-25T11:25:00+02:00"
   },
   {
     "Name": "E3-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: LGE",
-    "StartTime": "2022-11-25T12:10:00+01:00",
-    "EndTime": "2022-11-25T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: JNM",
+    "StartTime": "2023-05-02T08:10:00+02:00",
+    "EndTime": "2023-05-02T11:25:00+02:00"
   },
   {
     "Name": "E3-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: LGE",
-    "StartTime": "2022-12-09T12:10:00+01:00",
-    "EndTime": "2022-12-09T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: JNM",
+    "StartTime": "2023-05-09T08:10:00+02:00",
+    "EndTime": "2023-05-09T11:25:00+02:00"
   },
   {
     "Name": "E3-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: LGE",
-    "StartTime": "2022-12-16T12:10:00+01:00",
-    "EndTime": "2022-12-16T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: JNM",
+    "StartTime": "2023-05-16T08:10:00+02:00",
+    "EndTime": "2023-05-16T11:25:00+02:00"
   },
   {
     "Name": "E3-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: LGE",
-    "StartTime": "2023-01-13T12:10:00+01:00",
-    "EndTime": "2023-01-13T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: JNM",
+    "StartTime": "2023-05-23T08:10:00+02:00",
+    "EndTime": "2023-05-23T11:25:00+02:00"
   },
   {
     "Name": "E3-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: LGE",
-    "StartTime": "2023-01-20T12:10:00+01:00",
-    "EndTime": "2023-01-20T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: JNM",
+    "StartTime": "2023-06-06T08:10:00+02:00",
+    "EndTime": "2023-06-06T11:25:00+02:00"
   }
 ]

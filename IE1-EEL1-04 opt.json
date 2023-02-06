@@ -2,29 +2,29 @@
   {
     "Name": "IE1-EEL1/04 opt",
     "Location": "0501",
-    "Description": "Dozent: LHN/WTMR",
-    "StartTime": "2022-11-01T08:10:00+01:00",
-    "EndTime": "2022-11-01T11:25:00+01:00"
+    "Description": "Dozent: LAP/WTMR",
+    "StartTime": "2023-04-03T12:10:00+02:00",
+    "EndTime": "2023-04-03T15:40:00+02:00"
   },
   {
     "Name": "IE1-EEL1/04 opt",
     "Location": "0501",
-    "Description": "Dozent: LHN/WTMR",
-    "StartTime": "2022-11-22T08:10:00+01:00",
-    "EndTime": "2022-11-22T11:25:00+01:00"
+    "Description": "Dozent: LAP/WTMR",
+    "StartTime": "2023-05-03T12:10:00+02:00",
+    "EndTime": "2023-05-03T15:40:00+02:00"
   },
   {
     "Name": "IE1-EEL1/04 opt",
-    "Location": "1365",
-    "Description": "Dozent: LHN/WTMR",
-    "StartTime": "2022-12-13T08:10:00+01:00",
-    "EndTime": "2022-12-13T11:25:00+01:00"
+    "Location": "0501",
+    "Description": "Dozent: LAP/WTMR",
+    "StartTime": "2023-05-22T12:10:00+02:00",
+    "EndTime": "2023-05-22T15:40:00+02:00"
   },
   {
     "Name": "IE1-EEL1/04 opt",
-    "Location": "1381",
-    "Description": "Dozent: LHN/WTMR",
-    "StartTime": "2023-01-17T08:10:00+01:00",
-    "EndTime": "2023-01-17T11:25:00+01:00"
+    "Location": "0501",
+    "Description": "Dozent: LAP/WTMR",
+    "StartTime": "2023-06-12T12:10:00+02:00",
+    "EndTime": "2023-06-12T15:40:00+02:00"
   }
 ]

@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "B-REE4-RTP/01",
+    "Location": "0606",
+    "Description": "Dozent: BTGR/EBEL",
+    "StartTime": "2023-04-05T08:10:00+02:00",
+    "EndTime": "2023-04-05T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-RTP/01",
+    "Location": "0606",
+    "Description": "Dozent: BTGR/EBEL",
+    "StartTime": "2023-04-26T08:10:00+02:00",
+    "EndTime": "2023-04-26T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-RTP/01",
+    "Location": "0606",
+    "Description": "Dozent: BTGR/EBEL",
+    "StartTime": "2023-05-24T08:10:00+02:00",
+    "EndTime": "2023-05-24T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-RTP/01",
+    "Location": "0606",
+    "Description": "Dozent: BTGR/EBEL",
+    "StartTime": "2023-06-14T08:10:00+02:00",
+    "EndTime": "2023-06-14T11:25:00+02:00"
+  }
+]

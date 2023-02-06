@@ -1,86 +1,79 @@
 [
   {
     "Name": "BMT3-DT",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LTL",
-    "StartTime": "2022-09-20T12:10:00+02:00",
-    "EndTime": "2022-09-20T15:40:00+02:00"
+    "Location": "",
+    "Description": "Dozent: BHRW",
+    "StartTime": "2023-03-16T12:10:00+01:00",
+    "EndTime": "2023-03-16T15:40:00+01:00"
   },
   {
     "Name": "BMT3-DT",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LTL",
-    "StartTime": "2022-09-27T12:10:00+02:00",
-    "EndTime": "2022-09-27T15:40:00+02:00"
+    "Location": "",
+    "Description": "Dozent: BHRW",
+    "StartTime": "2023-03-23T12:10:00+01:00",
+    "EndTime": "2023-03-23T15:40:00+01:00"
   },
   {
     "Name": "BMT3-DT",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LTL",
-    "StartTime": "2022-10-11T12:10:00+02:00",
-    "EndTime": "2022-10-11T15:40:00+02:00"
+    "Location": "",
+    "Description": "Dozent: BHRW",
+    "StartTime": "2023-03-30T12:10:00+02:00",
+    "EndTime": "2023-03-30T15:40:00+02:00"
   },
   {
     "Name": "BMT3-DT",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LTL",
-    "StartTime": "2022-10-18T12:10:00+02:00",
-    "EndTime": "2022-10-18T15:40:00+02:00"
+    "Location": "",
+    "Description": "Dozent: BHRW",
+    "StartTime": "2023-04-06T12:10:00+02:00",
+    "EndTime": "2023-04-06T15:40:00+02:00"
   },
   {
     "Name": "BMT3-DT",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LTL",
-    "StartTime": "2022-10-25T12:10:00+02:00",
-    "EndTime": "2022-10-25T15:40:00+02:00"
+    "Location": "",
+    "Description": "Dozent: BHRW",
+    "StartTime": "2023-04-13T12:10:00+02:00",
+    "EndTime": "2023-04-13T15:40:00+02:00"
   },
   {
     "Name": "BMT3-DT",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LTL",
-    "StartTime": "2022-11-01T12:10:00+01:00",
-    "EndTime": "2022-11-01T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: BHRW",
+    "StartTime": "2023-04-27T12:10:00+02:00",
+    "EndTime": "2023-04-27T15:40:00+02:00"
   },
   {
     "Name": "BMT3-DT",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LTL",
-    "StartTime": "2022-11-08T12:10:00+01:00",
-    "EndTime": "2022-11-08T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: BHRW",
+    "StartTime": "2023-05-04T12:10:00+02:00",
+    "EndTime": "2023-05-04T15:40:00+02:00"
   },
   {
     "Name": "BMT3-DT",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LTL",
-    "StartTime": "2022-11-15T12:10:00+01:00",
-    "EndTime": "2022-11-15T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: BHRW",
+    "StartTime": "2023-05-25T12:10:00+02:00",
+    "EndTime": "2023-05-25T15:40:00+02:00"
   },
   {
     "Name": "BMT3-DT",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LTL",
-    "StartTime": "2022-11-22T12:10:00+01:00",
-    "EndTime": "2022-11-22T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: BHRW",
+    "StartTime": "2023-06-01T12:10:00+02:00",
+    "EndTime": "2023-06-01T15:40:00+02:00"
   },
   {
     "Name": "BMT3-DT",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LTL",
-    "StartTime": "2022-11-29T12:10:00+01:00",
-    "EndTime": "2022-11-29T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: BHRW",
+    "StartTime": "2023-06-15T12:10:00+02:00",
+    "EndTime": "2023-06-15T15:40:00+02:00"
   },
   {
     "Name": "BMT3-DT",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LTL",
-    "StartTime": "2022-12-06T12:10:00+01:00",
-    "EndTime": "2022-12-06T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT3-DT",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LTL",
-    "StartTime": "2022-12-13T12:10:00+01:00",
-    "EndTime": "2022-12-13T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: BHRW",
+    "StartTime": "2023-06-22T12:10:00+02:00",
+    "EndTime": "2023-06-22T15:40:00+02:00"
   }
 ]

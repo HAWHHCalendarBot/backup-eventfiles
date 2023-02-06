@@ -3,28 +3,28 @@
     "Name": "E6-ENP/02",
     "Location": "0303",
     "Description": "Dozent: WNK/SZNY",
-    "StartTime": "2022-10-25T12:10:00+02:00",
-    "EndTime": "2022-10-25T15:40:00+02:00"
+    "StartTime": "2023-04-03T12:10:00+02:00",
+    "EndTime": "2023-04-03T15:40:00+02:00"
   },
   {
     "Name": "E6-ENP/02",
     "Location": "0303",
     "Description": "Dozent: WNK/SZNY",
-    "StartTime": "2022-11-15T12:10:00+01:00",
-    "EndTime": "2022-11-15T15:40:00+01:00"
+    "StartTime": "2023-05-03T12:10:00+02:00",
+    "EndTime": "2023-05-03T15:40:00+02:00"
   },
   {
     "Name": "E6-ENP/02",
     "Location": "0303",
     "Description": "Dozent: WNK/SZNY",
-    "StartTime": "2022-12-06T12:10:00+01:00",
-    "EndTime": "2022-12-06T15:40:00+01:00"
+    "StartTime": "2023-05-22T12:10:00+02:00",
+    "EndTime": "2023-05-22T15:40:00+02:00"
   },
   {
     "Name": "E6-ENP/02",
     "Location": "0303",
     "Description": "Dozent: WNK/SZNY",
-    "StartTime": "2023-01-10T12:10:00+01:00",
-    "EndTime": "2023-01-10T15:40:00+01:00"
+    "StartTime": "2023-06-12T12:10:00+02:00",
+    "EndTime": "2023-06-12T15:40:00+02:00"
   }
 ]

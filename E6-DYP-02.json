@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E6-DYP/02",
+    "Location": "0801",
+    "Description": "Dozent: FTZ",
+    "StartTime": "2023-04-24T08:10:00+02:00",
+    "EndTime": "2023-04-24T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-DYP/02",
+    "Location": "0801",
+    "Description": "Dozent: FTZ",
+    "StartTime": "2023-05-15T08:10:00+02:00",
+    "EndTime": "2023-05-15T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-DYP/02",
+    "Location": "0801",
+    "Description": "Dozent: FTZ",
+    "StartTime": "2023-06-05T08:10:00+02:00",
+    "EndTime": "2023-06-05T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-DYP/02",
+    "Location": "0801",
+    "Description": "Dozent: FTZ",
+    "StartTime": "2023-06-26T08:10:00+02:00",
+    "EndTime": "2023-06-26T11:25:00+02:00"
+  }
+]
