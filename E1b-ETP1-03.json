@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E1b-ETP1/03",
+    "Location": "0502, 1365",
+    "Description": "Dozent: [Rac]/WTMR",
+    "StartTime": "2023-04-06T12:10:00+02:00",
+    "EndTime": "2023-04-06T15:40:00+02:00"
+  },
+  {
+    "Name": "E1b-ETP1/03",
+    "Location": "0502, 1365",
+    "Description": "Dozent: [Rac]/WTMR",
+    "StartTime": "2023-04-27T12:10:00+02:00",
+    "EndTime": "2023-04-27T15:40:00+02:00"
+  },
+  {
+    "Name": "E1b-ETP1/03",
+    "Location": "0502, 1365",
+    "Description": "Dozent: [Rac]/WTMR",
+    "StartTime": "2023-05-25T12:10:00+02:00",
+    "EndTime": "2023-05-25T15:40:00+02:00"
+  },
+  {
+    "Name": "E1b-ETP1/03",
+    "Location": "0502, 1365",
+    "Description": "Dozent: [Rac]/WTMR",
+    "StartTime": "2023-06-15T12:10:00+02:00",
+    "EndTime": "2023-06-15T15:40:00+02:00"
+  }
+]

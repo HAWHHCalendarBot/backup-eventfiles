@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E4-RTP/02",
+    "Location": "0606",
+    "Description": "Dozent: JHNS/[Huss]",
+    "StartTime": "2023-04-04T08:10:00+02:00",
+    "EndTime": "2023-04-04T11:25:00+02:00"
+  },
+  {
+    "Name": "E4-RTP/02",
+    "Location": "0606",
+    "Description": "Dozent: JHNS/[Huss]",
+    "StartTime": "2023-04-25T08:10:00+02:00",
+    "EndTime": "2023-04-25T11:25:00+02:00"
+  },
+  {
+    "Name": "E4-RTP/02",
+    "Location": "0606",
+    "Description": "Dozent: JHNS/[Huss]",
+    "StartTime": "2023-05-16T08:10:00+02:00",
+    "EndTime": "2023-05-16T11:25:00+02:00"
+  },
+  {
+    "Name": "E4-RTP/02",
+    "Location": "0606",
+    "Description": "Dozent: JHNS/[Huss]",
+    "StartTime": "2023-06-13T08:10:00+02:00",
+    "EndTime": "2023-06-13T11:25:00+02:00"
+  }
+]

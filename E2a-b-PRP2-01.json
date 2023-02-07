@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E2a/b-PRP2/01",
+    "Location": "1365",
+    "Description": "Dozent: MRNG/Schramm",
+    "StartTime": "2023-04-18T12:10:00+02:00",
+    "EndTime": "2023-04-18T15:40:00+02:00"
+  },
+  {
+    "Name": "E2a/b-PRP2/01",
+    "Location": "1365",
+    "Description": "Dozent: MRNG/Schramm",
+    "StartTime": "2023-05-02T12:10:00+02:00",
+    "EndTime": "2023-05-02T15:40:00+02:00"
+  },
+  {
+    "Name": "E2a/b-PRP2/01",
+    "Location": "1365",
+    "Description": "Dozent: MRNG/Schramm",
+    "StartTime": "2023-06-06T12:10:00+02:00",
+    "EndTime": "2023-06-06T15:40:00+02:00"
+  },
+  {
+    "Name": "E2a/b-PRP2/01",
+    "Location": "1365",
+    "Description": "Dozent: MRNG/Schramm",
+    "StartTime": "2023-06-20T12:10:00+02:00",
+    "EndTime": "2023-06-20T15:40:00+02:00"
+  }
+]

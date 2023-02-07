@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E1a-ETP1/01",
+    "Location": "0502, 1301a, 1301b",
+    "Description": "Dozent: HSE/[Rac]",
+    "StartTime": "2023-04-20T08:10:00+02:00",
+    "EndTime": "2023-04-20T11:25:00+02:00"
+  },
+  {
+    "Name": "E1a-ETP1/01",
+    "Location": "0502, 1301a, 1301b",
+    "Description": "Dozent: HSE/[Rac]",
+    "StartTime": "2023-05-11T08:10:00+02:00",
+    "EndTime": "2023-05-11T11:25:00+02:00"
+  },
+  {
+    "Name": "E1a-ETP1/01",
+    "Location": "0502, 1301a, 1301b",
+    "Description": "Dozent: HSE/[Rac]",
+    "StartTime": "2023-06-08T08:10:00+02:00",
+    "EndTime": "2023-06-08T11:25:00+02:00"
+  },
+  {
+    "Name": "E1a-ETP1/01",
+    "Location": "0502, 1301a, 1301b",
+    "Description": "Dozent: HSE/[Rac]",
+    "StartTime": "2023-06-29T08:10:00+02:00",
+    "EndTime": "2023-06-29T11:25:00+02:00"
+  }
+]

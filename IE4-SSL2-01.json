@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "IE4-SSL2/01",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: LHN",
+    "StartTime": "2023-04-18T12:10:00+02:00",
+    "EndTime": "2023-04-18T15:40:00+02:00"
+  },
+  {
+    "Name": "IE4-SSL2/01",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: LHN",
+    "StartTime": "2023-05-09T12:10:00+02:00",
+    "EndTime": "2023-05-09T15:40:00+02:00"
+  },
+  {
+    "Name": "IE4-SSL2/01",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: LHN",
+    "StartTime": "2023-06-06T12:10:00+02:00",
+    "EndTime": "2023-06-06T15:40:00+02:00"
+  },
+  {
+    "Name": "IE4-SSL2/01",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: LHN",
+    "StartTime": "2023-06-27T12:10:00+02:00",
+    "EndTime": "2023-06-27T15:40:00+02:00"
+  }
+]

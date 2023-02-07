@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E3-SSP1/01",
+    "Location": "1365",
+    "Description": "Dozent: ERD",
+    "StartTime": "2023-04-13T09:55:00+02:00",
+    "EndTime": "2023-04-13T11:25:00+02:00"
+  },
+  {
+    "Name": "E3-SSP1/01",
+    "Location": "1365",
+    "Description": "Dozent: ERD",
+    "StartTime": "2023-05-04T09:55:00+02:00",
+    "EndTime": "2023-05-04T11:25:00+02:00"
+  },
+  {
+    "Name": "E3-SSP1/01",
+    "Location": "1365",
+    "Description": "Dozent: ERD",
+    "StartTime": "2023-06-01T09:55:00+02:00",
+    "EndTime": "2023-06-01T11:25:00+02:00"
+  },
+  {
+    "Name": "E3-SSP1/01",
+    "Location": "1365",
+    "Description": "Dozent: ERD",
+    "StartTime": "2023-06-22T09:55:00+02:00",
+    "EndTime": "2023-06-22T11:25:00+02:00"
+  }
+]

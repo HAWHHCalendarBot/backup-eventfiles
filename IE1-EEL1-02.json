@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "IE1-EEL1/02",
+    "Location": "0501",
+    "Description": "Dozent: LAP/WTMR",
+    "StartTime": "2023-04-11T08:10:00+02:00",
+    "EndTime": "2023-04-11T11:25:00+02:00"
+  },
+  {
+    "Name": "IE1-EEL1/02",
+    "Location": "0501",
+    "Description": "Dozent: LAP/WTMR",
+    "StartTime": "2023-05-02T08:10:00+02:00",
+    "EndTime": "2023-05-02T11:25:00+02:00"
+  },
+  {
+    "Name": "IE1-EEL1/02",
+    "Location": "0501",
+    "Description": "Dozent: LAP/WTMR",
+    "StartTime": "2023-05-23T08:10:00+02:00",
+    "EndTime": "2023-05-23T11:25:00+02:00"
+  },
+  {
+    "Name": "IE1-EEL1/02",
+    "Location": "0501",
+    "Description": "Dozent: LAP/WTMR",
+    "StartTime": "2023-06-20T08:10:00+02:00",
+    "EndTime": "2023-06-20T11:25:00+02:00"
+  }
+]

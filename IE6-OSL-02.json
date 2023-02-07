@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "IE6-OSL/02",
+    "Location": "0804, 1303a, 1303b",
+    "Description": "Dozent: GRS",
+    "StartTime": "2023-04-18T08:10:00+02:00",
+    "EndTime": "2023-04-18T11:25:00+02:00"
+  },
+  {
+    "Name": "IE6-OSL/02",
+    "Location": "0804, 1303a, 1303b",
+    "Description": "Dozent: GRS",
+    "StartTime": "2023-05-09T08:10:00+02:00",
+    "EndTime": "2023-05-09T11:25:00+02:00"
+  },
+  {
+    "Name": "IE6-OSL/02",
+    "Location": "0804, 1303a, 1303b",
+    "Description": "Dozent: GRS",
+    "StartTime": "2023-06-06T08:10:00+02:00",
+    "EndTime": "2023-06-06T11:25:00+02:00"
+  },
+  {
+    "Name": "IE6-OSL/02",
+    "Location": "0804, 1303a, 1303b",
+    "Description": "Dozent: GRS",
+    "StartTime": "2023-06-27T08:10:00+02:00",
+    "EndTime": "2023-06-27T11:25:00+02:00"
+  }
+]

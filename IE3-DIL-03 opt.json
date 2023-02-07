@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "IE3-DIL/03 opt",
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2023-04-04T08:10:00+02:00",
+    "EndTime": "2023-04-04T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-DIL/03 opt",
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2023-04-25T08:10:00+02:00",
+    "EndTime": "2023-04-25T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-DIL/03 opt",
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2023-05-16T08:10:00+02:00",
+    "EndTime": "2023-05-16T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-DIL/03 opt",
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2023-06-13T08:10:00+02:00",
+    "EndTime": "2023-06-13T11:25:00+02:00"
+  }
+]

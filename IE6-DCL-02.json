@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "IE6-DCL/02",
+    "Location": "1485",
+    "Description": "Dozent: SHN",
+    "StartTime": "2023-04-13T08:10:00+02:00",
+    "EndTime": "2023-04-13T11:25:00+02:00"
+  },
+  {
+    "Name": "IE6-DCL/02",
+    "Location": "1485",
+    "Description": "Dozent: SHN",
+    "StartTime": "2023-05-04T08:10:00+02:00",
+    "EndTime": "2023-05-04T11:25:00+02:00"
+  },
+  {
+    "Name": "IE6-DCL/02",
+    "Location": "1485",
+    "Description": "Dozent: SHN",
+    "StartTime": "2023-06-01T08:10:00+02:00",
+    "EndTime": "2023-06-01T11:25:00+02:00"
+  },
+  {
+    "Name": "IE6-DCL/02",
+    "Location": "1485",
+    "Description": "Dozent: SHN",
+    "StartTime": "2023-06-22T08:10:00+02:00",
+    "EndTime": "2023-06-22T11:25:00+02:00"
+  }
+]
