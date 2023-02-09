@@ -1,7 +1,7 @@
 [
   {
     "Name": "E6-ZT",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: WNC",
     "StartTime": "2023-04-13T08:10:00+02:00",
     "EndTime": "2023-04-13T11:25:00+02:00"
@@ -15,7 +15,7 @@
   },
   {
     "Name": "E6-ZT",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: WNC",
     "StartTime": "2023-04-20T08:10:00+02:00",
     "EndTime": "2023-04-20T11:25:00+02:00"
@@ -29,7 +29,7 @@
   },
   {
     "Name": "E6-ZT",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: WNC",
     "StartTime": "2023-04-27T08:10:00+02:00",
     "EndTime": "2023-04-27T11:25:00+02:00"
@@ -43,7 +43,7 @@
   },
   {
     "Name": "E6-ZT",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: WNC",
     "StartTime": "2023-05-04T08:10:00+02:00",
     "EndTime": "2023-05-04T11:25:00+02:00"
@@ -57,28 +57,28 @@
   },
   {
     "Name": "E6-ZT",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: WNC",
     "StartTime": "2023-05-11T08:10:00+02:00",
     "EndTime": "2023-05-11T11:25:00+02:00"
   },
   {
     "Name": "E6-ZT",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: WNC",
     "StartTime": "2023-05-25T08:10:00+02:00",
     "EndTime": "2023-05-25T11:25:00+02:00"
   },
   {
     "Name": "E6-ZT",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: WNC",
     "StartTime": "2023-06-01T08:10:00+02:00",
     "EndTime": "2023-06-01T11:25:00+02:00"
   },
   {
     "Name": "E6-ZT",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: WNC",
     "StartTime": "2023-06-08T08:10:00+02:00",
     "EndTime": "2023-06-08T11:25:00+02:00"

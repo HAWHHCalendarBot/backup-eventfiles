@@ -17,14 +17,14 @@
     "Name": "E6-ZTP/03",
     "Location": "0601",
     "Description": "Dozent: WNC/EBEL",
-    "StartTime": "2023-06-03T12:10:00+02:00",
-    "EndTime": "2023-06-03T15:40:00+02:00"
+    "StartTime": "2023-06-14T12:10:00+02:00",
+    "EndTime": "2023-06-14T15:40:00+02:00"
   },
   {
     "Name": "E6-ZTP/03",
     "Location": "0601",
-    "Description": "Dozent: WNC/EBEL",
-    "StartTime": "2023-06-14T12:10:00+02:00",
-    "EndTime": "2023-06-14T15:40:00+02:00"
+    "Description": "Dozent: WNC",
+    "StartTime": "2023-06-22T12:10:00+02:00",
+    "EndTime": "2023-06-22T15:40:00+02:00"
   }
 ]

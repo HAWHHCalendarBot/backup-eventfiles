@@ -17,13 +17,6 @@
     "Name": "IE3-DI",
     "Location": "",
     "Description": "Dozent: SCZ",
-    "StartTime": "2023-03-28T12:10:00+02:00",
-    "EndTime": "2023-03-28T15:40:00+02:00"
-  },
-  {
-    "Name": "IE3-DI",
-    "Location": "",
-    "Description": "Dozent: SCZ",
     "StartTime": "2023-04-04T12:10:00+02:00",
     "EndTime": "2023-04-04T15:40:00+02:00"
   },
@@ -82,5 +75,12 @@
     "Description": "Dozent: SCZ",
     "StartTime": "2023-06-06T12:10:00+02:00",
     "EndTime": "2023-06-06T15:40:00+02:00"
+  },
+  {
+    "Name": "IE3-DI",
+    "Location": "",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2023-06-13T12:10:00+02:00",
+    "EndTime": "2023-06-13T15:40:00+02:00"
   }
 ]
