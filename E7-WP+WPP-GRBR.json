@@ -29,7 +29,7 @@
   },
   {
     "Name": "E7-WP+WPP-GRBR",
-    "Location": "",
+    "Location": "1360",
     "Description": "Dozent: GRBR",
     "StartTime": "2023-04-13T15:55:00+02:00",
     "EndTime": "2023-04-13T19:10:00+02:00"
@@ -71,7 +71,7 @@
   },
   {
     "Name": "E7-WP+WPP-GRBR",
-    "Location": "",
+    "Location": "1360",
     "Description": "Dozent: GRBR",
     "StartTime": "2023-06-01T15:55:00+02:00",
     "EndTime": "2023-06-01T19:10:00+02:00"

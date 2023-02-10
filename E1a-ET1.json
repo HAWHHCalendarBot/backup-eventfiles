@@ -8,7 +8,7 @@
   },
   {
     "Name": "E1a-ET1",
-    "Location": "",
+    "Location": "1060",
     "Description": "Dozent: HSE",
     "StartTime": "2023-03-27T08:10:00+02:00",
     "EndTime": "2023-03-27T11:25:00+02:00"
@@ -36,7 +36,7 @@
   },
   {
     "Name": "E1a-ET1",
-    "Location": "",
+    "Location": "1060",
     "Description": "Dozent: HSE",
     "StartTime": "2023-04-17T08:10:00+02:00",
     "EndTime": "2023-04-17T11:25:00+02:00"
@@ -57,7 +57,7 @@
   },
   {
     "Name": "E1a-ET1",
-    "Location": "",
+    "Location": "1060",
     "Description": "Dozent: HSE",
     "StartTime": "2023-05-03T08:10:00+02:00",
     "EndTime": "2023-05-03T11:25:00+02:00"
@@ -71,7 +71,7 @@
   },
   {
     "Name": "E1a-ET1",
-    "Location": "",
+    "Location": "1060",
     "Description": "Dozent: HSE",
     "StartTime": "2023-05-15T08:10:00+02:00",
     "EndTime": "2023-05-15T11:25:00+02:00"
@@ -92,7 +92,7 @@
   },
   {
     "Name": "E1a-ET1",
-    "Location": "",
+    "Location": "1060",
     "Description": "Dozent: HSE",
     "StartTime": "2023-05-30T08:10:00+02:00",
     "EndTime": "2023-05-30T11:25:00+02:00"

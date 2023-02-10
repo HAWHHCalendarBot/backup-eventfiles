@@ -15,7 +15,7 @@
   },
   {
     "Name": "E1b-ET1",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: LGE",
     "StartTime": "2023-03-29T12:10:00+02:00",
     "EndTime": "2023-03-29T15:40:00+02:00"
@@ -29,7 +29,7 @@
   },
   {
     "Name": "E1b-ET1",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: LGE",
     "StartTime": "2023-04-12T12:10:00+02:00",
     "EndTime": "2023-04-12T15:40:00+02:00"
@@ -50,7 +50,7 @@
   },
   {
     "Name": "E1b-ET1",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: LGE",
     "StartTime": "2023-04-26T12:10:00+02:00",
     "EndTime": "2023-04-26T15:40:00+02:00"
@@ -78,7 +78,7 @@
   },
   {
     "Name": "E1b-ET1",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: LGE",
     "StartTime": "2023-05-17T12:10:00+02:00",
     "EndTime": "2023-05-17T15:40:00+02:00"
@@ -99,7 +99,7 @@
   },
   {
     "Name": "E1b-ET1",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: LGE",
     "StartTime": "2023-05-31T12:10:00+02:00",
     "EndTime": "2023-05-31T15:40:00+02:00"

@@ -1,7 +1,7 @@
 [
   {
     "Name": "E2a/b-PR2",
-    "Location": "",
+    "Location": "1060",
     "Description": "Dozent: MRNG",
     "StartTime": "2023-03-20T08:10:00+01:00",
     "EndTime": "2023-03-20T11:25:00+01:00"
@@ -36,7 +36,7 @@
   },
   {
     "Name": "E2a/b-PR2",
-    "Location": "",
+    "Location": "1060",
     "Description": "Dozent: MRNG",
     "StartTime": "2023-05-08T08:10:00+02:00",
     "EndTime": "2023-05-08T11:25:00+02:00"

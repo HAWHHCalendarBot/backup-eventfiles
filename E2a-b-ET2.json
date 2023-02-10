@@ -1,7 +1,7 @@
 [
   {
     "Name": "E2a/b-ET2",
-    "Location": "",
+    "Location": "1281",
     "Description": "Dozent: LI",
     "StartTime": "2023-03-21T12:10:00+01:00",
     "EndTime": "2023-03-21T15:40:00+01:00"
@@ -92,7 +92,7 @@
   },
   {
     "Name": "E2a/b-ET2",
-    "Location": "",
+    "Location": "0660",
     "Description": "Dozent: LI",
     "StartTime": "2023-06-23T12:10:00+02:00",
     "EndTime": "2023-06-23T15:40:00+02:00"
