@@ -2,29 +2,29 @@
   {
     "Name": "IE6-DPL/02",
     "Location": "0885",
-    "Description": "Dozent: LTL/KPKE",
-    "StartTime": "2023-04-20T08:10:00+02:00",
-    "EndTime": "2023-04-20T11:25:00+02:00"
+    "Description": "Dozent: KPKE/STKR",
+    "StartTime": "2023-04-21T08:10:00+02:00",
+    "EndTime": "2023-04-21T11:25:00+02:00"
   },
   {
     "Name": "IE6-DPL/02",
     "Location": "0885",
-    "Description": "Dozent: LTL/KPKE",
-    "StartTime": "2023-05-11T08:10:00+02:00",
-    "EndTime": "2023-05-11T11:25:00+02:00"
+    "Description": "Dozent: KPKE/STKR",
+    "StartTime": "2023-05-12T08:10:00+02:00",
+    "EndTime": "2023-05-12T11:25:00+02:00"
   },
   {
     "Name": "IE6-DPL/02",
     "Location": "0885",
-    "Description": "Dozent: LTL/KPKE",
-    "StartTime": "2023-06-08T08:10:00+02:00",
-    "EndTime": "2023-06-08T11:25:00+02:00"
+    "Description": "Dozent: KPKE/STKR",
+    "StartTime": "2023-06-02T08:10:00+02:00",
+    "EndTime": "2023-06-02T11:25:00+02:00"
   },
   {
     "Name": "IE6-DPL/02",
     "Location": "0885",
-    "Description": "Dozent: LTL/KPKE",
-    "StartTime": "2023-06-29T08:10:00+02:00",
-    "EndTime": "2023-06-29T11:25:00+02:00"
+    "Description": "Dozent: KPKE/STKR",
+    "StartTime": "2023-06-23T08:10:00+02:00",
+    "EndTime": "2023-06-23T11:25:00+02:00"
   }
 ]

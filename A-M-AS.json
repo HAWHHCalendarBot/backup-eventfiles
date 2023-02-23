@@ -73,14 +73,14 @@
     "Name": "A-M-AS",
     "Location": "1065",
     "Description": "Dozent: RTH",
-    "StartTime": "2023-06-16T08:10:00+02:00",
-    "EndTime": "2023-06-16T11:25:00+02:00"
+    "StartTime": "2023-06-09T08:10:00+02:00",
+    "EndTime": "2023-06-09T11:25:00+02:00"
   },
   {
     "Name": "A-M-AS",
     "Location": "1065",
     "Description": "Dozent: RTH",
-    "StartTime": "2023-06-23T08:10:00+02:00",
-    "EndTime": "2023-06-23T11:25:00+02:00"
+    "StartTime": "2023-06-16T08:10:00+02:00",
+    "EndTime": "2023-06-16T11:25:00+02:00"
   }
 ]

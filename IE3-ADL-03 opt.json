@@ -3,6 +3,13 @@
     "Name": "IE3-ADL/03 opt",
     "Location": "1301a, 1301b",
     "Description": "Dozent: RNZ",
+    "StartTime": "2023-03-30T15:55:00+02:00",
+    "EndTime": "2023-03-30T17:25:00+02:00"
+  },
+  {
+    "Name": "IE3-ADL/03 opt",
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: RNZ",
     "StartTime": "2023-04-13T14:10:00+02:00",
     "EndTime": "2023-04-13T15:40:00+02:00"
   },
@@ -10,15 +17,8 @@
     "Name": "IE3-ADL/03 opt",
     "Location": "1301a, 1301b",
     "Description": "Dozent: RNZ",
-    "StartTime": "2023-04-20T12:10:00+02:00",
-    "EndTime": "2023-04-20T13:40:00+02:00"
-  },
-  {
-    "Name": "IE3-ADL/03 opt",
-    "Location": "1301a, 1301b",
-    "Description": "Dozent: RNZ",
-    "StartTime": "2023-05-04T14:10:00+02:00",
-    "EndTime": "2023-05-04T15:40:00+02:00"
+    "StartTime": "2023-04-27T15:55:00+02:00",
+    "EndTime": "2023-04-27T17:25:00+02:00"
   },
   {
     "Name": "IE3-ADL/03 opt",
@@ -31,8 +31,8 @@
     "Name": "IE3-ADL/03 opt",
     "Location": "1301a, 1301b",
     "Description": "Dozent: RNZ",
-    "StartTime": "2023-06-01T14:10:00+02:00",
-    "EndTime": "2023-06-01T15:40:00+02:00"
+    "StartTime": "2023-05-25T15:55:00+02:00",
+    "EndTime": "2023-05-25T17:25:00+02:00"
   },
   {
     "Name": "IE3-ADL/03 opt",
@@ -47,12 +47,5 @@
     "Description": "Dozent: RNZ",
     "StartTime": "2023-06-22T14:10:00+02:00",
     "EndTime": "2023-06-22T15:40:00+02:00"
-  },
-  {
-    "Name": "IE3-ADL/03 opt",
-    "Location": "1301a, 1301b",
-    "Description": "Dozent: RNZ",
-    "StartTime": "2023-06-29T12:10:00+02:00",
-    "EndTime": "2023-06-29T13:40:00+02:00"
   }
 ]
