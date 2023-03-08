@@ -22,8 +22,8 @@
   },
   {
     "Name": "E1a-ETP1/03",
-    "Location": "0502, 1301a, 1301b",
-    "Description": "Dozent: HSE/[Rac]",
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: HSE",
     "StartTime": "2023-06-22T08:10:00+02:00",
     "EndTime": "2023-06-22T11:25:00+02:00"
   }
