@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "BITS1-PTP/03",
+    "Location": "1105",
+    "Description": "Dozent: SHF/[Kas]",
+    "StartTime": "2023-03-23T12:30:00+01:00",
+    "EndTime": "2023-03-23T15:45:00+01:00"
+  },
+  {
+    "Name": "BITS1-PTP/03",
+    "Location": "1105",
+    "Description": "Dozent: SHF/[Kas]",
+    "StartTime": "2023-04-06T12:30:00+02:00",
+    "EndTime": "2023-04-06T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/03",
+    "Location": "1105",
+    "Description": "Dozent: SHF/[Kas]",
+    "StartTime": "2023-04-20T12:30:00+02:00",
+    "EndTime": "2023-04-20T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/03",
+    "Location": "1105",
+    "Description": "Dozent: SHF/[Kas]",
+    "StartTime": "2023-05-04T12:30:00+02:00",
+    "EndTime": "2023-05-04T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/03",
+    "Location": "1105",
+    "Description": "Dozent: SHF/[Kas]",
+    "StartTime": "2023-05-25T12:30:00+02:00",
+    "EndTime": "2023-05-25T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/03",
+    "Location": "1105",
+    "Description": "Dozent: SHF/[Kas]",
+    "StartTime": "2023-06-08T12:30:00+02:00",
+    "EndTime": "2023-06-08T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/03",
+    "Location": "1105",
+    "Description": "Dozent: SHF/[Kas]",
+    "StartTime": "2023-06-22T12:30:00+02:00",
+    "EndTime": "2023-06-22T15:45:00+02:00"
+  }
+]

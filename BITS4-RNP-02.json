@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BITS4-RNP/02",
+    "Location": "0765",
+    "Description": "Dozent: SMD/[Mat]",
+    "StartTime": "2023-04-12T12:30:00+02:00",
+    "EndTime": "2023-04-12T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-RNP/02",
+    "Location": "0765",
+    "Description": "Dozent: SMD/[Mat]",
+    "StartTime": "2023-05-10T12:30:00+02:00",
+    "EndTime": "2023-05-10T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-RNP/02",
+    "Location": "0765",
+    "Description": "Dozent: SMD/[Mat]",
+    "StartTime": "2023-05-31T12:30:00+02:00",
+    "EndTime": "2023-05-31T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-RNP/02",
+    "Location": "0765",
+    "Description": "Dozent: SMD/[Mat]",
+    "StartTime": "2023-06-21T12:30:00+02:00",
+    "EndTime": "2023-06-21T15:45:00+02:00"
+  }
+]

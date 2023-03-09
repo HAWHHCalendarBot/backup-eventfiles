@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BITS3-ADP/03",
+    "Location": "1102",
+    "Description": "Dozent: PTSN",
+    "StartTime": "2023-04-12T12:30:00+02:00",
+    "EndTime": "2023-04-12T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS3-ADP/03",
+    "Location": "1102",
+    "Description": "Dozent: PTSN",
+    "StartTime": "2023-05-10T12:30:00+02:00",
+    "EndTime": "2023-05-10T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS3-ADP/03",
+    "Location": "1102",
+    "Description": "Dozent: PTSN",
+    "StartTime": "2023-05-31T12:30:00+02:00",
+    "EndTime": "2023-05-31T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS3-ADP/03",
+    "Location": "1102",
+    "Description": "Dozent: PTSN",
+    "StartTime": "2023-06-21T12:30:00+02:00",
+    "EndTime": "2023-06-21T15:45:00+02:00"
+  }
+]

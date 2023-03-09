@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI3-SEP1/01",
+    "Location": "0380b",
+    "Description": "Dozent: SRS/ZKN/[Ber]",
+    "StartTime": "2023-04-06T08:15:00+02:00",
+    "EndTime": "2023-04-06T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI3-SEP1/01",
+    "Location": "0380b",
+    "Description": "Dozent: SRS/ZKN/[Ber]",
+    "StartTime": "2023-04-27T08:15:00+02:00",
+    "EndTime": "2023-04-27T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI3-SEP1/01",
+    "Location": "0380b",
+    "Description": "Dozent: SRS/ZKN/[Ber]",
+    "StartTime": "2023-05-25T08:15:00+02:00",
+    "EndTime": "2023-05-25T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI3-SEP1/01",
+    "Location": "0380b",
+    "Description": "Dozent: SRS/ZKN/[Ber]",
+    "StartTime": "2023-06-15T08:15:00+02:00",
+    "EndTime": "2023-06-15T11:30:00+02:00"
+  }
+]

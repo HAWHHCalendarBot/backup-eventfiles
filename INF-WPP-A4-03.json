@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "INF-WPP-A4/03",
+    "Location": "1105",
+    "Description": "Dozent: HMN",
+    "StartTime": "2023-03-21T08:15:00+01:00",
+    "EndTime": "2023-03-21T11:30:00+01:00"
+  },
+  {
+    "Name": "INF-WPP-A4/03",
+    "Location": "1105",
+    "Description": "Dozent: HMN",
+    "StartTime": "2023-04-04T08:15:00+02:00",
+    "EndTime": "2023-04-04T11:30:00+02:00"
+  },
+  {
+    "Name": "INF-WPP-A4/03",
+    "Location": "1105",
+    "Description": "Dozent: HMN",
+    "StartTime": "2023-04-18T08:15:00+02:00",
+    "EndTime": "2023-04-18T11:30:00+02:00"
+  },
+  {
+    "Name": "INF-WPP-A4/03",
+    "Location": "1105",
+    "Description": "Dozent: HMN",
+    "StartTime": "2023-05-02T08:15:00+02:00",
+    "EndTime": "2023-05-02T11:30:00+02:00"
+  },
+  {
+    "Name": "INF-WPP-A4/03",
+    "Location": "1105",
+    "Description": "Dozent: HMN",
+    "StartTime": "2023-05-16T08:15:00+02:00",
+    "EndTime": "2023-05-16T11:30:00+02:00"
+  },
+  {
+    "Name": "INF-WPP-A4/03",
+    "Location": "1105",
+    "Description": "Dozent: HMN",
+    "StartTime": "2023-06-06T08:15:00+02:00",
+    "EndTime": "2023-06-06T11:30:00+02:00"
+  },
+  {
+    "Name": "INF-WPP-A4/03",
+    "Location": "1105",
+    "Description": "Dozent: HMN",
+    "StartTime": "2023-06-20T08:15:00+02:00",
+    "EndTime": "2023-06-20T11:30:00+02:00"
+  }
+]

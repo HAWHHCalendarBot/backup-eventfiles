@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI2-RMPP/04 optional",
+    "Location": "0709",
+    "Description": "Dozent: RST ?/[DeG]",
+    "StartTime": "2023-04-24T08:15:00+02:00",
+    "EndTime": "2023-04-24T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI2-RMPP/04 optional",
+    "Location": "0709",
+    "Description": "Dozent: RST ?/[DeG]",
+    "StartTime": "2023-05-15T08:15:00+02:00",
+    "EndTime": "2023-05-15T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI2-RMPP/04 optional",
+    "Location": "0709",
+    "Description": "Dozent: RST ?/[DeG]",
+    "StartTime": "2023-06-05T08:15:00+02:00",
+    "EndTime": "2023-06-05T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI2-RMPP/04 optional",
+    "Location": "0709",
+    "Description": "Dozent: RST ?/[DeG]",
+    "StartTime": "2023-06-26T08:15:00+02:00",
+    "EndTime": "2023-06-26T11:30:00+02:00"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI1-GIÜ/01",
+    "Location": "0380a",
+    "Description": "Dozent: [Ber]",
+    "StartTime": "2023-04-06T12:30:00+02:00",
+    "EndTime": "2023-04-06T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI1-GIÜ/01",
+    "Location": "0380a",
+    "Description": "Dozent: [Ber]",
+    "StartTime": "2023-04-27T12:30:00+02:00",
+    "EndTime": "2023-04-27T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI1-GIÜ/01",
+    "Location": "0380a",
+    "Description": "Dozent: [Ber]",
+    "StartTime": "2023-05-25T12:30:00+02:00",
+    "EndTime": "2023-05-25T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI1-GIÜ/01",
+    "Location": "0380a",
+    "Description": "Dozent: [Ber]",
+    "StartTime": "2023-06-15T12:30:00+02:00",
+    "EndTime": "2023-06-15T15:45:00+02:00"
+  }
+]

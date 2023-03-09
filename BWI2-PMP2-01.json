@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BWI2-PMP2/01",
+    "Location": "1101b",
+    "Description": "Dozent: LNS/[Ber]",
+    "StartTime": "2023-04-04T14:00:00+02:00",
+    "EndTime": "2023-04-04T17:15:00+02:00"
+  },
+  {
+    "Name": "BWI2-PMP2/01",
+    "Location": "1101b",
+    "Description": "Dozent: LNS/[Ber]",
+    "StartTime": "2023-04-25T14:00:00+02:00",
+    "EndTime": "2023-04-25T17:15:00+02:00"
+  },
+  {
+    "Name": "BWI2-PMP2/01",
+    "Location": "1101b",
+    "Description": "Dozent: LNS/[Ber]",
+    "StartTime": "2023-05-16T14:00:00+02:00",
+    "EndTime": "2023-05-16T17:15:00+02:00"
+  },
+  {
+    "Name": "BWI2-PMP2/01",
+    "Location": "1101b",
+    "Description": "Dozent: LNS/[Ber]",
+    "StartTime": "2023-06-13T14:00:00+02:00",
+    "EndTime": "2023-06-13T17:15:00+02:00"
+  }
+]

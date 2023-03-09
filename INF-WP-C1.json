@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
+    "StartTime": "2023-03-24T12:30:00+01:00",
+    "EndTime": "2023-03-24T15:45:00+01:00"
+  },
+  {
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
+    "StartTime": "2023-04-14T12:30:00+02:00",
+    "EndTime": "2023-04-14T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
+    "StartTime": "2023-04-28T12:30:00+02:00",
+    "EndTime": "2023-04-28T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
+    "StartTime": "2023-05-12T12:30:00+02:00",
+    "EndTime": "2023-05-12T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
+    "StartTime": "2023-05-26T12:30:00+02:00",
+    "EndTime": "2023-05-26T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
+    "StartTime": "2023-06-09T12:30:00+02:00",
+    "EndTime": "2023-06-09T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
+    "StartTime": "2023-06-23T12:30:00+02:00",
+    "EndTime": "2023-06-23T15:45:00+02:00"
+  }
+]

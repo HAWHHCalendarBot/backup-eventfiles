@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "BWI4-WIP2/04",
+    "Location": "0380a",
+    "Description": "Dozent: SCH/[Ber]",
+    "StartTime": "2023-03-31T10:00:00+02:00",
+    "EndTime": "2023-03-31T11:30:00+02:00"
+  },
+  {
+    "Name": "BWI4-WIP2/04",
+    "Location": "0380a",
+    "Description": "Dozent: SCH/[Ber]",
+    "StartTime": "2023-04-21T10:00:00+02:00",
+    "EndTime": "2023-04-21T11:30:00+02:00"
+  },
+  {
+    "Name": "BWI4-WIP2/04",
+    "Location": "0380a",
+    "Description": "Dozent: SCH/[Ber]",
+    "StartTime": "2023-05-05T10:00:00+02:00",
+    "EndTime": "2023-05-05T11:30:00+02:00"
+  },
+  {
+    "Name": "BWI4-WIP2/04",
+    "Location": "0380a",
+    "Description": "Dozent: SCH/[Ber]",
+    "StartTime": "2023-05-19T10:00:00+02:00",
+    "EndTime": "2023-05-19T11:30:00+02:00"
+  },
+  {
+    "Name": "BWI4-WIP2/04",
+    "Location": "0380a",
+    "Description": "Dozent: SCH/[Ber]",
+    "StartTime": "2023-06-02T10:00:00+02:00",
+    "EndTime": "2023-06-02T11:30:00+02:00"
+  },
+  {
+    "Name": "BWI4-WIP2/04",
+    "Location": "0380a",
+    "Description": "Dozent: SCH/[Ber]",
+    "StartTime": "2023-06-16T10:00:00+02:00",
+    "EndTime": "2023-06-16T11:30:00+02:00"
+  },
+  {
+    "Name": "BWI4-WIP2/04",
+    "Location": "0380a",
+    "Description": "Dozent: SCH/[Ber]",
+    "StartTime": "2023-06-30T10:00:00+02:00",
+    "EndTime": "2023-06-30T11:30:00+02:00"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BWI4-SEAP2/01",
+    "Location": "1101b",
+    "Description": "Dozent: STF/[Ale]",
+    "StartTime": "2023-04-13T12:30:00+02:00",
+    "EndTime": "2023-04-13T15:45:00+02:00"
+  },
+  {
+    "Name": "BWI4-SEAP2/01",
+    "Location": "1101b",
+    "Description": "Dozent: STF/[Ale]",
+    "StartTime": "2023-05-04T12:30:00+02:00",
+    "EndTime": "2023-05-04T15:45:00+02:00"
+  },
+  {
+    "Name": "BWI4-SEAP2/01",
+    "Location": "1101b",
+    "Description": "Dozent: STF/[Ale]",
+    "StartTime": "2023-06-01T12:30:00+02:00",
+    "EndTime": "2023-06-01T15:45:00+02:00"
+  },
+  {
+    "Name": "BWI4-SEAP2/01",
+    "Location": "1101b",
+    "Description": "Dozent: STF/[Ale]",
+    "StartTime": "2023-06-22T12:30:00+02:00",
+    "EndTime": "2023-06-22T15:45:00+02:00"
+  }
+]

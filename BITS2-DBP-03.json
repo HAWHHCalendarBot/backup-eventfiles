@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "BITS2-DBP/03",
+    "Location": "0380b",
+    "Description": "Dozent: HMN/[Bro]",
+    "StartTime": "2023-03-20T10:00:00+01:00",
+    "EndTime": "2023-03-20T11:30:00+01:00"
+  },
+  {
+    "Name": "BITS2-DBP/03",
+    "Location": "0380b",
+    "Description": "Dozent: HMN/[Bro]",
+    "StartTime": "2023-04-03T10:00:00+02:00",
+    "EndTime": "2023-04-03T11:30:00+02:00"
+  },
+  {
+    "Name": "BITS2-DBP/03",
+    "Location": "0380b",
+    "Description": "Dozent: HMN/[Bro]",
+    "StartTime": "2023-04-24T10:00:00+02:00",
+    "EndTime": "2023-04-24T11:30:00+02:00"
+  },
+  {
+    "Name": "BITS2-DBP/03",
+    "Location": "0380b",
+    "Description": "Dozent: HMN/[Bro]",
+    "StartTime": "2023-05-08T10:00:00+02:00",
+    "EndTime": "2023-05-08T11:30:00+02:00"
+  },
+  {
+    "Name": "BITS2-DBP/03",
+    "Location": "0380b",
+    "Description": "Dozent: HMN/[Bro]",
+    "StartTime": "2023-05-22T10:00:00+02:00",
+    "EndTime": "2023-05-22T11:30:00+02:00"
+  },
+  {
+    "Name": "BITS2-DBP/03",
+    "Location": "0380b",
+    "Description": "Dozent: HMN/[Bro]",
+    "StartTime": "2023-06-05T10:00:00+02:00",
+    "EndTime": "2023-06-05T11:30:00+02:00"
+  },
+  {
+    "Name": "BITS2-DBP/03",
+    "Location": "0380b",
+    "Description": "Dozent: HMN/[Bro]",
+    "StartTime": "2023-06-19T10:00:00+02:00",
+    "EndTime": "2023-06-19T11:30:00+02:00"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI4-RNP/03",
+    "Location": "0765",
+    "Description": "Dozent: PTSN",
+    "StartTime": "2023-04-06T16:00:00+02:00",
+    "EndTime": "2023-04-06T19:15:00+02:00"
+  },
+  {
+    "Name": "BAI4-RNP/03",
+    "Location": "0765",
+    "Description": "Dozent: PTSN",
+    "StartTime": "2023-04-27T16:00:00+02:00",
+    "EndTime": "2023-04-27T19:15:00+02:00"
+  },
+  {
+    "Name": "BAI4-RNP/03",
+    "Location": "0765",
+    "Description": "Dozent: PTSN",
+    "StartTime": "2023-05-25T16:00:00+02:00",
+    "EndTime": "2023-05-25T19:15:00+02:00"
+  },
+  {
+    "Name": "BAI4-RNP/03",
+    "Location": "0765",
+    "Description": "Dozent: PTSN",
+    "StartTime": "2023-06-15T16:00:00+02:00",
+    "EndTime": "2023-06-15T19:15:00+02:00"
+  }
+]

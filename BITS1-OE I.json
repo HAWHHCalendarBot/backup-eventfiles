@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "BITS1-OE I",
+    "Location": "1060",
+    "Description": "",
+    "StartTime": "2023-03-09T09:00:00+01:00",
+    "EndTime": "2023-03-09T17:00:00+01:00"
+  },
+  {
+    "Name": "BITS1-OE I",
+    "Location": "1060",
+    "Description": "",
+    "StartTime": "2023-03-10T09:00:00+01:00",
+    "EndTime": "2023-03-10T17:00:00+01:00"
+  },
+  {
+    "Name": "BITS1-OE I",
+    "Location": "1060",
+    "Description": "",
+    "StartTime": "2023-03-13T09:00:00+01:00",
+    "EndTime": "2023-03-13T17:00:00+01:00"
+  },
+  {
+    "Name": "BITS1-OE I",
+    "Location": "1060",
+    "Description": "",
+    "StartTime": "2023-03-14T09:00:00+01:00",
+    "EndTime": "2023-03-14T17:00:00+01:00"
+  },
+  {
+    "Name": "BITS1-OE I",
+    "Location": "1060",
+    "Description": "",
+    "StartTime": "2023-03-15T09:00:00+01:00",
+    "EndTime": "2023-03-15T17:00:00+01:00"
+  }
+]
