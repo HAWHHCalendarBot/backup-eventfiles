@@ -24,13 +24,6 @@
     "Name": "IE3-SS1",
     "Location": "0660",
     "Description": "Dozent: LGE",
-    "StartTime": "2023-04-14T08:10:00+02:00",
-    "EndTime": "2023-04-14T11:25:00+02:00"
-  },
-  {
-    "Name": "IE3-SS1",
-    "Location": "0660",
-    "Description": "Dozent: LGE",
     "StartTime": "2023-04-21T08:10:00+02:00",
     "EndTime": "2023-04-21T11:25:00+02:00"
   },
@@ -40,13 +33,6 @@
     "Description": "Dozent: LGE",
     "StartTime": "2023-04-28T08:10:00+02:00",
     "EndTime": "2023-04-28T11:25:00+02:00"
-  },
-  {
-    "Name": "IE3-SS1",
-    "Location": "0660",
-    "Description": "Dozent: LGE",
-    "StartTime": "2023-05-05T08:10:00+02:00",
-    "EndTime": "2023-05-05T11:25:00+02:00"
   },
   {
     "Name": "IE3-SS1",
@@ -66,13 +52,6 @@
     "Name": "IE3-SS1",
     "Location": "0660",
     "Description": "Dozent: LGE",
-    "StartTime": "2023-05-26T08:10:00+02:00",
-    "EndTime": "2023-05-26T11:25:00+02:00"
-  },
-  {
-    "Name": "IE3-SS1",
-    "Location": "0660",
-    "Description": "Dozent: LGE",
     "StartTime": "2023-06-02T08:10:00+02:00",
     "EndTime": "2023-06-02T11:25:00+02:00"
   },
@@ -82,5 +61,19 @@
     "Description": "Dozent: LGE",
     "StartTime": "2023-06-09T08:10:00+02:00",
     "EndTime": "2023-06-09T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-SS1",
+    "Location": "0660",
+    "Description": "Dozent: LGE",
+    "StartTime": "2023-06-23T08:10:00+02:00",
+    "EndTime": "2023-06-23T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-SS1",
+    "Location": "0660",
+    "Description": "Dozent: LGE",
+    "StartTime": "2023-06-30T08:10:00+02:00",
+    "EndTime": "2023-06-30T11:25:00+02:00"
   }
 ]

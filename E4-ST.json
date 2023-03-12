@@ -1,7 +1,14 @@
 [
   {
     "Name": "E4-ST",
-    "Location": "1265",
+    "Location": "SteinD94 R0.02",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-03-15T08:10:00+01:00",
+    "EndTime": "2023-03-15T11:25:00+01:00"
+  },
+  {
+    "Name": "E4-ST",
+    "Location": "0460",
     "Description": "Dozent: MNR",
     "StartTime": "2023-03-21T12:10:00+01:00",
     "EndTime": "2023-03-21T15:40:00+01:00"
@@ -15,7 +22,7 @@
   },
   {
     "Name": "E4-ST",
-    "Location": "1265",
+    "Location": "0460",
     "Description": "Dozent: MNR",
     "StartTime": "2023-03-28T12:10:00+02:00",
     "EndTime": "2023-03-28T15:40:00+02:00"
@@ -75,19 +82,5 @@
     "Description": "Dozent: MNR",
     "StartTime": "2023-05-31T08:10:00+02:00",
     "EndTime": "2023-05-31T11:25:00+02:00"
-  },
-  {
-    "Name": "E4-ST",
-    "Location": "1260",
-    "Description": "Dozent: MNR",
-    "StartTime": "2023-06-07T08:10:00+02:00",
-    "EndTime": "2023-06-07T11:25:00+02:00"
-  },
-  {
-    "Name": "E4-ST",
-    "Location": "1260",
-    "Description": "Dozent: MNR",
-    "StartTime": "2023-06-14T08:10:00+02:00",
-    "EndTime": "2023-06-14T11:25:00+02:00"
   }
 ]

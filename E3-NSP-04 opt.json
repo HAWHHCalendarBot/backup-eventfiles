@@ -3,28 +3,28 @@
     "Name": "E3-NSP/04 opt",
     "Location": "1303a, 1303b",
     "Description": "Dozent: LGE",
-    "StartTime": "2023-04-06T08:10:00+02:00",
-    "EndTime": "2023-04-06T11:25:00+02:00"
+    "StartTime": "2023-04-14T08:10:00+02:00",
+    "EndTime": "2023-04-14T11:25:00+02:00"
   },
   {
     "Name": "E3-NSP/04 opt",
     "Location": "1303a, 1303b",
     "Description": "Dozent: LGE",
-    "StartTime": "2023-04-27T08:10:00+02:00",
-    "EndTime": "2023-04-27T11:25:00+02:00"
+    "StartTime": "2023-05-05T08:10:00+02:00",
+    "EndTime": "2023-05-05T11:25:00+02:00"
   },
   {
     "Name": "E3-NSP/04 opt",
     "Location": "1303a, 1303b",
     "Description": "Dozent: LGE",
-    "StartTime": "2023-05-25T08:10:00+02:00",
-    "EndTime": "2023-05-25T11:25:00+02:00"
+    "StartTime": "2023-05-26T08:10:00+02:00",
+    "EndTime": "2023-05-26T11:25:00+02:00"
   },
   {
     "Name": "E3-NSP/04 opt",
     "Location": "1303a, 1303b",
     "Description": "Dozent: LGE",
-    "StartTime": "2023-06-15T08:10:00+02:00",
-    "EndTime": "2023-06-15T11:25:00+02:00"
+    "StartTime": "2023-06-16T08:10:00+02:00",
+    "EndTime": "2023-06-16T11:25:00+02:00"
   }
 ]

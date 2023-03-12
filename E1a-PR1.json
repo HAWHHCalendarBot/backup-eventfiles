@@ -22,6 +22,13 @@
   },
   {
     "Name": "E1a-PR1",
+    "Location": "1260",
+    "Description": "Dozent: EGR",
+    "StartTime": "2023-04-19T08:10:00+02:00",
+    "EndTime": "2023-04-19T11:25:00+02:00"
+  },
+  {
+    "Name": "E1a-PR1",
     "Location": "0560",
     "Description": "Dozent: EGR",
     "StartTime": "2023-04-21T08:10:00+02:00",
@@ -40,13 +47,6 @@
     "Description": "Dozent: EGR",
     "StartTime": "2023-05-12T08:10:00+02:00",
     "EndTime": "2023-05-12T11:25:00+02:00"
-  },
-  {
-    "Name": "E1a-PR1",
-    "Location": "0560",
-    "Description": "Dozent: EGR",
-    "StartTime": "2023-05-26T08:10:00+02:00",
-    "EndTime": "2023-05-26T11:25:00+02:00"
   },
   {
     "Name": "E1a-PR1",
