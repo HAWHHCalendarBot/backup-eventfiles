@@ -24,13 +24,6 @@
     "Name": "B-REE4-NS",
     "Location": "NB 01.13",
     "Description": "Dozent: VOEL",
-    "StartTime": "2023-04-04T08:10:00+02:00",
-    "EndTime": "2023-04-04T11:25:00+02:00"
-  },
-  {
-    "Name": "B-REE4-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: VOEL",
     "StartTime": "2023-04-11T08:10:00+02:00",
     "EndTime": "2023-04-11T11:25:00+02:00"
   },
@@ -40,13 +33,6 @@
     "Description": "Dozent: VOEL",
     "StartTime": "2023-04-18T08:10:00+02:00",
     "EndTime": "2023-04-18T11:25:00+02:00"
-  },
-  {
-    "Name": "B-REE4-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: VOEL",
-    "StartTime": "2023-04-25T08:10:00+02:00",
-    "EndTime": "2023-04-25T11:25:00+02:00"
   },
   {
     "Name": "B-REE4-NS",
@@ -66,13 +52,6 @@
     "Name": "B-REE4-NS",
     "Location": "NB 01.13",
     "Description": "Dozent: VOEL",
-    "StartTime": "2023-05-16T08:10:00+02:00",
-    "EndTime": "2023-05-16T11:25:00+02:00"
-  },
-  {
-    "Name": "B-REE4-NS",
-    "Location": "NB 01.13",
-    "Description": "Dozent: VOEL",
     "StartTime": "2023-05-23T08:10:00+02:00",
     "EndTime": "2023-05-23T11:25:00+02:00"
   },
@@ -82,5 +61,19 @@
     "Description": "Dozent: VOEL",
     "StartTime": "2023-06-06T08:10:00+02:00",
     "EndTime": "2023-06-06T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-NS",
+    "Location": "NB 01.13",
+    "Description": "Dozent: VOEL",
+    "StartTime": "2023-06-20T08:10:00+02:00",
+    "EndTime": "2023-06-20T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-NS",
+    "Location": "NB 01.13",
+    "Description": "Dozent: VOEL",
+    "StartTime": "2023-06-27T08:10:00+02:00",
+    "EndTime": "2023-06-27T11:25:00+02:00"
   }
 ]

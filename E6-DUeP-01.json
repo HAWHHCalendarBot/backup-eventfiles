@@ -3,6 +3,13 @@
     "Name": "E6-DUeP/01",
     "Location": "1485",
     "Description": "Dozent: VLM/NGBR",
+    "StartTime": "2023-03-27T08:10:00+02:00",
+    "EndTime": "2023-03-27T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-DUeP/01",
+    "Location": "1485",
+    "Description": "Dozent: VLM/NGBR",
     "StartTime": "2023-04-24T08:10:00+02:00",
     "EndTime": "2023-04-24T11:25:00+02:00"
   },
@@ -19,12 +26,5 @@
     "Description": "Dozent: VLM/NGBR",
     "StartTime": "2023-06-05T08:10:00+02:00",
     "EndTime": "2023-06-05T11:25:00+02:00"
-  },
-  {
-    "Name": "E6-DUeP/01",
-    "Location": "1485",
-    "Description": "Dozent: VLM/NGBR",
-    "StartTime": "2023-06-26T08:10:00+02:00",
-    "EndTime": "2023-06-26T11:25:00+02:00"
   }
 ]
