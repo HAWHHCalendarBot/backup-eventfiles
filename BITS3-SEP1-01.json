@@ -3,28 +3,28 @@
     "Name": "BITS3-SEP1/01",
     "Location": "0701",
     "Description": "Dozent: DAI/[Chr]",
-    "StartTime": "2023-04-05T08:15:00+02:00",
-    "EndTime": "2023-04-05T11:30:00+02:00"
+    "StartTime": "2023-04-11T12:30:00+02:00",
+    "EndTime": "2023-04-11T15:45:00+02:00"
   },
   {
     "Name": "BITS3-SEP1/01",
     "Location": "0701",
     "Description": "Dozent: DAI/[Chr]",
-    "StartTime": "2023-04-26T08:15:00+02:00",
-    "EndTime": "2023-04-26T11:30:00+02:00"
+    "StartTime": "2023-05-02T12:30:00+02:00",
+    "EndTime": "2023-05-02T15:45:00+02:00"
   },
   {
     "Name": "BITS3-SEP1/01",
     "Location": "0701",
     "Description": "Dozent: DAI/[Chr]",
-    "StartTime": "2023-05-24T08:15:00+02:00",
-    "EndTime": "2023-05-24T11:30:00+02:00"
+    "StartTime": "2023-05-23T12:30:00+02:00",
+    "EndTime": "2023-05-23T15:45:00+02:00"
   },
   {
     "Name": "BITS3-SEP1/01",
     "Location": "0701",
     "Description": "Dozent: DAI/[Chr]",
-    "StartTime": "2023-06-14T08:15:00+02:00",
-    "EndTime": "2023-06-14T11:30:00+02:00"
+    "StartTime": "2023-06-20T12:30:00+02:00",
+    "EndTime": "2023-06-20T15:45:00+02:00"
   }
 ]

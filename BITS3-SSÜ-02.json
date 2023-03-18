@@ -1,29 +1,29 @@
 [
   {
     "Name": "BITS3-SSÜ/02",
-    "Location": "0701",
-    "Description": "Dozent: KSZ?",
+    "Location": "0761",
+    "Description": "Dozent: KSC",
     "StartTime": "2023-04-21T08:15:00+02:00",
     "EndTime": "2023-04-21T11:30:00+02:00"
   },
   {
     "Name": "BITS3-SSÜ/02",
-    "Location": "0701",
-    "Description": "Dozent: KSZ?",
+    "Location": "0761",
+    "Description": "Dozent: KSC",
     "StartTime": "2023-05-12T08:15:00+02:00",
     "EndTime": "2023-05-12T11:30:00+02:00"
   },
   {
     "Name": "BITS3-SSÜ/02",
-    "Location": "0701",
-    "Description": "Dozent: KSZ?",
+    "Location": "0761",
+    "Description": "Dozent: KSC",
     "StartTime": "2023-06-02T08:15:00+02:00",
     "EndTime": "2023-06-02T11:30:00+02:00"
   },
   {
     "Name": "BITS3-SSÜ/02",
-    "Location": "0701",
-    "Description": "Dozent: KSZ?",
+    "Location": "0761",
+    "Description": "Dozent: KSC",
     "StartTime": "2023-06-23T08:15:00+02:00",
     "EndTime": "2023-06-23T11:30:00+02:00"
   }

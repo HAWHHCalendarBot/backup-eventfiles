@@ -2,29 +2,29 @@
   {
     "Name": "BITS3-ADP/02",
     "Location": "1102",
-    "Description": "Dozent: WND",
-    "StartTime": "2023-04-05T12:30:00+02:00",
-    "EndTime": "2023-04-05T15:45:00+02:00"
+    "Description": "Dozent: WND/[Bla]",
+    "StartTime": "2023-04-11T12:30:00+02:00",
+    "EndTime": "2023-04-11T15:45:00+02:00"
   },
   {
     "Name": "BITS3-ADP/02",
     "Location": "1102",
-    "Description": "Dozent: WND",
-    "StartTime": "2023-04-26T12:30:00+02:00",
-    "EndTime": "2023-04-26T15:45:00+02:00"
+    "Description": "Dozent: WND/[Bla]",
+    "StartTime": "2023-05-02T12:30:00+02:00",
+    "EndTime": "2023-05-02T15:45:00+02:00"
   },
   {
     "Name": "BITS3-ADP/02",
     "Location": "1102",
-    "Description": "Dozent: WND",
-    "StartTime": "2023-05-24T12:30:00+02:00",
-    "EndTime": "2023-05-24T15:45:00+02:00"
+    "Description": "Dozent: WND/[Bla]",
+    "StartTime": "2023-05-23T12:30:00+02:00",
+    "EndTime": "2023-05-23T15:45:00+02:00"
   },
   {
     "Name": "BITS3-ADP/02",
     "Location": "1102",
-    "Description": "Dozent: WND",
-    "StartTime": "2023-06-14T12:30:00+02:00",
-    "EndTime": "2023-06-14T15:45:00+02:00"
+    "Description": "Dozent: WND/[Bla]",
+    "StartTime": "2023-06-20T12:30:00+02:00",
+    "EndTime": "2023-06-20T15:45:00+02:00"
   }
 ]

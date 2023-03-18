@@ -1,107 +1,100 @@
 [
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-03-14T12:30:00+01:00",
-    "EndTime": "2023-03-14T15:45:00+01:00"
+    "StartTime": "2023-03-20T08:15:00+01:00",
+    "EndTime": "2023-03-20T11:30:00+01:00"
   },
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-03-21T12:30:00+01:00",
-    "EndTime": "2023-03-21T15:45:00+01:00"
+    "StartTime": "2023-03-27T08:15:00+02:00",
+    "EndTime": "2023-03-27T11:30:00+02:00"
   },
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-03-28T12:30:00+02:00",
-    "EndTime": "2023-03-28T15:45:00+02:00"
+    "StartTime": "2023-04-03T08:15:00+02:00",
+    "EndTime": "2023-04-03T11:30:00+02:00"
   },
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-04-04T12:30:00+02:00",
-    "EndTime": "2023-04-04T15:45:00+02:00"
+    "StartTime": "2023-04-17T08:15:00+02:00",
+    "EndTime": "2023-04-17T11:30:00+02:00"
   },
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-04-11T12:30:00+02:00",
-    "EndTime": "2023-04-11T15:45:00+02:00"
+    "StartTime": "2023-04-24T08:15:00+02:00",
+    "EndTime": "2023-04-24T11:30:00+02:00"
   },
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-04-18T12:30:00+02:00",
-    "EndTime": "2023-04-18T15:45:00+02:00"
+    "StartTime": "2023-05-03T08:15:00+02:00",
+    "EndTime": "2023-05-03T11:30:00+02:00"
   },
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-04-25T12:30:00+02:00",
-    "EndTime": "2023-04-25T15:45:00+02:00"
+    "StartTime": "2023-05-08T08:15:00+02:00",
+    "EndTime": "2023-05-08T11:30:00+02:00"
   },
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-05-02T12:30:00+02:00",
-    "EndTime": "2023-05-02T15:45:00+02:00"
+    "StartTime": "2023-05-15T08:15:00+02:00",
+    "EndTime": "2023-05-15T11:30:00+02:00"
   },
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-05-09T12:30:00+02:00",
-    "EndTime": "2023-05-09T15:45:00+02:00"
+    "StartTime": "2023-05-22T08:15:00+02:00",
+    "EndTime": "2023-05-22T11:30:00+02:00"
   },
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-05-16T12:30:00+02:00",
-    "EndTime": "2023-05-16T15:45:00+02:00"
+    "StartTime": "2023-05-30T08:15:00+02:00",
+    "EndTime": "2023-05-30T11:30:00+02:00"
   },
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-05-23T12:30:00+02:00",
-    "EndTime": "2023-05-23T15:45:00+02:00"
+    "StartTime": "2023-06-05T08:15:00+02:00",
+    "EndTime": "2023-06-05T11:30:00+02:00"
   },
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-06-06T12:30:00+02:00",
-    "EndTime": "2023-06-06T15:45:00+02:00"
+    "StartTime": "2023-06-12T08:15:00+02:00",
+    "EndTime": "2023-06-12T11:30:00+02:00"
   },
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-06-13T12:30:00+02:00",
-    "EndTime": "2023-06-13T15:45:00+02:00"
+    "StartTime": "2023-06-19T08:15:00+02:00",
+    "EndTime": "2023-06-19T11:30:00+02:00"
   },
   {
     "Name": "BITS3-AD",
-    "Location": "0460",
+    "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-06-20T12:30:00+02:00",
-    "EndTime": "2023-06-20T15:45:00+02:00"
-  },
-  {
-    "Name": "BITS3-AD",
-    "Location": "0460",
-    "Description": "Dozent: WND",
-    "StartTime": "2023-06-27T12:30:00+02:00",
-    "EndTime": "2023-06-27T15:45:00+02:00"
+    "StartTime": "2023-06-26T08:15:00+02:00",
+    "EndTime": "2023-06-26T11:30:00+02:00"
   }
 ]
