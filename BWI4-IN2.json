@@ -87,6 +87,13 @@
     "Name": "BWI4-IN2",
     "Location": "Stiftstr69 R304a",
     "Description": "Dozent: SRS",
+    "StartTime": "2023-05-04T16:00:00+02:00",
+    "EndTime": "2023-05-04T17:30:00+02:00"
+  },
+  {
+    "Name": "BWI4-IN2",
+    "Location": "Stiftstr69 R304a",
+    "Description": "Dozent: SRS",
     "StartTime": "2023-05-10T08:15:00+02:00",
     "EndTime": "2023-05-10T09:45:00+02:00"
   },
@@ -103,13 +110,6 @@
     "Description": "Dozent: SRS",
     "StartTime": "2023-05-17T08:15:00+02:00",
     "EndTime": "2023-05-17T09:45:00+02:00"
-  },
-  {
-    "Name": "BWI4-IN2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: SRS",
-    "StartTime": "2023-05-18T16:00:00+02:00",
-    "EndTime": "2023-05-18T17:30:00+02:00"
   },
   {
     "Name": "BWI4-IN2",

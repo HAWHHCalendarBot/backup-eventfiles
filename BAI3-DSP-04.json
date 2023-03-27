@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI3-DSP/04",
+    "Location": "0380b",
+    "Description": "Dozent: GLNR/TFR",
+    "StartTime": "2023-04-03T16:00:00+02:00",
+    "EndTime": "2023-04-03T19:15:00+02:00"
+  },
+  {
+    "Name": "BAI3-DSP/04",
+    "Location": "0380b",
+    "Description": "Dozent: GLNR/TFR",
+    "StartTime": "2023-05-03T16:00:00+02:00",
+    "EndTime": "2023-05-03T19:15:00+02:00"
+  },
+  {
+    "Name": "BAI3-DSP/04",
+    "Location": "0380b",
+    "Description": "Dozent: GLNR/TFR",
+    "StartTime": "2023-05-22T16:00:00+02:00",
+    "EndTime": "2023-05-22T19:15:00+02:00"
+  },
+  {
+    "Name": "BAI3-DSP/04",
+    "Location": "0380b",
+    "Description": "Dozent: GLNR/TFR",
+    "StartTime": "2023-06-12T16:00:00+02:00",
+    "EndTime": "2023-06-12T19:15:00+02:00"
+  }
+]
