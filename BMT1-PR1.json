@@ -17,6 +17,13 @@
     "Name": "BMT1-PR1",
     "Location": "1001",
     "Description": "Dozent: WNKL",
+    "StartTime": "2023-04-14T12:30:00+02:00",
+    "EndTime": "2023-04-14T15:45:00+02:00"
+  },
+  {
+    "Name": "BMT1-PR1",
+    "Location": "1001",
+    "Description": "Dozent: WNKL",
     "StartTime": "2023-04-21T12:30:00+02:00",
     "EndTime": "2023-04-21T15:45:00+02:00"
   },

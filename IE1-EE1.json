@@ -29,6 +29,13 @@
   },
   {
     "Name": "IE1-EE1",
+    "Location": "1260",
+    "Description": "Dozent: LAP",
+    "StartTime": "2023-05-05T12:10:00+02:00",
+    "EndTime": "2023-05-05T15:40:00+02:00"
+  },
+  {
+    "Name": "IE1-EE1",
     "Location": "NB 01.13",
     "Description": "Dozent: LAP",
     "StartTime": "2023-05-08T12:10:00+02:00",
@@ -54,6 +61,13 @@
     "Description": "Dozent: LAP",
     "StartTime": "2023-06-05T12:10:00+02:00",
     "EndTime": "2023-06-05T15:40:00+02:00"
+  },
+  {
+    "Name": "IE1-EE1",
+    "Location": "1260",
+    "Description": "Dozent: LAP",
+    "StartTime": "2023-06-14T08:10:00+02:00",
+    "EndTime": "2023-06-14T11:25:00+02:00"
   },
   {
     "Name": "IE1-EE1",
