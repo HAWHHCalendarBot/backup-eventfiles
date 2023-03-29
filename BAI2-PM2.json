@@ -3,13 +3,6 @@
     "Name": "BAI2-PM2",
     "Location": "0405",
     "Description": "Dozent: WND",
-    "StartTime": "2023-03-21T08:15:00+01:00",
-    "EndTime": "2023-03-21T11:30:00+01:00"
-  },
-  {
-    "Name": "BAI2-PM2",
-    "Location": "0405",
-    "Description": "Dozent: WND",
     "StartTime": "2023-03-28T08:15:00+02:00",
     "EndTime": "2023-03-28T11:30:00+02:00"
   },

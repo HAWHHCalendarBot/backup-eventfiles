@@ -3,13 +3,6 @@
     "Name": "INF-WP-B1",
     "Location": "1060",
     "Description": "Dozent: GRK",
-    "StartTime": "2023-03-22T08:15:00+01:00",
-    "EndTime": "2023-03-22T11:30:00+01:00"
-  },
-  {
-    "Name": "INF-WP-B1",
-    "Location": "1060",
-    "Description": "Dozent: GRK",
     "StartTime": "2023-04-05T08:15:00+02:00",
     "EndTime": "2023-04-05T11:30:00+02:00"
   },

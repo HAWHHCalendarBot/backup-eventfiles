@@ -3,13 +3,6 @@
     "Name": "BAI2-RMP",
     "Location": "1001",
     "Description": "Dozent: RST ?",
-    "StartTime": "2023-03-20T16:00:00+01:00",
-    "EndTime": "2023-03-20T19:15:00+01:00"
-  },
-  {
-    "Name": "BAI2-RMP",
-    "Location": "1001",
-    "Description": "Dozent: RST ?",
     "StartTime": "2023-03-27T16:00:00+02:00",
     "EndTime": "2023-03-27T19:15:00+02:00"
   },

@@ -3,20 +3,6 @@
     "Name": "BAI2-AF/AFÜ",
     "Location": "0360",
     "Description": "Dozent: STG",
-    "StartTime": "2023-03-23T08:15:00+01:00",
-    "EndTime": "2023-03-23T11:30:00+01:00"
-  },
-  {
-    "Name": "BAI2-AF/AFÜ",
-    "Location": "0560",
-    "Description": "Dozent: STG",
-    "StartTime": "2023-03-24T12:30:00+01:00",
-    "EndTime": "2023-03-24T15:45:00+01:00"
-  },
-  {
-    "Name": "BAI2-AF/AFÜ",
-    "Location": "0360",
-    "Description": "Dozent: STG",
     "StartTime": "2023-03-30T08:15:00+02:00",
     "EndTime": "2023-03-30T11:30:00+02:00"
   },

@@ -3,13 +3,6 @@
     "Name": "GW DOLE",
     "Location": "1283",
     "Description": "Dozent: DOLE",
-    "StartTime": "2023-03-23T16:00:00+01:00",
-    "EndTime": "2023-03-23T19:30:00+01:00"
-  },
-  {
-    "Name": "GW DOLE",
-    "Location": "1283",
-    "Description": "Dozent: DOLE",
     "StartTime": "2023-03-30T16:00:00+02:00",
     "EndTime": "2023-03-30T19:30:00+02:00"
   },

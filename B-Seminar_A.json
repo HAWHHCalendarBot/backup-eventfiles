@@ -3,13 +3,6 @@
     "Name": "B-Seminar_A",
     "Location": "0560",
     "Description": "Dozent: SCH/TFR",
-    "StartTime": "2023-03-21T16:00:00+01:00",
-    "EndTime": "2023-03-21T18:00:00+01:00"
-  },
-  {
-    "Name": "B-Seminar_A",
-    "Location": "0560",
-    "Description": "Dozent: SCH/TFR",
     "StartTime": "2023-03-28T16:00:00+02:00",
     "EndTime": "2023-03-28T18:00:00+02:00"
   },

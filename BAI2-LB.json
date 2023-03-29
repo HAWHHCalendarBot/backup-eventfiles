@@ -3,13 +3,6 @@
     "Name": "BAI2-LB",
     "Location": "SteinD94 R0.01",
     "Description": "Dozent: KLC",
-    "StartTime": "2023-03-21T12:30:00+01:00",
-    "EndTime": "2023-03-21T15:45:00+01:00"
-  },
-  {
-    "Name": "BAI2-LB",
-    "Location": "SteinD94 R0.01",
-    "Description": "Dozent: KLC",
     "StartTime": "2023-03-28T12:30:00+02:00",
     "EndTime": "2023-03-28T15:45:00+02:00"
   },

@@ -3,20 +3,6 @@
     "Name": "GW LFRS",
     "Location": "1283",
     "Description": "Dozent: LFRS",
-    "StartTime": "2023-03-24T16:00:00+01:00",
-    "EndTime": "2023-03-24T19:00:00+01:00"
-  },
-  {
-    "Name": "GW LFRS",
-    "Location": "1283",
-    "Description": "Dozent: LFRS",
-    "StartTime": "2023-03-25T09:00:00+01:00",
-    "EndTime": "2023-03-25T16:30:00+01:00"
-  },
-  {
-    "Name": "GW LFRS",
-    "Location": "1283",
-    "Description": "Dozent: LFRS",
     "StartTime": "2023-03-31T16:00:00+02:00",
     "EndTime": "2023-03-31T19:00:00+02:00"
   },

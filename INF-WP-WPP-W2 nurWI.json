@@ -1,100 +1,51 @@
 [
   {
     "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
+    "Location": "NB 02.12",
     "Description": "Dozent: FRRU (Dep W)/FRRI",
-    "StartTime": "2023-03-25T08:15:00+01:00",
-    "EndTime": "2023-03-25T17:15:00+01:00"
+    "StartTime": "2023-04-14T09:00:00+02:00",
+    "EndTime": "2023-04-14T12:00:00+02:00"
   },
   {
     "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
-    "Description": "Dozent: FRRU (Dep W)/FRRI",
-    "StartTime": "2023-04-01T08:15:00+02:00",
-    "EndTime": "2023-04-01T17:15:00+02:00"
-  },
-  {
-    "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
+    "Location": "NB 02.10",
     "Description": "Dozent: FRRU (Dep W)/FRRI",
     "StartTime": "2023-04-15T08:15:00+02:00",
     "EndTime": "2023-04-15T17:15:00+02:00"
   },
   {
     "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
+    "Location": "NB 02.12",
     "Description": "Dozent: FRRU (Dep W)/FRRI",
-    "StartTime": "2023-04-22T08:15:00+02:00",
-    "EndTime": "2023-04-22T17:15:00+02:00"
+    "StartTime": "2023-04-28T09:00:00+02:00",
+    "EndTime": "2023-04-28T12:00:00+02:00"
   },
   {
     "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
+    "Location": "NB 02.10",
     "Description": "Dozent: FRRU (Dep W)/FRRI",
     "StartTime": "2023-04-29T08:15:00+02:00",
     "EndTime": "2023-04-29T17:15:00+02:00"
   },
   {
     "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
+    "Location": "NB 02.12",
     "Description": "Dozent: FRRU (Dep W)/FRRI",
-    "StartTime": "2023-05-06T08:15:00+02:00",
-    "EndTime": "2023-05-06T17:15:00+02:00"
+    "StartTime": "2023-05-12T09:00:00+02:00",
+    "EndTime": "2023-05-12T12:00:00+02:00"
   },
   {
     "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
+    "Location": "NB 02.10",
     "Description": "Dozent: FRRU (Dep W)/FRRI",
     "StartTime": "2023-05-13T08:15:00+02:00",
     "EndTime": "2023-05-13T17:15:00+02:00"
   },
   {
     "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
+    "Location": "NB 02.12",
     "Description": "Dozent: FRRU (Dep W)/FRRI",
-    "StartTime": "2023-05-20T08:15:00+02:00",
-    "EndTime": "2023-05-20T17:15:00+02:00"
-  },
-  {
-    "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
-    "Description": "Dozent: FRRU (Dep W)/FRRI",
-    "StartTime": "2023-05-27T08:15:00+02:00",
-    "EndTime": "2023-05-27T17:15:00+02:00"
-  },
-  {
-    "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
-    "Description": "Dozent: FRRU (Dep W)/FRRI",
-    "StartTime": "2023-06-03T08:15:00+02:00",
-    "EndTime": "2023-06-03T17:15:00+02:00"
-  },
-  {
-    "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
-    "Description": "Dozent: FRRU (Dep W)/FRRI",
-    "StartTime": "2023-06-10T08:15:00+02:00",
-    "EndTime": "2023-06-10T17:15:00+02:00"
-  },
-  {
-    "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
-    "Description": "Dozent: FRRU (Dep W)/FRRI",
-    "StartTime": "2023-06-17T08:15:00+02:00",
-    "EndTime": "2023-06-17T17:15:00+02:00"
-  },
-  {
-    "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
-    "Description": "Dozent: FRRU (Dep W)/FRRI",
-    "StartTime": "2023-06-24T08:15:00+02:00",
-    "EndTime": "2023-06-24T17:15:00+02:00"
-  },
-  {
-    "Name": "INF-WP/WPP-W2 nurWI",
-    "Location": "",
-    "Description": "Dozent: FRRU (Dep W)/FRRI",
-    "StartTime": "2023-07-01T08:15:00+02:00",
-    "EndTime": "2023-07-01T17:15:00+02:00"
+    "StartTime": "2023-05-26T09:00:00+02:00",
+    "EndTime": "2023-05-26T12:00:00+02:00"
   }
 ]
