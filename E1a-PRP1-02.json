@@ -43,9 +43,9 @@
   },
   {
     "Name": "E1a-PRP1/02",
-    "Location": "1303a, 1303b",
+    "Location": "1301a, 1301b",
     "Description": "Dozent: EDOM/EGR",
-    "StartTime": "2023-06-30T08:10:00+02:00",
-    "EndTime": "2023-06-30T11:25:00+02:00"
+    "StartTime": "2023-06-29T12:10:00+02:00",
+    "EndTime": "2023-06-29T15:40:00+02:00"
   }
 ]
