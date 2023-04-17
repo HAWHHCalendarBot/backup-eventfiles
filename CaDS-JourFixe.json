@@ -124,5 +124,12 @@
     "Description": "Dies ist eine zusätzliche, inoffizielle Veranstaltung: https://github.com/HAWHHCalendarBot/AdditionalEvents",
     "StartTime": "2023-01-09T11:30:00+01:00",
     "EndTime": "2023-01-09T12:00:00+01:00"
+  },
+  {
+    "Name": "CaDS-JourFixe",
+    "Location": "287 - Anwesenheitspflicht",
+    "Description": "Dies ist eine zusätzliche, inoffizielle Veranstaltung: https://github.com/HAWHHCalendarBot/AdditionalEvents",
+    "StartTime": "2023-04-27T12:00:00+02:00",
+    "EndTime": "2023-04-27T12:45:00+02:00"
   }
 ]
