@@ -71,6 +71,13 @@
   },
   {
     "Name": "E7-WP+WPP-GRS",
+    "Location": "",
+    "Description": "Dozent: GRS",
+    "StartTime": "2023-06-01T12:10:00+02:00",
+    "EndTime": "2023-06-01T15:40:00+02:00"
+  },
+  {
+    "Name": "E7-WP+WPP-GRS",
     "Location": "0401, 0861",
     "Description": "Dozent: GRS",
     "StartTime": "2023-06-02T12:10:00+02:00",
