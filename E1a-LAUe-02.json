@@ -22,10 +22,10 @@
   },
   {
     "Name": "E1a-LAUe/02",
-    "Location": "Stiftstr69  R106",
+    "Location": "1281",
     "Description": "Dozent: DRK",
-    "StartTime": "2023-05-15T13:55:00+02:00",
-    "EndTime": "2023-05-15T15:25:00+02:00"
+    "StartTime": "2023-05-16T13:55:00+02:00",
+    "EndTime": "2023-05-16T15:25:00+02:00"
   },
   {
     "Name": "E1a-LAUe/02",
@@ -43,9 +43,9 @@
   },
   {
     "Name": "E1a-LAUe/02",
-    "Location": "Stiftstr69  R106",
+    "Location": "1281",
     "Description": "Dozent: DRK",
-    "StartTime": "2023-06-27T08:10:00+02:00",
-    "EndTime": "2023-06-27T09:40:00+02:00"
+    "StartTime": "2023-06-27T13:55:00+02:00",
+    "EndTime": "2023-06-27T15:25:00+02:00"
   }
 ]

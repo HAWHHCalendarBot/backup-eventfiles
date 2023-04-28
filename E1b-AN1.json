@@ -59,13 +59,6 @@
     "Name": "E1b-AN1",
     "Location": "1260",
     "Description": "Dozent: NMN",
-    "StartTime": "2023-05-19T08:10:00+02:00",
-    "EndTime": "2023-05-19T11:25:00+02:00"
-  },
-  {
-    "Name": "E1b-AN1",
-    "Location": "1260",
-    "Description": "Dozent: NMN",
     "StartTime": "2023-05-26T08:10:00+02:00",
     "EndTime": "2023-05-26T11:25:00+02:00"
   },
@@ -82,5 +75,12 @@
     "Description": "Dozent: NMN",
     "StartTime": "2023-06-09T08:10:00+02:00",
     "EndTime": "2023-06-09T11:25:00+02:00"
+  },
+  {
+    "Name": "E1b-AN1",
+    "Location": "1260",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-06-16T08:10:00+02:00",
+    "EndTime": "2023-06-16T11:25:00+02:00"
   }
 ]

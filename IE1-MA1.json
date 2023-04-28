@@ -66,6 +66,13 @@
     "Name": "IE1-MA1",
     "Location": "NB 01.13",
     "Description": "Dozent: NMN",
+    "StartTime": "2023-05-15T15:55:00+02:00",
+    "EndTime": "2023-05-15T17:25:00+02:00"
+  },
+  {
+    "Name": "IE1-MA1",
+    "Location": "NB 01.13",
+    "Description": "Dozent: NMN",
     "StartTime": "2023-05-25T08:10:00+02:00",
     "EndTime": "2023-05-25T11:25:00+02:00"
   },
