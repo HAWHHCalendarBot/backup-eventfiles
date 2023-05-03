@@ -59,13 +59,6 @@
     "Name": "IE3-AD",
     "Location": "0560",
     "Description": "Dozent: RNZ",
-    "StartTime": "2023-05-11T08:10:00+02:00",
-    "EndTime": "2023-05-11T11:25:00+02:00"
-  },
-  {
-    "Name": "IE3-AD",
-    "Location": "0560",
-    "Description": "Dozent: RNZ",
     "StartTime": "2023-05-25T08:10:00+02:00",
     "EndTime": "2023-05-25T11:25:00+02:00"
   },
@@ -82,5 +75,12 @@
     "Description": "Dozent: RNZ",
     "StartTime": "2023-06-08T08:10:00+02:00",
     "EndTime": "2023-06-08T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-AD",
+    "Location": "0560",
+    "Description": "Dozent: RNZ",
+    "StartTime": "2023-06-15T08:10:00+02:00",
+    "EndTime": "2023-06-15T11:25:00+02:00"
   }
 ]

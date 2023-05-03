@@ -59,15 +59,15 @@
     "Name": "E6-RY",
     "Location": "0660",
     "Description": "Dozent: ERD",
-    "StartTime": "2023-06-01T12:10:00+02:00",
-    "EndTime": "2023-06-01T15:40:00+02:00"
+    "StartTime": "2023-06-08T12:10:00+02:00",
+    "EndTime": "2023-06-08T15:40:00+02:00"
   },
   {
     "Name": "E6-RY",
-    "Location": "0660",
+    "Location": "1260",
     "Description": "Dozent: ERD",
-    "StartTime": "2023-06-08T12:10:00+02:00",
-    "EndTime": "2023-06-08T15:40:00+02:00"
+    "StartTime": "2023-06-19T08:10:00+02:00",
+    "EndTime": "2023-06-19T11:25:00+02:00"
   },
   {
     "Name": "E6-RY",
