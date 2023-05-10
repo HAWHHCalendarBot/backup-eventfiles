@@ -50,7 +50,7 @@
   },
   {
     "Name": "E2a-AN2",
-    "Location": "0660",
+    "Location": "0660, 1465",
     "Description": "Dozent: NMN",
     "StartTime": "2023-05-15T08:10:00+02:00",
     "EndTime": "2023-05-15T11:25:00+02:00"
@@ -78,7 +78,7 @@
   },
   {
     "Name": "E2a-AN2",
-    "Location": "0660",
+    "Location": "0660, 1065",
     "Description": "Dozent: NMN",
     "StartTime": "2023-06-13T08:10:00+02:00",
     "EndTime": "2023-06-13T11:25:00+02:00"
