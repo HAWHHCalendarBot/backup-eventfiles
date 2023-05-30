@@ -89,5 +89,12 @@
     "Description": "Dozent: MNR",
     "StartTime": "2023-06-09T12:10:00+02:00",
     "EndTime": "2023-06-09T15:40:00+02:00"
+  },
+  {
+    "Name": "E4-RT",
+    "Location": "0660",
+    "Description": "Dozent: MNR",
+    "StartTime": "2023-06-15T08:10:00+02:00",
+    "EndTime": "2023-06-15T11:25:00+02:00"
   }
 ]

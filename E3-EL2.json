@@ -64,10 +64,10 @@
   },
   {
     "Name": "E3-EL2",
-    "Location": "NB 01.13",
+    "Location": "",
     "Description": "Dozent: DHL",
-    "StartTime": "2023-06-01T12:10:00+02:00",
-    "EndTime": "2023-06-01T15:40:00+02:00"
+    "StartTime": "2023-06-01T13:40:00+02:00",
+    "EndTime": "2023-06-01T17:10:00+02:00"
   },
   {
     "Name": "E3-EL2",
