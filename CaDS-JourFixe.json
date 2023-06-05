@@ -145,5 +145,12 @@
     "Description": "Dies ist eine zusätzliche, inoffizielle Veranstaltung: https://github.com/HAWHHCalendarBot/AdditionalEvents",
     "StartTime": "2023-05-23T11:40:00+02:00",
     "EndTime": "2023-05-23T12:20:00+02:00"
+  },
+  {
+    "Name": "CaDS-JourFixe",
+    "Location": "287",
+    "Description": "Dies ist eine zusätzliche, inoffizielle Veranstaltung: https://github.com/HAWHHCalendarBot/AdditionalEvents",
+    "StartTime": "2023-06-08T11:40:00+02:00",
+    "EndTime": "2023-06-08T12:20:00+02:00"
   }
 ]
