@@ -73,14 +73,14 @@
     "Name": "IE6-OS",
     "Location": "0861",
     "Description": "Dozent: WSTK",
-    "StartTime": "2023-06-01T12:10:00+02:00",
-    "EndTime": "2023-06-01T15:40:00+02:00"
+    "StartTime": "2023-06-08T12:10:00+02:00",
+    "EndTime": "2023-06-08T15:40:00+02:00"
   },
   {
     "Name": "IE6-OS",
     "Location": "0861",
     "Description": "Dozent: WSTK",
-    "StartTime": "2023-06-08T12:10:00+02:00",
-    "EndTime": "2023-06-08T15:40:00+02:00"
+    "StartTime": "2023-06-15T12:10:00+02:00",
+    "EndTime": "2023-06-15T15:40:00+02:00"
   }
 ]
