@@ -43,9 +43,16 @@
   },
   {
     "Name": "E1b-PRP1/01",
-    "Location": "1365",
+    "Location": "1301a, 1301b, 1365",
     "Description": "Dozent: HST/NIDR",
     "StartTime": "2023-06-28T08:10:00+02:00",
     "EndTime": "2023-06-28T11:25:00+02:00"
+  },
+  {
+    "Name": "E1b-PRP1/01",
+    "Location": "1360",
+    "Description": "Dozent: HST/NIDR",
+    "StartTime": "2023-06-28T12:10:00+02:00",
+    "EndTime": "2023-06-28T15:40:00+02:00"
   }
 ]

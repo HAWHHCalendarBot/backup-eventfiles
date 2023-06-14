@@ -82,5 +82,12 @@
     "Description": "Dozent: HSL",
     "StartTime": "2023-06-13T08:10:00+02:00",
     "EndTime": "2023-06-13T11:25:00+02:00"
+  },
+  {
+    "Name": "E1b-LA",
+    "Location": "1060",
+    "Description": "Dozent: HSL",
+    "StartTime": "2023-06-27T08:10:00+02:00",
+    "EndTime": "2023-06-27T11:25:00+02:00"
   }
 ]
