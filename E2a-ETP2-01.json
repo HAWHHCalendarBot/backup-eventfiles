@@ -1,51 +1,44 @@
 [
   {
     "Name": "E2a-ETP2/01",
-    "Location": "0502, 1301a, 1301b",
-    "Description": "Dozent: LI/[Rac]",
-    "StartTime": "2023-03-29T12:10:00+02:00",
-    "EndTime": "2023-03-29T15:40:00+02:00"
+    "Location": "0502, 0565",
+    "Description": "Dozent: HSE/[Rac]",
+    "StartTime": "2023-10-17T08:10:00+02:00",
+    "EndTime": "2023-10-17T11:25:00+02:00"
   },
   {
     "Name": "E2a-ETP2/01",
-    "Location": "0502, 1301a, 1301b",
-    "Description": "Dozent: LI/[Rac]",
-    "StartTime": "2023-04-12T12:10:00+02:00",
-    "EndTime": "2023-04-12T15:40:00+02:00"
+    "Location": "0502, 0565",
+    "Description": "Dozent: HSE/[Rac]",
+    "StartTime": "2023-11-07T08:10:00+01:00",
+    "EndTime": "2023-11-07T11:25:00+01:00"
   },
   {
     "Name": "E2a-ETP2/01",
-    "Location": "0502, 1301a, 1301b",
-    "Description": "Dozent: LI/[Rac]",
-    "StartTime": "2023-04-26T12:10:00+02:00",
-    "EndTime": "2023-04-26T15:40:00+02:00"
+    "Location": "0502, 0565",
+    "Description": "Dozent: HSE/[Rac]",
+    "StartTime": "2023-11-21T08:10:00+01:00",
+    "EndTime": "2023-11-21T11:25:00+01:00"
   },
   {
     "Name": "E2a-ETP2/01",
-    "Location": "0502, 1301a, 1301b",
-    "Description": "Dozent: LI/[Rac]",
-    "StartTime": "2023-05-17T12:10:00+02:00",
-    "EndTime": "2023-05-17T15:40:00+02:00"
+    "Location": "0502, 0565",
+    "Description": "Dozent: HSE/[Rac]",
+    "StartTime": "2023-12-05T08:10:00+01:00",
+    "EndTime": "2023-12-05T11:25:00+01:00"
   },
   {
     "Name": "E2a-ETP2/01",
-    "Location": "0502, 1301a, 1301b",
-    "Description": "Dozent: LI/[Rac]",
-    "StartTime": "2023-05-31T12:10:00+02:00",
-    "EndTime": "2023-05-31T15:40:00+02:00"
+    "Location": "0502, 0565",
+    "Description": "Dozent: HSE/[Rac]",
+    "StartTime": "2023-12-19T08:10:00+01:00",
+    "EndTime": "2023-12-19T11:25:00+01:00"
   },
   {
     "Name": "E2a-ETP2/01",
-    "Location": "0502",
-    "Description": "Dozent: LI/[Rac]",
-    "StartTime": "2023-06-22T08:10:00+02:00",
-    "EndTime": "2023-06-22T11:25:00+02:00"
-  },
-  {
-    "Name": "E2a-ETP2/01",
-    "Location": "0502, 1301a, 1301b",
-    "Description": "Dozent: LI/[Rac]",
-    "StartTime": "2023-06-28T12:10:00+02:00",
-    "EndTime": "2023-06-28T15:40:00+02:00"
+    "Location": "0502, 0565",
+    "Description": "Dozent: HSE/[Rac]",
+    "StartTime": "2024-01-16T08:10:00+01:00",
+    "EndTime": "2024-01-16T11:25:00+01:00"
   }
 ]

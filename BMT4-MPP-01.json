@@ -2,29 +2,29 @@
   {
     "Name": "BMT4-MPP/01",
     "Location": "0880",
-    "Description": "Dozent: SCZ",
-    "StartTime": "2023-04-14T08:10:00+02:00",
-    "EndTime": "2023-04-14T11:25:00+02:00"
+    "Description": "Dozent: SCZ/[Kor]",
+    "StartTime": "2023-11-08T12:10:00+01:00",
+    "EndTime": "2023-11-08T13:40:00+01:00"
   },
   {
     "Name": "BMT4-MPP/01",
     "Location": "0880",
-    "Description": "Dozent: SCZ",
-    "StartTime": "2023-05-05T08:10:00+02:00",
-    "EndTime": "2023-05-05T11:25:00+02:00"
+    "Description": "Dozent: SCZ/[Kor]",
+    "StartTime": "2023-11-29T12:10:00+01:00",
+    "EndTime": "2023-11-29T15:40:00+01:00"
   },
   {
     "Name": "BMT4-MPP/01",
     "Location": "0880",
-    "Description": "Dozent: SCZ",
-    "StartTime": "2023-05-26T08:10:00+02:00",
-    "EndTime": "2023-05-26T11:25:00+02:00"
+    "Description": "Dozent: SCZ/[Kor]",
+    "StartTime": "2023-12-20T12:10:00+01:00",
+    "EndTime": "2023-12-20T15:40:00+01:00"
   },
   {
     "Name": "BMT4-MPP/01",
     "Location": "0880",
-    "Description": "Dozent: SCZ",
-    "StartTime": "2023-06-16T08:10:00+02:00",
-    "EndTime": "2023-06-16T11:25:00+02:00"
+    "Description": "Dozent: SCZ/[Kor]",
+    "StartTime": "2024-01-24T12:10:00+01:00",
+    "EndTime": "2024-01-24T15:40:00+01:00"
   }
 ]

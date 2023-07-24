@@ -1,51 +1,44 @@
 [
   {
     "Name": "E2a-ANUe2/02",
-    "Location": "0862",
-    "Description": "Dozent: SLZK",
-    "StartTime": "2023-04-03T13:55:00+02:00",
-    "EndTime": "2023-04-03T15:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: DRK",
+    "StartTime": "2023-10-23T12:10:00+02:00",
+    "EndTime": "2023-10-23T13:40:00+02:00"
   },
   {
     "Name": "E2a-ANUe2/02",
-    "Location": "0862",
-    "Description": "Dozent: SLZK",
-    "StartTime": "2023-04-24T13:55:00+02:00",
-    "EndTime": "2023-04-24T15:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: DRK",
+    "StartTime": "2023-11-06T12:10:00+01:00",
+    "EndTime": "2023-11-06T13:40:00+01:00"
   },
   {
     "Name": "E2a-ANUe2/02",
-    "Location": "0862",
-    "Description": "Dozent: SLZK",
-    "StartTime": "2023-05-15T17:25:00+02:00",
-    "EndTime": "2023-05-15T18:55:00+02:00"
+    "Location": "",
+    "Description": "Dozent: DRK",
+    "StartTime": "2023-11-20T12:10:00+01:00",
+    "EndTime": "2023-11-20T13:40:00+01:00"
   },
   {
     "Name": "E2a-ANUe2/02",
-    "Location": "0862",
-    "Description": "Dozent: SLZK",
-    "StartTime": "2023-05-22T13:55:00+02:00",
-    "EndTime": "2023-05-22T15:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: DRK",
+    "StartTime": "2023-12-04T12:10:00+01:00",
+    "EndTime": "2023-12-04T13:40:00+01:00"
   },
   {
     "Name": "E2a-ANUe2/02",
-    "Location": "0862",
-    "Description": "Dozent: SLZK",
-    "StartTime": "2023-06-05T13:55:00+02:00",
-    "EndTime": "2023-06-05T15:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: DRK",
+    "StartTime": "2023-12-18T12:10:00+01:00",
+    "EndTime": "2023-12-18T13:40:00+01:00"
   },
   {
     "Name": "E2a-ANUe2/02",
-    "Location": "1065",
-    "Description": "Dozent: SLZK",
-    "StartTime": "2023-06-14T09:55:00+02:00",
-    "EndTime": "2023-06-14T11:25:00+02:00"
-  },
-  {
-    "Name": "E2a-ANUe2/02",
-    "Location": "0862",
-    "Description": "Dozent: SLZK",
-    "StartTime": "2023-06-19T13:55:00+02:00",
-    "EndTime": "2023-06-19T15:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: DRK",
+    "StartTime": "2024-01-15T12:10:00+01:00",
+    "EndTime": "2024-01-15T13:40:00+01:00"
   }
 ]

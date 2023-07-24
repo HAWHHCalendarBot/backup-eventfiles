@@ -2,29 +2,22 @@
   {
     "Name": "E2b-ELP1/03 opt",
     "Location": "0505",
-    "Description": "Dozent: GNZ/[Has]",
-    "StartTime": "2023-04-06T12:10:00+02:00",
-    "EndTime": "2023-04-06T15:40:00+02:00"
+    "Description": "Dozent: RTT/[Has]",
+    "StartTime": "2023-11-29T12:10:00+01:00",
+    "EndTime": "2023-11-29T15:40:00+01:00"
   },
   {
     "Name": "E2b-ELP1/03 opt",
     "Location": "0505",
-    "Description": "Dozent: GNZ/[Has]",
-    "StartTime": "2023-04-27T12:10:00+02:00",
-    "EndTime": "2023-04-27T15:40:00+02:00"
+    "Description": "Dozent: RTT/[Has]",
+    "StartTime": "2023-12-20T12:10:00+01:00",
+    "EndTime": "2023-12-20T15:40:00+01:00"
   },
   {
     "Name": "E2b-ELP1/03 opt",
     "Location": "0505",
-    "Description": "Dozent: GNZ/[Has]",
-    "StartTime": "2023-05-25T12:10:00+02:00",
-    "EndTime": "2023-05-25T15:40:00+02:00"
-  },
-  {
-    "Name": "E2b-ELP1/03 opt",
-    "Location": "0505",
-    "Description": "Dozent: GNZ/[Has]",
-    "StartTime": "2023-06-15T12:10:00+02:00",
-    "EndTime": "2023-06-15T15:40:00+02:00"
+    "Description": "Dozent: RTT/[Has]",
+    "StartTime": "2024-01-24T12:10:00+01:00",
+    "EndTime": "2024-01-24T15:40:00+01:00"
   }
 ]

@@ -1,51 +1,44 @@
 [
   {
     "Name": "E2b-ANUe2/02",
-    "Location": "0861",
-    "Description": "Dozent: GTF",
-    "StartTime": "2023-03-28T09:55:00+02:00",
-    "EndTime": "2023-03-28T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: SLZK",
+    "StartTime": "2023-10-30T14:10:00+01:00",
+    "EndTime": "2023-10-30T15:40:00+01:00"
   },
   {
     "Name": "E2b-ANUe2/02",
-    "Location": "0861",
-    "Description": "Dozent: GTF",
-    "StartTime": "2023-04-11T09:55:00+02:00",
-    "EndTime": "2023-04-11T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: SLZK",
+    "StartTime": "2023-11-13T14:10:00+01:00",
+    "EndTime": "2023-11-13T15:40:00+01:00"
   },
   {
     "Name": "E2b-ANUe2/02",
-    "Location": "0861",
-    "Description": "Dozent: GTF",
-    "StartTime": "2023-04-25T09:55:00+02:00",
-    "EndTime": "2023-04-25T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: SLZK",
+    "StartTime": "2023-11-27T14:10:00+01:00",
+    "EndTime": "2023-11-27T15:40:00+01:00"
   },
   {
     "Name": "E2b-ANUe2/02",
-    "Location": "0861",
-    "Description": "Dozent: GTF",
-    "StartTime": "2023-05-09T09:55:00+02:00",
-    "EndTime": "2023-05-09T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: SLZK",
+    "StartTime": "2023-12-11T14:10:00+01:00",
+    "EndTime": "2023-12-11T15:40:00+01:00"
   },
   {
     "Name": "E2b-ANUe2/02",
-    "Location": "0861",
-    "Description": "Dozent: GTF",
-    "StartTime": "2023-05-23T09:55:00+02:00",
-    "EndTime": "2023-05-23T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: SLZK",
+    "StartTime": "2024-01-08T14:10:00+01:00",
+    "EndTime": "2024-01-08T15:40:00+01:00"
   },
   {
     "Name": "E2b-ANUe2/02",
-    "Location": "0861",
-    "Description": "Dozent: GTF",
-    "StartTime": "2023-06-13T09:55:00+02:00",
-    "EndTime": "2023-06-13T11:25:00+02:00"
-  },
-  {
-    "Name": "E2b-ANUe2/02",
-    "Location": "0861",
-    "Description": "Dozent: GTF",
-    "StartTime": "2023-06-27T09:55:00+02:00",
-    "EndTime": "2023-06-27T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: SLZK",
+    "StartTime": "2024-01-22T14:10:00+01:00",
+    "EndTime": "2024-01-22T15:40:00+01:00"
   }
 ]

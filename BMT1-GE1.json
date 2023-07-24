@@ -1,100 +1,79 @@
 [
   {
     "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-03-22T08:10:00+01:00",
-    "EndTime": "2023-03-22T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: WGM",
+    "StartTime": "2023-10-12T08:10:00+02:00",
+    "EndTime": "2023-10-12T11:25:00+02:00"
   },
   {
     "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-03-29T08:10:00+02:00",
-    "EndTime": "2023-03-29T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: WGM",
+    "StartTime": "2023-10-19T08:10:00+02:00",
+    "EndTime": "2023-10-19T11:25:00+02:00"
   },
   {
     "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-04-05T08:10:00+02:00",
-    "EndTime": "2023-04-05T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: WGM",
+    "StartTime": "2023-10-26T08:10:00+02:00",
+    "EndTime": "2023-10-26T11:25:00+02:00"
   },
   {
     "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-04-12T08:10:00+02:00",
-    "EndTime": "2023-04-12T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: WGM",
+    "StartTime": "2023-11-02T08:10:00+01:00",
+    "EndTime": "2023-11-02T11:25:00+01:00"
   },
   {
     "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-04-19T08:10:00+02:00",
-    "EndTime": "2023-04-19T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: WGM",
+    "StartTime": "2023-11-09T08:10:00+01:00",
+    "EndTime": "2023-11-09T11:25:00+01:00"
   },
   {
     "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-04-26T08:10:00+02:00",
-    "EndTime": "2023-04-26T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: WGM",
+    "StartTime": "2023-11-16T08:10:00+01:00",
+    "EndTime": "2023-11-16T11:25:00+01:00"
   },
   {
     "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-05-10T08:10:00+02:00",
-    "EndTime": "2023-05-10T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: WGM",
+    "StartTime": "2023-11-23T08:10:00+01:00",
+    "EndTime": "2023-11-23T11:25:00+01:00"
   },
   {
     "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-05-17T08:10:00+02:00",
-    "EndTime": "2023-05-17T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: WGM",
+    "StartTime": "2023-11-30T08:10:00+01:00",
+    "EndTime": "2023-11-30T11:25:00+01:00"
   },
   {
     "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-05-24T08:10:00+02:00",
-    "EndTime": "2023-05-24T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: WGM",
+    "StartTime": "2023-12-07T08:10:00+01:00",
+    "EndTime": "2023-12-07T11:25:00+01:00"
   },
   {
     "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-05-31T08:10:00+02:00",
-    "EndTime": "2023-05-31T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: WGM",
+    "StartTime": "2023-12-14T08:10:00+01:00",
+    "EndTime": "2023-12-14T11:25:00+01:00"
   },
   {
     "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-06-07T08:10:00+02:00",
-    "EndTime": "2023-06-07T11:25:00+02:00"
-  },
-  {
-    "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-06-14T08:10:00+02:00",
-    "EndTime": "2023-06-14T11:25:00+02:00"
-  },
-  {
-    "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-06-21T08:10:00+02:00",
-    "EndTime": "2023-06-21T11:25:00+02:00"
-  },
-  {
-    "Name": "BMT1-GE1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: RDT",
-    "StartTime": "2023-06-28T08:10:00+02:00",
-    "EndTime": "2023-06-28T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: WGM",
+    "StartTime": "2023-12-21T08:10:00+01:00",
+    "EndTime": "2023-12-21T11:25:00+01:00"
   }
 ]

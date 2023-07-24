@@ -1,30 +1,9 @@
 [
   {
     "Name": "E4-MPP/04",
-    "Location": "0880",
-    "Description": "Dozent: RMS",
-    "StartTime": "2023-04-17T15:55:00+02:00",
-    "EndTime": "2023-04-17T19:10:00+02:00"
-  },
-  {
-    "Name": "E4-MPP/04",
-    "Location": "0880",
-    "Description": "Dozent: RMS",
-    "StartTime": "2023-05-04T12:10:00+02:00",
-    "EndTime": "2023-05-04T15:40:00+02:00"
-  },
-  {
-    "Name": "E4-MPP/04",
-    "Location": "0880",
-    "Description": "Dozent: RMS",
-    "StartTime": "2023-06-01T12:10:00+02:00",
-    "EndTime": "2023-06-01T15:40:00+02:00"
-  },
-  {
-    "Name": "E4-MPP/04",
-    "Location": "0880",
-    "Description": "Dozent: RMS",
-    "StartTime": "2023-06-22T12:10:00+02:00",
-    "EndTime": "2023-06-22T15:40:00+02:00"
+    "Location": "",
+    "Description": "Dozent: KPKE/STKR",
+    "StartTime": "2023-10-26T12:10:00+02:00",
+    "EndTime": "2023-10-26T15:40:00+02:00"
   }
 ]

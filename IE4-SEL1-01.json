@@ -2,29 +2,29 @@
   {
     "Name": "IE4-SEL1/01",
     "Location": "1303a, 1303b",
-    "Description": "Dozent: EGR",
-    "StartTime": "2023-04-14T12:10:00+02:00",
-    "EndTime": "2023-04-14T15:40:00+02:00"
+    "Description": "Dozent: RNZ",
+    "StartTime": "2023-10-26T12:10:00+02:00",
+    "EndTime": "2023-10-26T13:40:00+02:00"
   },
   {
     "Name": "IE4-SEL1/01",
     "Location": "1303a, 1303b",
-    "Description": "Dozent: EGR",
-    "StartTime": "2023-05-05T12:10:00+02:00",
-    "EndTime": "2023-05-05T15:40:00+02:00"
-  },
-  {
-    "Name": "IE4-SEL1/01",
-    "Location": "1381",
-    "Description": "Dozent: EGR",
-    "StartTime": "2023-06-01T08:10:00+02:00",
-    "EndTime": "2023-06-01T11:25:00+02:00"
+    "Description": "Dozent: RNZ",
+    "StartTime": "2023-11-16T08:10:00+01:00",
+    "EndTime": "2023-11-16T11:25:00+01:00"
   },
   {
     "Name": "IE4-SEL1/01",
     "Location": "1303a, 1303b",
-    "Description": "Dozent: EGR",
-    "StartTime": "2023-06-16T12:10:00+02:00",
-    "EndTime": "2023-06-16T15:40:00+02:00"
+    "Description": "Dozent: RNZ",
+    "StartTime": "2023-12-14T08:10:00+01:00",
+    "EndTime": "2023-12-14T11:25:00+01:00"
+  },
+  {
+    "Name": "IE4-SEL1/01",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: RNZ",
+    "StartTime": "2024-01-18T08:10:00+01:00",
+    "EndTime": "2024-01-18T11:25:00+01:00"
   }
 ]

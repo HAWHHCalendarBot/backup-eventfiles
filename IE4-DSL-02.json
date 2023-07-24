@@ -2,29 +2,29 @@
   {
     "Name": "IE4-DSL/02",
     "Location": "0801",
-    "Description": "Dozent: STKR",
-    "StartTime": "2023-04-18T12:10:00+02:00",
-    "EndTime": "2023-04-18T15:40:00+02:00"
+    "Description": "Dozent: SCZ/STKR",
+    "StartTime": "2023-10-25T14:10:00+02:00",
+    "EndTime": "2023-10-25T15:40:00+02:00"
   },
   {
     "Name": "IE4-DSL/02",
     "Location": "0801",
-    "Description": "Dozent: STKR",
-    "StartTime": "2023-05-09T12:10:00+02:00",
-    "EndTime": "2023-05-09T15:40:00+02:00"
+    "Description": "Dozent: SCZ/STKR",
+    "StartTime": "2023-11-22T08:10:00+01:00",
+    "EndTime": "2023-11-22T11:25:00+01:00"
   },
   {
     "Name": "IE4-DSL/02",
     "Location": "0801",
-    "Description": "Dozent: STKR",
-    "StartTime": "2023-06-06T12:10:00+02:00",
-    "EndTime": "2023-06-06T15:40:00+02:00"
+    "Description": "Dozent: SCZ/STKR",
+    "StartTime": "2023-12-13T08:10:00+01:00",
+    "EndTime": "2023-12-13T11:25:00+01:00"
   },
   {
     "Name": "IE4-DSL/02",
     "Location": "0801",
-    "Description": "Dozent: STKR",
-    "StartTime": "2023-06-27T12:10:00+02:00",
-    "EndTime": "2023-06-27T15:40:00+02:00"
+    "Description": "Dozent: SCZ/STKR",
+    "StartTime": "2024-01-17T08:10:00+01:00",
+    "EndTime": "2024-01-17T11:25:00+01:00"
   }
 ]

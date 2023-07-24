@@ -1,86 +1,79 @@
 [
   {
     "Name": "E4-GN",
-    "Location": "1405",
-    "Description": "Dozent: LI",
-    "StartTime": "2023-03-16T08:10:00+01:00",
-    "EndTime": "2023-03-16T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: VLM/WDL",
+    "StartTime": "2023-10-09T12:10:00+02:00",
+    "EndTime": "2023-10-09T15:40:00+02:00"
   },
   {
     "Name": "E4-GN",
-    "Location": "1405",
-    "Description": "Dozent: LI",
-    "StartTime": "2023-03-23T08:10:00+01:00",
-    "EndTime": "2023-03-23T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: VLM/WDL",
+    "StartTime": "2023-10-16T12:10:00+02:00",
+    "EndTime": "2023-10-16T15:40:00+02:00"
   },
   {
     "Name": "E4-GN",
-    "Location": "1405",
-    "Description": "Dozent: LI",
-    "StartTime": "2023-03-23T12:10:00+01:00",
-    "EndTime": "2023-03-23T15:40:00+01:00"
+    "Location": "",
+    "Description": "Dozent: VLM/WDL",
+    "StartTime": "2023-10-23T12:10:00+02:00",
+    "EndTime": "2023-10-23T15:40:00+02:00"
   },
   {
     "Name": "E4-GN",
-    "Location": "1405",
-    "Description": "Dozent: LI",
-    "StartTime": "2023-03-30T08:10:00+02:00",
-    "EndTime": "2023-03-30T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM/WDL",
+    "StartTime": "2023-10-30T12:10:00+01:00",
+    "EndTime": "2023-10-30T15:40:00+01:00"
   },
   {
     "Name": "E4-GN",
-    "Location": "1405",
-    "Description": "Dozent: LI",
-    "StartTime": "2023-04-06T08:10:00+02:00",
-    "EndTime": "2023-04-06T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM/WDL",
+    "StartTime": "2023-11-06T12:10:00+01:00",
+    "EndTime": "2023-11-06T15:40:00+01:00"
   },
   {
     "Name": "E4-GN",
-    "Location": "1405",
-    "Description": "Dozent: LI",
-    "StartTime": "2023-04-13T08:10:00+02:00",
-    "EndTime": "2023-04-13T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM/WDL",
+    "StartTime": "2023-11-13T12:10:00+01:00",
+    "EndTime": "2023-11-13T15:40:00+01:00"
   },
   {
     "Name": "E4-GN",
-    "Location": "1405",
-    "Description": "Dozent: VLM",
-    "StartTime": "2023-04-20T08:10:00+02:00",
-    "EndTime": "2023-04-20T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM/WDL",
+    "StartTime": "2023-11-20T12:10:00+01:00",
+    "EndTime": "2023-11-20T15:40:00+01:00"
   },
   {
     "Name": "E4-GN",
-    "Location": "1405",
-    "Description": "Dozent: VLM",
-    "StartTime": "2023-04-27T08:10:00+02:00",
-    "EndTime": "2023-04-27T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM/WDL",
+    "StartTime": "2023-11-27T12:10:00+01:00",
+    "EndTime": "2023-11-27T15:40:00+01:00"
   },
   {
     "Name": "E4-GN",
-    "Location": "1405",
-    "Description": "Dozent: VLM",
-    "StartTime": "2023-05-04T08:10:00+02:00",
-    "EndTime": "2023-05-04T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM/WDL",
+    "StartTime": "2023-12-04T12:10:00+01:00",
+    "EndTime": "2023-12-04T15:40:00+01:00"
   },
   {
     "Name": "E4-GN",
-    "Location": "1405",
-    "Description": "Dozent: VLM",
-    "StartTime": "2023-05-11T08:10:00+02:00",
-    "EndTime": "2023-05-11T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM/WDL",
+    "StartTime": "2023-12-11T12:10:00+01:00",
+    "EndTime": "2023-12-11T15:40:00+01:00"
   },
   {
     "Name": "E4-GN",
-    "Location": "1405",
-    "Description": "Dozent: VLM",
-    "StartTime": "2023-05-25T08:10:00+02:00",
-    "EndTime": "2023-05-25T11:25:00+02:00"
-  },
-  {
-    "Name": "E4-GN",
-    "Location": "1405",
-    "Description": "Dozent: VLM",
-    "StartTime": "2023-06-01T08:10:00+02:00",
-    "EndTime": "2023-06-01T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: VLM/WDL",
+    "StartTime": "2023-12-18T12:10:00+01:00",
+    "EndTime": "2023-12-18T15:40:00+01:00"
   }
 ]

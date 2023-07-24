@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "EuI-M-WPP-WNC/02",
+    "Location": "0401",
+    "Description": "Dozent: WNC",
+    "StartTime": "2023-11-15T08:10:00+01:00",
+    "EndTime": "2023-11-15T11:25:00+01:00"
+  },
+  {
+    "Name": "EuI-M-WPP-WNC/02",
+    "Location": "0401",
+    "Description": "Dozent: WNC",
+    "StartTime": "2023-12-06T08:10:00+01:00",
+    "EndTime": "2023-12-06T11:25:00+01:00"
+  },
+  {
+    "Name": "EuI-M-WPP-WNC/02",
+    "Location": "0401",
+    "Description": "Dozent: WNC",
+    "StartTime": "2024-01-10T08:10:00+01:00",
+    "EndTime": "2024-01-10T11:25:00+01:00"
+  }
+]

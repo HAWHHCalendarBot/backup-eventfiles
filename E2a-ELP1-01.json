@@ -3,28 +3,28 @@
     "Name": "E2a-ELP1/01",
     "Location": "0505",
     "Description": "Dozent: WTCD/[Has]",
-    "StartTime": "2023-04-04T12:10:00+02:00",
-    "EndTime": "2023-04-04T15:40:00+02:00"
+    "StartTime": "2023-11-01T08:10:00+01:00",
+    "EndTime": "2023-11-01T09:40:00+01:00"
   },
   {
     "Name": "E2a-ELP1/01",
     "Location": "0505",
     "Description": "Dozent: WTCD/[Has]",
-    "StartTime": "2023-04-25T12:10:00+02:00",
-    "EndTime": "2023-04-25T15:40:00+02:00"
+    "StartTime": "2023-11-22T08:10:00+01:00",
+    "EndTime": "2023-11-22T11:25:00+01:00"
   },
   {
     "Name": "E2a-ELP1/01",
     "Location": "0505",
     "Description": "Dozent: WTCD/[Has]",
-    "StartTime": "2023-05-16T12:10:00+02:00",
-    "EndTime": "2023-05-16T15:40:00+02:00"
+    "StartTime": "2023-12-13T08:10:00+01:00",
+    "EndTime": "2023-12-13T11:25:00+01:00"
   },
   {
     "Name": "E2a-ELP1/01",
     "Location": "0505",
     "Description": "Dozent: WTCD/[Has]",
-    "StartTime": "2023-06-13T12:10:00+02:00",
-    "EndTime": "2023-06-13T15:40:00+02:00"
+    "StartTime": "2024-01-17T08:10:00+01:00",
+    "EndTime": "2024-01-17T11:25:00+01:00"
   }
 ]

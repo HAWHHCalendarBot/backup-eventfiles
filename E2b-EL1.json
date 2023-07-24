@@ -1,86 +1,79 @@
 [
   {
     "Name": "E2b-EL1",
-    "Location": "1065",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2023-03-23T08:10:00+01:00",
-    "EndTime": "2023-03-23T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: RTT",
+    "StartTime": "2023-10-23T08:10:00+02:00",
+    "EndTime": "2023-10-23T11:25:00+02:00"
   },
   {
     "Name": "E2b-EL1",
-    "Location": "1065",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2023-03-30T08:10:00+02:00",
-    "EndTime": "2023-03-30T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: RTT",
+    "StartTime": "2023-10-25T08:10:00+02:00",
+    "EndTime": "2023-10-25T11:25:00+02:00"
   },
   {
     "Name": "E2b-EL1",
-    "Location": "1065",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2023-04-06T08:10:00+02:00",
-    "EndTime": "2023-04-06T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: RTT",
+    "StartTime": "2023-11-13T08:10:00+01:00",
+    "EndTime": "2023-11-13T11:25:00+01:00"
   },
   {
     "Name": "E2b-EL1",
-    "Location": "1065",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2023-04-13T08:10:00+02:00",
-    "EndTime": "2023-04-13T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: RTT",
+    "StartTime": "2023-11-20T08:10:00+01:00",
+    "EndTime": "2023-11-20T11:25:00+01:00"
   },
   {
     "Name": "E2b-EL1",
-    "Location": "1065",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2023-04-20T08:10:00+02:00",
-    "EndTime": "2023-04-20T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: RTT",
+    "StartTime": "2023-11-27T08:10:00+01:00",
+    "EndTime": "2023-11-27T11:25:00+01:00"
   },
   {
     "Name": "E2b-EL1",
-    "Location": "1065",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2023-04-27T08:10:00+02:00",
-    "EndTime": "2023-04-27T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: RTT",
+    "StartTime": "2023-12-04T08:10:00+01:00",
+    "EndTime": "2023-12-04T11:25:00+01:00"
   },
   {
     "Name": "E2b-EL1",
-    "Location": "1065",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2023-05-04T08:10:00+02:00",
-    "EndTime": "2023-05-04T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: RTT",
+    "StartTime": "2023-12-11T08:10:00+01:00",
+    "EndTime": "2023-12-11T11:25:00+01:00"
   },
   {
     "Name": "E2b-EL1",
-    "Location": "1065",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2023-05-11T08:10:00+02:00",
-    "EndTime": "2023-05-11T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: RTT",
+    "StartTime": "2023-12-18T08:10:00+01:00",
+    "EndTime": "2023-12-18T11:25:00+01:00"
   },
   {
     "Name": "E2b-EL1",
-    "Location": "1065",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2023-05-25T08:10:00+02:00",
-    "EndTime": "2023-05-25T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: RTT",
+    "StartTime": "2024-01-08T08:10:00+01:00",
+    "EndTime": "2024-01-08T11:25:00+01:00"
   },
   {
     "Name": "E2b-EL1",
-    "Location": "1065",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2023-06-01T08:10:00+02:00",
-    "EndTime": "2023-06-01T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: RTT",
+    "StartTime": "2024-01-15T08:10:00+01:00",
+    "EndTime": "2024-01-15T11:25:00+01:00"
   },
   {
     "Name": "E2b-EL1",
-    "Location": "1065",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2023-06-08T08:10:00+02:00",
-    "EndTime": "2023-06-08T11:25:00+02:00"
-  },
-  {
-    "Name": "E2b-EL1",
-    "Location": "1065",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2023-06-15T08:10:00+02:00",
-    "EndTime": "2023-06-15T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: RTT",
+    "StartTime": "2024-01-22T08:10:00+01:00",
+    "EndTime": "2024-01-22T11:25:00+01:00"
   }
 ]

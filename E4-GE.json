@@ -1,93 +1,79 @@
 [
   {
     "Name": "E4-GE",
-    "Location": "1265",
-    "Description": "Dozent: RTH",
-    "StartTime": "2023-03-16T08:10:00+01:00",
-    "EndTime": "2023-03-16T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: GNZ",
+    "StartTime": "2023-10-09T12:10:00+02:00",
+    "EndTime": "2023-10-09T15:40:00+02:00"
   },
   {
     "Name": "E4-GE",
-    "Location": "1060",
-    "Description": "Dozent: RTH",
-    "StartTime": "2023-03-17T08:10:00+01:00",
-    "EndTime": "2023-03-17T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: GNZ",
+    "StartTime": "2023-10-16T12:10:00+02:00",
+    "EndTime": "2023-10-16T15:40:00+02:00"
   },
   {
     "Name": "E4-GE",
-    "Location": "1265",
-    "Description": "Dozent: RTH",
-    "StartTime": "2023-03-23T08:10:00+01:00",
-    "EndTime": "2023-03-23T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: GNZ",
+    "StartTime": "2023-10-23T12:10:00+02:00",
+    "EndTime": "2023-10-23T15:40:00+02:00"
   },
   {
     "Name": "E4-GE",
-    "Location": "1060",
-    "Description": "Dozent: RTH",
-    "StartTime": "2023-03-24T08:10:00+01:00",
-    "EndTime": "2023-03-24T11:25:00+01:00"
+    "Location": "",
+    "Description": "Dozent: GNZ",
+    "StartTime": "2023-10-30T12:10:00+01:00",
+    "EndTime": "2023-10-30T15:40:00+01:00"
   },
   {
     "Name": "E4-GE",
-    "Location": "1265",
-    "Description": "Dozent: RTH",
-    "StartTime": "2023-03-30T08:10:00+02:00",
-    "EndTime": "2023-03-30T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: GNZ",
+    "StartTime": "2023-11-06T12:10:00+01:00",
+    "EndTime": "2023-11-06T15:40:00+01:00"
   },
   {
     "Name": "E4-GE",
-    "Location": "1060",
-    "Description": "Dozent: RTH",
-    "StartTime": "2023-03-31T08:10:00+02:00",
-    "EndTime": "2023-03-31T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: GNZ",
+    "StartTime": "2023-11-13T12:10:00+01:00",
+    "EndTime": "2023-11-13T15:40:00+01:00"
   },
   {
     "Name": "E4-GE",
-    "Location": "1265",
-    "Description": "Dozent: RTH",
-    "StartTime": "2023-04-06T08:10:00+02:00",
-    "EndTime": "2023-04-06T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: GNZ",
+    "StartTime": "2023-11-20T12:10:00+01:00",
+    "EndTime": "2023-11-20T15:40:00+01:00"
   },
   {
     "Name": "E4-GE",
-    "Location": "1060",
-    "Description": "Dozent: RTH",
-    "StartTime": "2023-04-14T08:10:00+02:00",
-    "EndTime": "2023-04-14T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: GNZ",
+    "StartTime": "2023-11-27T12:10:00+01:00",
+    "EndTime": "2023-11-27T15:40:00+01:00"
   },
   {
     "Name": "E4-GE",
-    "Location": "1060",
-    "Description": "Dozent: RTH",
-    "StartTime": "2023-04-21T08:10:00+02:00",
-    "EndTime": "2023-04-21T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: GNZ",
+    "StartTime": "2023-12-04T12:10:00+01:00",
+    "EndTime": "2023-12-04T15:40:00+01:00"
   },
   {
     "Name": "E4-GE",
-    "Location": "1060",
-    "Description": "Dozent: RTH",
-    "StartTime": "2023-04-28T08:10:00+02:00",
-    "EndTime": "2023-04-28T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: GNZ",
+    "StartTime": "2023-12-11T12:10:00+01:00",
+    "EndTime": "2023-12-11T15:40:00+01:00"
   },
   {
     "Name": "E4-GE",
-    "Location": "1060",
-    "Description": "Dozent: RTH",
-    "StartTime": "2023-05-05T08:10:00+02:00",
-    "EndTime": "2023-05-05T11:25:00+02:00"
-  },
-  {
-    "Name": "E4-GE",
-    "Location": "1060",
-    "Description": "Dozent: RTH",
-    "StartTime": "2023-05-12T08:10:00+02:00",
-    "EndTime": "2023-05-12T11:25:00+02:00"
-  },
-  {
-    "Name": "E4-GE",
-    "Location": "1060",
-    "Description": "Dozent: RTH",
-    "StartTime": "2023-06-23T08:10:00+02:00",
-    "EndTime": "2023-06-23T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: GNZ",
+    "StartTime": "2023-12-18T12:10:00+01:00",
+    "EndTime": "2023-12-18T15:40:00+01:00"
   }
 ]

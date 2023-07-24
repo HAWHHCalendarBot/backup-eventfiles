@@ -1,51 +1,44 @@
 [
   {
     "Name": "E1a-ANUe1/02",
-    "Location": "Stiftstr69  R106",
-    "Description": "Dozent: DRK",
-    "StartTime": "2023-03-28T09:55:00+02:00",
-    "EndTime": "2023-03-28T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: GTF",
+    "StartTime": "2023-11-03T12:10:00+01:00",
+    "EndTime": "2023-11-03T13:40:00+01:00"
   },
   {
     "Name": "E1a-ANUe1/02",
-    "Location": "Stiftstr69  R106",
-    "Description": "Dozent: DRK",
-    "StartTime": "2023-04-11T09:55:00+02:00",
-    "EndTime": "2023-04-11T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: GTF",
+    "StartTime": "2023-11-17T12:10:00+01:00",
+    "EndTime": "2023-11-17T13:40:00+01:00"
   },
   {
     "Name": "E1a-ANUe1/02",
-    "Location": "Stiftstr69  R106",
-    "Description": "Dozent: DRK",
-    "StartTime": "2023-04-25T09:55:00+02:00",
-    "EndTime": "2023-04-25T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: GTF",
+    "StartTime": "2023-12-01T12:10:00+01:00",
+    "EndTime": "2023-12-01T13:40:00+01:00"
   },
   {
     "Name": "E1a-ANUe1/02",
-    "Location": "Stiftstr69  R106",
-    "Description": "Dozent: DRK",
-    "StartTime": "2023-05-09T09:55:00+02:00",
-    "EndTime": "2023-05-09T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: GTF",
+    "StartTime": "2023-12-15T12:10:00+01:00",
+    "EndTime": "2023-12-15T13:40:00+01:00"
   },
   {
     "Name": "E1a-ANUe1/02",
-    "Location": "Stiftstr69  R106",
-    "Description": "Dozent: DRK",
-    "StartTime": "2023-05-23T09:55:00+02:00",
-    "EndTime": "2023-05-23T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: GTF",
+    "StartTime": "2024-01-12T12:10:00+01:00",
+    "EndTime": "2024-01-12T13:40:00+01:00"
   },
   {
     "Name": "E1a-ANUe1/02",
-    "Location": "Stiftstr69  R106",
-    "Description": "Dozent: DRK",
-    "StartTime": "2023-06-13T09:55:00+02:00",
-    "EndTime": "2023-06-13T11:25:00+02:00"
-  },
-  {
-    "Name": "E1a-ANUe1/02",
-    "Location": "Stiftstr69  R106",
-    "Description": "Dozent: DRK",
-    "StartTime": "2023-06-27T09:55:00+02:00",
-    "EndTime": "2023-06-27T11:25:00+02:00"
+    "Location": "",
+    "Description": "Dozent: GTF",
+    "StartTime": "2024-01-26T12:10:00+01:00",
+    "EndTime": "2024-01-26T13:40:00+01:00"
   }
 ]

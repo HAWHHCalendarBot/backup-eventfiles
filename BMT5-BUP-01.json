@@ -3,28 +3,28 @@
     "Name": "BMT5-BUP/01",
     "Location": "0401, 0402",
     "Description": "Dozent: WSTK/STKR",
-    "StartTime": "2023-04-19T08:10:00+02:00",
-    "EndTime": "2023-04-19T11:25:00+02:00"
+    "StartTime": "2023-10-26T08:10:00+02:00",
+    "EndTime": "2023-10-26T09:40:00+02:00"
   },
   {
     "Name": "BMT5-BUP/01",
     "Location": "0401, 0402",
     "Description": "Dozent: WSTK/STKR",
-    "StartTime": "2023-05-17T08:10:00+02:00",
-    "EndTime": "2023-05-17T11:25:00+02:00"
+    "StartTime": "2023-11-16T08:10:00+01:00",
+    "EndTime": "2023-11-16T11:25:00+01:00"
   },
   {
     "Name": "BMT5-BUP/01",
     "Location": "0401, 0402",
     "Description": "Dozent: WSTK/STKR",
-    "StartTime": "2023-06-07T08:10:00+02:00",
-    "EndTime": "2023-06-07T11:25:00+02:00"
+    "StartTime": "2023-12-07T08:10:00+01:00",
+    "EndTime": "2023-12-07T11:25:00+01:00"
   },
   {
     "Name": "BMT5-BUP/01",
     "Location": "0401, 0402",
     "Description": "Dozent: WSTK/STKR",
-    "StartTime": "2023-06-23T08:10:00+02:00",
-    "EndTime": "2023-06-23T11:25:00+02:00"
+    "StartTime": "2024-01-11T08:10:00+01:00",
+    "EndTime": "2024-01-11T11:25:00+01:00"
   }
 ]

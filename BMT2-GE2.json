@@ -2,106 +2,78 @@
   {
     "Name": "BMT2-GE2",
     "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-03-13T12:15:00+01:00",
-    "EndTime": "2023-03-13T15:30:00+01:00"
+    "Description": "Dozent: LI",
+    "StartTime": "2023-10-10T12:10:00+02:00",
+    "EndTime": "2023-10-10T15:40:00+02:00"
   },
   {
     "Name": "BMT2-GE2",
     "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-03-20T12:15:00+01:00",
-    "EndTime": "2023-03-20T15:30:00+01:00"
+    "Description": "Dozent: LI",
+    "StartTime": "2023-10-17T12:10:00+02:00",
+    "EndTime": "2023-10-17T15:40:00+02:00"
   },
   {
     "Name": "BMT2-GE2",
     "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-03-27T12:15:00+02:00",
-    "EndTime": "2023-03-27T15:30:00+02:00"
+    "Description": "Dozent: LI",
+    "StartTime": "2023-10-24T12:10:00+02:00",
+    "EndTime": "2023-10-24T15:40:00+02:00"
   },
   {
     "Name": "BMT2-GE2",
     "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-04-03T12:15:00+02:00",
-    "EndTime": "2023-04-03T15:30:00+02:00"
+    "Description": "Dozent: LI",
+    "StartTime": "2023-11-07T12:10:00+01:00",
+    "EndTime": "2023-11-07T15:40:00+01:00"
   },
   {
     "Name": "BMT2-GE2",
     "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-04-17T12:15:00+02:00",
-    "EndTime": "2023-04-17T15:30:00+02:00"
+    "Description": "Dozent: LI",
+    "StartTime": "2023-11-14T12:10:00+01:00",
+    "EndTime": "2023-11-14T15:40:00+01:00"
   },
   {
     "Name": "BMT2-GE2",
     "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-04-24T12:15:00+02:00",
-    "EndTime": "2023-04-24T15:30:00+02:00"
+    "Description": "Dozent: LI",
+    "StartTime": "2023-11-21T12:10:00+01:00",
+    "EndTime": "2023-11-21T15:40:00+01:00"
   },
   {
     "Name": "BMT2-GE2",
     "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-05-03T12:15:00+02:00",
-    "EndTime": "2023-05-03T15:30:00+02:00"
+    "Description": "Dozent: LI",
+    "StartTime": "2023-11-28T12:10:00+01:00",
+    "EndTime": "2023-11-28T15:40:00+01:00"
   },
   {
     "Name": "BMT2-GE2",
     "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-05-08T12:15:00+02:00",
-    "EndTime": "2023-05-08T15:30:00+02:00"
+    "Description": "Dozent: LI",
+    "StartTime": "2023-12-05T12:10:00+01:00",
+    "EndTime": "2023-12-05T15:40:00+01:00"
   },
   {
     "Name": "BMT2-GE2",
     "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-05-15T12:15:00+02:00",
-    "EndTime": "2023-05-15T15:30:00+02:00"
+    "Description": "Dozent: LI",
+    "StartTime": "2023-12-12T12:10:00+01:00",
+    "EndTime": "2023-12-12T15:40:00+01:00"
   },
   {
     "Name": "BMT2-GE2",
     "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-05-22T12:15:00+02:00",
-    "EndTime": "2023-05-22T15:30:00+02:00"
+    "Description": "Dozent: LI",
+    "StartTime": "2023-12-19T12:10:00+01:00",
+    "EndTime": "2023-12-19T15:40:00+01:00"
   },
   {
     "Name": "BMT2-GE2",
     "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-05-30T12:15:00+02:00",
-    "EndTime": "2023-05-30T15:30:00+02:00"
-  },
-  {
-    "Name": "BMT2-GE2",
-    "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-06-05T12:15:00+02:00",
-    "EndTime": "2023-06-05T15:30:00+02:00"
-  },
-  {
-    "Name": "BMT2-GE2",
-    "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-06-12T12:15:00+02:00",
-    "EndTime": "2023-06-12T15:30:00+02:00"
-  },
-  {
-    "Name": "BMT2-GE2",
-    "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-06-19T12:15:00+02:00",
-    "EndTime": "2023-06-19T15:30:00+02:00"
-  },
-  {
-    "Name": "BMT2-GE2",
-    "Location": "",
-    "Description": "Dozent: WGM",
-    "StartTime": "2023-06-26T12:15:00+02:00",
-    "EndTime": "2023-06-26T15:30:00+02:00"
+    "Description": "Dozent: LI",
+    "StartTime": "2024-01-09T12:10:00+01:00",
+    "EndTime": "2024-01-09T15:40:00+01:00"
   }
 ]

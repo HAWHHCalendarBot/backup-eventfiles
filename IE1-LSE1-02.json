@@ -1,51 +1,51 @@
 [
   {
     "Name": "IE1-LSE1/02",
-    "Location": "1486",
-    "Description": "Dozent: ZICH",
-    "StartTime": "2023-03-24T08:10:00+01:00",
-    "EndTime": "2023-03-24T11:25:00+01:00"
+    "Location": "1281",
+    "Description": "Dozent: MCCB",
+    "StartTime": "2023-10-12T12:10:00+02:00",
+    "EndTime": "2023-10-12T15:40:00+02:00"
   },
   {
     "Name": "IE1-LSE1/02",
-    "Location": "1486",
-    "Description": "Dozent: ZICH",
-    "StartTime": "2023-04-14T08:10:00+02:00",
-    "EndTime": "2023-04-14T11:25:00+02:00"
+    "Location": "1281",
+    "Description": "Dozent: MCCB",
+    "StartTime": "2023-10-26T12:10:00+02:00",
+    "EndTime": "2023-10-26T15:40:00+02:00"
   },
   {
     "Name": "IE1-LSE1/02",
-    "Location": "1486",
-    "Description": "Dozent: ZICH",
-    "StartTime": "2023-04-28T08:10:00+02:00",
-    "EndTime": "2023-04-28T11:25:00+02:00"
+    "Location": "1281",
+    "Description": "Dozent: MCCB",
+    "StartTime": "2023-11-09T12:10:00+01:00",
+    "EndTime": "2023-11-09T15:40:00+01:00"
   },
   {
     "Name": "IE1-LSE1/02",
-    "Location": "1486",
-    "Description": "Dozent: ZICH",
-    "StartTime": "2023-05-12T08:10:00+02:00",
-    "EndTime": "2023-05-12T11:25:00+02:00"
+    "Location": "1281",
+    "Description": "Dozent: MCCB",
+    "StartTime": "2023-11-23T12:10:00+01:00",
+    "EndTime": "2023-11-23T15:40:00+01:00"
   },
   {
     "Name": "IE1-LSE1/02",
-    "Location": "1486",
-    "Description": "Dozent: ZICH",
-    "StartTime": "2023-05-26T08:10:00+02:00",
-    "EndTime": "2023-05-26T11:25:00+02:00"
+    "Location": "1281",
+    "Description": "Dozent: MCCB",
+    "StartTime": "2023-12-07T12:10:00+01:00",
+    "EndTime": "2023-12-07T15:40:00+01:00"
   },
   {
     "Name": "IE1-LSE1/02",
-    "Location": "1486",
-    "Description": "Dozent: ZICH",
-    "StartTime": "2023-06-09T08:10:00+02:00",
-    "EndTime": "2023-06-09T11:25:00+02:00"
+    "Location": "1281",
+    "Description": "Dozent: MCCB",
+    "StartTime": "2023-12-21T12:10:00+01:00",
+    "EndTime": "2023-12-21T15:40:00+01:00"
   },
   {
     "Name": "IE1-LSE1/02",
-    "Location": "1486",
-    "Description": "Dozent: ZICH",
-    "StartTime": "2023-06-23T08:10:00+02:00",
-    "EndTime": "2023-06-23T11:25:00+02:00"
+    "Location": "1281",
+    "Description": "Dozent: MCCB",
+    "StartTime": "2024-01-18T12:10:00+01:00",
+    "EndTime": "2024-01-18T15:40:00+01:00"
   }
 ]

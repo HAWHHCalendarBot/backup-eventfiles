@@ -1,51 +1,51 @@
 [
   {
     "Name": "E2a/b-LP/IE2-LSL",
-    "Location": "BT21 Aula",
+    "Location": "",
     "Description": "",
-    "StartTime": "2023-03-13T08:10:00+01:00",
-    "EndTime": "2023-03-13T11:25:00+01:00"
+    "StartTime": "2023-10-09T08:10:00+02:00",
+    "EndTime": "2023-10-09T11:25:00+02:00"
   },
   {
     "Name": "E2a/b-LP/IE2-LSL",
-    "Location": "0501, 0502, 0505, 0801, 0804, 0865, 0880",
+    "Location": "",
     "Description": "",
-    "StartTime": "2023-03-13T12:10:00+01:00",
-    "EndTime": "2023-03-13T18:00:00+01:00"
+    "StartTime": "2023-10-09T12:10:00+02:00",
+    "EndTime": "2023-10-09T18:00:00+02:00"
   },
   {
     "Name": "E2a/b-LP/IE2-LSL",
-    "Location": "0501, 0804",
+    "Location": "",
     "Description": "",
-    "StartTime": "2023-03-14T08:10:00+01:00",
-    "EndTime": "2023-03-14T17:25:00+01:00"
+    "StartTime": "2023-10-10T08:10:00+02:00",
+    "EndTime": "2023-10-10T17:25:00+02:00"
   },
   {
     "Name": "E2a/b-LP/IE2-LSL",
-    "Location": "0502, 0865",
+    "Location": "",
     "Description": "",
-    "StartTime": "2023-03-15T08:10:00+01:00",
-    "EndTime": "2023-03-15T17:25:00+01:00"
+    "StartTime": "2023-10-11T08:10:00+02:00",
+    "EndTime": "2023-10-11T17:25:00+02:00"
   },
   {
     "Name": "E2a/b-LP/IE2-LSL",
-    "Location": "0505, 0880",
+    "Location": "",
     "Description": "",
-    "StartTime": "2023-03-16T08:10:00+01:00",
-    "EndTime": "2023-03-16T17:25:00+01:00"
+    "StartTime": "2023-10-12T08:10:00+02:00",
+    "EndTime": "2023-10-12T17:25:00+02:00"
   },
   {
     "Name": "E2a/b-LP/IE2-LSL",
-    "Location": "0801",
+    "Location": "",
     "Description": "",
-    "StartTime": "2023-03-17T08:10:00+01:00",
-    "EndTime": "2023-03-17T17:25:00+01:00"
+    "StartTime": "2023-10-13T08:10:00+02:00",
+    "EndTime": "2023-10-13T17:25:00+02:00"
   },
   {
     "Name": "E2a/b-LP/IE2-LSL",
-    "Location": "BT21 Aula",
+    "Location": "",
     "Description": "",
-    "StartTime": "2023-03-18T08:00:00+01:00",
-    "EndTime": "2023-03-18T16:00:00+01:00"
+    "StartTime": "2023-10-14T08:00:00+02:00",
+    "EndTime": "2023-10-14T16:00:00+02:00"
   }
 ]

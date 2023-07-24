@@ -3,28 +3,28 @@
     "Name": "BMT4-ATP1/02 opt",
     "Location": "0402",
     "Description": "Dozent: SLR/STKR",
-    "StartTime": "2023-04-13T08:10:00+02:00",
-    "EndTime": "2023-04-13T11:25:00+02:00"
+    "StartTime": "2023-11-02T09:55:00+01:00",
+    "EndTime": "2023-11-02T11:25:00+01:00"
   },
   {
     "Name": "BMT4-ATP1/02 opt",
     "Location": "0402",
     "Description": "Dozent: SLR/STKR",
-    "StartTime": "2023-05-04T08:10:00+02:00",
-    "EndTime": "2023-05-04T11:25:00+02:00"
+    "StartTime": "2023-11-30T08:10:00+01:00",
+    "EndTime": "2023-11-30T11:25:00+01:00"
   },
   {
     "Name": "BMT4-ATP1/02 opt",
     "Location": "0402",
     "Description": "Dozent: SLR/STKR",
-    "StartTime": "2023-06-01T08:10:00+02:00",
-    "EndTime": "2023-06-01T11:25:00+02:00"
+    "StartTime": "2023-12-21T08:10:00+01:00",
+    "EndTime": "2023-12-21T11:25:00+01:00"
   },
   {
     "Name": "BMT4-ATP1/02 opt",
     "Location": "0402",
     "Description": "Dozent: SLR/STKR",
-    "StartTime": "2023-06-22T08:10:00+02:00",
-    "EndTime": "2023-06-22T11:25:00+02:00"
+    "StartTime": "2024-01-25T08:10:00+01:00",
+    "EndTime": "2024-01-25T11:25:00+01:00"
   }
 ]
