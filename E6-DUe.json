@@ -31,6 +31,13 @@
     "Name": "E6-DUe",
     "Location": "1401",
     "Description": "Dozent: VLM",
+    "StartTime": "2023-11-09T08:10:00+01:00",
+    "EndTime": "2023-11-09T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-DUe",
+    "Location": "1401",
+    "Description": "Dozent: VLM",
     "StartTime": "2023-11-16T08:10:00+01:00",
     "EndTime": "2023-11-16T11:25:00+01:00"
   },
@@ -68,12 +75,5 @@
     "Description": "Dozent: VLM",
     "StartTime": "2023-12-21T08:10:00+01:00",
     "EndTime": "2023-12-21T11:25:00+01:00"
-  },
-  {
-    "Name": "E6-DUe",
-    "Location": "1401",
-    "Description": "Dozent: VLM",
-    "StartTime": "2024-01-11T08:10:00+01:00",
-    "EndTime": "2024-01-11T11:25:00+01:00"
   }
 ]
