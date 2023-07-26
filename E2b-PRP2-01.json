@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E2b-PRP2/01",
+    "Location": "",
+    "Description": "Dozent: HST",
+    "StartTime": "2023-10-24T08:10:00+02:00",
+    "EndTime": "2023-10-24T11:25:00+02:00"
+  },
+  {
+    "Name": "E2b-PRP2/01",
+    "Location": "1365",
+    "Description": "Dozent: HST",
+    "StartTime": "2023-11-14T08:10:00+01:00",
+    "EndTime": "2023-11-14T11:25:00+01:00"
+  },
+  {
+    "Name": "E2b-PRP2/01",
+    "Location": "1365",
+    "Description": "Dozent: HST",
+    "StartTime": "2023-12-05T08:10:00+01:00",
+    "EndTime": "2023-12-05T11:25:00+01:00"
+  },
+  {
+    "Name": "E2b-PRP2/01",
+    "Location": "1365",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-01-09T08:10:00+01:00",
+    "EndTime": "2024-01-09T11:25:00+01:00"
+  }
+]

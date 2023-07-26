@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "IE3-SSL1/03 opt",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: LHN",
+    "StartTime": "2023-11-17T08:10:00+01:00",
+    "EndTime": "2023-11-17T11:25:00+01:00"
+  },
+  {
+    "Name": "IE3-SSL1/03 opt",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: LHN",
+    "StartTime": "2023-12-08T08:10:00+01:00",
+    "EndTime": "2023-12-08T11:25:00+01:00"
+  },
+  {
+    "Name": "IE3-SSL1/03 opt",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: LHN",
+    "StartTime": "2024-01-12T08:10:00+01:00",
+    "EndTime": "2024-01-12T11:25:00+01:00"
+  }
+]

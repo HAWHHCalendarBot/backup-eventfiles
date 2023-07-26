@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E2a-PRP2/02",
+    "Location": "1365",
+    "Description": "Dozent: EGR",
+    "StartTime": "2023-11-02T14:10:00+01:00",
+    "EndTime": "2023-11-02T15:40:00+01:00"
+  },
+  {
+    "Name": "E2a-PRP2/02",
+    "Location": "1365",
+    "Description": "Dozent: EGR",
+    "StartTime": "2023-11-30T12:10:00+01:00",
+    "EndTime": "2023-11-30T15:40:00+01:00"
+  },
+  {
+    "Name": "E2a-PRP2/02",
+    "Location": "1365",
+    "Description": "Dozent: EGR",
+    "StartTime": "2023-12-21T12:10:00+01:00",
+    "EndTime": "2023-12-21T15:40:00+01:00"
+  },
+  {
+    "Name": "E2a-PRP2/02",
+    "Location": "1365",
+    "Description": "Dozent: EGR",
+    "StartTime": "2024-01-25T12:10:00+01:00",
+    "EndTime": "2024-01-25T15:40:00+01:00"
+  }
+]

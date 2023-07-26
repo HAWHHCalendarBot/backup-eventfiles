@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "B-REE1-PRP1/01",
+    "Location": "1365",
+    "Description": "Dozent: EGR/NIDR",
+    "StartTime": "2023-11-17T08:10:00+01:00",
+    "EndTime": "2023-11-17T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE1-PRP1/01",
+    "Location": "1365",
+    "Description": "Dozent: EGR/NIDR",
+    "StartTime": "2023-12-01T08:10:00+01:00",
+    "EndTime": "2023-12-01T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE1-PRP1/01",
+    "Location": "1365",
+    "Description": "Dozent: EGR/NIDR",
+    "StartTime": "2023-12-15T08:10:00+01:00",
+    "EndTime": "2023-12-15T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE1-PRP1/01",
+    "Location": "1365",
+    "Description": "Dozent: EGR/NIDR",
+    "StartTime": "2024-01-12T08:10:00+01:00",
+    "EndTime": "2024-01-12T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE1-PRP1/01",
+    "Location": "1365",
+    "Description": "Dozent: EGR/NIDR",
+    "StartTime": "2024-01-26T08:10:00+01:00",
+    "EndTime": "2024-01-26T11:25:00+01:00"
+  }
+]

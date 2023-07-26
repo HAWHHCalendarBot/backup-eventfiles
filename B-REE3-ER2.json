@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "0861",
+    "Description": "Dozent: RTH",
+    "StartTime": "2023-10-12T08:10:00+02:00",
+    "EndTime": "2023-10-12T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "1465",
+    "Description": "Dozent: RTH",
+    "StartTime": "2023-10-13T08:10:00+02:00",
+    "EndTime": "2023-10-13T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "0861",
+    "Description": "Dozent: RTH",
+    "StartTime": "2023-10-19T08:10:00+02:00",
+    "EndTime": "2023-10-19T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "1465",
+    "Description": "Dozent: RTH",
+    "StartTime": "2023-10-20T08:10:00+02:00",
+    "EndTime": "2023-10-20T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "0861",
+    "Description": "Dozent: RTH",
+    "StartTime": "2023-11-02T08:10:00+01:00",
+    "EndTime": "2023-11-02T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "1465",
+    "Description": "Dozent: RTH",
+    "StartTime": "2023-11-10T08:10:00+01:00",
+    "EndTime": "2023-11-10T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "1465",
+    "Description": "Dozent: RTH",
+    "StartTime": "2023-11-17T08:10:00+01:00",
+    "EndTime": "2023-11-17T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "1465",
+    "Description": "Dozent: RTH",
+    "StartTime": "2023-11-24T08:10:00+01:00",
+    "EndTime": "2023-11-24T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "1465",
+    "Description": "Dozent: RTH",
+    "StartTime": "2023-12-01T08:10:00+01:00",
+    "EndTime": "2023-12-01T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "1465",
+    "Description": "Dozent: RTH",
+    "StartTime": "2023-12-08T08:10:00+01:00",
+    "EndTime": "2023-12-08T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "1465",
+    "Description": "Dozent: RTH",
+    "StartTime": "2023-12-15T08:10:00+01:00",
+    "EndTime": "2023-12-15T11:25:00+01:00"
+  }
+]

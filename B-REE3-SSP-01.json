@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "B-REE3-SSP/01",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: KRN",
+    "StartTime": "2023-10-30T09:55:00+01:00",
+    "EndTime": "2023-10-30T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-SSP/01",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: KRN",
+    "StartTime": "2023-11-20T09:55:00+01:00",
+    "EndTime": "2023-11-20T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-SSP/01",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: KRN",
+    "StartTime": "2023-12-11T09:55:00+01:00",
+    "EndTime": "2023-12-11T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-SSP/01",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: KRN",
+    "StartTime": "2024-01-15T09:55:00+01:00",
+    "EndTime": "2024-01-15T11:25:00+01:00"
+  }
+]

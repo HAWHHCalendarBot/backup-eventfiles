@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "IE4-MCL/01",
+    "Location": "0880",
+    "Description": "Dozent: SHRR",
+    "StartTime": "2023-11-15T08:10:00+01:00",
+    "EndTime": "2023-11-15T11:25:00+01:00"
+  },
+  {
+    "Name": "IE4-MCL/01",
+    "Location": "0880",
+    "Description": "Dozent: SHRR",
+    "StartTime": "2023-11-22T08:10:00+01:00",
+    "EndTime": "2023-11-22T11:25:00+01:00"
+  },
+  {
+    "Name": "IE4-MCL/01",
+    "Location": "0880",
+    "Description": "Dozent: SHRR",
+    "StartTime": "2023-12-13T08:10:00+01:00",
+    "EndTime": "2023-12-13T11:25:00+01:00"
+  },
+  {
+    "Name": "IE4-MCL/01",
+    "Location": "0880",
+    "Description": "Dozent: SHRR",
+    "StartTime": "2024-01-10T08:10:00+01:00",
+    "EndTime": "2024-01-10T11:25:00+01:00"
+  },
+  {
+    "Name": "IE4-MCL/01",
+    "Location": "0880",
+    "Description": "Dozent: SHRR",
+    "StartTime": "2024-01-17T08:10:00+01:00",
+    "EndTime": "2024-01-17T11:25:00+01:00"
+  }
+]

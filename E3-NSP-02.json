@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E3-NSP/02",
+    "Location": "",
+    "Description": "Dozent: LGE",
+    "StartTime": "2023-10-26T08:10:00+02:00",
+    "EndTime": "2023-10-26T11:25:00+02:00"
+  },
+  {
+    "Name": "E3-NSP/02",
+    "Location": "1365",
+    "Description": "Dozent: LGE",
+    "StartTime": "2023-11-23T08:10:00+01:00",
+    "EndTime": "2023-11-23T11:25:00+01:00"
+  },
+  {
+    "Name": "E3-NSP/02",
+    "Location": "1365",
+    "Description": "Dozent: LGE",
+    "StartTime": "2023-12-14T08:10:00+01:00",
+    "EndTime": "2023-12-14T11:25:00+01:00"
+  },
+  {
+    "Name": "E3-NSP/02",
+    "Location": "1365",
+    "Description": "Dozent: LGE",
+    "StartTime": "2024-01-18T08:10:00+01:00",
+    "EndTime": "2024-01-18T11:25:00+01:00"
+  }
+]

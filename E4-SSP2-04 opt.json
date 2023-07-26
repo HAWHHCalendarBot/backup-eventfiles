@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "E4-SSP2/04 opt",
+    "Location": "1303b",
+    "Description": "Dozent: ERD",
+    "StartTime": "2023-11-28T08:10:00+01:00",
+    "EndTime": "2023-11-28T11:25:00+01:00"
+  },
+  {
+    "Name": "E4-SSP2/04 opt",
+    "Location": "1303b",
+    "Description": "Dozent: ERD",
+    "StartTime": "2023-12-19T08:10:00+01:00",
+    "EndTime": "2023-12-19T11:25:00+01:00"
+  },
+  {
+    "Name": "E4-SSP2/04 opt",
+    "Location": "1303b",
+    "Description": "Dozent: ERD",
+    "StartTime": "2024-01-23T08:10:00+01:00",
+    "EndTime": "2024-01-23T11:25:00+01:00"
+  }
+]

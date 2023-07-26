@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "B-REE1-EEP/01",
+    "Location": "",
+    "Description": "Dozent: HSE/SZNY",
+    "StartTime": "2023-11-03T08:10:00+01:00",
+    "EndTime": "2023-11-03T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE1-EEP/01",
+    "Location": "0303",
+    "Description": "Dozent: HSE/SZNY",
+    "StartTime": "2023-11-24T08:10:00+01:00",
+    "EndTime": "2023-11-24T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE1-EEP/01",
+    "Location": "0303",
+    "Description": "Dozent: HSE/SZNY",
+    "StartTime": "2023-12-22T08:10:00+01:00",
+    "EndTime": "2023-12-22T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE1-EEP/01",
+    "Location": "0303",
+    "Description": "Dozent: HSE/SZNY",
+    "StartTime": "2024-01-19T08:10:00+01:00",
+    "EndTime": "2024-01-19T11:25:00+01:00"
+  }
+]

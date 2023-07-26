@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "B-REE1-ETP1/01",
+    "Location": "",
+    "Description": "Dozent: RDT/[Rac]",
+    "StartTime": "2023-11-01T08:10:00+01:00",
+    "EndTime": "2023-11-01T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE1-ETP1/01",
+    "Location": "0502",
+    "Description": "Dozent: RDT/[Rac]",
+    "StartTime": "2023-11-22T08:10:00+01:00",
+    "EndTime": "2023-11-22T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE1-ETP1/01",
+    "Location": "0502",
+    "Description": "Dozent: RDT/[Rac]",
+    "StartTime": "2023-12-06T08:10:00+01:00",
+    "EndTime": "2023-12-06T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE1-ETP1/01",
+    "Location": "0502",
+    "Description": "Dozent: RDT/[Rac]",
+    "StartTime": "2024-01-17T08:10:00+01:00",
+    "EndTime": "2024-01-17T11:25:00+01:00"
+  }
+]

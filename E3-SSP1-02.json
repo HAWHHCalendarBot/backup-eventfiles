@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E3-SSP1/02",
+    "Location": "",
+    "Description": "Dozent: VLM/NGBR",
+    "StartTime": "2023-10-17T14:10:00+02:00",
+    "EndTime": "2023-10-17T15:40:00+02:00"
+  },
+  {
+    "Name": "E3-SSP1/02",
+    "Location": "1365",
+    "Description": "Dozent: VLM/NGBR",
+    "StartTime": "2023-11-07T12:10:00+01:00",
+    "EndTime": "2023-11-07T13:40:00+01:00"
+  },
+  {
+    "Name": "E3-SSP1/02",
+    "Location": "1365",
+    "Description": "Dozent: VLM/NGBR",
+    "StartTime": "2023-11-28T12:10:00+01:00",
+    "EndTime": "2023-11-28T13:40:00+01:00"
+  },
+  {
+    "Name": "E3-SSP1/02",
+    "Location": "1365",
+    "Description": "Dozent: VLM/NGBR",
+    "StartTime": "2023-12-19T12:10:00+01:00",
+    "EndTime": "2023-12-19T13:40:00+01:00"
+  }
+]

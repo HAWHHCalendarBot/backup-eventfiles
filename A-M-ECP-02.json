@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "A-M-ECP/02",
+    "Location": "0402",
+    "Description": "Dozent: [Huss]/MNR",
+    "StartTime": "2023-11-01T09:55:00+01:00",
+    "EndTime": "2023-11-01T11:25:00+01:00"
+  },
+  {
+    "Name": "A-M-ECP/02",
+    "Location": "0402",
+    "Description": "Dozent: [Huss]/MNR",
+    "StartTime": "2023-11-29T08:10:00+01:00",
+    "EndTime": "2023-11-29T11:25:00+01:00"
+  },
+  {
+    "Name": "A-M-ECP/02",
+    "Location": "0402",
+    "Description": "Dozent: [Huss]/MNR",
+    "StartTime": "2023-12-20T08:10:00+01:00",
+    "EndTime": "2023-12-20T11:25:00+01:00"
+  },
+  {
+    "Name": "A-M-ECP/02",
+    "Location": "0402",
+    "Description": "Dozent: [Huss]/MNR",
+    "StartTime": "2024-01-24T08:10:00+01:00",
+    "EndTime": "2024-01-24T11:25:00+01:00"
+  }
+]

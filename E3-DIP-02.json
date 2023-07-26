@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E3-DIP/02",
+    "Location": "",
+    "Description": "Dozent: LTL/NGBR",
+    "StartTime": "2023-11-02T08:10:00+01:00",
+    "EndTime": "2023-11-02T11:25:00+01:00"
+  },
+  {
+    "Name": "E3-DIP/02",
+    "Location": "0801",
+    "Description": "Dozent: LTL/NGBR",
+    "StartTime": "2023-11-16T08:10:00+01:00",
+    "EndTime": "2023-11-16T11:25:00+01:00"
+  },
+  {
+    "Name": "E3-DIP/02",
+    "Location": "0801",
+    "Description": "Dozent: LTL/NGBR",
+    "StartTime": "2023-12-07T08:10:00+01:00",
+    "EndTime": "2023-12-07T11:25:00+01:00"
+  },
+  {
+    "Name": "E3-DIP/02",
+    "Location": "0801",
+    "Description": "Dozent: LTL/NGBR",
+    "StartTime": "2024-01-11T08:10:00+01:00",
+    "EndTime": "2024-01-11T11:25:00+01:00"
+  }
+]

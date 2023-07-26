@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BMT1-PRP1/02",
+    "Location": "0765",
+    "Description": "Dozent: WNKL/[DeG]",
+    "StartTime": "2023-11-06T08:15:00+01:00",
+    "EndTime": "2023-11-06T11:30:00+01:00"
+  },
+  {
+    "Name": "BMT1-PRP1/02",
+    "Location": "0765",
+    "Description": "Dozent: WNKL/[DeG]",
+    "StartTime": "2023-11-27T08:15:00+01:00",
+    "EndTime": "2023-11-27T11:30:00+01:00"
+  },
+  {
+    "Name": "BMT1-PRP1/02",
+    "Location": "0765",
+    "Description": "Dozent: WNKL/[DeG]",
+    "StartTime": "2023-12-18T08:15:00+01:00",
+    "EndTime": "2023-12-18T11:30:00+01:00"
+  },
+  {
+    "Name": "BMT1-PRP1/02",
+    "Location": "0765",
+    "Description": "Dozent: WNKL/[DeG]",
+    "StartTime": "2024-01-22T08:15:00+01:00",
+    "EndTime": "2024-01-22T11:30:00+01:00"
+  }
+]

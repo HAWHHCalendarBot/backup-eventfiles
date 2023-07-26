@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E6-RYP/01",
+    "Location": "",
+    "Description": "Dozent: ERD/[Huss]",
+    "StartTime": "2023-11-06T08:10:00+01:00",
+    "EndTime": "2023-11-06T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-RYP/01",
+    "Location": "0601",
+    "Description": "Dozent: ERD/[Huss]",
+    "StartTime": "2023-11-27T08:10:00+01:00",
+    "EndTime": "2023-11-27T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-RYP/01",
+    "Location": "0601",
+    "Description": "Dozent: ERD/[Huss]",
+    "StartTime": "2023-12-18T08:10:00+01:00",
+    "EndTime": "2023-12-18T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-RYP/01",
+    "Location": "0601",
+    "Description": "Dozent: ERD/[Huss]",
+    "StartTime": "2024-01-22T08:10:00+01:00",
+    "EndTime": "2024-01-22T11:25:00+01:00"
+  }
+]
