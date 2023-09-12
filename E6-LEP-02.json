@@ -1,10 +1,17 @@
 [
   {
     "Name": "E6-LEP/02",
-    "Location": "",
+    "Location": "0301, 1260",
     "Description": "Dozent: HSE/[Kor]",
-    "StartTime": "2023-10-24T12:10:00+02:00",
-    "EndTime": "2023-10-24T15:40:00+02:00"
+    "StartTime": "2023-11-01T12:10:00+01:00",
+    "EndTime": "2023-11-01T15:40:00+01:00"
+  },
+  {
+    "Name": "E6-LEP/02",
+    "Location": "1260",
+    "Description": "Dozent: HSE/[Kor]",
+    "StartTime": "2023-11-01T12:10:00+01:00",
+    "EndTime": "2023-11-01T15:40:00+01:00"
   },
   {
     "Name": "E6-LEP/02",

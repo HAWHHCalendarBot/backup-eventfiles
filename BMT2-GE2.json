@@ -3,6 +3,13 @@
     "Name": "BMT2-GE2",
     "Location": "1281",
     "Description": "Dozent: LI",
+    "StartTime": "2023-10-10T08:10:00+02:00",
+    "EndTime": "2023-10-10T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT2-GE2",
+    "Location": "1281",
+    "Description": "Dozent: LI",
     "StartTime": "2023-10-10T12:10:00+02:00",
     "EndTime": "2023-10-10T15:40:00+02:00"
   },
@@ -68,12 +75,5 @@
     "Description": "Dozent: LI",
     "StartTime": "2023-12-19T12:10:00+01:00",
     "EndTime": "2023-12-19T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT2-GE2",
-    "Location": "1281",
-    "Description": "Dozent: LI",
-    "StartTime": "2024-01-09T12:10:00+01:00",
-    "EndTime": "2024-01-09T15:40:00+01:00"
   }
 ]

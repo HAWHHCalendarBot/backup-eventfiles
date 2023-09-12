@@ -1,7 +1,14 @@
 [
   {
     "Name": "E3-ELP2/02",
-    "Location": "",
+    "Location": "0505, 0560",
+    "Description": "Dozent: AHSD/[Has]",
+    "StartTime": "2023-10-24T12:10:00+02:00",
+    "EndTime": "2023-10-24T15:40:00+02:00"
+  },
+  {
+    "Name": "E3-ELP2/02",
+    "Location": "0560",
     "Description": "Dozent: AHSD/[Has]",
     "StartTime": "2023-10-24T12:10:00+02:00",
     "EndTime": "2023-10-24T15:40:00+02:00"

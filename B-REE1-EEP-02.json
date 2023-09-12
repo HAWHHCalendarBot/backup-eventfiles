@@ -1,7 +1,14 @@
 [
   {
     "Name": "B-REE1-EEP/02",
-    "Location": "",
+    "Location": "0303, 0660",
+    "Description": "Dozent: HSE/SZNY",
+    "StartTime": "2023-11-03T08:10:00+01:00",
+    "EndTime": "2023-11-03T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE1-EEP/02",
+    "Location": "0660",
     "Description": "Dozent: HSE/SZNY",
     "StartTime": "2023-11-03T08:10:00+01:00",
     "EndTime": "2023-11-03T11:25:00+01:00"

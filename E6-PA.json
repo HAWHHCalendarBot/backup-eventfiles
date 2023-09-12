@@ -1,14 +1,14 @@
 [
   {
     "Name": "E6-PA",
-    "Location": "NB 01.13",
+    "Location": "1260",
     "Description": "Dozent: MAA",
     "StartTime": "2023-10-11T08:10:00+02:00",
     "EndTime": "2023-10-11T11:25:00+02:00"
   },
   {
     "Name": "E6-PA",
-    "Location": "NB 01.13",
+    "Location": "1260",
     "Description": "Dozent: MAA",
     "StartTime": "2023-10-18T08:10:00+02:00",
     "EndTime": "2023-10-18T11:25:00+02:00"
@@ -17,22 +17,8 @@
     "Name": "E6-PA",
     "Location": "NB 01.13",
     "Description": "Dozent: MAA",
-    "StartTime": "2023-10-25T08:10:00+02:00",
-    "EndTime": "2023-10-25T11:25:00+02:00"
-  },
-  {
-    "Name": "E6-PA",
-    "Location": "NB 01.13",
-    "Description": "Dozent: MAA",
     "StartTime": "2023-11-01T08:10:00+01:00",
     "EndTime": "2023-11-01T11:25:00+01:00"
-  },
-  {
-    "Name": "E6-PA",
-    "Location": "NB 01.13",
-    "Description": "Dozent: MAA",
-    "StartTime": "2023-11-08T08:10:00+01:00",
-    "EndTime": "2023-11-08T11:25:00+01:00"
   },
   {
     "Name": "E6-PA",
@@ -75,5 +61,19 @@
     "Description": "Dozent: MAA",
     "StartTime": "2023-12-20T08:10:00+01:00",
     "EndTime": "2023-12-20T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-PA",
+    "Location": "NB 01.13",
+    "Description": "Dozent: MAA",
+    "StartTime": "2024-01-10T08:10:00+01:00",
+    "EndTime": "2024-01-10T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-PA",
+    "Location": "NB 01.13",
+    "Description": "Dozent: MAA",
+    "StartTime": "2024-01-17T08:10:00+01:00",
+    "EndTime": "2024-01-17T11:25:00+01:00"
   }
 ]

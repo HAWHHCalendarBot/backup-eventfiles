@@ -1,14 +1,14 @@
 [
   {
     "Name": "IE1-MA1",
-    "Location": "NB 01.13",
+    "Location": "1260",
     "Description": "Dozent: NIDR",
     "StartTime": "2023-10-12T08:10:00+02:00",
     "EndTime": "2023-10-12T11:25:00+02:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "NB 01.13",
+    "Location": "1260",
     "Description": "Dozent: NIDR",
     "StartTime": "2023-10-19T08:10:00+02:00",
     "EndTime": "2023-10-19T11:25:00+02:00"
@@ -22,14 +22,14 @@
   },
   {
     "Name": "IE1-MA1",
-    "Location": "NB 01.13",
+    "Location": "1260",
     "Description": "Dozent: NIDR",
     "StartTime": "2023-11-02T08:10:00+01:00",
     "EndTime": "2023-11-02T11:25:00+01:00"
   },
   {
     "Name": "IE1-MA1",
-    "Location": "NB 01.13",
+    "Location": "1260",
     "Description": "Dozent: NIDR",
     "StartTime": "2023-11-09T08:10:00+01:00",
     "EndTime": "2023-11-09T11:25:00+01:00"

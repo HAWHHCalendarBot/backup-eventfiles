@@ -2,7 +2,7 @@
   {
     "Name": "B-REE3-IPJ1",
     "Location": "0862",
-    "Description": "Dozent: EGR/RNZ",
+    "Description": "Dozent: EGR",
     "StartTime": "2023-10-10T12:10:00+02:00",
     "EndTime": "2023-10-10T15:40:00+02:00"
   },
@@ -15,8 +15,8 @@
   },
   {
     "Name": "B-REE3-IPJ1",
-    "Location": "0560",
-    "Description": "Dozent: EGR/RNZ",
+    "Location": "0862",
+    "Description": "Dozent: EGR",
     "StartTime": "2023-10-24T12:10:00+02:00",
     "EndTime": "2023-10-24T15:40:00+02:00"
   },

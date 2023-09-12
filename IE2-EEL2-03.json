@@ -1,7 +1,14 @@
 [
   {
     "Name": "IE2-EEL2/03",
-    "Location": "",
+    "Location": "0501, 1281",
+    "Description": "Dozent: LAP/WTMR",
+    "StartTime": "2023-10-24T08:10:00+02:00",
+    "EndTime": "2023-10-24T11:25:00+02:00"
+  },
+  {
+    "Name": "IE2-EEL2/03",
+    "Location": "1281",
     "Description": "Dozent: LAP/WTMR",
     "StartTime": "2023-10-24T08:10:00+02:00",
     "EndTime": "2023-10-24T11:25:00+02:00"

@@ -1,7 +1,14 @@
 [
   {
     "Name": "E2b-PRP2/02",
-    "Location": "",
+    "Location": "1260, 1365",
+    "Description": "Dozent: HST",
+    "StartTime": "2023-10-24T08:10:00+02:00",
+    "EndTime": "2023-10-24T11:25:00+02:00"
+  },
+  {
+    "Name": "E2b-PRP2/02",
+    "Location": "1365",
     "Description": "Dozent: HST",
     "StartTime": "2023-10-24T08:10:00+02:00",
     "EndTime": "2023-10-24T11:25:00+02:00"

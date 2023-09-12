@@ -1,44 +1,44 @@
 [
   {
     "Name": "E1a-LAUe/01",
-    "Location": "Stiftstr69  R110",
+    "Location": "0862",
     "Description": "Dozent: JNM",
-    "StartTime": "2023-11-03T12:10:00+01:00",
-    "EndTime": "2023-11-03T13:40:00+01:00"
+    "StartTime": "2023-11-02T09:55:00+01:00",
+    "EndTime": "2023-11-02T11:25:00+01:00"
   },
   {
     "Name": "E1a-LAUe/01",
-    "Location": "Stiftstr69  R110",
+    "Location": "0862",
     "Description": "Dozent: JNM",
-    "StartTime": "2023-11-17T12:10:00+01:00",
-    "EndTime": "2023-11-17T13:40:00+01:00"
+    "StartTime": "2023-11-16T09:55:00+01:00",
+    "EndTime": "2023-11-16T11:25:00+01:00"
   },
   {
     "Name": "E1a-LAUe/01",
-    "Location": "Stiftstr69  R110",
+    "Location": "0862",
     "Description": "Dozent: JNM",
-    "StartTime": "2023-12-01T12:10:00+01:00",
-    "EndTime": "2023-12-01T13:40:00+01:00"
+    "StartTime": "2023-11-30T09:55:00+01:00",
+    "EndTime": "2023-11-30T11:25:00+01:00"
   },
   {
     "Name": "E1a-LAUe/01",
-    "Location": "Stiftstr69  R110",
+    "Location": "0862",
     "Description": "Dozent: JNM",
-    "StartTime": "2023-12-15T12:10:00+01:00",
-    "EndTime": "2023-12-15T13:40:00+01:00"
+    "StartTime": "2023-12-14T09:55:00+01:00",
+    "EndTime": "2023-12-14T11:25:00+01:00"
   },
   {
     "Name": "E1a-LAUe/01",
-    "Location": "Stiftstr69  R110",
+    "Location": "0862",
     "Description": "Dozent: JNM",
-    "StartTime": "2024-01-12T12:10:00+01:00",
-    "EndTime": "2024-01-12T13:40:00+01:00"
+    "StartTime": "2024-01-11T09:55:00+01:00",
+    "EndTime": "2024-01-11T11:25:00+01:00"
   },
   {
     "Name": "E1a-LAUe/01",
-    "Location": "Stiftstr69  R110",
+    "Location": "0862",
     "Description": "Dozent: JNM",
-    "StartTime": "2024-01-26T12:10:00+01:00",
-    "EndTime": "2024-01-26T13:40:00+01:00"
+    "StartTime": "2024-01-25T09:55:00+01:00",
+    "EndTime": "2024-01-25T11:25:00+01:00"
   }
 ]

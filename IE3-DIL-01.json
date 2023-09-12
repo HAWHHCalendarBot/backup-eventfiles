@@ -1,7 +1,14 @@
 [
   {
     "Name": "IE3-DIL/01",
-    "Location": "",
+    "Location": "0804, 1260",
+    "Description": "Dozent: SCZ/SHRR",
+    "StartTime": "2023-10-27T08:10:00+02:00",
+    "EndTime": "2023-10-27T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-DIL/01",
+    "Location": "1260",
     "Description": "Dozent: SCZ/SHRR",
     "StartTime": "2023-10-27T08:10:00+02:00",
     "EndTime": "2023-10-27T11:25:00+02:00"

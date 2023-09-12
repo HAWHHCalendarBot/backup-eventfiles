@@ -1,100 +1,86 @@
 [
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1283",
     "Description": "Dozent: WNK",
-    "StartTime": "2023-10-09T12:10:00+02:00",
-    "EndTime": "2023-10-09T15:40:00+02:00"
+    "StartTime": "2023-10-09T08:10:00+02:00",
+    "EndTime": "2023-10-09T11:25:00+02:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1265",
     "Description": "Dozent: WNK",
-    "StartTime": "2023-10-16T12:10:00+02:00",
-    "EndTime": "2023-10-16T15:40:00+02:00"
+    "StartTime": "2023-10-10T08:10:00+02:00",
+    "EndTime": "2023-10-10T11:25:00+02:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1283",
     "Description": "Dozent: WNK",
-    "StartTime": "2023-10-23T12:10:00+02:00",
-    "EndTime": "2023-10-23T15:40:00+02:00"
+    "StartTime": "2023-10-16T08:10:00+02:00",
+    "EndTime": "2023-10-16T11:25:00+02:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1265",
     "Description": "Dozent: WNK",
-    "StartTime": "2023-10-30T12:10:00+01:00",
-    "EndTime": "2023-10-30T15:40:00+01:00"
+    "StartTime": "2023-10-17T08:10:00+02:00",
+    "EndTime": "2023-10-17T11:25:00+02:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1283",
     "Description": "Dozent: WNK",
-    "StartTime": "2023-11-06T12:10:00+01:00",
-    "EndTime": "2023-11-06T15:40:00+01:00"
+    "StartTime": "2023-10-23T08:10:00+02:00",
+    "EndTime": "2023-10-23T11:25:00+02:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1265",
     "Description": "Dozent: WNK",
-    "StartTime": "2023-11-13T12:10:00+01:00",
-    "EndTime": "2023-11-13T15:40:00+01:00"
+    "StartTime": "2023-10-24T08:10:00+02:00",
+    "EndTime": "2023-10-24T11:25:00+02:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1265",
     "Description": "Dozent: WNK",
-    "StartTime": "2023-11-20T12:10:00+01:00",
-    "EndTime": "2023-11-20T15:40:00+01:00"
+    "StartTime": "2023-11-07T08:10:00+01:00",
+    "EndTime": "2023-11-07T11:25:00+01:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1265",
     "Description": "Dozent: WNK",
-    "StartTime": "2023-11-27T12:10:00+01:00",
-    "EndTime": "2023-11-27T15:40:00+01:00"
+    "StartTime": "2023-11-21T08:10:00+01:00",
+    "EndTime": "2023-11-21T11:25:00+01:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1265",
     "Description": "Dozent: WNK",
-    "StartTime": "2023-12-04T12:10:00+01:00",
-    "EndTime": "2023-12-04T15:40:00+01:00"
+    "StartTime": "2023-12-05T08:10:00+01:00",
+    "EndTime": "2023-12-05T11:25:00+01:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1265",
     "Description": "Dozent: WNK",
-    "StartTime": "2023-12-11T12:10:00+01:00",
-    "EndTime": "2023-12-11T15:40:00+01:00"
+    "StartTime": "2023-12-19T08:10:00+01:00",
+    "EndTime": "2023-12-19T11:25:00+01:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1265",
     "Description": "Dozent: WNK",
-    "StartTime": "2023-12-18T12:10:00+01:00",
-    "EndTime": "2023-12-18T15:40:00+01:00"
+    "StartTime": "2024-01-16T08:10:00+01:00",
+    "EndTime": "2024-01-16T11:25:00+01:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1265",
     "Description": "Dozent: WNK",
-    "StartTime": "2024-01-08T12:10:00+01:00",
-    "EndTime": "2024-01-08T15:40:00+01:00"
-  },
-  {
-    "Name": "SHC-GR",
-    "Location": "1281",
-    "Description": "Dozent: WNK",
-    "StartTime": "2024-01-15T12:10:00+01:00",
-    "EndTime": "2024-01-15T15:40:00+01:00"
-  },
-  {
-    "Name": "SHC-GR",
-    "Location": "1281",
-    "Description": "Dozent: WNK",
-    "StartTime": "2024-01-22T12:10:00+01:00",
-    "EndTime": "2024-01-22T15:40:00+01:00"
+    "StartTime": "2024-01-23T08:10:00+01:00",
+    "EndTime": "2024-01-23T11:25:00+01:00"
   }
 ]
