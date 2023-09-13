@@ -4,27 +4,27 @@
     "Location": "0360",
     "Description": "Dozent: DRK",
     "StartTime": "2023-10-26T12:10:00+02:00",
-    "EndTime": "2023-10-26T15:40:00+02:00"
+    "EndTime": "2023-10-26T15:25:00+02:00"
   },
   {
     "Name": "E3-OPP/01",
     "Location": "1360",
     "Description": "Dozent: DRK",
     "StartTime": "2023-11-16T12:10:00+01:00",
-    "EndTime": "2023-11-16T15:40:00+01:00"
+    "EndTime": "2023-11-16T15:25:00+01:00"
   },
   {
     "Name": "E3-OPP/01",
     "Location": "1360",
     "Description": "Dozent: DRK",
     "StartTime": "2023-12-07T12:10:00+01:00",
-    "EndTime": "2023-12-07T15:40:00+01:00"
+    "EndTime": "2023-12-07T15:25:00+01:00"
   },
   {
     "Name": "E3-OPP/01",
     "Location": "1360",
     "Description": "Dozent: DRK",
     "StartTime": "2024-01-11T12:10:00+01:00",
-    "EndTime": "2024-01-11T15:40:00+01:00"
+    "EndTime": "2024-01-11T15:25:00+01:00"
   }
 ]
