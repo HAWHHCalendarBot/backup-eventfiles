@@ -1,6 +1,13 @@
 [
   {
     "Name": "B-REE1-MA1/MAUe1",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: LND",
+    "StartTime": "2023-10-11T08:10:00+02:00",
+    "EndTime": "2023-10-11T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE1-MA1/MAUe1",
     "Location": "0560",
     "Description": "Dozent: LND",
     "StartTime": "2023-10-12T12:10:00+02:00",
@@ -22,17 +29,17 @@
   },
   {
     "Name": "B-REE1-MA1/MAUe1",
-    "Location": "1301a, 1301b",
-    "Description": "Dozent: LND",
-    "StartTime": "2023-10-19T12:10:00+02:00",
-    "EndTime": "2023-10-19T15:40:00+02:00"
-  },
-  {
-    "Name": "B-REE1-MA1/MAUe1",
     "Location": "Stiftstr69  R106",
     "Description": "Dozent: LND",
     "StartTime": "2023-10-24T12:10:00+02:00",
     "EndTime": "2023-10-24T15:40:00+02:00"
+  },
+  {
+    "Name": "B-REE1-MA1/MAUe1",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: LND",
+    "StartTime": "2023-10-25T08:10:00+02:00",
+    "EndTime": "2023-10-25T11:25:00+02:00"
   },
   {
     "Name": "B-REE1-MA1/MAUe1",
@@ -47,6 +54,13 @@
     "Description": "Dozent: LND",
     "StartTime": "2023-11-02T12:10:00+01:00",
     "EndTime": "2023-11-02T15:40:00+01:00"
+  },
+  {
+    "Name": "B-REE1-MA1/MAUe1",
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: LND",
+    "StartTime": "2023-11-06T08:10:00+01:00",
+    "EndTime": "2023-11-06T11:25:00+01:00"
   },
   {
     "Name": "B-REE1-MA1/MAUe1",
@@ -106,6 +120,13 @@
   },
   {
     "Name": "B-REE1-MA1/MAUe1",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: LND",
+    "StartTime": "2023-12-04T08:10:00+01:00",
+    "EndTime": "2023-12-04T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE1-MA1/MAUe1",
     "Location": "Stiftstr69  R106",
     "Description": "Dozent: LND",
     "StartTime": "2023-12-05T12:10:00+01:00",
@@ -159,6 +180,13 @@
     "Description": "Dozent: LND",
     "StartTime": "2024-01-11T12:10:00+01:00",
     "EndTime": "2024-01-11T15:40:00+01:00"
+  },
+  {
+    "Name": "B-REE1-MA1/MAUe1",
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: LND",
+    "StartTime": "2024-01-15T08:10:00+01:00",
+    "EndTime": "2024-01-15T11:25:00+01:00"
   },
   {
     "Name": "B-REE1-MA1/MAUe1",

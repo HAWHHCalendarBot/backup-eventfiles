@@ -8,6 +8,13 @@
   },
   {
     "Name": "E6-RE",
+    "Location": "",
+    "Description": "Dozent: RTH",
+    "StartTime": "2023-10-10T12:10:00+02:00",
+    "EndTime": "2023-10-10T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-RE",
     "Location": "0660",
     "Description": "Dozent: RTH",
     "StartTime": "2023-10-12T12:10:00+02:00",
@@ -22,17 +29,17 @@
   },
   {
     "Name": "E6-RE",
-    "Location": "0660",
+    "Location": "",
     "Description": "Dozent: RTH",
-    "StartTime": "2023-10-19T12:10:00+02:00",
-    "EndTime": "2023-10-19T15:40:00+02:00"
+    "StartTime": "2023-10-17T12:10:00+02:00",
+    "EndTime": "2023-10-17T15:40:00+02:00"
   },
   {
     "Name": "E6-RE",
     "Location": "0660",
     "Description": "Dozent: RTH",
-    "StartTime": "2023-11-02T12:10:00+01:00",
-    "EndTime": "2023-11-02T15:40:00+01:00"
+    "StartTime": "2023-10-19T12:10:00+02:00",
+    "EndTime": "2023-10-19T15:40:00+02:00"
   },
   {
     "Name": "E6-RE",

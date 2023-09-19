@@ -1,17 +1,17 @@
 [
   {
     "Name": "E6-REP/03",
-    "Location": "0303, 1001",
+    "Location": "0303, 0660",
     "Description": "Dozent: RTH/SZNY",
-    "StartTime": "2023-10-25T08:10:00+02:00",
-    "EndTime": "2023-10-25T11:25:00+02:00"
+    "StartTime": "2023-11-02T12:15:00+01:00",
+    "EndTime": "2023-11-02T15:30:00+01:00"
   },
   {
     "Name": "E6-REP/03",
-    "Location": "1001",
+    "Location": "0660",
     "Description": "Dozent: RTH/SZNY",
-    "StartTime": "2023-10-25T08:10:00+02:00",
-    "EndTime": "2023-10-25T11:25:00+02:00"
+    "StartTime": "2023-11-02T12:15:00+01:00",
+    "EndTime": "2023-11-02T15:30:00+01:00"
   },
   {
     "Name": "E6-REP/03",

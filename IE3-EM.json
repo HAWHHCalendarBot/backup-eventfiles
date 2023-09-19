@@ -73,7 +73,14 @@
     "Name": "IE3-EM",
     "Location": "1465",
     "Description": "Dozent: SHOK",
-    "StartTime": "2023-12-20T08:10:00+01:00",
-    "EndTime": "2023-12-20T11:25:00+01:00"
+    "StartTime": "2024-01-17T08:10:00+01:00",
+    "EndTime": "2024-01-17T11:25:00+01:00"
+  },
+  {
+    "Name": "IE3-EM",
+    "Location": "1465",
+    "Description": "Dozent: SHOK",
+    "StartTime": "2024-01-24T08:10:00+01:00",
+    "EndTime": "2024-01-24T11:25:00+01:00"
   }
 ]
