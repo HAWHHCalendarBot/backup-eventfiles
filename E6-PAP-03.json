@@ -1,7 +1,14 @@
 [
   {
     "Name": "E6-PAP/03",
-    "Location": "0402",
+    "Location": "0402, 1260",
+    "Description": "Dozent: GRS/STKR",
+    "StartTime": "2023-11-08T08:10:00+01:00",
+    "EndTime": "2023-11-08T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-PAP/03",
+    "Location": "1260",
     "Description": "Dozent: GRS/STKR",
     "StartTime": "2023-11-08T08:10:00+01:00",
     "EndTime": "2023-11-08T11:25:00+01:00"
