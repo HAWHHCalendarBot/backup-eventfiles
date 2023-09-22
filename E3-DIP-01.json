@@ -1,14 +1,7 @@
 [
   {
     "Name": "E3-DIP/01",
-    "Location": "0801, 1060",
-    "Description": "Dozent: LTL/NGBR",
-    "StartTime": "2023-11-02T08:10:00+01:00",
-    "EndTime": "2023-11-02T11:25:00+01:00"
-  },
-  {
-    "Name": "E3-DIP/01",
-    "Location": "1060",
+    "Location": "0801",
     "Description": "Dozent: LTL/NGBR",
     "StartTime": "2023-11-02T08:10:00+01:00",
     "EndTime": "2023-11-02T11:25:00+01:00"

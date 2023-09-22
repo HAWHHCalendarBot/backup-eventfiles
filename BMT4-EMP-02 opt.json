@@ -17,14 +17,14 @@
     "Name": "BMT4-EMP/02 opt",
     "Location": "0501",
     "Description": "Dozent: DHL/WTMR",
-    "StartTime": "2023-12-20T12:10:00+01:00",
-    "EndTime": "2023-12-20T15:40:00+01:00"
+    "StartTime": "2023-12-22T08:10:00+01:00",
+    "EndTime": "2023-12-22T11:25:00+01:00"
   },
   {
     "Name": "BMT4-EMP/02 opt",
     "Location": "0501",
     "Description": "Dozent: DHL/WTMR",
-    "StartTime": "2024-01-24T12:10:00+01:00",
-    "EndTime": "2024-01-24T15:40:00+01:00"
+    "StartTime": "2024-01-26T08:10:00+01:00",
+    "EndTime": "2024-01-26T11:25:00+01:00"
   }
 ]
