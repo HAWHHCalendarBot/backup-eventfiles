@@ -1,23 +1,23 @@
 [
   {
     "Name": "E3-OPP/05 opt",
-    "Location": "1301a, 1301b",
+    "Location": "1360",
     "Description": "Dozent: DRK",
-    "StartTime": "2023-11-23T08:10:00+01:00",
-    "EndTime": "2023-11-23T11:25:00+01:00"
+    "StartTime": "2023-11-30T12:10:00+01:00",
+    "EndTime": "2023-11-30T15:25:00+01:00"
   },
   {
     "Name": "E3-OPP/05 opt",
-    "Location": "1301a, 1301b",
+    "Location": "1360",
     "Description": "Dozent: DRK",
-    "StartTime": "2023-12-14T08:10:00+01:00",
-    "EndTime": "2023-12-14T11:25:00+01:00"
+    "StartTime": "2023-12-21T12:10:00+01:00",
+    "EndTime": "2023-12-21T15:25:00+01:00"
   },
   {
     "Name": "E3-OPP/05 opt",
-    "Location": "1301a, 1301b",
+    "Location": "1360",
     "Description": "Dozent: DRK",
-    "StartTime": "2024-01-18T08:10:00+01:00",
-    "EndTime": "2024-01-18T11:25:00+01:00"
+    "StartTime": "2024-01-25T12:10:00+01:00",
+    "EndTime": "2024-01-25T15:25:00+01:00"
   }
 ]
