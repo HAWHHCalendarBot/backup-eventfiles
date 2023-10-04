@@ -1,0 +1,100 @@
+[
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2023-10-16T16:00:00+02:00",
+    "EndTime": "2023-10-16T18:00:00+02:00"
+  },
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2023-10-23T16:00:00+02:00",
+    "EndTime": "2023-10-23T18:00:00+02:00"
+  },
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2023-10-30T16:00:00+01:00",
+    "EndTime": "2023-10-30T18:00:00+01:00"
+  },
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2023-11-06T16:00:00+01:00",
+    "EndTime": "2023-11-06T18:00:00+01:00"
+  },
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2023-11-13T16:00:00+01:00",
+    "EndTime": "2023-11-13T18:00:00+01:00"
+  },
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2023-11-20T16:00:00+01:00",
+    "EndTime": "2023-11-20T18:00:00+01:00"
+  },
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2023-11-27T16:00:00+01:00",
+    "EndTime": "2023-11-27T18:00:00+01:00"
+  },
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2023-12-04T16:00:00+01:00",
+    "EndTime": "2023-12-04T18:00:00+01:00"
+  },
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2023-12-11T16:00:00+01:00",
+    "EndTime": "2023-12-11T18:00:00+01:00"
+  },
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2023-12-18T16:00:00+01:00",
+    "EndTime": "2023-12-18T18:00:00+01:00"
+  },
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2024-01-08T16:00:00+01:00",
+    "EndTime": "2024-01-08T18:00:00+01:00"
+  },
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2024-01-15T16:00:00+01:00",
+    "EndTime": "2024-01-15T18:00:00+01:00"
+  },
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2024-01-22T16:00:00+01:00",
+    "EndTime": "2024-01-22T18:00:00+01:00"
+  },
+  {
+    "Name": "B-Seminar_E",
+    "Location": "1001",
+    "Description": "Dozent: NTZ/STG",
+    "StartTime": "2024-01-29T16:00:00+01:00",
+    "EndTime": "2024-01-29T18:00:00+01:00"
+  }
+]

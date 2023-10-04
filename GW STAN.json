@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "GW STAN",
+    "Location": "0665",
+    "Description": "Dozent: STAN",
+    "StartTime": "2023-10-19T16:00:00+02:00",
+    "EndTime": "2023-10-19T19:00:00+02:00"
+  },
+  {
+    "Name": "GW STAN",
+    "Location": "1283",
+    "Description": "Dozent: STAN",
+    "StartTime": "2023-11-11T09:00:00+01:00",
+    "EndTime": "2023-11-11T16:00:00+01:00"
+  },
+  {
+    "Name": "GW STAN",
+    "Location": "1283",
+    "Description": "Dozent: STAN",
+    "StartTime": "2023-11-18T09:00:00+01:00",
+    "EndTime": "2023-11-18T16:00:00+01:00"
+  },
+  {
+    "Name": "GW STAN",
+    "Location": "1283",
+    "Description": "Dozent: STAN",
+    "StartTime": "2023-11-25T09:00:00+01:00",
+    "EndTime": "2023-11-25T16:00:00+01:00"
+  }
+]

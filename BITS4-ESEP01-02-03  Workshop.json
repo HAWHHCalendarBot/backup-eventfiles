@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "BITS4-ESEP01/02/03  Workshop",
+    "Location": "0701",
+    "Description": "Dozent: KRF/LMN/[Chr]",
+    "StartTime": "2023-10-18T08:15:00+02:00",
+    "EndTime": "2023-10-18T17:00:00+02:00"
+  },
+  {
+    "Name": "BITS4-ESEP01/02/03  Workshop",
+    "Location": "0701, 0709, 0761, 0765, 1001",
+    "Description": "Dozent: KRF/LMN/[Chr]",
+    "StartTime": "2023-10-18T08:15:00+02:00",
+    "EndTime": "2023-10-18T17:00:00+02:00"
+  },
+  {
+    "Name": "BITS4-ESEP01/02/03  Workshop",
+    "Location": "0709",
+    "Description": "Dozent: KRF/LMN/[Chr]",
+    "StartTime": "2023-10-18T08:15:00+02:00",
+    "EndTime": "2023-10-18T17:00:00+02:00"
+  },
+  {
+    "Name": "BITS4-ESEP01/02/03  Workshop",
+    "Location": "0761",
+    "Description": "Dozent: KRF/LMN/[Chr]",
+    "StartTime": "2023-10-18T08:15:00+02:00",
+    "EndTime": "2023-10-18T17:00:00+02:00"
+  },
+  {
+    "Name": "BITS4-ESEP01/02/03  Workshop",
+    "Location": "0765",
+    "Description": "Dozent: KRF/LMN/[Chr]",
+    "StartTime": "2023-10-18T08:15:00+02:00",
+    "EndTime": "2023-10-18T17:00:00+02:00"
+  },
+  {
+    "Name": "BITS4-ESEP01/02/03  Workshop",
+    "Location": "1001",
+    "Description": "Dozent: KRF/LMN/[Chr]",
+    "StartTime": "2023-10-18T08:15:00+02:00",
+    "EndTime": "2023-10-18T17:00:00+02:00"
+  }
+]

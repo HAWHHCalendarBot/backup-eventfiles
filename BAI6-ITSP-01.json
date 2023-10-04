@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI6-ITSP/01",
+    "Location": "1165",
+    "Description": "Dozent: KSS",
+    "StartTime": "2023-10-23T14:15:00+02:00",
+    "EndTime": "2023-10-23T17:30:00+02:00"
+  },
+  {
+    "Name": "BAI6-ITSP/01",
+    "Location": "1165",
+    "Description": "Dozent: KSS",
+    "StartTime": "2023-11-13T14:15:00+01:00",
+    "EndTime": "2023-11-13T17:30:00+01:00"
+  },
+  {
+    "Name": "BAI6-ITSP/01",
+    "Location": "1165",
+    "Description": "Dozent: KSS",
+    "StartTime": "2023-12-04T14:15:00+01:00",
+    "EndTime": "2023-12-04T17:30:00+01:00"
+  },
+  {
+    "Name": "BAI6-ITSP/01",
+    "Location": "1165",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-01-08T14:15:00+01:00",
+    "EndTime": "2024-01-08T17:30:00+01:00"
+  }
+]

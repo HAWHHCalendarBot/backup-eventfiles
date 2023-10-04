@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BWI3-ADP/01",
+    "Location": "1101b",
+    "Description": "Dozent: PTSN/SHF",
+    "StartTime": "2023-10-26T08:15:00+02:00",
+    "EndTime": "2023-10-26T11:30:00+02:00"
+  },
+  {
+    "Name": "BWI3-ADP/01",
+    "Location": "1101b",
+    "Description": "Dozent: PTSN/SHF",
+    "StartTime": "2023-11-16T08:15:00+01:00",
+    "EndTime": "2023-11-16T11:30:00+01:00"
+  },
+  {
+    "Name": "BWI3-ADP/01",
+    "Location": "1101b",
+    "Description": "Dozent: PTSN/SHF",
+    "StartTime": "2023-12-07T08:15:00+01:00",
+    "EndTime": "2023-12-07T11:30:00+01:00"
+  },
+  {
+    "Name": "BWI3-ADP/01",
+    "Location": "1101b",
+    "Description": "Dozent: PTSN/SHF",
+    "StartTime": "2024-01-11T08:15:00+01:00",
+    "EndTime": "2024-01-11T11:30:00+01:00"
+  }
+]

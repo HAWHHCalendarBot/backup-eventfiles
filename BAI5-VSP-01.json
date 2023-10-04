@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI5-VSP/01",
+    "Location": "0765",
+    "Description": "Dozent: BCK/[Mat]",
+    "StartTime": "2023-11-02T08:15:00+01:00",
+    "EndTime": "2023-11-02T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI5-VSP/01",
+    "Location": "0765",
+    "Description": "Dozent: BCK/[Mat]",
+    "StartTime": "2023-11-23T08:15:00+01:00",
+    "EndTime": "2023-11-23T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI5-VSP/01",
+    "Location": "0765",
+    "Description": "Dozent: BCK/[Mat]",
+    "StartTime": "2023-12-14T08:15:00+01:00",
+    "EndTime": "2023-12-14T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI5-VSP/01",
+    "Location": "0765",
+    "Description": "Dozent: BCK/[Mat]",
+    "StartTime": "2024-01-18T08:15:00+01:00",
+    "EndTime": "2024-01-18T11:30:00+01:00"
+  }
+]
