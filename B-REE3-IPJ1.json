@@ -1,7 +1,7 @@
 [
   {
     "Name": "B-REE3-IPJ1",
-    "Location": "0862",
+    "Location": "Stiftstr69  R110",
     "Description": "Dozent: EGR",
     "StartTime": "2023-10-10T12:10:00+02:00",
     "EndTime": "2023-10-10T15:40:00+02:00"
@@ -16,7 +16,7 @@
   {
     "Name": "B-REE3-IPJ1",
     "Location": "0560",
-    "Description": "Dozent: EGR",
+    "Description": "Dozent: EGR/RNZ",
     "StartTime": "2023-10-23T08:10:00+02:00",
     "EndTime": "2023-10-23T11:25:00+02:00"
   },

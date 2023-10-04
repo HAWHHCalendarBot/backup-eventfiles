@@ -1,13 +1,6 @@
 [
   {
     "Name": "IE4-SE",
-    "Location": "Stiftstr69  R106",
-    "Description": "Dozent: RNZ",
-    "StartTime": "2023-10-16T12:10:00+02:00",
-    "EndTime": "2023-10-16T15:40:00+02:00"
-  },
-  {
-    "Name": "IE4-SE",
     "Location": "1065",
     "Description": "Dozent: RNZ",
     "StartTime": "2023-10-19T08:10:00+02:00",
@@ -22,13 +15,6 @@
   },
   {
     "Name": "IE4-SE",
-    "Location": "Stiftstr69  R106",
-    "Description": "Dozent: RNZ",
-    "StartTime": "2023-11-06T12:10:00+01:00",
-    "EndTime": "2023-11-06T15:40:00+01:00"
-  },
-  {
-    "Name": "IE4-SE",
     "Location": "1065",
     "Description": "Dozent: RNZ",
     "StartTime": "2023-11-09T08:10:00+01:00",
@@ -40,13 +26,6 @@
     "Description": "Dozent: RNZ",
     "StartTime": "2023-11-23T08:10:00+01:00",
     "EndTime": "2023-11-23T11:25:00+01:00"
-  },
-  {
-    "Name": "IE4-SE",
-    "Location": "1065",
-    "Description": "Dozent: RNZ",
-    "StartTime": "2023-11-30T08:10:00+01:00",
-    "EndTime": "2023-11-30T11:25:00+01:00"
   },
   {
     "Name": "IE4-SE",

@@ -29,17 +29,17 @@
   },
   {
     "Name": "IE2-MA2",
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-11-15T12:10:00+01:00",
+    "EndTime": "2023-11-15T15:40:00+01:00"
+  },
+  {
+    "Name": "IE2-MA2",
     "Location": "1060",
     "Description": "Dozent: NMN",
     "StartTime": "2023-11-21T12:10:00+01:00",
     "EndTime": "2023-11-21T15:40:00+01:00"
-  },
-  {
-    "Name": "IE2-MA2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: NMN",
-    "StartTime": "2023-11-22T12:10:00+01:00",
-    "EndTime": "2023-11-22T15:40:00+01:00"
   },
   {
     "Name": "IE2-MA2",
@@ -57,17 +57,17 @@
   },
   {
     "Name": "IE2-MA2",
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: NMN",
+    "StartTime": "2023-12-06T12:10:00+01:00",
+    "EndTime": "2023-12-06T15:40:00+01:00"
+  },
+  {
+    "Name": "IE2-MA2",
     "Location": "1060",
     "Description": "Dozent: NMN",
     "StartTime": "2023-12-12T12:10:00+01:00",
     "EndTime": "2023-12-12T15:40:00+01:00"
-  },
-  {
-    "Name": "IE2-MA2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: NMN",
-    "StartTime": "2023-12-13T12:10:00+01:00",
-    "EndTime": "2023-12-13T15:40:00+01:00"
   },
   {
     "Name": "IE2-MA2",
@@ -85,17 +85,17 @@
   },
   {
     "Name": "IE2-MA2",
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: NMN",
+    "StartTime": "2024-01-10T12:10:00+01:00",
+    "EndTime": "2024-01-10T15:40:00+01:00"
+  },
+  {
+    "Name": "IE2-MA2",
     "Location": "1060",
     "Description": "Dozent: NMN",
     "StartTime": "2024-01-16T12:10:00+01:00",
     "EndTime": "2024-01-16T15:40:00+01:00"
-  },
-  {
-    "Name": "IE2-MA2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: NMN",
-    "StartTime": "2024-01-17T12:10:00+01:00",
-    "EndTime": "2024-01-17T15:40:00+01:00"
   },
   {
     "Name": "IE2-MA2",
