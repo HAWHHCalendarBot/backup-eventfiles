@@ -31,13 +31,6 @@
     "Name": "BITS3-AD",
     "Location": "1001",
     "Description": "Dozent: HMN",
-    "StartTime": "2023-10-31T16:00:00+01:00",
-    "EndTime": "2023-10-31T17:30:00+01:00"
-  },
-  {
-    "Name": "BITS3-AD",
-    "Location": "1001",
-    "Description": "Dozent: HMN",
     "StartTime": "2023-11-02T12:15:00+01:00",
     "EndTime": "2023-11-02T13:45:00+01:00"
   },
