@@ -1,21 +1,7 @@
 [
   {
     "Name": "BMT6-SN",
-    "Location": "0804",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-10-09T08:10:00+02:00",
-    "EndTime": "2023-10-09T11:25:00+02:00"
-  },
-  {
-    "Name": "BMT6-SN",
     "Location": "0804, 0865",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-10-09T08:10:00+02:00",
-    "EndTime": "2023-10-09T11:25:00+02:00"
-  },
-  {
-    "Name": "BMT6-SN",
-    "Location": "0865",
     "Description": "Dozent: RTT",
     "StartTime": "2023-10-09T08:10:00+02:00",
     "EndTime": "2023-10-09T11:25:00+02:00"

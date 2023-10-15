@@ -1,38 +1,10 @@
 [
   {
     "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-10-19T08:15:00+02:00",
-    "EndTime": "2023-10-19T11:30:00+02:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-10-19T08:15:00+02:00",
-    "EndTime": "2023-10-19T11:30:00+02:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
     "Location": "1283",
     "Description": "Dozent: LMN",
     "StartTime": "2023-10-19T08:15:00+02:00",
     "EndTime": "2023-10-19T11:30:00+02:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-10-26T08:15:00+02:00",
-    "EndTime": "2023-10-26T11:30:00+02:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-10-26T08:15:00+02:00",
-    "EndTime": "2023-10-26T11:30:00+02:00"
   },
   {
     "Name": "M.I20_WS_SWA/SWAP",
@@ -43,38 +15,10 @@
   },
   {
     "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-11-02T08:15:00+01:00",
-    "EndTime": "2023-11-02T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-11-02T08:15:00+01:00",
-    "EndTime": "2023-11-02T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
     "Location": "1283",
     "Description": "Dozent: LMN",
     "StartTime": "2023-11-02T08:15:00+01:00",
     "EndTime": "2023-11-02T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-11-09T08:15:00+01:00",
-    "EndTime": "2023-11-09T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-11-09T08:15:00+01:00",
-    "EndTime": "2023-11-09T11:30:00+01:00"
   },
   {
     "Name": "M.I20_WS_SWA/SWAP",
@@ -85,38 +29,10 @@
   },
   {
     "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-11-16T08:15:00+01:00",
-    "EndTime": "2023-11-16T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-11-16T08:15:00+01:00",
-    "EndTime": "2023-11-16T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
     "Location": "1283",
     "Description": "Dozent: LMN",
     "StartTime": "2023-11-16T08:15:00+01:00",
     "EndTime": "2023-11-16T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-11-23T08:15:00+01:00",
-    "EndTime": "2023-11-23T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-11-23T08:15:00+01:00",
-    "EndTime": "2023-11-23T11:30:00+01:00"
   },
   {
     "Name": "M.I20_WS_SWA/SWAP",
@@ -127,38 +43,10 @@
   },
   {
     "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-11-30T08:15:00+01:00",
-    "EndTime": "2023-11-30T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-11-30T08:15:00+01:00",
-    "EndTime": "2023-11-30T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
     "Location": "1283",
     "Description": "Dozent: LMN",
     "StartTime": "2023-11-30T08:15:00+01:00",
     "EndTime": "2023-11-30T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-12-07T08:15:00+01:00",
-    "EndTime": "2023-12-07T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-12-07T08:15:00+01:00",
-    "EndTime": "2023-12-07T11:30:00+01:00"
   },
   {
     "Name": "M.I20_WS_SWA/SWAP",
@@ -169,38 +57,10 @@
   },
   {
     "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-12-14T08:15:00+01:00",
-    "EndTime": "2023-12-14T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-12-14T08:15:00+01:00",
-    "EndTime": "2023-12-14T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
     "Location": "1283",
     "Description": "Dozent: LMN",
     "StartTime": "2023-12-14T08:15:00+01:00",
     "EndTime": "2023-12-14T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-12-21T08:15:00+01:00",
-    "EndTime": "2023-12-21T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2023-12-21T08:15:00+01:00",
-    "EndTime": "2023-12-21T11:30:00+01:00"
   },
   {
     "Name": "M.I20_WS_SWA/SWAP",
@@ -211,38 +71,10 @@
   },
   {
     "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2024-01-11T08:15:00+01:00",
-    "EndTime": "2024-01-11T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2024-01-11T08:15:00+01:00",
-    "EndTime": "2024-01-11T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
     "Location": "1283",
     "Description": "Dozent: LMN",
     "StartTime": "2024-01-11T08:15:00+01:00",
     "EndTime": "2024-01-11T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2024-01-18T08:15:00+01:00",
-    "EndTime": "2024-01-18T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2024-01-18T08:15:00+01:00",
-    "EndTime": "2024-01-18T11:30:00+01:00"
   },
   {
     "Name": "M.I20_WS_SWA/SWAP",
@@ -253,38 +85,10 @@
   },
   {
     "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2024-01-25T08:15:00+01:00",
-    "EndTime": "2024-01-25T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2024-01-25T08:15:00+01:00",
-    "EndTime": "2024-01-25T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
     "Location": "1283",
     "Description": "Dozent: LMN",
     "StartTime": "2024-01-25T08:15:00+01:00",
     "EndTime": "2024-01-25T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b",
-    "Description": "Dozent: LMN",
-    "StartTime": "2024-02-01T08:15:00+01:00",
-    "EndTime": "2024-02-01T11:30:00+01:00"
-  },
-  {
-    "Name": "M.I20_WS_SWA/SWAP",
-    "Location": "0380b, 1283",
-    "Description": "Dozent: LMN",
-    "StartTime": "2024-02-01T08:15:00+01:00",
-    "EndTime": "2024-02-01T11:30:00+01:00"
   },
   {
     "Name": "M.I20_WS_SWA/SWAP",
