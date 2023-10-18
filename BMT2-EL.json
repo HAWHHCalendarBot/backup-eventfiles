@@ -29,6 +29,13 @@
   },
   {
     "Name": "BMT2-EL",
+    "Location": "1060",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2023-10-19T08:10:00+02:00",
+    "EndTime": "2023-10-19T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT2-EL",
     "Location": "Stiftstr69  R110",
     "Description": "Dozent: SCZ",
     "StartTime": "2023-11-01T08:10:00+01:00",

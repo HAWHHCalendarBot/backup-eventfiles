@@ -36,7 +36,7 @@
   },
   {
     "Name": "E7-WP+WPP-EGR",
-    "Location": "1265",
+    "Location": "1265, 1365",
     "Description": "Dozent: EGR",
     "StartTime": "2023-11-17T12:10:00+01:00",
     "EndTime": "2023-11-17T15:40:00+01:00"
@@ -50,7 +50,7 @@
   },
   {
     "Name": "E7-WP+WPP-EGR",
-    "Location": "1265",
+    "Location": "1265, 1365",
     "Description": "Dozent: EGR",
     "StartTime": "2023-12-01T12:10:00+01:00",
     "EndTime": "2023-12-01T15:40:00+01:00"

@@ -5,5 +5,33 @@
     "Description": "Dozent: GNZ/[Kor]",
     "StartTime": "2023-10-26T12:10:00+02:00",
     "EndTime": "2023-10-26T15:40:00+02:00"
+  },
+  {
+    "Name": "E4-GEP/03",
+    "Location": "0405",
+    "Description": "Dozent: GNZ/[Kor]",
+    "StartTime": "2023-10-26T12:10:00+02:00",
+    "EndTime": "2023-10-26T15:40:00+02:00"
+  },
+  {
+    "Name": "E4-GEP/03",
+    "Location": "0301",
+    "Description": "Dozent: GNZ/[Kor]",
+    "StartTime": "2023-12-06T08:10:00+01:00",
+    "EndTime": "2023-12-06T11:25:00+01:00"
+  },
+  {
+    "Name": "E4-GEP/03",
+    "Location": "0301",
+    "Description": "Dozent: GNZ/[Kor]",
+    "StartTime": "2023-12-21T12:10:00+01:00",
+    "EndTime": "2023-12-21T15:40:00+01:00"
+  },
+  {
+    "Name": "E4-GEP/03",
+    "Location": "0301",
+    "Description": "Dozent: GNZ/[Kor]",
+    "StartTime": "2024-01-25T12:10:00+01:00",
+    "EndTime": "2024-01-25T15:40:00+01:00"
   }
 ]
