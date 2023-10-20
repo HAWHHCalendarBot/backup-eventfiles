@@ -45,7 +45,6 @@ B-REE3-SSP/01
 B-REE3-SSP/02 opt
 B-REE3-VS
 B-REE3-VSP/01
-B-REE3-VSP/02 opt
 B-Seminar_A
 B-Seminar_B
 B-Seminar_C

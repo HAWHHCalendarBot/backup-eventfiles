@@ -31,6 +31,13 @@
     "Name": "E4-GEP/03",
     "Location": "0301",
     "Description": "Dozent: GNZ/[Kor]",
+    "StartTime": "2024-01-10T08:10:00+01:00",
+    "EndTime": "2024-01-10T11:25:00+01:00"
+  },
+  {
+    "Name": "E4-GEP/03",
+    "Location": "0301",
+    "Description": "Dozent: GNZ/[Kor]",
     "StartTime": "2024-01-25T12:10:00+01:00",
     "EndTime": "2024-01-25T15:40:00+01:00"
   }

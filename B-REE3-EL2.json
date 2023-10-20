@@ -29,6 +29,13 @@
   },
   {
     "Name": "B-REE3-EL2",
+    "Location": "Stiftstr69  R106",
+    "Description": "Dozent: DHL",
+    "StartTime": "2023-11-13T08:10:00+01:00",
+    "EndTime": "2023-11-13T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-EL2",
     "Location": "Stiftstr69  R110",
     "Description": "Dozent: DHL",
     "StartTime": "2023-11-16T12:10:00+01:00",
@@ -43,10 +50,10 @@
   },
   {
     "Name": "B-REE3-EL2",
-    "Location": "Stiftstr69  R110",
+    "Location": "Stiftstr69  R106",
     "Description": "Dozent: DHL",
-    "StartTime": "2023-11-30T12:10:00+01:00",
-    "EndTime": "2023-11-30T15:40:00+01:00"
+    "StartTime": "2023-12-04T08:10:00+01:00",
+    "EndTime": "2023-12-04T11:25:00+01:00"
   },
   {
     "Name": "B-REE3-EL2",
@@ -66,15 +73,15 @@
     "Name": "B-REE3-EL2",
     "Location": "Stiftstr69  R110",
     "Description": "Dozent: DHL",
-    "StartTime": "2023-12-21T12:10:00+01:00",
-    "EndTime": "2023-12-21T15:40:00+01:00"
+    "StartTime": "2024-01-11T12:10:00+01:00",
+    "EndTime": "2024-01-11T15:40:00+01:00"
   },
   {
     "Name": "B-REE3-EL2",
-    "Location": "Stiftstr69  R110",
+    "Location": "Stiftstr69  R106",
     "Description": "Dozent: DHL",
-    "StartTime": "2024-01-11T12:10:00+01:00",
-    "EndTime": "2024-01-11T15:40:00+01:00"
+    "StartTime": "2024-01-15T08:10:00+01:00",
+    "EndTime": "2024-01-15T11:25:00+01:00"
   },
   {
     "Name": "B-REE3-EL2",
@@ -82,12 +89,5 @@
     "Description": "Dozent: DHL",
     "StartTime": "2024-01-18T12:10:00+01:00",
     "EndTime": "2024-01-18T15:40:00+01:00"
-  },
-  {
-    "Name": "B-REE3-EL2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: DHL",
-    "StartTime": "2024-01-25T12:10:00+01:00",
-    "EndTime": "2024-01-25T15:40:00+01:00"
   }
 ]
