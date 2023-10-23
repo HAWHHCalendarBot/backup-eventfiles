@@ -1,93 +1,100 @@
 [
   {
     "Name": "BWI3-AD",
-    "Location": "1486",
+    "Location": "0405",
     "Description": "Dozent: SHF",
     "StartTime": "2023-10-19T12:30:00+02:00",
     "EndTime": "2023-10-19T15:45:00+02:00"
   },
   {
     "Name": "BWI3-AD",
-    "Location": "1486",
+    "Location": "1060",
     "Description": "Dozent: SHF",
     "StartTime": "2023-10-26T12:30:00+02:00",
     "EndTime": "2023-10-26T15:45:00+02:00"
   },
   {
     "Name": "BWI3-AD",
-    "Location": "1486",
+    "Location": "0405",
     "Description": "Dozent: SHF",
     "StartTime": "2023-11-02T12:30:00+01:00",
     "EndTime": "2023-11-02T15:45:00+01:00"
   },
   {
     "Name": "BWI3-AD",
-    "Location": "1486",
+    "Location": "0405",
     "Description": "Dozent: SHF",
     "StartTime": "2023-11-09T12:30:00+01:00",
     "EndTime": "2023-11-09T15:45:00+01:00"
   },
   {
     "Name": "BWI3-AD",
-    "Location": "1486",
+    "Location": "0405",
     "Description": "Dozent: SHF",
     "StartTime": "2023-11-16T12:30:00+01:00",
     "EndTime": "2023-11-16T15:45:00+01:00"
   },
   {
     "Name": "BWI3-AD",
-    "Location": "1486",
+    "Location": "0405",
     "Description": "Dozent: SHF",
     "StartTime": "2023-11-23T12:30:00+01:00",
     "EndTime": "2023-11-23T15:45:00+01:00"
   },
   {
     "Name": "BWI3-AD",
-    "Location": "1486",
+    "Location": "0405",
     "Description": "Dozent: SHF",
     "StartTime": "2023-11-30T12:30:00+01:00",
     "EndTime": "2023-11-30T15:45:00+01:00"
   },
   {
     "Name": "BWI3-AD",
-    "Location": "1486",
+    "Location": "0405",
     "Description": "Dozent: SHF",
     "StartTime": "2023-12-07T12:30:00+01:00",
     "EndTime": "2023-12-07T15:45:00+01:00"
   },
   {
     "Name": "BWI3-AD",
-    "Location": "1486",
+    "Location": "0405",
     "Description": "Dozent: SHF",
     "StartTime": "2023-12-14T12:30:00+01:00",
     "EndTime": "2023-12-14T15:45:00+01:00"
   },
   {
     "Name": "BWI3-AD",
-    "Location": "1486",
+    "Location": "0405",
     "Description": "Dozent: SHF",
     "StartTime": "2023-12-21T12:30:00+01:00",
     "EndTime": "2023-12-21T15:45:00+01:00"
   },
   {
     "Name": "BWI3-AD",
-    "Location": "1486",
+    "Location": "0405",
     "Description": "Dozent: SHF",
     "StartTime": "2024-01-11T12:30:00+01:00",
     "EndTime": "2024-01-11T15:45:00+01:00"
   },
   {
     "Name": "BWI3-AD",
-    "Location": "1486",
+    "Location": "0405",
     "Description": "Dozent: SHF",
     "StartTime": "2024-01-18T12:30:00+01:00",
     "EndTime": "2024-01-18T15:45:00+01:00"
   },
   {
     "Name": "BWI3-AD",
-    "Location": "1486",
+    "Location": "0405",
     "Description": "Dozent: SHF",
     "StartTime": "2024-01-25T12:30:00+01:00",
     "EndTime": "2024-01-25T15:45:00+01:00"
+  },
+  {
+    "Name": "BWI3-AD",
+    "Location": "0405",
+    "Description": "Dozent: SHF",
+    "StartTime": "2024-02-01T12:30:00+01:00",
+    "EndTime": "2024-02-01T15:45:00+01:00"
   }
 ]
