@@ -31,6 +31,13 @@
     "Name": "E6-LEP/01",
     "Location": "0301",
     "Description": "Dozent: HSE/[Kor]",
+    "StartTime": "2024-01-15T08:10:00+01:00",
+    "EndTime": "2024-01-15T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-LEP/01",
+    "Location": "0301",
+    "Description": "Dozent: HSE/[Kor]",
     "StartTime": "2024-01-15T12:10:00+01:00",
     "EndTime": "2024-01-15T15:40:00+01:00"
   }

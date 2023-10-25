@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "EuI-M-WPP-HSL/02",
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: HSL",
+    "StartTime": "2023-11-20T12:10:00+01:00",
+    "EndTime": "2023-11-20T15:40:00+01:00"
+  },
+  {
+    "Name": "EuI-M-WPP-HSL/02",
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: HSL",
+    "StartTime": "2023-11-27T12:10:00+01:00",
+    "EndTime": "2023-11-27T15:40:00+01:00"
+  },
+  {
+    "Name": "EuI-M-WPP-HSL/02",
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: HSL",
+    "StartTime": "2024-01-08T12:10:00+01:00",
+    "EndTime": "2024-01-08T15:40:00+01:00"
+  }
+]

@@ -3,13 +3,6 @@
     "Name": "A-M-ASS",
     "Location": "1065",
     "Description": "Dozent: WNC",
-    "StartTime": "2023-11-03T12:10:00+01:00",
-    "EndTime": "2023-11-03T15:40:00+01:00"
-  },
-  {
-    "Name": "A-M-ASS",
-    "Location": "1065",
-    "Description": "Dozent: WNC",
     "StartTime": "2023-11-10T12:10:00+01:00",
     "EndTime": "2023-11-10T15:40:00+01:00"
   },
@@ -40,5 +33,12 @@
     "Description": "Dozent: WNC",
     "StartTime": "2023-12-08T12:10:00+01:00",
     "EndTime": "2023-12-08T15:40:00+01:00"
+  },
+  {
+    "Name": "A-M-ASS",
+    "Location": "1065",
+    "Description": "Dozent: WNC",
+    "StartTime": "2023-12-15T12:10:00+01:00",
+    "EndTime": "2023-12-15T15:40:00+01:00"
   }
 ]

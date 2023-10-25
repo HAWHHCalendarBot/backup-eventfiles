@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "IE1-GE/02",
+    "Location": "1283",
+    "Description": "Dozent: MRNO",
+    "StartTime": "2023-10-30T13:55:00+01:00",
+    "EndTime": "2023-10-30T15:25:00+01:00"
+  },
+  {
+    "Name": "IE1-GE/02",
+    "Location": "1281",
+    "Description": "Dozent: MRNO",
+    "StartTime": "2023-11-06T09:55:00+01:00",
+    "EndTime": "2023-11-06T11:25:00+01:00"
+  },
+  {
+    "Name": "IE1-GE/02",
+    "Location": "1281",
+    "Description": "Dozent: MRNO",
+    "StartTime": "2023-11-13T09:55:00+01:00",
+    "EndTime": "2023-11-13T11:25:00+01:00"
+  },
+  {
+    "Name": "IE1-GE/02",
+    "Location": "1281",
+    "Description": "Dozent: MRNO",
+    "StartTime": "2023-11-20T09:55:00+01:00",
+    "EndTime": "2023-11-20T11:25:00+01:00"
+  },
+  {
+    "Name": "IE1-GE/02",
+    "Location": "1281",
+    "Description": "Dozent: MRNO",
+    "StartTime": "2023-11-27T09:55:00+01:00",
+    "EndTime": "2023-11-27T11:25:00+01:00"
+  },
+  {
+    "Name": "IE1-GE/02",
+    "Location": "1281",
+    "Description": "Dozent: MRNO",
+    "StartTime": "2023-12-04T09:55:00+01:00",
+    "EndTime": "2023-12-04T11:25:00+01:00"
+  },
+  {
+    "Name": "IE1-GE/02",
+    "Location": "1281",
+    "Description": "Dozent: MRNO",
+    "StartTime": "2023-12-11T09:55:00+01:00",
+    "EndTime": "2023-12-11T11:25:00+01:00"
+  },
+  {
+    "Name": "IE1-GE/02",
+    "Location": "1281",
+    "Description": "Dozent: MRNO",
+    "StartTime": "2023-12-18T09:55:00+01:00",
+    "EndTime": "2023-12-18T11:25:00+01:00"
+  },
+  {
+    "Name": "IE1-GE/02",
+    "Location": "1281",
+    "Description": "Dozent: MRNO",
+    "StartTime": "2024-01-08T09:55:00+01:00",
+    "EndTime": "2024-01-08T11:25:00+01:00"
+  },
+  {
+    "Name": "IE1-GE/02",
+    "Location": "1281",
+    "Description": "Dozent: MRNO",
+    "StartTime": "2024-01-15T09:55:00+01:00",
+    "EndTime": "2024-01-15T11:25:00+01:00"
+  },
+  {
+    "Name": "IE1-GE/02",
+    "Location": "1281",
+    "Description": "Dozent: MRNO",
+    "StartTime": "2024-01-22T09:55:00+01:00",
+    "EndTime": "2024-01-22T11:25:00+01:00"
+  }
+]

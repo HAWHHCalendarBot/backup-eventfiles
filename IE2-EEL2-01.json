@@ -17,21 +17,7 @@
     "Name": "IE2-EEL2/01",
     "Location": "0501",
     "Description": "Dozent: LAP/WTMR",
-    "StartTime": "2023-11-28T08:10:00+01:00",
-    "EndTime": "2023-11-28T11:25:00+01:00"
-  },
-  {
-    "Name": "IE2-EEL2/01",
-    "Location": "0501",
-    "Description": "Dozent: LAP/WTMR",
-    "StartTime": "2023-12-19T08:10:00+01:00",
-    "EndTime": "2023-12-19T11:25:00+01:00"
-  },
-  {
-    "Name": "IE2-EEL2/01",
-    "Location": "0501",
-    "Description": "Dozent: LAP/WTMR",
-    "StartTime": "2024-01-23T08:10:00+01:00",
-    "EndTime": "2024-01-23T11:25:00+01:00"
+    "StartTime": "2023-12-20T16:00:00+01:00",
+    "EndTime": "2023-12-20T19:15:00+01:00"
   }
 ]
