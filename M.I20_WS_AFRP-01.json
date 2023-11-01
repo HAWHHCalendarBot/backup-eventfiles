@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "M.I20_WS_AFRP/01",
+    "Location": "0761",
+    "Description": "Dozent: DMUR",
+    "StartTime": "2023-10-30T08:15:00+01:00",
+    "EndTime": "2023-10-30T11:30:00+01:00"
+  },
+  {
+    "Name": "M.I20_WS_AFRP/01",
+    "Location": "0761",
+    "Description": "Dozent: DMUR",
+    "StartTime": "2023-12-04T08:15:00+01:00",
+    "EndTime": "2023-12-04T11:30:00+01:00"
+  },
+  {
+    "Name": "M.I20_WS_AFRP/01",
+    "Location": "0761",
+    "Description": "Dozent: DMUR",
+    "StartTime": "2024-01-15T08:15:00+01:00",
+    "EndTime": "2024-01-15T11:30:00+01:00"
+  },
+  {
+    "Name": "M.I20_WS_AFRP/01",
+    "Location": "0761",
+    "Description": "Dozent: DMUR",
+    "StartTime": "2024-01-29T08:15:00+01:00",
+    "EndTime": "2024-01-29T11:30:00+01:00"
+  }
+]

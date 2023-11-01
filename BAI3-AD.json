@@ -1,0 +1,93 @@
+[
+  {
+    "Name": "BAI3-AD",
+    "Location": "1001",
+    "Description": "Dozent: KLC",
+    "StartTime": "2023-10-17T08:15:00+02:00",
+    "EndTime": "2023-10-17T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI3-AD",
+    "Location": "1001",
+    "Description": "Dozent: KLC",
+    "StartTime": "2023-10-24T08:15:00+02:00",
+    "EndTime": "2023-10-24T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI3-AD",
+    "Location": "1001",
+    "Description": "Dozent: KLC",
+    "StartTime": "2023-11-07T08:15:00+01:00",
+    "EndTime": "2023-11-07T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI3-AD",
+    "Location": "1001",
+    "Description": "Dozent: KLC",
+    "StartTime": "2023-11-14T08:15:00+01:00",
+    "EndTime": "2023-11-14T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI3-AD",
+    "Location": "1001",
+    "Description": "Dozent: KLC",
+    "StartTime": "2023-11-21T08:15:00+01:00",
+    "EndTime": "2023-11-21T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI3-AD",
+    "Location": "1001",
+    "Description": "Dozent: KLC",
+    "StartTime": "2023-11-28T08:15:00+01:00",
+    "EndTime": "2023-11-28T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI3-AD",
+    "Location": "1001",
+    "Description": "Dozent: KLC",
+    "StartTime": "2023-12-05T08:15:00+01:00",
+    "EndTime": "2023-12-05T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI3-AD",
+    "Location": "1001",
+    "Description": "Dozent: KLC",
+    "StartTime": "2023-12-12T08:15:00+01:00",
+    "EndTime": "2023-12-12T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI3-AD",
+    "Location": "1001",
+    "Description": "Dozent: KLC",
+    "StartTime": "2023-12-19T08:15:00+01:00",
+    "EndTime": "2023-12-19T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI3-AD",
+    "Location": "1001",
+    "Description": "Dozent: KLC",
+    "StartTime": "2024-01-09T08:15:00+01:00",
+    "EndTime": "2024-01-09T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI3-AD",
+    "Location": "1001",
+    "Description": "Dozent: KLC",
+    "StartTime": "2024-01-16T08:15:00+01:00",
+    "EndTime": "2024-01-16T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI3-AD",
+    "Location": "1001",
+    "Description": "Dozent: KLC",
+    "StartTime": "2024-01-23T08:15:00+01:00",
+    "EndTime": "2024-01-23T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI3-AD",
+    "Location": "1001",
+    "Description": "Dozent: KLC",
+    "StartTime": "2024-01-30T08:15:00+01:00",
+    "EndTime": "2024-01-30T11:30:00+01:00"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "BWI1-PTP/01",
+    "Location": "1102",
+    "Description": "Dozent: WND/[Oel]",
+    "StartTime": "2023-10-25T12:30:00+02:00",
+    "EndTime": "2023-10-25T15:45:00+02:00"
+  },
+  {
+    "Name": "BWI1-PTP/01",
+    "Location": "1102",
+    "Description": "Dozent: WND/[Oel]",
+    "StartTime": "2023-11-15T12:30:00+01:00",
+    "EndTime": "2023-11-15T15:45:00+01:00"
+  },
+  {
+    "Name": "BWI1-PTP/01",
+    "Location": "1102",
+    "Description": "Dozent: WND/[Oel]",
+    "StartTime": "2023-11-29T12:30:00+01:00",
+    "EndTime": "2023-11-29T15:45:00+01:00"
+  },
+  {
+    "Name": "BWI1-PTP/01",
+    "Location": "1102",
+    "Description": "Dozent: WND/[Oel]",
+    "StartTime": "2023-12-13T12:30:00+01:00",
+    "EndTime": "2023-12-13T15:45:00+01:00"
+  },
+  {
+    "Name": "BWI1-PTP/01",
+    "Location": "1102",
+    "Description": "Dozent: WND/[Oel]",
+    "StartTime": "2024-01-10T12:30:00+01:00",
+    "EndTime": "2024-01-10T15:45:00+01:00"
+  },
+  {
+    "Name": "BWI1-PTP/01",
+    "Location": "1102",
+    "Description": "Dozent: WND/[Oel]",
+    "StartTime": "2024-01-24T12:30:00+01:00",
+    "EndTime": "2024-01-24T15:45:00+01:00"
+  }
+]

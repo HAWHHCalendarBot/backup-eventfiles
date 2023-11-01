@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI3-SEP1/02",
+    "Location": "0380a",
+    "Description": "Dozent: BUSC/TAHE",
+    "StartTime": "2023-11-09T17:15:00+01:00",
+    "EndTime": "2023-11-09T19:15:00+01:00"
+  },
+  {
+    "Name": "BAI3-SEP1/02",
+    "Location": "0380a",
+    "Description": "Dozent: BUSC/TAHE",
+    "StartTime": "2023-11-30T17:15:00+01:00",
+    "EndTime": "2023-11-30T19:15:00+01:00"
+  },
+  {
+    "Name": "BAI3-SEP1/02",
+    "Location": "0380a",
+    "Description": "Dozent: BUSC/TAHE",
+    "StartTime": "2023-12-21T17:15:00+01:00",
+    "EndTime": "2023-12-21T19:15:00+01:00"
+  },
+  {
+    "Name": "BAI3-SEP1/02",
+    "Location": "0380a",
+    "Description": "Dozent: BUSC/TAHE",
+    "StartTime": "2024-01-25T17:15:00+01:00",
+    "EndTime": "2024-01-25T19:15:00+01:00"
+  }
+]

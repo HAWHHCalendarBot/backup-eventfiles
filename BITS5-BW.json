@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "BITS5-BW",
+    "Location": "0405",
+    "Description": "Dozent: KLSP",
+    "StartTime": "2023-10-19T16:00:00+02:00",
+    "EndTime": "2023-10-19T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS5-BW",
+    "Location": "0405",
+    "Description": "Dozent: KLSP",
+    "StartTime": "2023-10-26T16:00:00+02:00",
+    "EndTime": "2023-10-26T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS5-BW",
+    "Location": "0405",
+    "Description": "Dozent: KLSP",
+    "StartTime": "2023-11-02T16:00:00+01:00",
+    "EndTime": "2023-11-02T19:15:00+01:00"
+  },
+  {
+    "Name": "BITS5-BW",
+    "Location": "0405",
+    "Description": "Dozent: KLSP",
+    "StartTime": "2023-11-09T16:00:00+01:00",
+    "EndTime": "2023-11-09T19:15:00+01:00"
+  },
+  {
+    "Name": "BITS5-BW",
+    "Location": "0405",
+    "Description": "Dozent: KLSP",
+    "StartTime": "2023-11-16T16:00:00+01:00",
+    "EndTime": "2023-11-16T19:15:00+01:00"
+  },
+  {
+    "Name": "BITS5-BW",
+    "Location": "0405",
+    "Description": "Dozent: KLSP",
+    "StartTime": "2023-11-23T16:00:00+01:00",
+    "EndTime": "2023-11-23T19:15:00+01:00"
+  },
+  {
+    "Name": "BITS5-BW",
+    "Location": "0405",
+    "Description": "Dozent: KLSP",
+    "StartTime": "2023-11-30T16:00:00+01:00",
+    "EndTime": "2023-11-30T19:15:00+01:00"
+  },
+  {
+    "Name": "BITS5-BW",
+    "Location": "0405",
+    "Description": "Dozent: KLSP",
+    "StartTime": "2023-12-07T16:00:00+01:00",
+    "EndTime": "2023-12-07T19:15:00+01:00"
+  },
+  {
+    "Name": "BITS5-BW",
+    "Location": "0405",
+    "Description": "Dozent: KLSP",
+    "StartTime": "2023-12-21T16:00:00+01:00",
+    "EndTime": "2023-12-21T19:15:00+01:00"
+  },
+  {
+    "Name": "BITS5-BW",
+    "Location": "0405",
+    "Description": "Dozent: KLSP",
+    "StartTime": "2024-01-18T16:00:00+01:00",
+    "EndTime": "2024-01-18T19:15:00+01:00"
+  },
+  {
+    "Name": "BITS5-BW",
+    "Location": "0405",
+    "Description": "Dozent: KLSP",
+    "StartTime": "2024-01-25T16:00:00+01:00",
+    "EndTime": "2024-01-25T19:15:00+01:00"
+  },
+  {
+    "Name": "BITS5-BW",
+    "Location": "0405",
+    "Description": "Dozent: KLSP",
+    "StartTime": "2024-02-01T16:00:00+01:00",
+    "EndTime": "2024-02-01T19:15:00+01:00"
+  }
+]
