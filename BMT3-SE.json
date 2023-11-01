@@ -82,12 +82,5 @@
     "Description": "Dozent: DAI",
     "StartTime": "2024-01-22T08:15:00+01:00",
     "EndTime": "2024-01-22T11:30:00+01:00"
-  },
-  {
-    "Name": "BMT3-SE",
-    "Location": "0665",
-    "Description": "Dozent: DAI",
-    "StartTime": "2024-01-29T08:15:00+01:00",
-    "EndTime": "2024-01-29T11:30:00+01:00"
   }
 ]

@@ -15,31 +15,10 @@
   },
   {
     "Name": "BMT6-SN",
-    "Location": "0804",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-10-16T08:10:00+02:00",
-    "EndTime": "2023-10-16T11:25:00+02:00"
-  },
-  {
-    "Name": "BMT6-SN",
     "Location": "0804, 0865",
     "Description": "Dozent: RTT",
     "StartTime": "2023-10-16T08:10:00+02:00",
     "EndTime": "2023-10-16T11:25:00+02:00"
-  },
-  {
-    "Name": "BMT6-SN",
-    "Location": "0865",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-10-16T08:10:00+02:00",
-    "EndTime": "2023-10-16T11:25:00+02:00"
-  },
-  {
-    "Name": "BMT6-SN",
-    "Location": "0804",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-10-17T12:10:00+02:00",
-    "EndTime": "2023-10-17T15:40:00+02:00"
   },
   {
     "Name": "BMT6-SN",
@@ -50,38 +29,10 @@
   },
   {
     "Name": "BMT6-SN",
-    "Location": "0865",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-10-17T12:10:00+02:00",
-    "EndTime": "2023-10-17T15:40:00+02:00"
-  },
-  {
-    "Name": "BMT6-SN",
-    "Location": "0804",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-11-21T12:10:00+01:00",
-    "EndTime": "2023-11-21T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT6-SN",
     "Location": "0804, 0865",
     "Description": "Dozent: RTT",
     "StartTime": "2023-11-21T12:10:00+01:00",
     "EndTime": "2023-11-21T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT6-SN",
-    "Location": "0865",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-11-21T12:10:00+01:00",
-    "EndTime": "2023-11-21T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT6-SN",
-    "Location": "0804",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-11-28T12:10:00+01:00",
-    "EndTime": "2023-11-28T15:40:00+01:00"
   },
   {
     "Name": "BMT6-SN",
@@ -92,38 +43,10 @@
   },
   {
     "Name": "BMT6-SN",
-    "Location": "0865",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-11-28T12:10:00+01:00",
-    "EndTime": "2023-11-28T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT6-SN",
-    "Location": "0804",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-12-12T12:10:00+01:00",
-    "EndTime": "2023-12-12T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT6-SN",
     "Location": "0804, 0865",
     "Description": "Dozent: RTT",
     "StartTime": "2023-12-12T12:10:00+01:00",
     "EndTime": "2023-12-12T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT6-SN",
-    "Location": "0865",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-12-12T12:10:00+01:00",
-    "EndTime": "2023-12-12T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT6-SN",
-    "Location": "0804",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-12-19T12:10:00+01:00",
-    "EndTime": "2023-12-19T15:40:00+01:00"
   },
   {
     "Name": "BMT6-SN",
@@ -134,20 +57,6 @@
   },
   {
     "Name": "BMT6-SN",
-    "Location": "0865",
-    "Description": "Dozent: RTT",
-    "StartTime": "2023-12-19T12:10:00+01:00",
-    "EndTime": "2023-12-19T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT6-SN",
-    "Location": "0804",
-    "Description": "Dozent: RTT",
-    "StartTime": "2024-01-16T12:10:00+01:00",
-    "EndTime": "2024-01-16T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT6-SN",
     "Location": "0804, 0865",
     "Description": "Dozent: RTT",
     "StartTime": "2024-01-16T12:10:00+01:00",
@@ -155,28 +64,7 @@
   },
   {
     "Name": "BMT6-SN",
-    "Location": "0865",
-    "Description": "Dozent: RTT",
-    "StartTime": "2024-01-16T12:10:00+01:00",
-    "EndTime": "2024-01-16T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT6-SN",
-    "Location": "0804",
-    "Description": "Dozent: RTT",
-    "StartTime": "2024-01-23T12:10:00+01:00",
-    "EndTime": "2024-01-23T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT6-SN",
     "Location": "0804, 0865",
-    "Description": "Dozent: RTT",
-    "StartTime": "2024-01-23T12:10:00+01:00",
-    "EndTime": "2024-01-23T15:40:00+01:00"
-  },
-  {
-    "Name": "BMT6-SN",
-    "Location": "0865",
     "Description": "Dozent: RTT",
     "StartTime": "2024-01-23T12:10:00+01:00",
     "EndTime": "2024-01-23T15:40:00+01:00"

@@ -19,12 +19,5 @@
     "Description": "Dozent: WNKL/[DeG]",
     "StartTime": "2024-01-08T08:15:00+01:00",
     "EndTime": "2024-01-08T11:30:00+01:00"
-  },
-  {
-    "Name": "BMT1-PRP1/03",
-    "Location": "0765",
-    "Description": "Dozent: WNKL/[DeG]",
-    "StartTime": "2024-01-29T08:15:00+01:00",
-    "EndTime": "2024-01-29T11:30:00+01:00"
   }
 ]
