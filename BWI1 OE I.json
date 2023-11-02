@@ -3,6 +3,27 @@
     "Name": "BWI1 OE I",
     "Location": "0360",
     "Description": "",
+    "StartTime": "2023-10-04T09:00:00+02:00",
+    "EndTime": "2023-10-04T17:00:00+02:00"
+  },
+  {
+    "Name": "BWI1 OE I",
+    "Location": "0360",
+    "Description": "",
+    "StartTime": "2023-10-05T09:00:00+02:00",
+    "EndTime": "2023-10-05T17:00:00+02:00"
+  },
+  {
+    "Name": "BWI1 OE I",
+    "Location": "0360",
+    "Description": "",
+    "StartTime": "2023-10-06T09:00:00+02:00",
+    "EndTime": "2023-10-06T17:00:00+02:00"
+  },
+  {
+    "Name": "BWI1 OE I",
+    "Location": "0360",
+    "Description": "",
     "StartTime": "2023-10-09T09:00:00+02:00",
     "EndTime": "2023-10-09T17:00:00+02:00"
   },

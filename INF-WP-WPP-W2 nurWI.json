@@ -3,6 +3,13 @@
     "Name": "INF-WP/WPP-W2 nurWI",
     "Location": "NB 06.60",
     "Description": "Dozent: FRRU (Dep W)/FRRI",
+    "StartTime": "2023-10-06T09:00:00+02:00",
+    "EndTime": "2023-10-06T12:00:00+02:00"
+  },
+  {
+    "Name": "INF-WP/WPP-W2 nurWI",
+    "Location": "NB 06.60",
+    "Description": "Dozent: FRRU (Dep W)/FRRI",
     "StartTime": "2023-10-13T09:00:00+02:00",
     "EndTime": "2023-10-13T12:00:00+02:00"
   }
