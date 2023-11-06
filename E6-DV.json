@@ -31,13 +31,6 @@
     "Name": "E6-DV",
     "Location": "0861",
     "Description": "Dozent: KRN",
-    "StartTime": "2023-11-14T12:10:00+01:00",
-    "EndTime": "2023-11-14T15:40:00+01:00"
-  },
-  {
-    "Name": "E6-DV",
-    "Location": "0861",
-    "Description": "Dozent: KRN",
     "StartTime": "2023-11-21T12:10:00+01:00",
     "EndTime": "2023-11-21T15:40:00+01:00"
   },
@@ -47,13 +40,6 @@
     "Description": "Dozent: KRN",
     "StartTime": "2023-11-28T12:10:00+01:00",
     "EndTime": "2023-11-28T15:40:00+01:00"
-  },
-  {
-    "Name": "E6-DV",
-    "Location": "0861",
-    "Description": "Dozent: KRN",
-    "StartTime": "2023-12-05T12:10:00+01:00",
-    "EndTime": "2023-12-05T15:40:00+01:00"
   },
   {
     "Name": "E6-DV",
@@ -73,7 +59,21 @@
     "Name": "E6-DV",
     "Location": "0861",
     "Description": "Dozent: KRN",
-    "StartTime": "2024-01-09T12:10:00+01:00",
-    "EndTime": "2024-01-09T15:40:00+01:00"
+    "StartTime": "2024-01-15T12:10:00+01:00",
+    "EndTime": "2024-01-15T15:40:00+01:00"
+  },
+  {
+    "Name": "E6-DV",
+    "Location": "0861",
+    "Description": "Dozent: KRN",
+    "StartTime": "2024-01-16T12:10:00+01:00",
+    "EndTime": "2024-01-16T15:40:00+01:00"
+  },
+  {
+    "Name": "E6-DV",
+    "Location": "0861",
+    "Description": "Dozent: KRN",
+    "StartTime": "2024-01-23T12:10:00+01:00",
+    "EndTime": "2024-01-23T15:40:00+01:00"
   }
 ]
