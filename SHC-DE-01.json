@@ -64,6 +64,13 @@
   },
   {
     "Name": "SHC-DE/01",
+    "Location": "1260",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2023-12-09T09:00:00+01:00",
+    "EndTime": "2023-12-09T13:00:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
     "Location": "1265",
     "Description": "Dozent: WSSL",
     "StartTime": "2023-12-14T08:10:00+01:00",
@@ -82,6 +89,13 @@
     "Description": "Dozent: WSSL",
     "StartTime": "2024-01-11T08:10:00+01:00",
     "EndTime": "2024-01-11T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/01",
+    "Location": "1260",
+    "Description": "Dozent: WSSL",
+    "StartTime": "2024-01-13T09:00:00+01:00",
+    "EndTime": "2024-01-13T13:00:00+01:00"
   },
   {
     "Name": "SHC-DE/01",

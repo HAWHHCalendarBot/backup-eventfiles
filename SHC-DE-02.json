@@ -64,6 +64,13 @@
   },
   {
     "Name": "SHC-DE/02",
+    "Location": "1260",
+    "Description": "Dozent: HEIT",
+    "StartTime": "2023-12-09T09:00:00+01:00",
+    "EndTime": "2023-12-09T13:00:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
     "Location": "1281",
     "Description": "Dozent: HEIT",
     "StartTime": "2023-12-11T14:30:00+01:00",
@@ -82,6 +89,13 @@
     "Description": "Dozent: HEIT",
     "StartTime": "2024-01-08T14:30:00+01:00",
     "EndTime": "2024-01-08T17:45:00+01:00"
+  },
+  {
+    "Name": "SHC-DE/02",
+    "Location": "1260",
+    "Description": "Dozent: HEIT",
+    "StartTime": "2024-01-13T09:00:00+01:00",
+    "EndTime": "2024-01-13T13:00:00+01:00"
   },
   {
     "Name": "SHC-DE/02",
