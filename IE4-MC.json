@@ -75,5 +75,19 @@
     "Description": "Dozent: BCZ",
     "StartTime": "2024-01-12T08:10:00+01:00",
     "EndTime": "2024-01-12T11:25:00+01:00"
+  },
+  {
+    "Name": "IE4-MC",
+    "Location": "1281",
+    "Description": "Dozent: BCZ",
+    "StartTime": "2024-01-19T08:10:00+01:00",
+    "EndTime": "2024-01-19T11:25:00+01:00"
+  },
+  {
+    "Name": "IE4-MC",
+    "Location": "1281",
+    "Description": "Dozent: BCZ",
+    "StartTime": "2024-01-26T08:10:00+01:00",
+    "EndTime": "2024-01-26T11:25:00+01:00"
   }
 ]
