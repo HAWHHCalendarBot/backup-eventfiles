@@ -57,6 +57,13 @@
   },
   {
     "Name": "IE4-SE",
+    "Location": "0660",
+    "Description": "Dozent: RNZ",
+    "StartTime": "2023-12-18T12:10:00+01:00",
+    "EndTime": "2023-12-18T15:40:00+01:00"
+  },
+  {
+    "Name": "IE4-SE",
     "Location": "1065",
     "Description": "Dozent: RNZ",
     "StartTime": "2023-12-21T08:10:00+01:00",
