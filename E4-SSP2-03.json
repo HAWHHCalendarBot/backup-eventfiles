@@ -15,14 +15,14 @@
   },
   {
     "Name": "E4-SSP2/03",
-    "Location": "1303b",
+    "Location": "1301a, 1301b",
     "Description": "Dozent: ERD",
     "StartTime": "2023-12-12T08:10:00+01:00",
     "EndTime": "2023-12-12T11:25:00+01:00"
   },
   {
     "Name": "E4-SSP2/03",
-    "Location": "1303b",
+    "Location": "1360",
     "Description": "Dozent: ERD",
     "StartTime": "2024-01-16T08:10:00+01:00",
     "EndTime": "2024-01-16T11:25:00+01:00"

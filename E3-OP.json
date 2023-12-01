@@ -66,14 +66,14 @@
     "Name": "E3-OP",
     "Location": "NB 01.13",
     "Description": "Dozent: DRK",
-    "StartTime": "2023-12-11T12:10:00+01:00",
-    "EndTime": "2023-12-11T15:25:00+01:00"
+    "StartTime": "2023-12-18T12:10:00+01:00",
+    "EndTime": "2023-12-18T15:25:00+01:00"
   },
   {
     "Name": "E3-OP",
     "Location": "NB 01.13",
     "Description": "Dozent: DRK",
-    "StartTime": "2023-12-18T12:10:00+01:00",
-    "EndTime": "2023-12-18T15:25:00+01:00"
+    "StartTime": "2024-01-08T12:10:00+01:00",
+    "EndTime": "2024-01-08T15:25:00+01:00"
   }
 ]
