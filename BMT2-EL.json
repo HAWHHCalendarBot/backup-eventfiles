@@ -57,6 +57,13 @@
   },
   {
     "Name": "BMT2-EL",
+    "Location": "1281",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-01-16T12:10:00+01:00",
+    "EndTime": "2024-01-16T15:40:00+01:00"
+  },
+  {
+    "Name": "BMT2-EL",
     "Location": "Stiftstr69  R110",
     "Description": "Dozent: SCZ",
     "StartTime": "2024-01-24T08:10:00+01:00",
