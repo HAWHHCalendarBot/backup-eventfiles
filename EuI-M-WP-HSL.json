@@ -66,13 +66,6 @@
     "Name": "EuI-M-WP-HSL",
     "Location": "0862",
     "Description": "Dozent: HSL",
-    "StartTime": "2024-01-15T08:10:00+01:00",
-    "EndTime": "2024-01-15T11:25:00+01:00"
-  },
-  {
-    "Name": "EuI-M-WP-HSL",
-    "Location": "0862",
-    "Description": "Dozent: HSL",
     "StartTime": "2024-01-22T08:10:00+01:00",
     "EndTime": "2024-01-22T11:25:00+01:00"
   }
