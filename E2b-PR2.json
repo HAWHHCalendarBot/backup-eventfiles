@@ -45,13 +45,6 @@
     "Name": "E2b-PR2",
     "Location": "1301a, 1301b, 1303a, 1303b",
     "Description": "Dozent: HST",
-    "StartTime": "2024-01-17T08:10:00+01:00",
-    "EndTime": "2024-01-17T11:25:00+01:00"
-  },
-  {
-    "Name": "E2b-PR2",
-    "Location": "Stiftstr69  R106",
-    "Description": "Dozent: HST",
     "StartTime": "2024-01-24T08:10:00+01:00",
     "EndTime": "2024-01-24T11:25:00+01:00"
   }
