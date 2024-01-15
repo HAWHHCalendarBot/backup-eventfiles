@@ -99,9 +99,23 @@
   },
   {
     "Name": "IE2-MA2",
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: NMN",
+    "StartTime": "2024-01-17T12:10:00+01:00",
+    "EndTime": "2024-01-17T15:40:00+01:00"
+  },
+  {
+    "Name": "IE2-MA2",
     "Location": "1060",
     "Description": "Dozent: NMN",
     "StartTime": "2024-01-23T12:10:00+01:00",
     "EndTime": "2024-01-23T15:40:00+01:00"
+  },
+  {
+    "Name": "IE2-MA2",
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: NMN",
+    "StartTime": "2024-01-26T12:10:00+01:00",
+    "EndTime": "2024-01-26T15:40:00+01:00"
   }
 ]

@@ -75,5 +75,12 @@
     "Description": "Dozent: HSE",
     "StartTime": "2024-01-12T12:10:00+01:00",
     "EndTime": "2024-01-12T15:40:00+01:00"
+  },
+  {
+    "Name": "IE2-EL1",
+    "Location": "NB 01.13",
+    "Description": "Dozent: HSE",
+    "StartTime": "2024-01-19T12:10:00+01:00",
+    "EndTime": "2024-01-19T15:40:00+01:00"
   }
 ]
