@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BITS3-ISSP/01",
+    "Location": "0701",
+    "Description": "Dozent: TDM/[DeG]",
+    "StartTime": "2023-11-01T12:30:00+01:00",
+    "EndTime": "2023-11-01T15:45:00+01:00"
+  },
+  {
+    "Name": "BITS3-ISSP/01",
+    "Location": "0701",
+    "Description": "Dozent: TDM/[DeG]",
+    "StartTime": "2023-11-22T12:30:00+01:00",
+    "EndTime": "2023-11-22T15:45:00+01:00"
+  },
+  {
+    "Name": "BITS3-ISSP/01",
+    "Location": "0701",
+    "Description": "Dozent: TDM/[DeG]",
+    "StartTime": "2023-12-13T12:30:00+01:00",
+    "EndTime": "2023-12-13T15:45:00+01:00"
+  },
+  {
+    "Name": "BITS3-ISSP/01",
+    "Location": "0701",
+    "Description": "Dozent: TDM/[DeG]",
+    "StartTime": "2024-01-17T12:30:00+01:00",
+    "EndTime": "2024-01-17T15:45:00+01:00"
+  }
+]

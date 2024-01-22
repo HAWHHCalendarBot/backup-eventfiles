@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "INF-WPP-C3/01",
+    "Location": "0761",
+    "Description": "Dozent: DMUR",
+    "StartTime": "2023-10-27T08:15:00+02:00",
+    "EndTime": "2023-10-27T11:30:00+02:00"
+  },
+  {
+    "Name": "INF-WPP-C3/01",
+    "Location": "0761",
+    "Description": "Dozent: DMUR",
+    "StartTime": "2023-11-10T08:15:00+01:00",
+    "EndTime": "2023-11-10T11:30:00+01:00"
+  },
+  {
+    "Name": "INF-WPP-C3/01",
+    "Location": "0761",
+    "Description": "Dozent: DMUR",
+    "StartTime": "2023-11-24T08:15:00+01:00",
+    "EndTime": "2023-11-24T11:30:00+01:00"
+  },
+  {
+    "Name": "INF-WPP-C3/01",
+    "Location": "0761",
+    "Description": "Dozent: DMUR",
+    "StartTime": "2023-12-08T08:15:00+01:00",
+    "EndTime": "2023-12-08T11:30:00+01:00"
+  },
+  {
+    "Name": "INF-WPP-C3/01",
+    "Location": "0761",
+    "Description": "Dozent: DMUR",
+    "StartTime": "2023-12-22T08:15:00+01:00",
+    "EndTime": "2023-12-22T11:30:00+01:00"
+  },
+  {
+    "Name": "INF-WPP-C3/01",
+    "Location": "0761",
+    "Description": "Dozent: DMUR",
+    "StartTime": "2024-01-19T08:15:00+01:00",
+    "EndTime": "2024-01-19T11:30:00+01:00"
+  },
+  {
+    "Name": "INF-WPP-C3/01",
+    "Location": "0761",
+    "Description": "Dozent: DMUR",
+    "StartTime": "2024-02-02T08:15:00+01:00",
+    "EndTime": "2024-02-02T11:30:00+01:00"
+  }
+]

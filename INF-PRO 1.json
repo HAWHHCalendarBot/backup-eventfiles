@@ -1,0 +1,100 @@
+[
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2023-10-16T10:00:00+02:00",
+    "EndTime": "2023-10-16T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2023-10-23T10:00:00+02:00",
+    "EndTime": "2023-10-23T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2023-10-30T10:00:00+01:00",
+    "EndTime": "2023-10-30T15:45:00+01:00"
+  },
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2023-11-06T10:00:00+01:00",
+    "EndTime": "2023-11-06T15:45:00+01:00"
+  },
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2023-11-13T10:00:00+01:00",
+    "EndTime": "2023-11-13T15:45:00+01:00"
+  },
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2023-11-20T10:00:00+01:00",
+    "EndTime": "2023-11-20T15:45:00+01:00"
+  },
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2023-11-27T10:00:00+01:00",
+    "EndTime": "2023-11-27T15:45:00+01:00"
+  },
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2023-12-04T10:00:00+01:00",
+    "EndTime": "2023-12-04T15:45:00+01:00"
+  },
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2023-12-11T10:00:00+01:00",
+    "EndTime": "2023-12-11T15:45:00+01:00"
+  },
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2023-12-18T10:00:00+01:00",
+    "EndTime": "2023-12-18T15:45:00+01:00"
+  },
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2024-01-08T10:00:00+01:00",
+    "EndTime": "2024-01-08T15:45:00+01:00"
+  },
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2024-01-15T10:00:00+01:00",
+    "EndTime": "2024-01-15T15:45:00+01:00"
+  },
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2024-01-22T10:00:00+01:00",
+    "EndTime": "2024-01-22T15:45:00+01:00"
+  },
+  {
+    "Name": "INF-PRO 1",
+    "Location": "1105",
+    "Description": "Dozent: CLM",
+    "StartTime": "2024-01-29T10:00:00+01:00",
+    "EndTime": "2024-01-29T15:45:00+01:00"
+  }
+]

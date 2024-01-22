@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BITS3-BSP/04",
+    "Location": "0761",
+    "Description": "Dozent: RST/[Slz]",
+    "StartTime": "2023-11-03T08:15:00+01:00",
+    "EndTime": "2023-11-03T11:30:00+01:00"
+  },
+  {
+    "Name": "BITS3-BSP/04",
+    "Location": "0761",
+    "Description": "Dozent: RST/[Slz]",
+    "StartTime": "2023-12-01T08:15:00+01:00",
+    "EndTime": "2023-12-01T11:30:00+01:00"
+  },
+  {
+    "Name": "BITS3-BSP/04",
+    "Location": "0761",
+    "Description": "Dozent: RST/[Slz]",
+    "StartTime": "2023-12-15T08:15:00+01:00",
+    "EndTime": "2023-12-15T11:30:00+01:00"
+  },
+  {
+    "Name": "BITS3-BSP/04",
+    "Location": "0761",
+    "Description": "Dozent: RST/[Slz]",
+    "StartTime": "2024-01-26T08:15:00+01:00",
+    "EndTime": "2024-01-26T11:30:00+01:00"
+  }
+]

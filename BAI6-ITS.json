@@ -1,0 +1,93 @@
+[
+  {
+    "Name": "BAI6-ITS",
+    "Location": "1265",
+    "Description": "Dozent: KSS",
+    "StartTime": "2023-10-16T10:15:00+02:00",
+    "EndTime": "2023-10-16T13:30:00+02:00"
+  },
+  {
+    "Name": "BAI6-ITS",
+    "Location": "1265",
+    "Description": "Dozent: KSS",
+    "StartTime": "2023-10-23T10:15:00+02:00",
+    "EndTime": "2023-10-23T13:30:00+02:00"
+  },
+  {
+    "Name": "BAI6-ITS",
+    "Location": "1265",
+    "Description": "Dozent: KSS",
+    "StartTime": "2023-10-30T10:15:00+01:00",
+    "EndTime": "2023-10-30T13:30:00+01:00"
+  },
+  {
+    "Name": "BAI6-ITS",
+    "Location": "1265",
+    "Description": "Dozent: KSS",
+    "StartTime": "2023-11-06T10:15:00+01:00",
+    "EndTime": "2023-11-06T13:30:00+01:00"
+  },
+  {
+    "Name": "BAI6-ITS",
+    "Location": "1265",
+    "Description": "Dozent: KSS",
+    "StartTime": "2023-11-13T10:15:00+01:00",
+    "EndTime": "2023-11-13T13:30:00+01:00"
+  },
+  {
+    "Name": "BAI6-ITS",
+    "Location": "1265",
+    "Description": "Dozent: KSS",
+    "StartTime": "2023-11-20T10:15:00+01:00",
+    "EndTime": "2023-11-20T13:30:00+01:00"
+  },
+  {
+    "Name": "BAI6-ITS",
+    "Location": "1265",
+    "Description": "Dozent: KSS",
+    "StartTime": "2023-11-27T10:15:00+01:00",
+    "EndTime": "2023-11-27T13:30:00+01:00"
+  },
+  {
+    "Name": "BAI6-ITS",
+    "Location": "1265",
+    "Description": "Dozent: KSS",
+    "StartTime": "2023-12-04T10:15:00+01:00",
+    "EndTime": "2023-12-04T13:30:00+01:00"
+  },
+  {
+    "Name": "BAI6-ITS",
+    "Location": "1265",
+    "Description": "Dozent: KSS",
+    "StartTime": "2023-12-11T10:15:00+01:00",
+    "EndTime": "2023-12-11T13:30:00+01:00"
+  },
+  {
+    "Name": "BAI6-ITS",
+    "Location": "1265",
+    "Description": "Dozent: KSS",
+    "StartTime": "2023-12-18T10:15:00+01:00",
+    "EndTime": "2023-12-18T13:30:00+01:00"
+  },
+  {
+    "Name": "BAI6-ITS",
+    "Location": "1265",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-01-08T10:15:00+01:00",
+    "EndTime": "2024-01-08T13:30:00+01:00"
+  },
+  {
+    "Name": "BAI6-ITS",
+    "Location": "1265",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-01-15T10:15:00+01:00",
+    "EndTime": "2024-01-15T13:30:00+01:00"
+  },
+  {
+    "Name": "BAI6-ITS",
+    "Location": "1265",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-01-22T10:15:00+01:00",
+    "EndTime": "2024-01-22T13:30:00+01:00"
+  }
+]

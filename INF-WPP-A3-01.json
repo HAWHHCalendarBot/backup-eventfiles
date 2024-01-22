@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "INF-WPP-A3/01",
+    "Location": "0765",
+    "Description": "Dozent: KSC",
+    "StartTime": "2023-11-07T08:15:00+01:00",
+    "EndTime": "2023-11-07T11:30:00+01:00"
+  },
+  {
+    "Name": "INF-WPP-A3/01",
+    "Location": "0765",
+    "Description": "Dozent: KSC",
+    "StartTime": "2023-11-21T08:15:00+01:00",
+    "EndTime": "2023-11-21T11:30:00+01:00"
+  },
+  {
+    "Name": "INF-WPP-A3/01",
+    "Location": "0765",
+    "Description": "Dozent: KSC",
+    "StartTime": "2023-12-05T08:15:00+01:00",
+    "EndTime": "2023-12-05T11:30:00+01:00"
+  },
+  {
+    "Name": "INF-WPP-A3/01",
+    "Location": "0765",
+    "Description": "Dozent: KSC",
+    "StartTime": "2023-12-19T08:15:00+01:00",
+    "EndTime": "2023-12-19T11:30:00+01:00"
+  },
+  {
+    "Name": "INF-WPP-A3/01",
+    "Location": "0765",
+    "Description": "Dozent: KSC",
+    "StartTime": "2024-01-16T08:15:00+01:00",
+    "EndTime": "2024-01-16T11:30:00+01:00"
+  },
+  {
+    "Name": "INF-WPP-A3/01",
+    "Location": "0765",
+    "Description": "Dozent: KSC",
+    "StartTime": "2024-01-30T08:15:00+01:00",
+    "EndTime": "2024-01-30T11:30:00+01:00"
+  }
+]

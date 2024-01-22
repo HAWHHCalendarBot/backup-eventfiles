@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "BAI3-GKAP/04",
+    "Location": "1102",
+    "Description": "Dozent: PDB/[Ber]",
+    "StartTime": "2023-11-02T12:15:00+01:00",
+    "EndTime": "2023-11-02T15:45:00+01:00"
+  },
+  {
+    "Name": "BAI3-GKAP/04",
+    "Location": "1102",
+    "Description": "Dozent: PDB/[Ber]",
+    "StartTime": "2023-11-30T12:15:00+01:00",
+    "EndTime": "2023-11-30T15:45:00+01:00"
+  },
+  {
+    "Name": "BAI3-GKAP/04",
+    "Location": "1102",
+    "Description": "Dozent: PDB/[Ber]",
+    "StartTime": "2024-01-18T12:15:00+01:00",
+    "EndTime": "2024-01-18T15:45:00+01:00"
+  }
+]

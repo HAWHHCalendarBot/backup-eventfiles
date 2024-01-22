@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BWI1-GWIP/04",
+    "Location": "NB 06.13",
+    "Description": "Dozent: BRA (Dep W)",
+    "StartTime": "2023-10-30T16:00:00+01:00",
+    "EndTime": "2023-10-30T19:15:00+01:00"
+  },
+  {
+    "Name": "BWI1-GWIP/04",
+    "Location": "NB 06.13",
+    "Description": "Dozent: BRA (Dep W)",
+    "StartTime": "2023-11-20T16:00:00+01:00",
+    "EndTime": "2023-11-20T19:15:00+01:00"
+  },
+  {
+    "Name": "BWI1-GWIP/04",
+    "Location": "NB 06.13",
+    "Description": "Dozent: BRA (Dep W)",
+    "StartTime": "2023-12-11T16:00:00+01:00",
+    "EndTime": "2023-12-11T19:15:00+01:00"
+  },
+  {
+    "Name": "BWI1-GWIP/04",
+    "Location": "NB 06.13",
+    "Description": "Dozent: BRA (Dep W)",
+    "StartTime": "2024-01-15T16:00:00+01:00",
+    "EndTime": "2024-01-15T19:15:00+01:00"
+  }
+]
