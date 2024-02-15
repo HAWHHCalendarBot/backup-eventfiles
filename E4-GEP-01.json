@@ -1,37 +1,30 @@
 [
   {
     "Name": "E4-GEP/01",
-    "Location": "0301, 0405",
-    "Description": "Dozent: GNZ/[Kor]",
-    "StartTime": "2023-10-26T12:10:00+02:00",
-    "EndTime": "2023-10-26T15:40:00+02:00"
-  },
-  {
-    "Name": "E4-GEP/01",
-    "Location": "0405",
-    "Description": "Dozent: GNZ/[Kor]",
-    "StartTime": "2023-10-26T12:10:00+02:00",
-    "EndTime": "2023-10-26T15:40:00+02:00"
+    "Location": "0301",
+    "Description": "Dozent: HSE/[Kor]",
+    "StartTime": "2024-04-18T12:10:00+02:00",
+    "EndTime": "2024-04-18T15:40:00+02:00"
   },
   {
     "Name": "E4-GEP/01",
     "Location": "0301",
-    "Description": "Dozent: GNZ/[Kor]",
-    "StartTime": "2023-11-16T12:10:00+01:00",
-    "EndTime": "2023-11-16T15:40:00+01:00"
+    "Description": "Dozent: HSE/[Kor]",
+    "StartTime": "2024-05-02T12:10:00+02:00",
+    "EndTime": "2024-05-02T15:40:00+02:00"
   },
   {
     "Name": "E4-GEP/01",
     "Location": "0301",
-    "Description": "Dozent: GNZ/[Kor]",
-    "StartTime": "2023-12-07T12:10:00+01:00",
-    "EndTime": "2023-12-07T15:40:00+01:00"
+    "Description": "Dozent: HSE/[Kor]",
+    "StartTime": "2024-05-30T12:10:00+02:00",
+    "EndTime": "2024-05-30T15:40:00+02:00"
   },
   {
     "Name": "E4-GEP/01",
     "Location": "0301",
-    "Description": "Dozent: GNZ/[Kor]",
-    "StartTime": "2024-01-11T12:10:00+01:00",
-    "EndTime": "2024-01-11T15:40:00+01:00"
+    "Description": "Dozent: HSE/[Kor]",
+    "StartTime": "2024-06-20T12:10:00+02:00",
+    "EndTime": "2024-06-20T15:40:00+02:00"
   }
 ]

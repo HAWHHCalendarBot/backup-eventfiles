@@ -1,100 +1,79 @@
 [
   {
     "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2023-10-09T08:10:00+02:00",
-    "EndTime": "2023-10-09T11:25:00+02:00"
+    "Location": "Stiftstr69  R106",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-04-11T12:10:00+02:00",
+    "EndTime": "2024-04-11T15:40:00+02:00"
   },
   {
     "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2023-10-16T08:10:00+02:00",
-    "EndTime": "2023-10-16T11:25:00+02:00"
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-04-15T08:10:00+02:00",
+    "EndTime": "2024-04-15T11:25:00+02:00"
   },
   {
     "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2023-10-23T08:10:00+02:00",
-    "EndTime": "2023-10-23T11:25:00+02:00"
+    "Location": "Stiftstr69  R106",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-04-18T12:10:00+02:00",
+    "EndTime": "2024-04-18T15:40:00+02:00"
   },
   {
     "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2023-10-30T08:10:00+01:00",
-    "EndTime": "2023-10-30T11:25:00+01:00"
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-04-22T08:10:00+02:00",
+    "EndTime": "2024-04-22T11:25:00+02:00"
   },
   {
     "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2023-11-06T08:10:00+01:00",
-    "EndTime": "2023-11-06T11:25:00+01:00"
+    "Location": "Stiftstr69  R106",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-04-25T12:10:00+02:00",
+    "EndTime": "2024-04-25T15:40:00+02:00"
   },
   {
     "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2023-11-13T08:10:00+01:00",
-    "EndTime": "2023-11-13T11:25:00+01:00"
+    "Location": "Stiftstr69  R106",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-05-02T12:10:00+02:00",
+    "EndTime": "2024-05-02T15:40:00+02:00"
   },
   {
     "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2023-11-20T08:10:00+01:00",
-    "EndTime": "2023-11-20T11:25:00+01:00"
+    "Location": "Stiftstr69  R106",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-05-16T12:10:00+02:00",
+    "EndTime": "2024-05-16T15:40:00+02:00"
   },
   {
     "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2023-11-27T08:10:00+01:00",
-    "EndTime": "2023-11-27T11:25:00+01:00"
+    "Location": "Stiftstr69  R106",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-05-30T12:10:00+02:00",
+    "EndTime": "2024-05-30T15:40:00+02:00"
   },
   {
     "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2023-12-04T08:10:00+01:00",
-    "EndTime": "2023-12-04T11:25:00+01:00"
+    "Location": "Stiftstr69  R106",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-06-06T12:10:00+02:00",
+    "EndTime": "2024-06-06T15:40:00+02:00"
   },
   {
     "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2023-12-11T08:10:00+01:00",
-    "EndTime": "2023-12-11T11:25:00+01:00"
+    "Location": "Stiftstr69  R106",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-06-20T12:10:00+02:00",
+    "EndTime": "2024-06-20T15:40:00+02:00"
   },
   {
     "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2023-12-18T08:10:00+01:00",
-    "EndTime": "2023-12-18T11:25:00+01:00"
-  },
-  {
-    "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2024-01-08T08:10:00+01:00",
-    "EndTime": "2024-01-08T11:25:00+01:00"
-  },
-  {
-    "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2024-01-15T08:10:00+01:00",
-    "EndTime": "2024-01-15T11:25:00+01:00"
-  },
-  {
-    "Name": "IE4-DB",
-    "Location": "1065",
-    "Description": "Dozent: MLDH/YLDR",
-    "StartTime": "2024-01-22T08:10:00+01:00",
-    "EndTime": "2024-01-22T11:25:00+01:00"
+    "Location": "Stiftstr69  R106",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-06-27T12:10:00+02:00",
+    "EndTime": "2024-06-27T15:40:00+02:00"
   }
 ]

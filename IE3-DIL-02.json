@@ -1,44 +1,30 @@
 [
   {
     "Name": "IE3-DIL/02",
-    "Location": "0804, 1260",
-    "Description": "Dozent: SCZ/SHRR",
-    "StartTime": "2023-10-27T08:10:00+02:00",
-    "EndTime": "2023-10-27T11:25:00+02:00"
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-04-15T12:10:00+02:00",
+    "EndTime": "2024-04-15T15:40:00+02:00"
   },
   {
     "Name": "IE3-DIL/02",
-    "Location": "1260",
-    "Description": "Dozent: SCZ/SHRR",
-    "StartTime": "2023-10-27T08:10:00+02:00",
-    "EndTime": "2023-10-27T11:25:00+02:00"
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-05-08T08:10:00+02:00",
+    "EndTime": "2024-05-08T11:25:00+02:00"
   },
   {
     "Name": "IE3-DIL/02",
-    "Location": "0804",
-    "Description": "Dozent: SCZ/SHRR",
-    "StartTime": "2023-11-10T08:10:00+01:00",
-    "EndTime": "2023-11-10T11:25:00+01:00"
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-05-29T08:10:00+02:00",
+    "EndTime": "2024-05-29T11:25:00+02:00"
   },
   {
     "Name": "IE3-DIL/02",
-    "Location": "0804",
-    "Description": "Dozent: SCZ/SHRR",
-    "StartTime": "2023-11-30T12:10:00+01:00",
-    "EndTime": "2023-11-30T15:40:00+01:00"
-  },
-  {
-    "Name": "IE3-DIL/02",
-    "Location": "0804",
-    "Description": "Dozent: SCZ/SHRR",
-    "StartTime": "2023-12-15T08:10:00+01:00",
-    "EndTime": "2023-12-15T11:25:00+01:00"
-  },
-  {
-    "Name": "IE3-DIL/02",
-    "Location": "0804",
-    "Description": "Dozent: SCZ/SHRR",
-    "StartTime": "2024-01-19T08:10:00+01:00",
-    "EndTime": "2024-01-19T11:25:00+01:00"
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-06-19T08:10:00+02:00",
+    "EndTime": "2024-06-19T11:25:00+02:00"
   }
 ]

@@ -26,5 +26,33 @@
     "Description": "Dozent: [Kor]/SHRR",
     "StartTime": "2024-01-25T08:10:00+01:00",
     "EndTime": "2024-01-25T11:25:00+01:00"
+  },
+  {
+    "Name": "BMT3-DTP/02",
+    "Location": "0801",
+    "Description": "Dozent: FTZ",
+    "StartTime": "2024-04-18T12:10:00+02:00",
+    "EndTime": "2024-04-18T15:40:00+02:00"
+  },
+  {
+    "Name": "BMT3-DTP/02",
+    "Location": "0801",
+    "Description": "Dozent: FTZ",
+    "StartTime": "2024-05-16T12:10:00+02:00",
+    "EndTime": "2024-05-16T15:40:00+02:00"
+  },
+  {
+    "Name": "BMT3-DTP/02",
+    "Location": "0801",
+    "Description": "Dozent: FTZ",
+    "StartTime": "2024-06-06T12:10:00+02:00",
+    "EndTime": "2024-06-06T15:40:00+02:00"
+  },
+  {
+    "Name": "BMT3-DTP/02",
+    "Location": "0801",
+    "Description": "Dozent: FTZ",
+    "StartTime": "2024-06-27T12:10:00+02:00",
+    "EndTime": "2024-06-27T15:40:00+02:00"
   }
 ]

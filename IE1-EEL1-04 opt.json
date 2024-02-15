@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "IE1-EEL1/04 opt",
+    "Location": "0501, 0565",
+    "Description": "Dozent: RDT/WTMR",
+    "StartTime": "2024-05-22T08:10:00+02:00",
+    "EndTime": "2024-05-22T11:25:00+02:00"
+  },
+  {
+    "Name": "IE1-EEL1/04 opt",
+    "Location": "0501, 0565",
+    "Description": "Dozent: RDT/WTMR",
+    "StartTime": "2024-06-12T08:10:00+02:00",
+    "EndTime": "2024-06-12T11:25:00+02:00"
+  },
+  {
+    "Name": "IE1-EEL1/04 opt",
+    "Location": "0501, 0565",
+    "Description": "Dozent: RDT/WTMR",
+    "StartTime": "2024-07-03T08:10:00+02:00",
+    "EndTime": "2024-07-03T11:25:00+02:00"
+  }
+]

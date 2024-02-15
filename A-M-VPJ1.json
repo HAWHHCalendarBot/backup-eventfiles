@@ -3,98 +3,84 @@
     "Name": "A-M-VPJ1",
     "Location": "0462",
     "Description": "Dozent: MAA/MNR/RTH/EBEL",
-    "StartTime": "2023-11-30T08:10:00+01:00",
-    "EndTime": "2023-11-30T11:25:00+01:00"
-  },
-  {
-    "Name": "A-M-VPJ1",
-    "Location": "0462",
-    "Description": "Dozent: MAA/MNR/EBEL",
-    "StartTime": "2023-11-30T12:10:00+01:00",
-    "EndTime": "2023-11-30T15:40:00+01:00"
+    "StartTime": "2024-04-04T08:10:00+02:00",
+    "EndTime": "2024-04-04T11:25:00+02:00"
   },
   {
     "Name": "A-M-VPJ1",
     "Location": "0462",
     "Description": "Dozent: MAA/MNR/RTH/EBEL",
-    "StartTime": "2023-12-07T08:10:00+01:00",
-    "EndTime": "2023-12-07T11:25:00+01:00"
-  },
-  {
-    "Name": "A-M-VPJ1",
-    "Location": "0462",
-    "Description": "Dozent: MAA/MNR/EBEL",
-    "StartTime": "2023-12-07T12:10:00+01:00",
-    "EndTime": "2023-12-07T15:40:00+01:00"
+    "StartTime": "2024-04-04T12:10:00+02:00",
+    "EndTime": "2024-04-04T15:40:00+02:00"
   },
   {
     "Name": "A-M-VPJ1",
     "Location": "0462",
     "Description": "Dozent: MAA/MNR/RTH/EBEL",
-    "StartTime": "2023-12-14T08:10:00+01:00",
-    "EndTime": "2023-12-14T11:25:00+01:00"
-  },
-  {
-    "Name": "A-M-VPJ1",
-    "Location": "0462",
-    "Description": "Dozent: MAA/MNR/EBEL",
-    "StartTime": "2023-12-14T12:10:00+01:00",
-    "EndTime": "2023-12-14T15:40:00+01:00"
+    "StartTime": "2024-04-11T08:10:00+02:00",
+    "EndTime": "2024-04-11T11:25:00+02:00"
   },
   {
     "Name": "A-M-VPJ1",
     "Location": "0462",
     "Description": "Dozent: MAA/MNR/RTH/EBEL",
-    "StartTime": "2023-12-21T08:10:00+01:00",
-    "EndTime": "2023-12-21T11:25:00+01:00"
-  },
-  {
-    "Name": "A-M-VPJ1",
-    "Location": "0462",
-    "Description": "Dozent: MAA/MNR/EBEL",
-    "StartTime": "2023-12-21T12:10:00+01:00",
-    "EndTime": "2023-12-21T15:40:00+01:00"
+    "StartTime": "2024-04-11T12:10:00+02:00",
+    "EndTime": "2024-04-11T15:40:00+02:00"
   },
   {
     "Name": "A-M-VPJ1",
     "Location": "0462",
     "Description": "Dozent: MAA/MNR/RTH/EBEL",
-    "StartTime": "2024-01-11T08:10:00+01:00",
-    "EndTime": "2024-01-11T11:25:00+01:00"
-  },
-  {
-    "Name": "A-M-VPJ1",
-    "Location": "0462",
-    "Description": "Dozent: MAA/MNR/EBEL",
-    "StartTime": "2024-01-11T12:10:00+01:00",
-    "EndTime": "2024-01-11T15:40:00+01:00"
+    "StartTime": "2024-04-18T08:10:00+02:00",
+    "EndTime": "2024-04-18T11:25:00+02:00"
   },
   {
     "Name": "A-M-VPJ1",
     "Location": "0462",
     "Description": "Dozent: MAA/MNR/RTH/EBEL",
-    "StartTime": "2024-01-18T08:10:00+01:00",
-    "EndTime": "2024-01-18T11:25:00+01:00"
-  },
-  {
-    "Name": "A-M-VPJ1",
-    "Location": "0462",
-    "Description": "Dozent: MAA/MNR/EBEL",
-    "StartTime": "2024-01-18T12:10:00+01:00",
-    "EndTime": "2024-01-18T15:40:00+01:00"
+    "StartTime": "2024-04-18T12:10:00+02:00",
+    "EndTime": "2024-04-18T15:40:00+02:00"
   },
   {
     "Name": "A-M-VPJ1",
     "Location": "0462",
     "Description": "Dozent: MAA/MNR/RTH/EBEL",
-    "StartTime": "2024-01-25T08:10:00+01:00",
-    "EndTime": "2024-01-25T11:25:00+01:00"
+    "StartTime": "2024-04-25T08:10:00+02:00",
+    "EndTime": "2024-04-25T11:25:00+02:00"
   },
   {
     "Name": "A-M-VPJ1",
     "Location": "0462",
-    "Description": "Dozent: MAA/MNR/EBEL",
-    "StartTime": "2024-01-25T12:10:00+01:00",
-    "EndTime": "2024-01-25T15:40:00+01:00"
+    "Description": "Dozent: MAA/MNR/RTH/EBEL",
+    "StartTime": "2024-04-25T12:10:00+02:00",
+    "EndTime": "2024-04-25T15:40:00+02:00"
+  },
+  {
+    "Name": "A-M-VPJ1",
+    "Location": "0462",
+    "Description": "Dozent: MAA/MNR/RTH/EBEL",
+    "StartTime": "2024-05-02T08:10:00+02:00",
+    "EndTime": "2024-05-02T11:25:00+02:00"
+  },
+  {
+    "Name": "A-M-VPJ1",
+    "Location": "0462",
+    "Description": "Dozent: MAA/MNR/RTH/EBEL",
+    "StartTime": "2024-05-02T12:10:00+02:00",
+    "EndTime": "2024-05-02T15:40:00+02:00"
+  },
+  {
+    "Name": "A-M-VPJ1",
+    "Location": "0462",
+    "Description": "Dozent: MAA/MNR/RTH/EBEL",
+    "StartTime": "2024-05-16T08:10:00+02:00",
+    "EndTime": "2024-05-16T11:25:00+02:00"
+  },
+  {
+    "Name": "A-M-VPJ1",
+    "Location": "0462",
+    "Description": "Dozent: MAA/MNR/RTH/EBEL",
+    "StartTime": "2024-05-16T12:10:00+02:00",
+    "EndTime": "2024-05-16T15:40:00+02:00"
   }
 ]

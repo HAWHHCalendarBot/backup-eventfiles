@@ -2,29 +2,29 @@
   {
     "Name": "E3-DIP/03",
     "Location": "0801",
-    "Description": "Dozent: LTL/NGBR",
-    "StartTime": "2023-11-07T08:10:00+01:00",
-    "EndTime": "2023-11-07T11:25:00+01:00"
+    "Description": "Dozent: FTZ",
+    "StartTime": "2024-04-23T12:10:00+02:00",
+    "EndTime": "2024-04-23T15:40:00+02:00"
   },
   {
     "Name": "E3-DIP/03",
     "Location": "0801",
-    "Description": "Dozent: LTL/NGBR",
-    "StartTime": "2023-11-23T08:10:00+01:00",
-    "EndTime": "2023-11-23T11:25:00+01:00"
+    "Description": "Dozent: FTZ",
+    "StartTime": "2024-05-14T12:10:00+02:00",
+    "EndTime": "2024-05-14T15:40:00+02:00"
   },
   {
     "Name": "E3-DIP/03",
     "Location": "0801",
-    "Description": "Dozent: LTL/NGBR",
-    "StartTime": "2023-12-14T08:10:00+01:00",
-    "EndTime": "2023-12-14T11:25:00+01:00"
+    "Description": "Dozent: FTZ",
+    "StartTime": "2024-06-11T12:10:00+02:00",
+    "EndTime": "2024-06-11T15:40:00+02:00"
   },
   {
     "Name": "E3-DIP/03",
     "Location": "0801",
-    "Description": "Dozent: LTL/NGBR",
-    "StartTime": "2024-01-18T08:10:00+01:00",
-    "EndTime": "2024-01-18T11:25:00+01:00"
+    "Description": "Dozent: FTZ",
+    "StartTime": "2024-07-02T12:10:00+02:00",
+    "EndTime": "2024-07-02T15:40:00+02:00"
   }
 ]

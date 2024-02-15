@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "B-REE4-RTP/01",
+    "Location": "0606",
+    "Description": "Dozent: ERD/EBEL",
+    "StartTime": "2024-04-26T12:10:00+02:00",
+    "EndTime": "2024-04-26T15:40:00+02:00"
+  },
+  {
+    "Name": "B-REE4-RTP/01",
+    "Location": "0606",
+    "Description": "Dozent: ERD/EBEL",
+    "StartTime": "2024-05-17T12:10:00+02:00",
+    "EndTime": "2024-05-17T15:40:00+02:00"
+  },
+  {
+    "Name": "B-REE4-RTP/01",
+    "Location": "0606",
+    "Description": "Dozent: ERD/EBEL",
+    "StartTime": "2024-06-07T12:10:00+02:00",
+    "EndTime": "2024-06-07T15:40:00+02:00"
+  },
+  {
+    "Name": "B-REE4-RTP/01",
+    "Location": "0606",
+    "Description": "Dozent: ERD/EBEL",
+    "StartTime": "2024-06-28T12:10:00+02:00",
+    "EndTime": "2024-06-28T15:40:00+02:00"
+  }
+]

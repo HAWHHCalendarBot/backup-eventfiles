@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E6-EVP/01",
+    "Location": "1401",
+    "Description": "Dozent: NGBR/WDL",
+    "StartTime": "2024-04-18T12:10:00+02:00",
+    "EndTime": "2024-04-18T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-EVP/01",
+    "Location": "1401",
+    "Description": "Dozent: NGBR/WDL",
+    "StartTime": "2024-05-02T12:10:00+02:00",
+    "EndTime": "2024-05-02T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-EVP/01",
+    "Location": "1401",
+    "Description": "Dozent: NGBR/WDL",
+    "StartTime": "2024-05-30T12:10:00+02:00",
+    "EndTime": "2024-05-30T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-EVP/01",
+    "Location": "1401",
+    "Description": "Dozent: NGBR/WDL",
+    "StartTime": "2024-06-20T12:10:00+02:00",
+    "EndTime": "2024-06-20T15:40:00+02:00"
+  }
+]

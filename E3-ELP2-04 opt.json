@@ -2,22 +2,22 @@
   {
     "Name": "E3-ELP2/04 opt",
     "Location": "0505",
-    "Description": "Dozent: AHSD/[Has]",
-    "StartTime": "2023-11-28T15:40:00+01:00",
-    "EndTime": "2023-11-28T18:55:00+01:00"
+    "Description": "Dozent: DHL",
+    "StartTime": "2024-05-16T08:10:00+02:00",
+    "EndTime": "2024-05-16T11:25:00+02:00"
   },
   {
     "Name": "E3-ELP2/04 opt",
     "Location": "0505",
-    "Description": "Dozent: AHSD/[Has]",
-    "StartTime": "2023-12-12T15:40:00+01:00",
-    "EndTime": "2023-12-12T18:55:00+01:00"
+    "Description": "Dozent: DHL",
+    "StartTime": "2024-06-06T08:10:00+02:00",
+    "EndTime": "2024-06-06T11:25:00+02:00"
   },
   {
     "Name": "E3-ELP2/04 opt",
     "Location": "0505",
-    "Description": "Dozent: AHSD/[Has]",
-    "StartTime": "2024-01-23T15:40:00+01:00",
-    "EndTime": "2024-01-23T18:55:00+01:00"
+    "Description": "Dozent: DHL",
+    "StartTime": "2024-06-27T08:10:00+02:00",
+    "EndTime": "2024-06-27T11:25:00+02:00"
   }
 ]

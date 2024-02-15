@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "BMT4-MSP2/02 opt",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: HSS",
+    "StartTime": "2024-05-17T08:10:00+02:00",
+    "EndTime": "2024-05-17T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT4-MSP2/02 opt",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: HSS",
+    "StartTime": "2024-06-07T08:10:00+02:00",
+    "EndTime": "2024-06-07T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT4-MSP2/02 opt",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: HSS",
+    "StartTime": "2024-06-28T08:10:00+02:00",
+    "EndTime": "2024-06-28T11:25:00+02:00"
+  }
+]

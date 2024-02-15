@@ -1,44 +1,30 @@
 [
   {
     "Name": "E6-LEP/01",
-    "Location": "0301, 1260",
-    "Description": "Dozent: HSE/[Kor]",
-    "StartTime": "2023-11-01T12:10:00+01:00",
-    "EndTime": "2023-11-01T15:40:00+01:00"
-  },
-  {
-    "Name": "E6-LEP/01",
-    "Location": "1260",
-    "Description": "Dozent: HSE/[Kor]",
-    "StartTime": "2023-11-01T12:10:00+01:00",
-    "EndTime": "2023-11-01T15:40:00+01:00"
+    "Location": "0301",
+    "Description": "Dozent: GNZ/[Kor]",
+    "StartTime": "2024-04-25T08:10:00+02:00",
+    "EndTime": "2024-04-25T11:25:00+02:00"
   },
   {
     "Name": "E6-LEP/01",
     "Location": "0301",
-    "Description": "Dozent: HSE/[Kor]",
-    "StartTime": "2023-11-20T12:10:00+01:00",
-    "EndTime": "2023-11-20T15:40:00+01:00"
+    "Description": "Dozent: GNZ/[Kor]",
+    "StartTime": "2024-05-02T08:10:00+02:00",
+    "EndTime": "2024-05-02T11:25:00+02:00"
   },
   {
     "Name": "E6-LEP/01",
     "Location": "0301",
-    "Description": "Dozent: HSE/[Kor]",
-    "StartTime": "2023-12-11T12:10:00+01:00",
-    "EndTime": "2023-12-11T15:40:00+01:00"
+    "Description": "Dozent: GNZ/[Kor]",
+    "StartTime": "2024-05-30T08:10:00+02:00",
+    "EndTime": "2024-05-30T11:25:00+02:00"
   },
   {
     "Name": "E6-LEP/01",
     "Location": "0301",
-    "Description": "Dozent: HSE/[Kor]",
-    "StartTime": "2024-01-15T08:10:00+01:00",
-    "EndTime": "2024-01-15T11:25:00+01:00"
-  },
-  {
-    "Name": "E6-LEP/01",
-    "Location": "0301",
-    "Description": "Dozent: HSE/[Kor]",
-    "StartTime": "2024-01-15T12:10:00+01:00",
-    "EndTime": "2024-01-15T15:40:00+01:00"
+    "Description": "Dozent: GNZ/[Kor]",
+    "StartTime": "2024-06-20T08:10:00+02:00",
+    "EndTime": "2024-06-20T11:25:00+02:00"
   }
 ]

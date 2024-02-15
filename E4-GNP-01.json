@@ -3,28 +3,28 @@
     "Name": "E4-GNP/01",
     "Location": "1401",
     "Description": "Dozent: VLM/WDL/NGBR",
-    "StartTime": "2023-11-02T12:10:00+01:00",
-    "EndTime": "2023-11-02T15:40:00+01:00"
+    "StartTime": "2024-04-25T12:10:00+02:00",
+    "EndTime": "2024-04-25T15:40:00+02:00"
   },
   {
     "Name": "E4-GNP/01",
     "Location": "1401",
     "Description": "Dozent: VLM/WDL/NGBR",
-    "StartTime": "2023-11-23T12:10:00+01:00",
-    "EndTime": "2023-11-23T15:40:00+01:00"
+    "StartTime": "2024-05-16T12:10:00+02:00",
+    "EndTime": "2024-05-16T15:40:00+02:00"
   },
   {
     "Name": "E4-GNP/01",
     "Location": "1401",
     "Description": "Dozent: VLM/WDL/NGBR",
-    "StartTime": "2023-12-14T12:10:00+01:00",
-    "EndTime": "2023-12-14T15:40:00+01:00"
+    "StartTime": "2024-06-06T12:10:00+02:00",
+    "EndTime": "2024-06-06T15:40:00+02:00"
   },
   {
     "Name": "E4-GNP/01",
     "Location": "1401",
     "Description": "Dozent: VLM/WDL/NGBR",
-    "StartTime": "2023-12-18T12:10:00+01:00",
-    "EndTime": "2023-12-18T13:40:00+01:00"
+    "StartTime": "2024-06-27T12:10:00+02:00",
+    "EndTime": "2024-06-27T15:40:00+02:00"
   }
 ]

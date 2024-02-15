@@ -2,22 +2,22 @@
   {
     "Name": "E4-MPP/04 opt",
     "Location": "0880",
-    "Description": "Dozent: KPKE/STKR",
-    "StartTime": "2023-11-23T12:10:00+01:00",
-    "EndTime": "2023-11-23T15:40:00+01:00"
+    "Description": "Dozent: RMS",
+    "StartTime": "2024-04-30T12:10:00+02:00",
+    "EndTime": "2024-04-30T15:40:00+02:00"
   },
   {
     "Name": "E4-MPP/04 opt",
     "Location": "0880",
-    "Description": "Dozent: KPKE/STKR",
-    "StartTime": "2023-12-14T12:10:00+01:00",
-    "EndTime": "2023-12-14T15:40:00+01:00"
+    "Description": "Dozent: RMS",
+    "StartTime": "2024-05-28T12:10:00+02:00",
+    "EndTime": "2024-05-28T15:40:00+02:00"
   },
   {
     "Name": "E4-MPP/04 opt",
     "Location": "0880",
-    "Description": "Dozent: KPKE/STKR",
-    "StartTime": "2024-01-18T12:10:00+01:00",
-    "EndTime": "2024-01-18T15:40:00+01:00"
+    "Description": "Dozent: RMS",
+    "StartTime": "2024-06-18T12:10:00+02:00",
+    "EndTime": "2024-06-18T15:40:00+02:00"
   }
 ]

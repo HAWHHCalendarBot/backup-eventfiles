@@ -2,29 +2,22 @@
   {
     "Name": "BMT5-ATP2/02 opt",
     "Location": "0606",
-    "Description": "Dozent: BTGR/EBEL",
-    "StartTime": "2023-10-26T08:10:00+02:00",
-    "EndTime": "2023-10-26T09:40:00+02:00"
+    "Description": "Dozent: EBEL/[Huss]",
+    "StartTime": "2024-05-15T12:10:00+02:00",
+    "EndTime": "2024-05-15T15:40:00+02:00"
   },
   {
     "Name": "BMT5-ATP2/02 opt",
     "Location": "0606",
-    "Description": "Dozent: BTGR/EBEL",
-    "StartTime": "2023-11-30T08:10:00+01:00",
-    "EndTime": "2023-11-30T11:25:00+01:00"
+    "Description": "Dozent: EBEL/[Huss]",
+    "StartTime": "2024-06-05T12:10:00+02:00",
+    "EndTime": "2024-06-05T15:40:00+02:00"
   },
   {
     "Name": "BMT5-ATP2/02 opt",
     "Location": "0606",
-    "Description": "Dozent: BTGR/EBEL",
-    "StartTime": "2023-12-21T08:10:00+01:00",
-    "EndTime": "2023-12-21T11:25:00+01:00"
-  },
-  {
-    "Name": "BMT5-ATP2/02 opt",
-    "Location": "0606",
-    "Description": "Dozent: BTGR/EBEL",
-    "StartTime": "2024-01-25T08:10:00+01:00",
-    "EndTime": "2024-01-25T11:25:00+01:00"
+    "Description": "Dozent: EBEL/[Huss]",
+    "StartTime": "2024-06-26T12:10:00+02:00",
+    "EndTime": "2024-06-26T15:40:00+02:00"
   }
 ]

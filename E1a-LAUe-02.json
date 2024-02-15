@@ -2,43 +2,43 @@
   {
     "Name": "E1a-LAUe/02",
     "Location": "0861",
-    "Description": "Dozent: JNM",
-    "StartTime": "2023-10-26T09:55:00+02:00",
-    "EndTime": "2023-10-26T11:25:00+02:00"
+    "Description": "Dozent: HSL",
+    "StartTime": "2024-04-16T15:55:00+02:00",
+    "EndTime": "2024-04-16T17:25:00+02:00"
   },
   {
     "Name": "E1a-LAUe/02",
     "Location": "0861",
-    "Description": "Dozent: JNM",
-    "StartTime": "2023-11-09T09:55:00+01:00",
-    "EndTime": "2023-11-09T11:25:00+01:00"
+    "Description": "Dozent: HSL",
+    "StartTime": "2024-04-30T15:55:00+02:00",
+    "EndTime": "2024-04-30T17:25:00+02:00"
   },
   {
     "Name": "E1a-LAUe/02",
     "Location": "0861",
-    "Description": "Dozent: JNM",
-    "StartTime": "2023-11-23T09:55:00+01:00",
-    "EndTime": "2023-11-23T11:25:00+01:00"
+    "Description": "Dozent: HSL",
+    "StartTime": "2024-05-14T15:55:00+02:00",
+    "EndTime": "2024-05-14T17:25:00+02:00"
   },
   {
     "Name": "E1a-LAUe/02",
     "Location": "0861",
-    "Description": "Dozent: JNM",
-    "StartTime": "2023-12-07T09:55:00+01:00",
-    "EndTime": "2023-12-07T11:25:00+01:00"
+    "Description": "Dozent: HSL",
+    "StartTime": "2024-06-04T15:55:00+02:00",
+    "EndTime": "2024-06-04T17:25:00+02:00"
   },
   {
     "Name": "E1a-LAUe/02",
     "Location": "0861",
-    "Description": "Dozent: JNM",
-    "StartTime": "2023-12-21T09:55:00+01:00",
-    "EndTime": "2023-12-21T11:25:00+01:00"
+    "Description": "Dozent: HSL",
+    "StartTime": "2024-06-18T15:55:00+02:00",
+    "EndTime": "2024-06-18T17:25:00+02:00"
   },
   {
     "Name": "E1a-LAUe/02",
     "Location": "0861",
-    "Description": "Dozent: JNM",
-    "StartTime": "2024-01-18T09:55:00+01:00",
-    "EndTime": "2024-01-18T11:25:00+01:00"
+    "Description": "Dozent: HSL",
+    "StartTime": "2024-07-02T15:55:00+02:00",
+    "EndTime": "2024-07-02T17:25:00+02:00"
   }
 ]

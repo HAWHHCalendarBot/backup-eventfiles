@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "IE4-SSL2/03 opt",
+    "Location": "1303a",
+    "Description": "Dozent: LHN",
+    "StartTime": "2024-05-16T08:10:00+02:00",
+    "EndTime": "2024-05-16T11:25:00+02:00"
+  },
+  {
+    "Name": "IE4-SSL2/03 opt",
+    "Location": "1303a",
+    "Description": "Dozent: LHN",
+    "StartTime": "2024-06-06T08:10:00+02:00",
+    "EndTime": "2024-06-06T11:25:00+02:00"
+  },
+  {
+    "Name": "IE4-SSL2/03 opt",
+    "Location": "1303a",
+    "Description": "Dozent: LHN",
+    "StartTime": "2024-06-27T08:10:00+02:00",
+    "EndTime": "2024-06-27T11:25:00+02:00"
+  }
+]

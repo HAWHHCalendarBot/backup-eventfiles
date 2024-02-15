@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "B-REE6-EGP/01",
+    "Location": "1365",
+    "Description": "Dozent: WNK",
+    "StartTime": "2024-04-16T08:10:00+02:00",
+    "EndTime": "2024-04-16T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE6-EGP/01",
+    "Location": "1365",
+    "Description": "Dozent: WNK",
+    "StartTime": "2024-05-14T08:10:00+02:00",
+    "EndTime": "2024-05-14T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE6-EGP/01",
+    "Location": "1365",
+    "Description": "Dozent: WNK",
+    "StartTime": "2024-06-11T08:10:00+02:00",
+    "EndTime": "2024-06-11T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE6-EGP/01",
+    "Location": "1365",
+    "Description": "Dozent: WNK",
+    "StartTime": "2024-07-02T08:10:00+02:00",
+    "EndTime": "2024-07-02T11:25:00+02:00"
+  }
+]
