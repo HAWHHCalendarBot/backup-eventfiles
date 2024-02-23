@@ -10,6 +10,13 @@
     "Name": "A-M-DE",
     "Location": "0862",
     "Description": "Dozent: VPL",
+    "StartTime": "2024-04-09T12:10:00+02:00",
+    "EndTime": "2024-04-09T15:40:00+02:00"
+  },
+  {
+    "Name": "A-M-DE",
+    "Location": "0862",
+    "Description": "Dozent: VPL",
     "StartTime": "2024-04-15T12:10:00+02:00",
     "EndTime": "2024-04-15T15:40:00+02:00"
   },
@@ -24,15 +31,8 @@
     "Name": "A-M-DE",
     "Location": "0862",
     "Description": "Dozent: VPL",
-    "StartTime": "2024-04-29T12:10:00+02:00",
-    "EndTime": "2024-04-29T15:40:00+02:00"
-  },
-  {
-    "Name": "A-M-DE",
-    "Location": "0862",
-    "Description": "Dozent: VPL",
-    "StartTime": "2024-05-06T12:10:00+02:00",
-    "EndTime": "2024-05-06T15:40:00+02:00"
+    "StartTime": "2024-04-23T12:10:00+02:00",
+    "EndTime": "2024-04-23T15:40:00+02:00"
   },
   {
     "Name": "A-M-DE",

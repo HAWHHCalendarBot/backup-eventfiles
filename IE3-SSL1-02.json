@@ -1,6 +1,13 @@
 [
   {
     "Name": "IE3-SSL1/02",
+    "Location": "1303a, 1303b, 1365",
+    "Description": "Dozent: LGE",
+    "StartTime": "2024-05-03T08:10:00+02:00",
+    "EndTime": "2024-05-03T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-SSL1/02",
     "Location": "1365",
     "Description": "Dozent: LGE",
     "StartTime": "2024-05-03T08:10:00+02:00",

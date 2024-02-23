@@ -3,6 +3,13 @@
     "Name": "E4-RTP/05 opt",
     "Location": "0606",
     "Description": "Dozent: MNR/[Huss]",
+    "StartTime": "2024-04-25T09:55:00+02:00",
+    "EndTime": "2024-04-25T11:25:00+02:00"
+  },
+  {
+    "Name": "E4-RTP/05 opt",
+    "Location": "0606",
+    "Description": "Dozent: MNR/[Huss]",
     "StartTime": "2024-05-16T12:10:00+02:00",
     "EndTime": "2024-05-16T15:40:00+02:00"
   },
