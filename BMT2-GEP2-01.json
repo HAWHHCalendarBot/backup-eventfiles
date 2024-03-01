@@ -26,5 +26,12 @@
     "Description": "Dozent: WGM/WTMR",
     "StartTime": "2024-06-19T08:10:00+02:00",
     "EndTime": "2024-06-19T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT2-GEP2/01",
+    "Location": "0501",
+    "Description": "Dozent: WGM/WTMR",
+    "StartTime": "2024-06-25T12:10:00+02:00",
+    "EndTime": "2024-06-25T15:40:00+02:00"
   }
 ]
