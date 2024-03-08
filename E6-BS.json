@@ -3,19 +3,12 @@
     "Name": "E6-BS",
     "Location": "Stiftstr69  R106",
     "Description": "Dozent: BCZ",
-    "StartTime": "2024-04-02T08:10:00+02:00",
-    "EndTime": "2024-04-02T11:25:00+02:00"
-  },
-  {
-    "Name": "E6-BS",
-    "Location": "Stiftstr69  R106",
-    "Description": "Dozent: BCZ",
     "StartTime": "2024-04-09T08:10:00+02:00",
     "EndTime": "2024-04-09T11:25:00+02:00"
   },
   {
     "Name": "E6-BS",
-    "Location": "1260",
+    "Location": "1065",
     "Description": "Dozent: BCZ",
     "StartTime": "2024-04-11T12:10:00+02:00",
     "EndTime": "2024-04-11T15:40:00+02:00"
@@ -33,6 +26,13 @@
     "Description": "Dozent: BCZ",
     "StartTime": "2024-04-23T08:10:00+02:00",
     "EndTime": "2024-04-23T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-BS",
+    "Location": "1065",
+    "Description": "Dozent: BCZ",
+    "StartTime": "2024-04-25T12:10:00+02:00",
+    "EndTime": "2024-04-25T15:40:00+02:00"
   },
   {
     "Name": "E6-BS",

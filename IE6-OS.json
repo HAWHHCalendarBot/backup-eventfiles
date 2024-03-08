@@ -3,13 +3,6 @@
     "Name": "IE6-OS",
     "Location": "Stiftstr69  R106",
     "Description": "Dozent: BCZ",
-    "StartTime": "2024-04-03T12:10:00+02:00",
-    "EndTime": "2024-04-03T15:40:00+02:00"
-  },
-  {
-    "Name": "IE6-OS",
-    "Location": "Stiftstr69  R106",
-    "Description": "Dozent: BCZ",
     "StartTime": "2024-04-10T12:10:00+02:00",
     "EndTime": "2024-04-10T15:40:00+02:00"
   },
@@ -40,6 +33,13 @@
     "Description": "Dozent: BCZ",
     "StartTime": "2024-04-25T08:10:00+02:00",
     "EndTime": "2024-04-25T11:25:00+02:00"
+  },
+  {
+    "Name": "IE6-OS",
+    "Location": "0862",
+    "Description": "Dozent: BCZ",
+    "StartTime": "2024-05-16T12:10:00+02:00",
+    "EndTime": "2024-05-16T15:40:00+02:00"
   },
   {
     "Name": "IE6-OS",
