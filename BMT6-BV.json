@@ -89,5 +89,12 @@
     "Description": "Dozent: DHL",
     "StartTime": "2024-07-01T12:30:00+02:00",
     "EndTime": "2024-07-01T15:45:00+02:00"
+  },
+  {
+    "Name": "BMT6-BV",
+    "Location": "0405",
+    "Description": "Dozent: DHL",
+    "StartTime": "2024-07-08T12:30:00+02:00",
+    "EndTime": "2024-07-08T15:45:00+02:00"
   }
 ]

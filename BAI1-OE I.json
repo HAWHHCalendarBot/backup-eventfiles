@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "BAI1-OE I",
+    "Location": "1001",
+    "Description": "",
+    "StartTime": "2024-04-02T09:00:00+02:00",
+    "EndTime": "2024-04-02T17:00:00+02:00"
+  },
+  {
+    "Name": "BAI1-OE I",
+    "Location": "1001",
+    "Description": "",
+    "StartTime": "2024-04-03T09:00:00+02:00",
+    "EndTime": "2024-04-03T17:00:00+02:00"
+  },
+  {
+    "Name": "BAI1-OE I",
+    "Location": "1001",
+    "Description": "",
+    "StartTime": "2024-04-06T09:00:00+02:00",
+    "EndTime": "2024-04-06T17:00:00+02:00"
+  }
+]

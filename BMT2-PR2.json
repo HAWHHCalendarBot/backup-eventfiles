@@ -82,5 +82,12 @@
     "Description": "Dozent: DAI",
     "StartTime": "2024-07-02T08:15:00+02:00",
     "EndTime": "2024-07-02T11:30:00+02:00"
+  },
+  {
+    "Name": "BMT2-PR2",
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: DAI",
+    "StartTime": "2024-07-09T08:15:00+02:00",
+    "EndTime": "2024-07-09T11:30:00+02:00"
   }
 ]

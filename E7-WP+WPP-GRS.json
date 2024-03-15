@@ -10,13 +10,6 @@
     "Name": "E7-WP+WPP-GRS",
     "Location": "0401, 1465",
     "Description": "Dozent: GRS/STKR",
-    "StartTime": "2024-04-11T14:00:00+02:00",
-    "EndTime": "2024-04-11T18:00:00+02:00"
-  },
-  {
-    "Name": "E7-WP+WPP-GRS",
-    "Location": "0401, 1465",
-    "Description": "Dozent: GRS/STKR",
     "StartTime": "2024-04-12T12:10:00+02:00",
     "EndTime": "2024-04-12T15:40:00+02:00"
   },
@@ -30,7 +23,7 @@
   {
     "Name": "E7-WP+WPP-GRS",
     "Location": "0401, 1465",
-    "Description": "Dozent: GRS/STKR",
+    "Description": "Dozent: GRS",
     "StartTime": "2024-04-26T12:10:00+02:00",
     "EndTime": "2024-04-26T15:40:00+02:00"
   },
@@ -44,7 +37,7 @@
   {
     "Name": "E7-WP+WPP-GRS",
     "Location": "0401, 1465",
-    "Description": "Dozent: GRS/STKR",
+    "Description": "Dozent: GRS",
     "StartTime": "2024-05-10T12:10:00+02:00",
     "EndTime": "2024-05-10T15:40:00+02:00"
   },
@@ -58,7 +51,7 @@
   {
     "Name": "E7-WP+WPP-GRS",
     "Location": "0401, 1465",
-    "Description": "Dozent: GRS/STKR",
+    "Description": "Dozent: GRS",
     "StartTime": "2024-05-24T12:10:00+02:00",
     "EndTime": "2024-05-24T15:40:00+02:00"
   },
@@ -72,7 +65,7 @@
   {
     "Name": "E7-WP+WPP-GRS",
     "Location": "0401, 1465",
-    "Description": "Dozent: GRS/STKR",
+    "Description": "Dozent: GRS",
     "StartTime": "2024-06-07T12:10:00+02:00",
     "EndTime": "2024-06-07T15:40:00+02:00"
   },
@@ -86,7 +79,7 @@
   {
     "Name": "E7-WP+WPP-GRS",
     "Location": "0401, 1465",
-    "Description": "Dozent: GRS/STKR",
+    "Description": "Dozent: GRS",
     "StartTime": "2024-06-21T12:10:00+02:00",
     "EndTime": "2024-06-21T15:40:00+02:00"
   },

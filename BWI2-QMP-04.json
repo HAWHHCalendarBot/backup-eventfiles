@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "BWI2-QMP/04",
+    "Location": "1105",
+    "Description": "Dozent: [Bla]",
+    "StartTime": "2024-04-29T12:30:00+02:00",
+    "EndTime": "2024-04-29T14:00:00+02:00"
+  },
+  {
+    "Name": "BWI2-QMP/04",
+    "Location": "1105",
+    "Description": "Dozent: [Bla]",
+    "StartTime": "2024-05-13T12:30:00+02:00",
+    "EndTime": "2024-05-13T14:00:00+02:00"
+  },
+  {
+    "Name": "BWI2-QMP/04",
+    "Location": "1105",
+    "Description": "Dozent: [Bla]",
+    "StartTime": "2024-05-27T12:30:00+02:00",
+    "EndTime": "2024-05-27T14:00:00+02:00"
+  },
+  {
+    "Name": "BWI2-QMP/04",
+    "Location": "1105",
+    "Description": "Dozent: [Bla]",
+    "StartTime": "2024-06-10T12:30:00+02:00",
+    "EndTime": "2024-06-10T14:00:00+02:00"
+  },
+  {
+    "Name": "BWI2-QMP/04",
+    "Location": "1105",
+    "Description": "Dozent: [Bla]",
+    "StartTime": "2024-06-24T12:30:00+02:00",
+    "EndTime": "2024-06-24T14:00:00+02:00"
+  },
+  {
+    "Name": "BWI2-QMP/04",
+    "Location": "1105",
+    "Description": "Dozent: [Bla]",
+    "StartTime": "2024-07-08T12:30:00+02:00",
+    "EndTime": "2024-07-08T14:00:00+02:00"
+  }
+]
