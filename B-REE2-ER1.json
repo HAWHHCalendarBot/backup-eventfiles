@@ -75,5 +75,12 @@
     "Description": "Dozent: HSE",
     "StartTime": "2024-06-20T08:10:00+02:00",
     "EndTime": "2024-06-20T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE2-ER1",
+    "Location": "",
+    "Description": "Dozent: HSE",
+    "StartTime": "2024-06-27T08:10:00+02:00",
+    "EndTime": "2024-06-27T11:25:00+02:00"
   }
 ]

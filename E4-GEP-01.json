@@ -1,7 +1,14 @@
 [
   {
     "Name": "E4-GEP/01",
-    "Location": "0301",
+    "Location": "0301, 0861",
+    "Description": "Dozent: HSE/[Kor]",
+    "StartTime": "2024-04-18T12:10:00+02:00",
+    "EndTime": "2024-04-18T15:40:00+02:00"
+  },
+  {
+    "Name": "E4-GEP/01",
+    "Location": "0861",
     "Description": "Dozent: HSE/[Kor]",
     "StartTime": "2024-04-18T12:10:00+02:00",
     "EndTime": "2024-04-18T15:40:00+02:00"
