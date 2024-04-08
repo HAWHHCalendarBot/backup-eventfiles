@@ -8,6 +8,13 @@
   },
   {
     "Name": "BITS3-BS",
+    "Location": "SteinD94 R0.01",
+    "Description": "Dozent: KRF",
+    "StartTime": "2024-04-10T12:30:00+02:00",
+    "EndTime": "2024-04-10T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS3-BS",
     "Location": "0405",
     "Description": "Dozent: KRF",
     "StartTime": "2024-04-17T08:15:00+02:00",
