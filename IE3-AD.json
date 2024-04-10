@@ -1,13 +1,6 @@
 [
   {
     "Name": "IE3-AD",
-    "Location": "1260",
-    "Description": "Dozent: DRK",
-    "StartTime": "2024-04-04T08:10:00+02:00",
-    "EndTime": "2024-04-04T11:25:00+02:00"
-  },
-  {
-    "Name": "IE3-AD",
     "Location": "SteinD94 R0.02",
     "Description": "Dozent: DRK",
     "StartTime": "2024-04-11T12:10:00+02:00",

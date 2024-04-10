@@ -8,13 +8,6 @@
   },
   {
     "Name": "E1a-ETP1/01",
-    "Location": "0565",
-    "Description": "Dozent: JGER/LI/[Rac]",
-    "StartTime": "2024-04-25T12:10:00+02:00",
-    "EndTime": "2024-04-25T15:40:00+02:00"
-  },
-  {
-    "Name": "E1a-ETP1/01",
     "Location": "0502, 0565",
     "Description": "Dozent: JGER/LI/[Rac]",
     "StartTime": "2024-05-02T08:10:00+02:00",

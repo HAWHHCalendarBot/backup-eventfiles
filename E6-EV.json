@@ -3,13 +3,6 @@
     "Name": "E6-EV",
     "Location": "1401",
     "Description": "Dozent: WDL",
-    "StartTime": "2024-04-03T12:10:00+02:00",
-    "EndTime": "2024-04-03T15:40:00+02:00"
-  },
-  {
-    "Name": "E6-EV",
-    "Location": "1401",
-    "Description": "Dozent: WDL",
     "StartTime": "2024-04-10T12:10:00+02:00",
     "EndTime": "2024-04-10T15:40:00+02:00"
   },
@@ -26,6 +19,13 @@
     "Description": "Dozent: WDL",
     "StartTime": "2024-04-24T12:10:00+02:00",
     "EndTime": "2024-04-24T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-EV",
+    "Location": "1401",
+    "Description": "Dozent: WDL",
+    "StartTime": "2024-04-25T12:10:00+02:00",
+    "EndTime": "2024-04-25T15:40:00+02:00"
   },
   {
     "Name": "E6-EV",
@@ -61,12 +61,5 @@
     "Description": "Dozent: WDL",
     "StartTime": "2024-06-19T12:10:00+02:00",
     "EndTime": "2024-06-19T15:40:00+02:00"
-  },
-  {
-    "Name": "E6-EV",
-    "Location": "1401",
-    "Description": "Dozent: WDL",
-    "StartTime": "2024-07-03T12:10:00+02:00",
-    "EndTime": "2024-07-03T15:40:00+02:00"
   }
 ]

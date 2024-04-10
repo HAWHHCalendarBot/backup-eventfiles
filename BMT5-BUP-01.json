@@ -8,13 +8,6 @@
   },
   {
     "Name": "BMT5-BUP/01",
-    "Location": "0402",
-    "Description": "Dozent: WSTK/STKR",
-    "StartTime": "2024-04-25T12:10:00+02:00",
-    "EndTime": "2024-04-25T15:40:00+02:00"
-  },
-  {
-    "Name": "BMT5-BUP/01",
     "Location": "0401, 0402",
     "Description": "Dozent: WSTK/STKR",
     "StartTime": "2024-05-16T12:10:00+02:00",

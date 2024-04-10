@@ -3,13 +3,6 @@
     "Name": "IKM-VA",
     "Location": "1405",
     "Description": "Dozent: SHN",
-    "StartTime": "2024-04-04T08:10:00+02:00",
-    "EndTime": "2024-04-04T11:25:00+02:00"
-  },
-  {
-    "Name": "IKM-VA",
-    "Location": "1405",
-    "Description": "Dozent: SHN",
     "StartTime": "2024-04-11T08:10:00+02:00",
     "EndTime": "2024-04-11T11:25:00+02:00"
   },

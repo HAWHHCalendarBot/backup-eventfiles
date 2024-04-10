@@ -1,13 +1,6 @@
 [
   {
     "Name": "EuI-M-WP-WNK",
-    "Location": "0862",
-    "Description": "Dozent: WNK",
-    "StartTime": "2024-04-02T09:55:00+02:00",
-    "EndTime": "2024-04-02T11:25:00+02:00"
-  },
-  {
-    "Name": "EuI-M-WP-WNK",
     "Location": "1065",
     "Description": "Dozent: WNK",
     "StartTime": "2024-04-08T08:10:00+02:00",

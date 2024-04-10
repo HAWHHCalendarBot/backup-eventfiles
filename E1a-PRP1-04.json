@@ -47,12 +47,5 @@
     "Description": "Dozent: HST/NIDR",
     "StartTime": "2024-07-03T15:45:00+02:00",
     "EndTime": "2024-07-03T19:15:00+02:00"
-  },
-  {
-    "Name": "E1a-PRP1/04",
-    "Location": "1360",
-    "Description": "Dozent: HST/NIDR",
-    "StartTime": "2024-07-03T15:45:00+02:00",
-    "EndTime": "2024-07-03T19:15:00+02:00"
   }
 ]

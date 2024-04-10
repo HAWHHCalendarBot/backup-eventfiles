@@ -3,20 +3,6 @@
     "Name": "IE5-SP",
     "Location": "1281",
     "Description": "Dozent: BECK",
-    "StartTime": "2024-04-04T08:10:00+02:00",
-    "EndTime": "2024-04-04T11:25:00+02:00"
-  },
-  {
-    "Name": "IE5-SP",
-    "Location": "1260",
-    "Description": "Dozent: BECK",
-    "StartTime": "2024-04-04T12:10:00+02:00",
-    "EndTime": "2024-04-04T15:40:00+02:00"
-  },
-  {
-    "Name": "IE5-SP",
-    "Location": "1281",
-    "Description": "Dozent: BECK",
     "StartTime": "2024-04-11T08:10:00+02:00",
     "EndTime": "2024-04-11T11:25:00+02:00"
   },

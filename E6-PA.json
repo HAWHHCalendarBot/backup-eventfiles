@@ -3,13 +3,6 @@
     "Name": "E6-PA",
     "Location": "SteinD94 R0.02",
     "Description": "Dozent: GRS",
-    "StartTime": "2024-04-02T08:10:00+02:00",
-    "EndTime": "2024-04-02T11:25:00+02:00"
-  },
-  {
-    "Name": "E6-PA",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: GRS",
     "StartTime": "2024-04-09T08:10:00+02:00",
     "EndTime": "2024-04-09T11:25:00+02:00"
   },
@@ -31,13 +24,6 @@
     "Name": "E6-PA",
     "Location": "SteinD94 R0.02",
     "Description": "Dozent: GRS",
-    "StartTime": "2024-04-30T08:10:00+02:00",
-    "EndTime": "2024-04-30T11:25:00+02:00"
-  },
-  {
-    "Name": "E6-PA",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: GRS",
     "StartTime": "2024-05-07T08:10:00+02:00",
     "EndTime": "2024-05-07T11:25:00+02:00"
   },
@@ -47,6 +33,13 @@
     "Description": "Dozent: GRS",
     "StartTime": "2024-05-14T08:10:00+02:00",
     "EndTime": "2024-05-14T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-PA",
+    "Location": "1260",
+    "Description": "Dozent: GRS",
+    "StartTime": "2024-05-15T12:10:00+02:00",
+    "EndTime": "2024-05-15T15:40:00+02:00"
   },
   {
     "Name": "E6-PA",

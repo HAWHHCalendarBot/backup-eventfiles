@@ -8,13 +8,6 @@
   },
   {
     "Name": "B-REE2-ETP2/01",
-    "Location": "0505",
-    "Description": "Dozent: RDT/[Rac]",
-    "StartTime": "2024-04-23T08:10:00+02:00",
-    "EndTime": "2024-04-23T11:25:00+02:00"
-  },
-  {
-    "Name": "B-REE2-ETP2/01",
     "Location": "0502, 0505",
     "Description": "Dozent: RDT/[Rac]",
     "StartTime": "2024-05-10T08:10:00+02:00",
