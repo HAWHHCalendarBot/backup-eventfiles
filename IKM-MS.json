@@ -3,6 +3,13 @@
     "Name": "IKM-MS",
     "Location": "1401",
     "Description": "Dozent: VLM",
+    "StartTime": "2024-04-02T12:10:00+02:00",
+    "EndTime": "2024-04-02T15:40:00+02:00"
+  },
+  {
+    "Name": "IKM-MS",
+    "Location": "1401",
+    "Description": "Dozent: VLM",
     "StartTime": "2024-04-10T08:10:00+02:00",
     "EndTime": "2024-04-10T11:25:00+02:00"
   },

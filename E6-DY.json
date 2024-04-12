@@ -3,6 +3,13 @@
     "Name": "E6-DY",
     "Location": "1465",
     "Description": "Dozent: FTZ",
+    "StartTime": "2024-04-03T08:10:00+02:00",
+    "EndTime": "2024-04-03T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-DY",
+    "Location": "1465",
+    "Description": "Dozent: FTZ",
     "StartTime": "2024-04-09T12:10:00+02:00",
     "EndTime": "2024-04-09T15:40:00+02:00"
   },

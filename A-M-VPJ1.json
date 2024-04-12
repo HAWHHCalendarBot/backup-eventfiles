@@ -3,6 +3,20 @@
     "Name": "A-M-VPJ1",
     "Location": "0462",
     "Description": "Dozent: MAA/MNR/RTH/EBEL",
+    "StartTime": "2024-04-04T08:10:00+02:00",
+    "EndTime": "2024-04-04T11:25:00+02:00"
+  },
+  {
+    "Name": "A-M-VPJ1",
+    "Location": "0462",
+    "Description": "Dozent: MAA/MNR/RTH/EBEL",
+    "StartTime": "2024-04-04T12:10:00+02:00",
+    "EndTime": "2024-04-04T15:40:00+02:00"
+  },
+  {
+    "Name": "A-M-VPJ1",
+    "Location": "0462",
+    "Description": "Dozent: MAA/MNR/RTH/EBEL",
     "StartTime": "2024-04-11T08:10:00+02:00",
     "EndTime": "2024-04-11T11:25:00+02:00"
   },

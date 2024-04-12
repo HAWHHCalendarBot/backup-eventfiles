@@ -3,6 +3,13 @@
     "Name": "BMT4-EM",
     "Location": "Stiftstr69  R110",
     "Description": "Dozent: RTT",
+    "StartTime": "2024-04-04T12:10:00+02:00",
+    "EndTime": "2024-04-04T15:40:00+02:00"
+  },
+  {
+    "Name": "BMT4-EM",
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: RTT",
     "StartTime": "2024-04-11T12:10:00+02:00",
     "EndTime": "2024-04-11T15:40:00+02:00"
   },

@@ -3,6 +3,13 @@
     "Name": "B-REE2-PM/01",
     "Location": "1281",
     "Description": "Dozent: BECK",
+    "StartTime": "2024-04-05T08:10:00+02:00",
+    "EndTime": "2024-04-05T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE2-PM/01",
+    "Location": "1281",
+    "Description": "Dozent: BECK",
     "StartTime": "2024-04-12T08:10:00+02:00",
     "EndTime": "2024-04-12T11:25:00+02:00"
   },

@@ -1,6 +1,13 @@
 [
   {
     "Name": "IE4-SS2",
+    "Location": "1265",
+    "Description": "Dozent: LHN",
+    "StartTime": "2024-04-03T12:10:00+02:00",
+    "EndTime": "2024-04-03T15:40:00+02:00"
+  },
+  {
+    "Name": "IE4-SS2",
     "Location": "0862",
     "Description": "Dozent: LHN",
     "StartTime": "2024-04-10T12:10:00+02:00",

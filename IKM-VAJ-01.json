@@ -3,6 +3,13 @@
     "Name": "IKM-VAJ/01",
     "Location": "1405",
     "Description": "Dozent: SHN",
+    "StartTime": "2024-04-04T12:10:00+02:00",
+    "EndTime": "2024-04-04T15:40:00+02:00"
+  },
+  {
+    "Name": "IKM-VAJ/01",
+    "Location": "1405",
+    "Description": "Dozent: SHN",
     "StartTime": "2024-04-11T12:10:00+02:00",
     "EndTime": "2024-04-11T15:40:00+02:00"
   },

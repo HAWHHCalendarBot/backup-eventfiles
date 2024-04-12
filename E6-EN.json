@@ -3,6 +3,13 @@
     "Name": "E6-EN",
     "Location": "1260",
     "Description": "Dozent: WNK",
+    "StartTime": "2024-04-02T12:10:00+02:00",
+    "EndTime": "2024-04-02T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-EN",
+    "Location": "1260",
+    "Description": "Dozent: WNK",
     "StartTime": "2024-04-09T12:10:00+02:00",
     "EndTime": "2024-04-09T15:40:00+02:00"
   },

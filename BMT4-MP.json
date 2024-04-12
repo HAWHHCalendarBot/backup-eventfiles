@@ -3,6 +3,13 @@
     "Name": "BMT4-MP",
     "Location": "NB 01.13",
     "Description": "Dozent: RMS",
+    "StartTime": "2024-04-03T12:10:00+02:00",
+    "EndTime": "2024-04-03T15:40:00+02:00"
+  },
+  {
+    "Name": "BMT4-MP",
+    "Location": "NB 01.13",
+    "Description": "Dozent: RMS",
     "StartTime": "2024-04-10T12:10:00+02:00",
     "EndTime": "2024-04-10T15:40:00+02:00"
   },

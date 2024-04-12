@@ -1,6 +1,13 @@
 [
   {
     "Name": "EuI-M-WP-DHL",
+    "Location": "0460",
+    "Description": "Dozent: DHL",
+    "StartTime": "2024-04-02T09:55:00+02:00",
+    "EndTime": "2024-04-02T11:25:00+02:00"
+  },
+  {
+    "Name": "EuI-M-WP-DHL",
     "Location": "Stiftstr69  R106",
     "Description": "Dozent: DHL",
     "StartTime": "2024-04-08T08:10:00+02:00",

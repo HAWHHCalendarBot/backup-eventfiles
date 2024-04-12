@@ -3,6 +3,13 @@
     "Name": "BMT4-MS2",
     "Location": "SteinD94 R0.02",
     "Description": "Dozent: HSS",
+    "StartTime": "2024-04-03T08:10:00+02:00",
+    "EndTime": "2024-04-03T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT4-MS2",
+    "Location": "SteinD94 R0.02",
+    "Description": "Dozent: HSS",
     "StartTime": "2024-04-10T08:10:00+02:00",
     "EndTime": "2024-04-10T11:25:00+02:00"
   },

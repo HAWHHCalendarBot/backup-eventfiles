@@ -1,6 +1,13 @@
 [
   {
     "Name": "IE1-EE1",
+    "Location": "0660",
+    "Description": "Dozent: RDT",
+    "StartTime": "2024-04-04T08:10:00+02:00",
+    "EndTime": "2024-04-04T11:25:00+02:00"
+  },
+  {
+    "Name": "IE1-EE1",
     "Location": "NB 01.13",
     "Description": "Dozent: RDT",
     "StartTime": "2024-04-10T08:10:00+02:00",

@@ -1,6 +1,13 @@
 [
   {
     "Name": "E7-WP+WPP-GRS",
+    "Location": "0401, 1465",
+    "Description": "Dozent: GRS/STKR",
+    "StartTime": "2024-04-05T12:10:00+02:00",
+    "EndTime": "2024-04-05T15:40:00+02:00"
+  },
+  {
+    "Name": "E7-WP+WPP-GRS",
     "Location": "1405",
     "Description": "Dozent: GRS",
     "StartTime": "2024-04-11T14:00:00+02:00",
