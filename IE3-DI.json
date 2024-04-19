@@ -66,6 +66,13 @@
     "Name": "IE3-DI",
     "Location": "Stiftstr69  R110",
     "Description": "Dozent: SCZ",
+    "StartTime": "2024-06-25T12:10:00+02:00",
+    "EndTime": "2024-06-25T15:40:00+02:00"
+  },
+  {
+    "Name": "IE3-DI",
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: SCZ",
     "StartTime": "2024-06-26T12:10:00+02:00",
     "EndTime": "2024-06-26T15:40:00+02:00"
   }

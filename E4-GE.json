@@ -29,6 +29,13 @@
   },
   {
     "Name": "E4-GE",
+    "Location": "1260",
+    "Description": "Dozent: HSE",
+    "StartTime": "2024-05-10T08:10:00+02:00",
+    "EndTime": "2024-05-10T11:25:00+02:00"
+  },
+  {
+    "Name": "E4-GE",
     "Location": "Stiftstr69  R110",
     "Description": "Dozent: HSE",
     "StartTime": "2024-05-13T12:10:00+02:00",
