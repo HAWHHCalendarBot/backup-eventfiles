@@ -36,6 +36,13 @@
   },
   {
     "Name": "IE1-EE1",
+    "Location": "0660",
+    "Description": "Dozent: RDT",
+    "StartTime": "2024-04-25T08:10:00+02:00",
+    "EndTime": "2024-04-25T11:25:00+02:00"
+  },
+  {
+    "Name": "IE1-EE1",
     "Location": "NB 01.13",
     "Description": "Dozent: RDT",
     "StartTime": "2024-05-08T08:10:00+02:00",

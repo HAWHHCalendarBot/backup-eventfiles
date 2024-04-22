@@ -10,6 +10,13 @@
     "Name": "IE1-EEL1/03",
     "Location": "0501, 0565",
     "Description": "Dozent: RDT/WTMR",
+    "StartTime": "2024-06-12T09:55:00+02:00",
+    "EndTime": "2024-06-12T11:25:00+02:00"
+  },
+  {
+    "Name": "IE1-EEL1/03",
+    "Location": "0501, 0565",
+    "Description": "Dozent: RDT/WTMR",
     "StartTime": "2024-06-12T12:10:00+02:00",
     "EndTime": "2024-06-12T15:40:00+02:00"
   },
