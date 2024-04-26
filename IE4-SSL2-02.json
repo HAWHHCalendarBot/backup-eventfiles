@@ -1,27 +1,27 @@
 [
   {
-    "Name": "IE4-SSL2/02",
+    "Name": "IE4-SSL2-02",
     "Location": "1060, 1301a, 1301b, 1303a, 1303b",
     "Description": "Dozent: LHN",
     "StartTime": "2024-04-18T08:10:00+02:00",
     "EndTime": "2024-04-18T11:25:00+02:00"
   },
   {
-    "Name": "IE4-SSL2/02",
+    "Name": "IE4-SSL2-02",
     "Location": "1303a",
     "Description": "Dozent: LHN",
     "StartTime": "2024-05-02T08:10:00+02:00",
     "EndTime": "2024-05-02T11:25:00+02:00"
   },
   {
-    "Name": "IE4-SSL2/02",
+    "Name": "IE4-SSL2-02",
     "Location": "1303a",
     "Description": "Dozent: LHN",
     "StartTime": "2024-05-30T08:10:00+02:00",
     "EndTime": "2024-05-30T11:25:00+02:00"
   },
   {
-    "Name": "IE4-SSL2/02",
+    "Name": "IE4-SSL2-02",
     "Location": "1303a",
     "Description": "Dozent: LHN",
     "StartTime": "2024-06-20T08:10:00+02:00",

@@ -1,20 +1,27 @@
 [
   {
-    "Name": "B-REE6-EVP/01",
+    "Name": "B-REE6-EVP-01",
     "Location": "0303",
     "Description": "Dozent: SZNY/WNK",
     "StartTime": "2024-04-30T08:10:00+02:00",
     "EndTime": "2024-04-30T11:25:00+02:00"
   },
   {
-    "Name": "B-REE6-EVP/01",
+    "Name": "B-REE6-EVP-01",
+    "Location": "0303",
+    "Description": "Dozent: SZNY/WNK",
+    "StartTime": "2024-04-30T12:10:00+02:00",
+    "EndTime": "2024-04-30T15:40:00+02:00"
+  },
+  {
+    "Name": "B-REE6-EVP-01",
     "Location": "0303",
     "Description": "Dozent: SZNY/WNK",
     "StartTime": "2024-05-28T08:10:00+02:00",
     "EndTime": "2024-05-28T11:25:00+02:00"
   },
   {
-    "Name": "B-REE6-EVP/01",
+    "Name": "B-REE6-EVP-01",
     "Location": "0303",
     "Description": "Dozent: SZNY/WNK",
     "StartTime": "2024-06-18T08:10:00+02:00",

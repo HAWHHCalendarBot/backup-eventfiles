@@ -1,27 +1,27 @@
 [
   {
-    "Name": "E6-ENP/02",
+    "Name": "E6-ENP-02",
     "Location": "0303",
     "Description": "Dozent: WNK/SZNY",
-    "StartTime": "2024-04-24T08:10:00+02:00",
-    "EndTime": "2024-04-24T11:25:00+02:00"
+    "StartTime": "2024-04-30T12:10:00+02:00",
+    "EndTime": "2024-04-30T15:40:00+02:00"
   },
   {
-    "Name": "E6-ENP/02",
+    "Name": "E6-ENP-02",
     "Location": "0303",
     "Description": "Dozent: WNK/SZNY",
     "StartTime": "2024-05-15T08:10:00+02:00",
     "EndTime": "2024-05-15T11:25:00+02:00"
   },
   {
-    "Name": "E6-ENP/02",
+    "Name": "E6-ENP-02",
     "Location": "0303",
     "Description": "Dozent: WNK/SZNY",
     "StartTime": "2024-06-05T08:10:00+02:00",
     "EndTime": "2024-06-05T11:25:00+02:00"
   },
   {
-    "Name": "E6-ENP/02",
+    "Name": "E6-ENP-02",
     "Location": "0303",
     "Description": "Dozent: WNK/SZNY",
     "StartTime": "2024-06-26T08:10:00+02:00",

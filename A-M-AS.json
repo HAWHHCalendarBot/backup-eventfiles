@@ -45,6 +45,13 @@
     "Name": "A-M-AS",
     "Location": "0861",
     "Description": "Dozent: RTH",
+    "StartTime": "2024-04-30T12:10:00+02:00",
+    "EndTime": "2024-04-30T15:40:00+02:00"
+  },
+  {
+    "Name": "A-M-AS",
+    "Location": "0861",
+    "Description": "Dozent: RTH",
     "StartTime": "2024-05-08T12:10:00+02:00",
     "EndTime": "2024-05-08T15:40:00+02:00"
   },

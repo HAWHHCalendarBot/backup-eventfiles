@@ -1,9 +1,30 @@
 [
   {
-    "Name": "BMT4-EMP/02",
+    "Name": "BMT4-EMP-02",
     "Location": "0501",
     "Description": "Dozent: RTT/WTMR",
     "StartTime": "2024-04-16T08:10:00+02:00",
     "EndTime": "2024-04-16T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT4-EMP-02",
+    "Location": "0501",
+    "Description": "Dozent: RTT/WTMR",
+    "StartTime": "2024-05-07T08:10:00+02:00",
+    "EndTime": "2024-05-07T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT4-EMP-02",
+    "Location": "0501",
+    "Description": "Dozent: RTT/WTMR",
+    "StartTime": "2024-06-04T08:10:00+02:00",
+    "EndTime": "2024-06-04T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT4-EMP-02",
+    "Location": "0501",
+    "Description": "Dozent: RTT/WTMR",
+    "StartTime": "2024-06-25T08:10:00+02:00",
+    "EndTime": "2024-06-25T11:25:00+02:00"
   }
 ]

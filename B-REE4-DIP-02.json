@@ -1,9 +1,30 @@
 [
   {
-    "Name": "B-REE4-DIP/02",
+    "Name": "B-REE4-DIP-02",
     "Location": "0801",
     "Description": "Dozent: BHRW/SHRR",
     "StartTime": "2024-04-25T08:10:00+02:00",
     "EndTime": "2024-04-25T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-DIP-02",
+    "Location": "0801",
+    "Description": "Dozent: SHRR",
+    "StartTime": "2024-05-23T08:10:00+02:00",
+    "EndTime": "2024-05-23T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-DIP-02",
+    "Location": "0801",
+    "Description": "Dozent: SHRR",
+    "StartTime": "2024-06-13T08:10:00+02:00",
+    "EndTime": "2024-06-13T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-DIP-02",
+    "Location": "0801",
+    "Description": "Dozent: SHRR",
+    "StartTime": "2024-07-04T08:10:00+02:00",
+    "EndTime": "2024-07-04T11:25:00+02:00"
   }
 ]

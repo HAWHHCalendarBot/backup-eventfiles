@@ -1,9 +1,30 @@
 [
   {
-    "Name": "IE3-SSL1/03",
+    "Name": "IE3-SSL1-03",
     "Location": "1303a, 1303b, 1365",
     "Description": "Dozent: LGE",
     "StartTime": "2024-05-03T08:10:00+02:00",
     "EndTime": "2024-05-03T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-SSL1-03",
+    "Location": "1365",
+    "Description": "Dozent: LGE",
+    "StartTime": "2024-05-13T08:10:00+02:00",
+    "EndTime": "2024-05-13T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-SSL1-03",
+    "Location": "1365",
+    "Description": "Dozent: LGE",
+    "StartTime": "2024-05-27T08:10:00+02:00",
+    "EndTime": "2024-05-27T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-SSL1-03",
+    "Location": "1365",
+    "Description": "Dozent: LGE",
+    "StartTime": "2024-06-24T08:10:00+02:00",
+    "EndTime": "2024-06-24T11:25:00+02:00"
   }
 ]

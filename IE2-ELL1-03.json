@@ -1,9 +1,30 @@
 [
   {
-    "Name": "IE2-ELL1/03",
+    "Name": "IE2-ELL1-03",
     "Location": "0505",
     "Description": "Dozent: WDL/NGBR",
     "StartTime": "2024-05-03T12:10:00+02:00",
     "EndTime": "2024-05-03T15:40:00+02:00"
+  },
+  {
+    "Name": "IE2-ELL1-03",
+    "Location": "0505",
+    "Description": "Dozent: WDL/NGBR",
+    "StartTime": "2024-05-24T12:10:00+02:00",
+    "EndTime": "2024-05-24T15:40:00+02:00"
+  },
+  {
+    "Name": "IE2-ELL1-03",
+    "Location": "0505",
+    "Description": "Dozent: WDL/NGBR",
+    "StartTime": "2024-06-14T12:10:00+02:00",
+    "EndTime": "2024-06-14T15:40:00+02:00"
+  },
+  {
+    "Name": "IE2-ELL1-03",
+    "Location": "0505",
+    "Description": "Dozent: WDL/NGBR",
+    "StartTime": "2024-07-04T08:10:00+02:00",
+    "EndTime": "2024-07-04T11:25:00+02:00"
   }
 ]
