@@ -82,5 +82,12 @@
     "Description": "Dozent: VLM",
     "StartTime": "2024-06-27T08:10:00+02:00",
     "EndTime": "2024-06-27T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-DUe",
+    "Location": "1283, 1401",
+    "Description": "Dozent: VLM",
+    "StartTime": "2024-07-04T08:10:00+02:00",
+    "EndTime": "2024-07-04T11:25:00+02:00"
   }
 ]
