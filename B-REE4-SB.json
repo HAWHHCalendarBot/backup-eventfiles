@@ -50,6 +50,13 @@
   },
   {
     "Name": "B-REE4-SB",
+    "Location": "SteinD94 R0.02",
+    "Description": "Dozent: GRS",
+    "StartTime": "2024-05-22T12:10:00+02:00",
+    "EndTime": "2024-05-22T15:40:00+02:00"
+  },
+  {
+    "Name": "B-REE4-SB",
     "Location": "0660",
     "Description": "Dozent: SLR",
     "StartTime": "2024-05-27T08:10:00+02:00",
@@ -68,12 +75,5 @@
     "Description": "Dozent: GRS",
     "StartTime": "2024-06-19T12:10:00+02:00",
     "EndTime": "2024-06-19T15:40:00+02:00"
-  },
-  {
-    "Name": "B-REE4-SB",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: GRS",
-    "StartTime": "2024-07-03T12:10:00+02:00",
-    "EndTime": "2024-07-03T15:40:00+02:00"
   }
 ]
