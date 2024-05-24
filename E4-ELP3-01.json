@@ -2,22 +2,22 @@
   {
     "Name": "E4-ELP3-01",
     "Location": "0804",
-    "Description": "Dozent: SHRR",
-    "StartTime": "2024-04-23T08:10:00+02:00",
-    "EndTime": "2024-04-23T11:25:00+02:00"
+    "Description": "Dozent: KPKE/[Zein]",
+    "StartTime": "2024-05-30T12:10:00+02:00",
+    "EndTime": "2024-05-30T15:40:00+02:00"
   },
   {
     "Name": "E4-ELP3-01",
     "Location": "0804",
-    "Description": "Dozent: SHRR",
-    "StartTime": "2024-05-28T08:10:00+02:00",
-    "EndTime": "2024-05-28T11:25:00+02:00"
+    "Description": "Dozent: KPKE/[Zein]",
+    "StartTime": "2024-06-20T12:10:00+02:00",
+    "EndTime": "2024-06-20T15:40:00+02:00"
   },
   {
     "Name": "E4-ELP3-01",
     "Location": "0804",
-    "Description": "Dozent: SHRR",
-    "StartTime": "2024-06-18T08:10:00+02:00",
-    "EndTime": "2024-06-18T11:25:00+02:00"
+    "Description": "Dozent: KPKE/[Zein]",
+    "StartTime": "2024-07-05T12:10:00+02:00",
+    "EndTime": "2024-07-05T15:40:00+02:00"
   }
 ]

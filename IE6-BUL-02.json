@@ -1,23 +1,23 @@
 [
   {
     "Name": "IE6-BUL-02",
-    "Location": "0804, 0865",
-    "Description": "Dozent: SHRR",
-    "StartTime": "2024-04-17T08:10:00+02:00",
-    "EndTime": "2024-04-17T11:25:00+02:00"
+    "Location": "0501",
+    "Description": "Dozent: RTT",
+    "StartTime": "2024-07-03T08:10:00+02:00",
+    "EndTime": "2024-07-03T11:40:00+02:00"
   },
   {
     "Name": "IE6-BUL-02",
-    "Location": "0804, 0865",
-    "Description": "Dozent: SHRR",
-    "StartTime": "2024-06-06T08:10:00+02:00",
-    "EndTime": "2024-06-06T11:25:00+02:00"
+    "Location": "0501",
+    "Description": "Dozent: RTT",
+    "StartTime": "2024-07-03T12:10:00+02:00",
+    "EndTime": "2024-07-03T15:40:00+02:00"
   },
   {
     "Name": "IE6-BUL-02",
-    "Location": "0804, 0865",
-    "Description": "Dozent: SHRR",
-    "StartTime": "2024-06-27T08:10:00+02:00",
-    "EndTime": "2024-06-27T11:25:00+02:00"
+    "Location": "0501",
+    "Description": "Dozent: RTT",
+    "StartTime": "2024-07-05T12:10:00+02:00",
+    "EndTime": "2024-07-05T15:40:00+02:00"
   }
 ]
