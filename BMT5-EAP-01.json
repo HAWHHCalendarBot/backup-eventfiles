@@ -1,27 +1,20 @@
 [
   {
-    "Name": "BMT5-EAP-01",
-    "Location": "0301",
-    "Description": "Dozent: GNZ/[Kor]",
-    "StartTime": "2024-04-17T12:10:00+02:00",
-    "EndTime": "2024-04-17T15:40:00+02:00"
-  },
-  {
-    "Name": "BMT5-EAP-01",
+    "Name": "BMT5-EAP/01",
     "Location": "0301",
     "Description": "Dozent: GNZ/[Kor]",
     "StartTime": "2024-05-15T12:10:00+02:00",
     "EndTime": "2024-05-15T15:40:00+02:00"
   },
   {
-    "Name": "BMT5-EAP-01",
+    "Name": "BMT5-EAP/01",
     "Location": "0301",
     "Description": "Dozent: GNZ/[Kor]",
     "StartTime": "2024-06-05T12:10:00+02:00",
     "EndTime": "2024-06-05T15:40:00+02:00"
   },
   {
-    "Name": "BMT5-EAP-01",
+    "Name": "BMT5-EAP/01",
     "Location": "0301",
     "Description": "Dozent: GNZ/[Kor]",
     "StartTime": "2024-06-26T12:10:00+02:00",
