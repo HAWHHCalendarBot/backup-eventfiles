@@ -75,5 +75,12 @@
     "Description": "Dozent: EGR",
     "StartTime": "2024-06-14T08:10:00+02:00",
     "EndTime": "2024-06-14T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE6-IK",
+    "Location": "0660",
+    "Description": "Dozent: EGR",
+    "StartTime": "2024-06-28T08:10:00+02:00",
+    "EndTime": "2024-06-28T11:25:00+02:00"
   }
 ]

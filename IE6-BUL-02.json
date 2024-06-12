@@ -2,21 +2,21 @@
   {
     "Name": "IE6-BUL-02",
     "Location": "0501",
-    "Description": "Dozent: RTT",
+    "Description": "Dozent: RTT/[Pot]",
     "StartTime": "2024-07-03T08:10:00+02:00",
-    "EndTime": "2024-07-03T11:40:00+02:00"
+    "EndTime": "2024-07-03T11:25:00+02:00"
   },
   {
     "Name": "IE6-BUL-02",
     "Location": "0501",
-    "Description": "Dozent: RTT",
+    "Description": "Dozent: RTT/[Pot]",
     "StartTime": "2024-07-03T12:10:00+02:00",
     "EndTime": "2024-07-03T15:40:00+02:00"
   },
   {
     "Name": "IE6-BUL-02",
     "Location": "0501",
-    "Description": "Dozent: RTT",
+    "Description": "Dozent: RTT/[Pot]",
     "StartTime": "2024-07-05T12:10:00+02:00",
     "EndTime": "2024-07-05T15:40:00+02:00"
   }
