@@ -85,6 +85,13 @@
   },
   {
     "Name": "E2a-PH2",
+    "Location": "0360",
+    "Description": "Dozent: NRMF",
+    "StartTime": "2024-06-28T12:10:00+02:00",
+    "EndTime": "2024-06-28T15:40:00+02:00"
+  },
+  {
+    "Name": "E2a-PH2",
     "Location": "MP-F327",
     "Description": "Dozent: NRMF",
     "StartTime": "2024-07-05T08:10:00+02:00",

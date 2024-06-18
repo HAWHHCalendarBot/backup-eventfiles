@@ -80,13 +80,6 @@
     "Name": "BMT5-AT2",
     "Location": "0560",
     "Description": "Dozent: ERD",
-    "StartTime": "2024-06-25T08:10:00+02:00",
-    "EndTime": "2024-06-25T11:25:00+02:00"
-  },
-  {
-    "Name": "BMT5-AT2",
-    "Location": "0560",
-    "Description": "Dozent: ERD",
     "StartTime": "2024-07-02T08:10:00+02:00",
     "EndTime": "2024-07-02T11:25:00+02:00"
   }
