@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "BITS1-PTP/01",
+    "Location": "1101b",
+    "Description": "Dozent: MMAY/[Oel]",
+    "StartTime": "2024-04-22T12:30:00+02:00",
+    "EndTime": "2024-04-22T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/01",
+    "Location": "1101b",
+    "Description": "Dozent: MMAY/[Oel]",
+    "StartTime": "2024-05-06T12:30:00+02:00",
+    "EndTime": "2024-05-06T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/01",
+    "Location": "1101b",
+    "Description": "Dozent: MMAY/[Oel]",
+    "StartTime": "2024-05-21T12:30:00+02:00",
+    "EndTime": "2024-05-21T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/01",
+    "Location": "1101b",
+    "Description": "Dozent: MMAY/[Oel]",
+    "StartTime": "2024-06-03T12:30:00+02:00",
+    "EndTime": "2024-06-03T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/01",
+    "Location": "1101b",
+    "Description": "Dozent: MMAY/[Oel]",
+    "StartTime": "2024-06-17T12:30:00+02:00",
+    "EndTime": "2024-06-17T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/01",
+    "Location": "1101b",
+    "Description": "Dozent: MMAY/[Oel]",
+    "StartTime": "2024-07-01T12:30:00+02:00",
+    "EndTime": "2024-07-01T15:45:00+02:00"
+  }
+]

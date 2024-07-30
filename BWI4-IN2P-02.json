@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BWI4-IN2P/02",
+    "Location": "0380b",
+    "Description": "Dozent: SRS/[Ber]",
+    "StartTime": "2024-04-23T08:15:00+02:00",
+    "EndTime": "2024-04-23T11:30:00+02:00"
+  },
+  {
+    "Name": "BWI4-IN2P/02",
+    "Location": "0380b",
+    "Description": "Dozent: SRS/[Ber]",
+    "StartTime": "2024-05-14T08:15:00+02:00",
+    "EndTime": "2024-05-14T11:30:00+02:00"
+  },
+  {
+    "Name": "BWI4-IN2P/02",
+    "Location": "0380b",
+    "Description": "Dozent: SRS/[Ber]",
+    "StartTime": "2024-06-11T08:15:00+02:00",
+    "EndTime": "2024-06-11T11:30:00+02:00"
+  },
+  {
+    "Name": "BWI4-IN2P/02",
+    "Location": "0380b",
+    "Description": "Dozent: SRS/[Ber]",
+    "StartTime": "2024-07-02T08:15:00+02:00",
+    "EndTime": "2024-07-02T11:30:00+02:00"
+  }
+]

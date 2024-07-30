@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "INF-WP-A4",
+    "Location": "0460",
+    "Description": "Dozent: RST/SHF/TDM",
+    "StartTime": "2024-04-09T08:15:00+02:00",
+    "EndTime": "2024-04-09T11:30:00+02:00"
+  },
+  {
+    "Name": "INF-WP-A4",
+    "Location": "0460",
+    "Description": "Dozent: RST/SHF/TDM",
+    "StartTime": "2024-04-16T08:15:00+02:00",
+    "EndTime": "2024-04-16T11:30:00+02:00"
+  },
+  {
+    "Name": "INF-WP-A4",
+    "Location": "0460",
+    "Description": "Dozent: RST/SHF/TDM",
+    "StartTime": "2024-04-30T08:15:00+02:00",
+    "EndTime": "2024-04-30T11:30:00+02:00"
+  },
+  {
+    "Name": "INF-WP-A4",
+    "Location": "0460",
+    "Description": "Dozent: RST/SHF/TDM",
+    "StartTime": "2024-05-14T08:15:00+02:00",
+    "EndTime": "2024-05-14T11:30:00+02:00"
+  },
+  {
+    "Name": "INF-WP-A4",
+    "Location": "0460",
+    "Description": "Dozent: RST/SHF/TDM",
+    "StartTime": "2024-06-04T08:15:00+02:00",
+    "EndTime": "2024-06-04T11:30:00+02:00"
+  },
+  {
+    "Name": "INF-WP-A4",
+    "Location": "0460",
+    "Description": "Dozent: RST/SHF/TDM",
+    "StartTime": "2024-06-18T08:15:00+02:00",
+    "EndTime": "2024-06-18T11:30:00+02:00"
+  },
+  {
+    "Name": "INF-WP-A4",
+    "Location": "0460",
+    "Description": "Dozent: RST/SHF/TDM",
+    "StartTime": "2024-07-02T08:15:00+02:00",
+    "EndTime": "2024-07-02T11:30:00+02:00"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI4-RNP/03",
+    "Location": "1104",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-04-29T12:30:00+02:00",
+    "EndTime": "2024-04-29T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI4-RNP/03",
+    "Location": "1104",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-05-21T12:30:00+02:00",
+    "EndTime": "2024-05-21T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI4-RNP/03",
+    "Location": "1104",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-06-10T12:30:00+02:00",
+    "EndTime": "2024-06-10T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI4-RNP/03",
+    "Location": "1104",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-07-01T12:30:00+02:00",
+    "EndTime": "2024-07-01T15:45:00+02:00"
+  }
+]
