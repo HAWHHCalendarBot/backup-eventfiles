@@ -2,29 +2,29 @@
   {
     "Name": "E2a-PRP2-03",
     "Location": "1360",
-    "Description": "Dozent: SRMM",
-    "StartTime": "2024-04-16T12:10:00+02:00",
-    "EndTime": "2024-04-16T13:40:00+02:00"
+    "Description": "Dozent: HST",
+    "StartTime": "2024-11-06T12:10:00+01:00",
+    "EndTime": "2024-11-06T15:40:00+01:00"
   },
   {
     "Name": "E2a-PRP2-03",
-    "Location": "1365",
-    "Description": "Dozent: SRMM",
-    "StartTime": "2024-05-14T12:10:00+02:00",
-    "EndTime": "2024-05-14T15:40:00+02:00"
+    "Location": "1360",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-11-27T12:10:00+01:00",
+    "EndTime": "2024-11-27T15:40:00+01:00"
   },
   {
     "Name": "E2a-PRP2-03",
-    "Location": "1365",
-    "Description": "Dozent: SRMM",
-    "StartTime": "2024-06-04T12:10:00+02:00",
-    "EndTime": "2024-06-04T15:40:00+02:00"
+    "Location": "1360",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-12-18T12:10:00+01:00",
+    "EndTime": "2024-12-18T15:40:00+01:00"
   },
   {
     "Name": "E2a-PRP2-03",
-    "Location": "1365",
-    "Description": "Dozent: SRMM",
-    "StartTime": "2024-07-02T12:10:00+02:00",
-    "EndTime": "2024-07-02T15:40:00+02:00"
+    "Location": "1360",
+    "Description": "Dozent: HST",
+    "StartTime": "2025-01-22T12:10:00+01:00",
+    "EndTime": "2025-01-22T15:40:00+01:00"
   }
 ]

@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "E6-HF",
+    "Location": "1281, 1401",
+    "Description": "Dozent: WDL",
+    "StartTime": "2024-10-09T08:10:00+02:00",
+    "EndTime": "2024-10-09T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-HF",
+    "Location": "1281, 1401",
+    "Description": "Dozent: WDL",
+    "StartTime": "2024-10-09T12:10:00+02:00",
+    "EndTime": "2024-10-09T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-HF",
+    "Location": "1401",
+    "Description": "Dozent: WDL",
+    "StartTime": "2024-10-16T12:10:00+02:00",
+    "EndTime": "2024-10-16T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-HF",
+    "Location": "1401",
+    "Description": "Dozent: WDL",
+    "StartTime": "2024-10-23T12:10:00+02:00",
+    "EndTime": "2024-10-23T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-HF",
+    "Location": "1401",
+    "Description": "Dozent: WDL",
+    "StartTime": "2024-10-30T12:10:00+01:00",
+    "EndTime": "2024-10-30T15:40:00+01:00"
+  },
+  {
+    "Name": "E6-HF",
+    "Location": "1401",
+    "Description": "Dozent: WDL",
+    "StartTime": "2024-11-06T12:10:00+01:00",
+    "EndTime": "2024-11-06T15:40:00+01:00"
+  },
+  {
+    "Name": "E6-HF",
+    "Location": "1401",
+    "Description": "Dozent: WDL",
+    "StartTime": "2024-11-13T12:10:00+01:00",
+    "EndTime": "2024-11-13T15:40:00+01:00"
+  },
+  {
+    "Name": "E6-HF",
+    "Location": "1401",
+    "Description": "Dozent: WDL",
+    "StartTime": "2024-11-27T12:10:00+01:00",
+    "EndTime": "2024-11-27T15:40:00+01:00"
+  },
+  {
+    "Name": "E6-HF",
+    "Location": "1401",
+    "Description": "Dozent: WDL",
+    "StartTime": "2024-12-04T12:10:00+01:00",
+    "EndTime": "2024-12-04T15:40:00+01:00"
+  },
+  {
+    "Name": "E6-HF",
+    "Location": "1401",
+    "Description": "Dozent: WDL",
+    "StartTime": "2024-12-18T12:10:00+01:00",
+    "EndTime": "2024-12-18T15:40:00+01:00"
+  },
+  {
+    "Name": "E6-HF",
+    "Location": "1401",
+    "Description": "Dozent: WDL",
+    "StartTime": "2025-01-08T12:10:00+01:00",
+    "EndTime": "2025-01-08T15:40:00+01:00"
+  },
+  {
+    "Name": "E6-HF",
+    "Location": "1401",
+    "Description": "Dozent: WDL",
+    "StartTime": "2025-01-22T12:10:00+01:00",
+    "EndTime": "2025-01-22T15:40:00+01:00"
+  }
+]

@@ -3,28 +3,28 @@
     "Name": "IE6-DCL-01",
     "Location": "1485",
     "Description": "Dozent: SHN/NGBR",
-    "StartTime": "2024-04-23T08:10:00+02:00",
-    "EndTime": "2024-04-23T11:25:00+02:00"
+    "StartTime": "2024-11-06T08:10:00+01:00",
+    "EndTime": "2024-11-06T11:25:00+01:00"
   },
   {
     "Name": "IE6-DCL-01",
     "Location": "1485",
     "Description": "Dozent: SHN/NGBR",
-    "StartTime": "2024-05-07T08:10:00+02:00",
-    "EndTime": "2024-05-07T11:25:00+02:00"
+    "StartTime": "2024-11-27T08:10:00+01:00",
+    "EndTime": "2024-11-27T11:25:00+01:00"
   },
   {
     "Name": "IE6-DCL-01",
     "Location": "1485",
     "Description": "Dozent: SHN/NGBR",
-    "StartTime": "2024-06-04T08:10:00+02:00",
-    "EndTime": "2024-06-04T11:25:00+02:00"
+    "StartTime": "2024-12-18T08:10:00+01:00",
+    "EndTime": "2024-12-18T11:25:00+01:00"
   },
   {
     "Name": "IE6-DCL-01",
     "Location": "1485",
     "Description": "Dozent: SHN/NGBR",
-    "StartTime": "2024-06-25T08:10:00+02:00",
-    "EndTime": "2024-06-25T11:25:00+02:00"
+    "StartTime": "2025-01-22T08:10:00+01:00",
+    "EndTime": "2025-01-22T11:25:00+01:00"
   }
 ]

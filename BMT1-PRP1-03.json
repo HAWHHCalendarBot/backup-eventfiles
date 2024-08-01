@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "BMT1-PRP1-03",
+    "Location": "0709",
+    "Description": "Dozent: [Ben]/[Chr]",
+    "StartTime": "2024-11-13T08:15:00+01:00",
+    "EndTime": "2024-11-13T11:30:00+01:00"
+  },
+  {
+    "Name": "BMT1-PRP1-03",
+    "Location": "0709",
+    "Description": "Dozent: [Ben]/[Chr]",
+    "StartTime": "2024-12-04T08:15:00+01:00",
+    "EndTime": "2024-12-04T11:30:00+01:00"
+  },
+  {
+    "Name": "BMT1-PRP1-03",
+    "Location": "0709",
+    "Description": "Dozent: [Ben]/[Chr]",
+    "StartTime": "2025-01-08T08:15:00+01:00",
+    "EndTime": "2025-01-08T11:30:00+01:00"
+  }
+]

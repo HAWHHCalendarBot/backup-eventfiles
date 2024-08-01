@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E3-SSP1-05",
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: KRN",
+    "StartTime": "2024-10-29T12:10:00+01:00",
+    "EndTime": "2024-10-29T13:40:00+01:00"
+  },
+  {
+    "Name": "E3-SSP1-05",
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: KRN",
+    "StartTime": "2024-11-26T12:10:00+01:00",
+    "EndTime": "2024-11-26T13:40:00+01:00"
+  },
+  {
+    "Name": "E3-SSP1-05",
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: KRN",
+    "StartTime": "2024-12-17T12:10:00+01:00",
+    "EndTime": "2024-12-17T13:40:00+01:00"
+  },
+  {
+    "Name": "E3-SSP1-05",
+    "Location": "1301a, 1301b",
+    "Description": "Dozent: KRN",
+    "StartTime": "2025-01-21T12:10:00+01:00",
+    "EndTime": "2025-01-21T13:40:00+01:00"
+  }
+]

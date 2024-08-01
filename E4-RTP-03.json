@@ -2,29 +2,29 @@
   {
     "Name": "E4-RTP-03",
     "Location": "0606",
-    "Description": "Dozent: CRLS/[Huss]",
-    "StartTime": "2024-04-16T15:55:00+02:00",
-    "EndTime": "2024-04-16T17:25:00+02:00"
+    "Description": "Dozent: CRLS/EBEL",
+    "StartTime": "2024-10-22T12:10:00+02:00",
+    "EndTime": "2024-10-22T15:40:00+02:00"
   },
   {
     "Name": "E4-RTP-03",
     "Location": "0606",
-    "Description": "Dozent: CRLS/[Huss]",
-    "StartTime": "2024-05-14T12:10:00+02:00",
-    "EndTime": "2024-05-14T15:40:00+02:00"
+    "Description": "Dozent: CRLS/EBEL",
+    "StartTime": "2024-11-12T12:10:00+01:00",
+    "EndTime": "2024-11-12T15:40:00+01:00"
   },
   {
     "Name": "E4-RTP-03",
     "Location": "0606",
-    "Description": "Dozent: CRLS/[Huss]",
-    "StartTime": "2024-06-11T12:10:00+02:00",
-    "EndTime": "2024-06-11T15:40:00+02:00"
+    "Description": "Dozent: CRLS/EBEL",
+    "StartTime": "2024-12-03T12:10:00+01:00",
+    "EndTime": "2024-12-03T15:40:00+01:00"
   },
   {
     "Name": "E4-RTP-03",
     "Location": "0606",
-    "Description": "Dozent: CRLS/[Huss]",
-    "StartTime": "2024-07-02T12:10:00+02:00",
-    "EndTime": "2024-07-02T15:40:00+02:00"
+    "Description": "Dozent: CRLS/EBEL",
+    "StartTime": "2025-01-07T12:10:00+01:00",
+    "EndTime": "2025-01-07T15:40:00+01:00"
   }
 ]

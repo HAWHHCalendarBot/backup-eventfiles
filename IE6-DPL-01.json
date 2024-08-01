@@ -2,29 +2,29 @@
   {
     "Name": "IE6-DPL-01",
     "Location": "0885",
-    "Description": "Dozent: LTL/KPKE",
-    "StartTime": "2024-04-16T08:10:00+02:00",
-    "EndTime": "2024-04-16T11:25:00+02:00"
+    "Description": "Dozent: KRN/KPKE",
+    "StartTime": "2024-11-05T08:10:00+01:00",
+    "EndTime": "2024-11-05T11:25:00+01:00"
   },
   {
     "Name": "IE6-DPL-01",
     "Location": "0885",
-    "Description": "Dozent: LTL/KPKE",
-    "StartTime": "2024-04-30T08:10:00+02:00",
-    "EndTime": "2024-04-30T11:25:00+02:00"
+    "Description": "Dozent: KRN/KPKE",
+    "StartTime": "2024-11-20T08:10:00+01:00",
+    "EndTime": "2024-11-20T11:25:00+01:00"
   },
   {
     "Name": "IE6-DPL-01",
     "Location": "0885",
-    "Description": "Dozent: LTL/KPKE",
-    "StartTime": "2024-05-28T08:10:00+02:00",
-    "EndTime": "2024-05-28T11:25:00+02:00"
+    "Description": "Dozent: KRN/KPKE",
+    "StartTime": "2024-12-11T08:10:00+01:00",
+    "EndTime": "2024-12-11T11:25:00+01:00"
   },
   {
     "Name": "IE6-DPL-01",
     "Location": "0885",
-    "Description": "Dozent: LTL/KPKE",
-    "StartTime": "2024-06-18T08:10:00+02:00",
-    "EndTime": "2024-06-18T11:25:00+02:00"
+    "Description": "Dozent: KRN/KPKE",
+    "StartTime": "2025-01-15T08:10:00+01:00",
+    "EndTime": "2025-01-15T11:25:00+01:00"
   }
 ]

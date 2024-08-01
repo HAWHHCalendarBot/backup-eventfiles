@@ -2,43 +2,43 @@
   {
     "Name": "E2a-ANUe2-01",
     "Location": "Stiftstr69  R106",
-    "Description": "Dozent: GTF",
-    "StartTime": "2024-04-10T09:55:00+02:00",
-    "EndTime": "2024-04-10T11:25:00+02:00"
+    "Description": "Dozent: DRK",
+    "StartTime": "2024-10-24T12:10:00+02:00",
+    "EndTime": "2024-10-24T13:40:00+02:00"
   },
   {
     "Name": "E2a-ANUe2-01",
     "Location": "Stiftstr69  R106",
-    "Description": "Dozent: GTF",
-    "StartTime": "2024-04-24T09:55:00+02:00",
-    "EndTime": "2024-04-24T11:25:00+02:00"
+    "Description": "Dozent: DRK",
+    "StartTime": "2024-11-14T12:10:00+01:00",
+    "EndTime": "2024-11-14T13:40:00+01:00"
   },
   {
     "Name": "E2a-ANUe2-01",
     "Location": "Stiftstr69  R106",
-    "Description": "Dozent: GTF",
-    "StartTime": "2024-05-15T09:55:00+02:00",
-    "EndTime": "2024-05-15T11:25:00+02:00"
+    "Description": "Dozent: DRK",
+    "StartTime": "2024-11-28T12:10:00+01:00",
+    "EndTime": "2024-11-28T13:40:00+01:00"
   },
   {
     "Name": "E2a-ANUe2-01",
     "Location": "Stiftstr69  R106",
-    "Description": "Dozent: GTF",
-    "StartTime": "2024-05-29T09:55:00+02:00",
-    "EndTime": "2024-05-29T11:25:00+02:00"
+    "Description": "Dozent: DRK",
+    "StartTime": "2024-12-12T12:10:00+01:00",
+    "EndTime": "2024-12-12T13:40:00+01:00"
   },
   {
     "Name": "E2a-ANUe2-01",
     "Location": "Stiftstr69  R106",
-    "Description": "Dozent: GTF",
-    "StartTime": "2024-06-12T09:55:00+02:00",
-    "EndTime": "2024-06-12T11:25:00+02:00"
+    "Description": "Dozent: DRK",
+    "StartTime": "2025-01-09T12:10:00+01:00",
+    "EndTime": "2025-01-09T13:40:00+01:00"
   },
   {
     "Name": "E2a-ANUe2-01",
     "Location": "Stiftstr69  R106",
-    "Description": "Dozent: GTF",
-    "StartTime": "2024-06-26T09:55:00+02:00",
-    "EndTime": "2024-06-26T11:25:00+02:00"
+    "Description": "Dozent: DRK",
+    "StartTime": "2025-01-23T12:10:00+01:00",
+    "EndTime": "2025-01-23T13:40:00+01:00"
   }
 ]

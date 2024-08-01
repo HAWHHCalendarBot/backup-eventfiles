@@ -1,79 +1,79 @@
 [
   {
     "Name": "IE2-EE2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-04-09T08:10:00+02:00",
-    "EndTime": "2024-04-09T11:25:00+02:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2024-10-17T08:10:00+02:00",
+    "EndTime": "2024-10-17T11:25:00+02:00"
   },
   {
     "Name": "IE2-EE2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-04-16T08:10:00+02:00",
-    "EndTime": "2024-04-16T11:25:00+02:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2024-10-24T08:10:00+02:00",
+    "EndTime": "2024-10-24T11:25:00+02:00"
   },
   {
     "Name": "IE2-EE2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-04-23T08:10:00+02:00",
-    "EndTime": "2024-04-23T11:25:00+02:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2024-11-07T08:10:00+01:00",
+    "EndTime": "2024-11-07T11:25:00+01:00"
   },
   {
     "Name": "IE2-EE2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-04-30T08:10:00+02:00",
-    "EndTime": "2024-04-30T11:25:00+02:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2024-11-14T08:10:00+01:00",
+    "EndTime": "2024-11-14T11:25:00+01:00"
   },
   {
     "Name": "IE2-EE2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-05-07T08:10:00+02:00",
-    "EndTime": "2024-05-07T11:25:00+02:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2024-11-21T08:10:00+01:00",
+    "EndTime": "2024-11-21T11:25:00+01:00"
   },
   {
     "Name": "IE2-EE2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-05-14T08:10:00+02:00",
-    "EndTime": "2024-05-14T11:25:00+02:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2024-11-28T08:10:00+01:00",
+    "EndTime": "2024-11-28T11:25:00+01:00"
   },
   {
     "Name": "IE2-EE2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-05-28T08:10:00+02:00",
-    "EndTime": "2024-05-28T11:25:00+02:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2024-12-05T08:10:00+01:00",
+    "EndTime": "2024-12-05T11:25:00+01:00"
   },
   {
     "Name": "IE2-EE2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-06-04T08:10:00+02:00",
-    "EndTime": "2024-06-04T11:25:00+02:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2024-12-12T08:10:00+01:00",
+    "EndTime": "2024-12-12T11:25:00+01:00"
   },
   {
     "Name": "IE2-EE2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-06-11T08:10:00+02:00",
-    "EndTime": "2024-06-11T11:25:00+02:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2024-12-19T08:10:00+01:00",
+    "EndTime": "2024-12-19T11:25:00+01:00"
   },
   {
     "Name": "IE2-EE2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-06-18T08:10:00+02:00",
-    "EndTime": "2024-06-18T11:25:00+02:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-01-09T08:10:00+01:00",
+    "EndTime": "2025-01-09T11:25:00+01:00"
   },
   {
     "Name": "IE2-EE2",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-06-25T08:10:00+02:00",
-    "EndTime": "2024-06-25T11:25:00+02:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-01-16T08:10:00+01:00",
+    "EndTime": "2025-01-16T11:25:00+01:00"
   }
 ]

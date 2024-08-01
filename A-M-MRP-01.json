@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "A-M-MRP-01",
+    "Location": "0601",
+    "Description": "Dozent: WNC/EBEL",
+    "StartTime": "2024-11-05T08:10:00+01:00",
+    "EndTime": "2024-11-05T11:25:00+01:00"
+  },
+  {
+    "Name": "A-M-MRP-01",
+    "Location": "0601",
+    "Description": "Dozent: WNC/EBEL",
+    "StartTime": "2024-11-19T08:10:00+01:00",
+    "EndTime": "2024-11-19T11:25:00+01:00"
+  },
+  {
+    "Name": "A-M-MRP-01",
+    "Location": "0601",
+    "Description": "Dozent: WNC/EBEL",
+    "StartTime": "2024-12-10T08:10:00+01:00",
+    "EndTime": "2024-12-10T11:25:00+01:00"
+  },
+  {
+    "Name": "A-M-MRP-01",
+    "Location": "0601",
+    "Description": "Dozent: WNC/EBEL",
+    "StartTime": "2025-01-14T08:10:00+01:00",
+    "EndTime": "2025-01-14T11:25:00+01:00"
+  }
+]

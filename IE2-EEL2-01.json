@@ -1,30 +1,30 @@
 [
   {
     "Name": "IE2-EEL2-01",
-    "Location": "0501, 0560",
-    "Description": "Dozent: LHN/WTMR",
-    "StartTime": "2024-04-22T08:10:00+02:00",
-    "EndTime": "2024-04-22T11:25:00+02:00"
+    "Location": "0501",
+    "Description": "Dozent: RDT/WTMR",
+    "StartTime": "2024-11-06T08:10:00+01:00",
+    "EndTime": "2024-11-06T11:25:00+01:00"
   },
   {
     "Name": "IE2-EEL2-01",
     "Location": "0501",
-    "Description": "Dozent: LHN/WTMR",
-    "StartTime": "2024-05-06T08:10:00+02:00",
-    "EndTime": "2024-05-06T11:25:00+02:00"
+    "Description": "Dozent: RDT/WTMR",
+    "StartTime": "2024-11-20T08:10:00+01:00",
+    "EndTime": "2024-11-20T11:25:00+01:00"
   },
   {
     "Name": "IE2-EEL2-01",
     "Location": "0501",
-    "Description": "Dozent: LHN/WTMR",
-    "StartTime": "2024-05-27T08:10:00+02:00",
-    "EndTime": "2024-05-27T11:25:00+02:00"
+    "Description": "Dozent: RDT/WTMR",
+    "StartTime": "2024-12-11T08:10:00+01:00",
+    "EndTime": "2024-12-11T11:25:00+01:00"
   },
   {
     "Name": "IE2-EEL2-01",
     "Location": "0501",
-    "Description": "Dozent: LHN/WTMR",
-    "StartTime": "2024-06-17T08:10:00+02:00",
-    "EndTime": "2024-06-17T11:25:00+02:00"
+    "Description": "Dozent: RDT/WTMR",
+    "StartTime": "2025-01-15T08:10:00+01:00",
+    "EndTime": "2025-01-15T11:25:00+01:00"
   }
 ]

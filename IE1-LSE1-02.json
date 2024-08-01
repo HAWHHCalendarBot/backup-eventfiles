@@ -3,42 +3,42 @@
     "Name": "IE1-LSE1-02",
     "Location": "1283",
     "Description": "Dozent: MCCB",
-    "StartTime": "2024-04-18T12:10:00+02:00",
-    "EndTime": "2024-04-18T15:40:00+02:00"
+    "StartTime": "2024-10-17T12:10:00+02:00",
+    "EndTime": "2024-10-17T15:40:00+02:00"
   },
   {
     "Name": "IE1-LSE1-02",
     "Location": "1283",
     "Description": "Dozent: MCCB",
-    "StartTime": "2024-05-02T12:10:00+02:00",
-    "EndTime": "2024-05-02T15:40:00+02:00"
+    "StartTime": "2024-11-07T12:10:00+01:00",
+    "EndTime": "2024-11-07T15:40:00+01:00"
   },
   {
     "Name": "IE1-LSE1-02",
     "Location": "1283",
     "Description": "Dozent: MCCB",
-    "StartTime": "2024-05-23T12:10:00+02:00",
-    "EndTime": "2024-05-23T15:40:00+02:00"
+    "StartTime": "2024-11-21T12:10:00+01:00",
+    "EndTime": "2024-11-21T15:40:00+01:00"
   },
   {
     "Name": "IE1-LSE1-02",
-    "Location": "1465",
+    "Location": "1283",
     "Description": "Dozent: MCCB",
-    "StartTime": "2024-06-06T12:10:00+02:00",
-    "EndTime": "2024-06-06T15:40:00+02:00"
+    "StartTime": "2024-12-05T12:10:00+01:00",
+    "EndTime": "2024-12-05T15:40:00+01:00"
   },
   {
     "Name": "IE1-LSE1-02",
-    "Location": "1465",
+    "Location": "1283",
     "Description": "Dozent: MCCB",
-    "StartTime": "2024-06-27T08:10:00+02:00",
-    "EndTime": "2024-06-27T11:25:00+02:00"
+    "StartTime": "2024-12-19T12:10:00+01:00",
+    "EndTime": "2024-12-19T15:40:00+01:00"
   },
   {
     "Name": "IE1-LSE1-02",
-    "Location": "1465",
+    "Location": "1283",
     "Description": "Dozent: MCCB",
-    "StartTime": "2024-07-04T12:10:00+02:00",
-    "EndTime": "2024-07-04T15:40:00+02:00"
+    "StartTime": "2025-01-16T12:10:00+01:00",
+    "EndTime": "2025-01-16T15:40:00+01:00"
   }
 ]

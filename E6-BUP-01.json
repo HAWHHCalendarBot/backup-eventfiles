@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E6-BUP-01",
+    "Location": "0801",
+    "Description": "Dozent: FTZ",
+    "StartTime": "2024-10-24T12:10:00+02:00",
+    "EndTime": "2024-10-24T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-BUP-01",
+    "Location": "0801",
+    "Description": "Dozent: FTZ",
+    "StartTime": "2024-11-19T12:10:00+01:00",
+    "EndTime": "2024-11-19T15:40:00+01:00"
+  },
+  {
+    "Name": "E6-BUP-01",
+    "Location": "0801",
+    "Description": "Dozent: FTZ",
+    "StartTime": "2024-12-10T12:10:00+01:00",
+    "EndTime": "2024-12-10T15:40:00+01:00"
+  },
+  {
+    "Name": "E6-BUP-01",
+    "Location": "0801",
+    "Description": "Dozent: FTZ",
+    "StartTime": "2025-01-14T12:10:00+01:00",
+    "EndTime": "2025-01-14T15:40:00+01:00"
+  }
+]

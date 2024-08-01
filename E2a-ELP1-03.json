@@ -2,29 +2,29 @@
   {
     "Name": "E2a-ELP1-03",
     "Location": "0505",
-    "Description": "Dozent: CMPN",
-    "StartTime": "2024-04-22T12:10:00+02:00",
-    "EndTime": "2024-04-22T15:40:00+02:00"
+    "Description": "Dozent: LGE",
+    "StartTime": "2024-10-23T12:10:00+02:00",
+    "EndTime": "2024-10-23T15:40:00+02:00"
   },
   {
     "Name": "E2a-ELP1-03",
     "Location": "0505",
-    "Description": "Dozent: CMPN",
-    "StartTime": "2024-05-21T12:10:00+02:00",
-    "EndTime": "2024-05-21T15:40:00+02:00"
+    "Description": "Dozent: LGE",
+    "StartTime": "2024-11-13T12:10:00+01:00",
+    "EndTime": "2024-11-13T15:40:00+01:00"
   },
   {
     "Name": "E2a-ELP1-03",
     "Location": "0505",
-    "Description": "Dozent: CMPN",
-    "StartTime": "2024-06-10T12:10:00+02:00",
-    "EndTime": "2024-06-10T15:40:00+02:00"
+    "Description": "Dozent: LGE",
+    "StartTime": "2024-12-04T12:10:00+01:00",
+    "EndTime": "2024-12-04T15:40:00+01:00"
   },
   {
     "Name": "E2a-ELP1-03",
     "Location": "0505",
-    "Description": "Dozent: CMPN",
-    "StartTime": "2024-07-01T12:10:00+02:00",
-    "EndTime": "2024-07-01T15:40:00+02:00"
+    "Description": "Dozent: LGE",
+    "StartTime": "2025-01-08T12:10:00+01:00",
+    "EndTime": "2025-01-08T15:40:00+01:00"
   }
 ]

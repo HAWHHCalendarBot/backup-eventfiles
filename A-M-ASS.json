@@ -1,44 +1,44 @@
 [
   {
     "Name": "A-M-ASS",
-    "Location": "1065",
+    "Location": "1465",
     "Description": "Dozent: WNC",
-    "StartTime": "2024-05-10T12:10:00+02:00",
-    "EndTime": "2024-05-10T15:40:00+02:00"
+    "StartTime": "2024-11-08T08:10:00+01:00",
+    "EndTime": "2024-11-08T11:25:00+01:00"
   },
   {
     "Name": "A-M-ASS",
-    "Location": "1065",
+    "Location": "1465",
     "Description": "Dozent: WNC",
-    "StartTime": "2024-05-17T12:10:00+02:00",
-    "EndTime": "2024-05-17T15:40:00+02:00"
+    "StartTime": "2024-11-15T08:10:00+01:00",
+    "EndTime": "2024-11-15T11:25:00+01:00"
   },
   {
     "Name": "A-M-ASS",
-    "Location": "1065",
+    "Location": "1465",
     "Description": "Dozent: WNC",
-    "StartTime": "2024-05-24T12:10:00+02:00",
-    "EndTime": "2024-05-24T15:40:00+02:00"
+    "StartTime": "2024-11-22T08:10:00+01:00",
+    "EndTime": "2024-11-22T11:25:00+01:00"
   },
   {
     "Name": "A-M-ASS",
-    "Location": "1065",
+    "Location": "1465",
     "Description": "Dozent: WNC",
-    "StartTime": "2024-05-31T12:10:00+02:00",
-    "EndTime": "2024-05-31T15:40:00+02:00"
+    "StartTime": "2024-11-29T08:10:00+01:00",
+    "EndTime": "2024-11-29T11:25:00+01:00"
   },
   {
     "Name": "A-M-ASS",
-    "Location": "1065",
+    "Location": "1465",
     "Description": "Dozent: WNC",
-    "StartTime": "2024-06-07T12:10:00+02:00",
-    "EndTime": "2024-06-07T15:40:00+02:00"
+    "StartTime": "2024-12-06T08:10:00+01:00",
+    "EndTime": "2024-12-06T11:25:00+01:00"
   },
   {
     "Name": "A-M-ASS",
-    "Location": "1065",
+    "Location": "1465",
     "Description": "Dozent: WNC",
-    "StartTime": "2024-06-14T12:10:00+02:00",
-    "EndTime": "2024-06-14T15:40:00+02:00"
+    "StartTime": "2024-12-13T08:10:00+01:00",
+    "EndTime": "2024-12-13T11:25:00+01:00"
   }
 ]

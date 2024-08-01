@@ -1,79 +1,79 @@
 [
   {
     "Name": "IE3-AD",
-    "Location": "1260",
-    "Description": "Dozent: DRK",
-    "StartTime": "2024-04-04T08:10:00+02:00",
-    "EndTime": "2024-04-04T11:25:00+02:00"
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: GTF",
+    "StartTime": "2024-10-11T12:10:00+02:00",
+    "EndTime": "2024-10-11T15:25:00+02:00"
   },
   {
     "Name": "IE3-AD",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: DRK",
-    "StartTime": "2024-04-11T12:10:00+02:00",
-    "EndTime": "2024-04-11T15:25:00+02:00"
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: GTF",
+    "StartTime": "2024-10-25T12:10:00+02:00",
+    "EndTime": "2024-10-25T15:25:00+02:00"
   },
   {
     "Name": "IE3-AD",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: DRK",
-    "StartTime": "2024-04-18T12:10:00+02:00",
-    "EndTime": "2024-04-18T15:25:00+02:00"
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: GTF",
+    "StartTime": "2024-11-01T12:10:00+01:00",
+    "EndTime": "2024-11-01T15:25:00+01:00"
   },
   {
     "Name": "IE3-AD",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: DRK",
-    "StartTime": "2024-05-02T12:10:00+02:00",
-    "EndTime": "2024-05-02T15:25:00+02:00"
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: GTF",
+    "StartTime": "2024-11-08T12:10:00+01:00",
+    "EndTime": "2024-11-08T15:25:00+01:00"
   },
   {
     "Name": "IE3-AD",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: DRK",
-    "StartTime": "2024-05-16T12:10:00+02:00",
-    "EndTime": "2024-05-16T15:25:00+02:00"
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: GTF",
+    "StartTime": "2024-11-15T12:10:00+01:00",
+    "EndTime": "2024-11-15T15:25:00+01:00"
   },
   {
     "Name": "IE3-AD",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: DRK",
-    "StartTime": "2024-05-23T12:10:00+02:00",
-    "EndTime": "2024-05-23T15:25:00+02:00"
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: GTF",
+    "StartTime": "2024-11-22T12:10:00+01:00",
+    "EndTime": "2024-11-22T15:25:00+01:00"
   },
   {
     "Name": "IE3-AD",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: DRK",
-    "StartTime": "2024-05-30T12:10:00+02:00",
-    "EndTime": "2024-05-30T15:25:00+02:00"
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: GTF",
+    "StartTime": "2024-11-29T12:10:00+01:00",
+    "EndTime": "2024-11-29T15:25:00+01:00"
   },
   {
     "Name": "IE3-AD",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: DRK",
-    "StartTime": "2024-06-06T12:10:00+02:00",
-    "EndTime": "2024-06-06T15:25:00+02:00"
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: GTF",
+    "StartTime": "2024-12-06T12:10:00+01:00",
+    "EndTime": "2024-12-06T15:25:00+01:00"
   },
   {
     "Name": "IE3-AD",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: DRK",
-    "StartTime": "2024-06-13T12:10:00+02:00",
-    "EndTime": "2024-06-13T15:25:00+02:00"
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: GTF",
+    "StartTime": "2024-12-13T12:10:00+01:00",
+    "EndTime": "2024-12-13T15:25:00+01:00"
   },
   {
     "Name": "IE3-AD",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: DRK",
-    "StartTime": "2024-06-20T12:10:00+02:00",
-    "EndTime": "2024-06-20T15:25:00+02:00"
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: GTF",
+    "StartTime": "2024-12-20T12:10:00+01:00",
+    "EndTime": "2024-12-20T15:25:00+01:00"
   },
   {
     "Name": "IE3-AD",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: DRK",
-    "StartTime": "2024-06-27T12:10:00+02:00",
-    "EndTime": "2024-06-27T15:25:00+02:00"
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: GTF",
+    "StartTime": "2025-01-10T12:10:00+01:00",
+    "EndTime": "2025-01-10T15:25:00+01:00"
   }
 ]

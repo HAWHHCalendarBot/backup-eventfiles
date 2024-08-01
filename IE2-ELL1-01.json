@@ -2,29 +2,29 @@
   {
     "Name": "IE2-ELL1-01",
     "Location": "0505",
-    "Description": "Dozent: WDL/NGBR",
-    "StartTime": "2024-05-03T12:10:00+02:00",
-    "EndTime": "2024-05-03T15:40:00+02:00"
+    "Description": "Dozent: RPPK/[Rac]",
+    "StartTime": "2024-11-08T08:10:00+01:00",
+    "EndTime": "2024-11-08T11:25:00+01:00"
   },
   {
     "Name": "IE2-ELL1-01",
     "Location": "0505",
-    "Description": "Dozent: WDL/NGBR",
-    "StartTime": "2024-05-10T12:10:00+02:00",
-    "EndTime": "2024-05-10T15:40:00+02:00"
+    "Description": "Dozent: RPPK/[Rac]",
+    "StartTime": "2024-11-22T08:10:00+01:00",
+    "EndTime": "2024-11-22T11:25:00+01:00"
   },
   {
     "Name": "IE2-ELL1-01",
     "Location": "0505",
-    "Description": "Dozent: WDL/NGBR",
-    "StartTime": "2024-05-31T12:10:00+02:00",
-    "EndTime": "2024-05-31T15:40:00+02:00"
+    "Description": "Dozent: RPPK/[Rac]",
+    "StartTime": "2024-12-13T08:10:00+01:00",
+    "EndTime": "2024-12-13T11:25:00+01:00"
   },
   {
     "Name": "IE2-ELL1-01",
     "Location": "0505",
-    "Description": "Dozent: WDL/NGBR",
-    "StartTime": "2024-06-21T12:10:00+02:00",
-    "EndTime": "2024-06-21T15:40:00+02:00"
+    "Description": "Dozent: RPPK/[Rac]",
+    "StartTime": "2025-01-17T08:10:00+01:00",
+    "EndTime": "2025-01-17T11:25:00+01:00"
   }
 ]

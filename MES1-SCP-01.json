@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "MES1-SCP-01",
+    "Location": "0880",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-10-16T12:10:00+02:00",
+    "EndTime": "2024-10-16T15:25:00+02:00"
+  },
+  {
+    "Name": "MES1-SCP-01",
+    "Location": "0880",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-10-23T12:10:00+02:00",
+    "EndTime": "2024-10-23T15:25:00+02:00"
+  },
+  {
+    "Name": "MES1-SCP-01",
+    "Location": "0880",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-10-30T12:10:00+01:00",
+    "EndTime": "2024-10-30T15:25:00+01:00"
+  },
+  {
+    "Name": "MES1-SCP-01",
+    "Location": "0880",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-11-06T12:10:00+01:00",
+    "EndTime": "2024-11-06T15:25:00+01:00"
+  },
+  {
+    "Name": "MES1-SCP-01",
+    "Location": "0880",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-11-13T12:10:00+01:00",
+    "EndTime": "2024-11-13T15:25:00+01:00"
+  },
+  {
+    "Name": "MES1-SCP-01",
+    "Location": "0880",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-11-20T12:10:00+01:00",
+    "EndTime": "2024-11-20T15:25:00+01:00"
+  },
+  {
+    "Name": "MES1-SCP-01",
+    "Location": "0880",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-11-27T12:10:00+01:00",
+    "EndTime": "2024-11-27T15:25:00+01:00"
+  },
+  {
+    "Name": "MES1-SCP-01",
+    "Location": "0880",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-12-04T12:10:00+01:00",
+    "EndTime": "2024-12-04T15:25:00+01:00"
+  },
+  {
+    "Name": "MES1-SCP-01",
+    "Location": "0880",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-12-11T12:10:00+01:00",
+    "EndTime": "2024-12-11T15:25:00+01:00"
+  },
+  {
+    "Name": "MES1-SCP-01",
+    "Location": "0880",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-12-18T12:10:00+01:00",
+    "EndTime": "2024-12-18T15:25:00+01:00"
+  },
+  {
+    "Name": "MES1-SCP-01",
+    "Location": "0880",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2025-01-08T12:10:00+01:00",
+    "EndTime": "2025-01-08T15:25:00+01:00"
+  }
+]

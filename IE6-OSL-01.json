@@ -2,29 +2,29 @@
   {
     "Name": "IE6-OSL-01",
     "Location": "0880",
-    "Description": "Dozent: BCZ/WSTK",
-    "StartTime": "2024-05-08T12:10:00+02:00",
-    "EndTime": "2024-05-08T15:40:00+02:00"
+    "Description": "Dozent: GRS",
+    "StartTime": "2024-10-22T08:10:00+02:00",
+    "EndTime": "2024-10-22T11:25:00+02:00"
   },
   {
     "Name": "IE6-OSL-01",
     "Location": "0880",
-    "Description": "Dozent: BCZ/WSTK",
-    "StartTime": "2024-05-15T08:10:00+02:00",
-    "EndTime": "2024-05-15T11:25:00+02:00"
+    "Description": "Dozent: GRS",
+    "StartTime": "2024-11-13T08:10:00+01:00",
+    "EndTime": "2024-11-13T11:25:00+01:00"
   },
   {
     "Name": "IE6-OSL-01",
     "Location": "0880",
-    "Description": "Dozent: BCZ/WSTK",
-    "StartTime": "2024-06-05T08:10:00+02:00",
-    "EndTime": "2024-06-05T11:25:00+02:00"
+    "Description": "Dozent: GRS",
+    "StartTime": "2024-12-04T08:10:00+01:00",
+    "EndTime": "2024-12-04T11:25:00+01:00"
   },
   {
     "Name": "IE6-OSL-01",
     "Location": "0880",
-    "Description": "Dozent: BCZ/WSTK",
-    "StartTime": "2024-06-26T08:10:00+02:00",
-    "EndTime": "2024-06-26T11:25:00+02:00"
+    "Description": "Dozent: GRS",
+    "StartTime": "2025-01-08T08:10:00+01:00",
+    "EndTime": "2025-01-08T11:25:00+01:00"
   }
 ]

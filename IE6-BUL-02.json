@@ -1,23 +1,30 @@
 [
   {
     "Name": "IE6-BUL-02",
-    "Location": "0501",
-    "Description": "Dozent: RTT/[Pot]",
-    "StartTime": "2024-07-03T08:10:00+02:00",
-    "EndTime": "2024-07-03T11:25:00+02:00"
+    "Location": "0801",
+    "Description": "Dozent: RTT",
+    "StartTime": "2024-10-23T08:10:00+02:00",
+    "EndTime": "2024-10-23T11:25:00+02:00"
   },
   {
     "Name": "IE6-BUL-02",
-    "Location": "0501",
-    "Description": "Dozent: RTT/[Pot]",
-    "StartTime": "2024-07-03T12:10:00+02:00",
-    "EndTime": "2024-07-03T15:40:00+02:00"
+    "Location": "0801",
+    "Description": "Dozent: RTT",
+    "StartTime": "2024-11-26T08:10:00+01:00",
+    "EndTime": "2024-11-26T11:25:00+01:00"
   },
   {
     "Name": "IE6-BUL-02",
-    "Location": "0501",
-    "Description": "Dozent: RTT/[Pot]",
-    "StartTime": "2024-07-05T12:10:00+02:00",
-    "EndTime": "2024-07-05T15:40:00+02:00"
+    "Location": "0801",
+    "Description": "Dozent: RTT",
+    "StartTime": "2024-12-17T08:10:00+01:00",
+    "EndTime": "2024-12-17T11:25:00+01:00"
+  },
+  {
+    "Name": "IE6-BUL-02",
+    "Location": "0801",
+    "Description": "Dozent: RTT",
+    "StartTime": "2025-01-21T08:10:00+01:00",
+    "EndTime": "2025-01-21T11:25:00+01:00"
   }
 ]

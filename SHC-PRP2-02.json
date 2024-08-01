@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "SHC-PRP2-02",
+    "Location": "1360",
+    "Description": "Dozent: AHSD",
+    "StartTime": "2024-11-07T12:10:00+01:00",
+    "EndTime": "2024-11-07T15:40:00+01:00"
+  },
+  {
+    "Name": "SHC-PRP2-02",
+    "Location": "1360",
+    "Description": "Dozent: AHSD",
+    "StartTime": "2024-12-05T12:10:00+01:00",
+    "EndTime": "2024-12-05T15:40:00+01:00"
+  },
+  {
+    "Name": "SHC-PRP2-02",
+    "Location": "1360",
+    "Description": "Dozent: AHSD",
+    "StartTime": "2025-01-09T12:10:00+01:00",
+    "EndTime": "2025-01-09T15:40:00+01:00"
+  }
+]

@@ -2,29 +2,29 @@
   {
     "Name": "BMT4-MPP-01",
     "Location": "0880",
-    "Description": "Dozent: RMS/[Zein]",
-    "StartTime": "2024-04-25T08:10:00+02:00",
-    "EndTime": "2024-04-25T11:25:00+02:00"
+    "Description": "Dozent: SHRR",
+    "StartTime": "2024-11-05T08:10:00+01:00",
+    "EndTime": "2024-11-05T11:25:00+01:00"
   },
   {
     "Name": "BMT4-MPP-01",
     "Location": "0880",
-    "Description": "Dozent: RMS/[Zein]",
-    "StartTime": "2024-05-16T08:10:00+02:00",
-    "EndTime": "2024-05-16T11:25:00+02:00"
+    "Description": "Dozent: SHRR",
+    "StartTime": "2024-11-19T08:10:00+01:00",
+    "EndTime": "2024-11-19T11:25:00+01:00"
   },
   {
     "Name": "BMT4-MPP-01",
     "Location": "0880",
-    "Description": "Dozent: RMS/[Zein]",
-    "StartTime": "2024-06-06T08:10:00+02:00",
-    "EndTime": "2024-06-06T11:25:00+02:00"
+    "Description": "Dozent: SHRR",
+    "StartTime": "2024-12-10T08:10:00+01:00",
+    "EndTime": "2024-12-10T11:25:00+01:00"
   },
   {
     "Name": "BMT4-MPP-01",
     "Location": "0880",
-    "Description": "Dozent: RMS/[Zein]",
-    "StartTime": "2024-06-27T08:10:00+02:00",
-    "EndTime": "2024-06-27T11:25:00+02:00"
+    "Description": "Dozent: SHRR",
+    "StartTime": "2025-01-14T08:10:00+01:00",
+    "EndTime": "2025-01-14T11:25:00+01:00"
   }
 ]

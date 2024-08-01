@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "A-M-NRP-01",
+    "Location": "0601",
+    "Description": "Dozent: ERD/EBEL",
+    "StartTime": "2024-10-28T12:10:00+01:00",
+    "EndTime": "2024-10-28T15:40:00+01:00"
+  },
+  {
+    "Name": "A-M-NRP-01",
+    "Location": "0601",
+    "Description": "Dozent: ERD/EBEL",
+    "StartTime": "2024-11-11T12:10:00+01:00",
+    "EndTime": "2024-11-11T15:40:00+01:00"
+  },
+  {
+    "Name": "A-M-NRP-01",
+    "Location": "0601",
+    "Description": "Dozent: ERD/EBEL",
+    "StartTime": "2024-12-02T12:10:00+01:00",
+    "EndTime": "2024-12-02T15:40:00+01:00"
+  },
+  {
+    "Name": "A-M-NRP-01",
+    "Location": "0601",
+    "Description": "Dozent: ERD/EBEL",
+    "StartTime": "2025-01-06T12:10:00+01:00",
+    "EndTime": "2025-01-06T15:40:00+01:00"
+  }
+]

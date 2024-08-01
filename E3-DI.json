@@ -1,79 +1,79 @@
 [
   {
     "Name": "E3-DI",
-    "Location": "NB 01.13",
+    "Location": "1260",
     "Description": "Dozent: FTZ",
-    "StartTime": "2024-04-09T08:10:00+02:00",
-    "EndTime": "2024-04-09T11:25:00+02:00"
+    "StartTime": "2024-10-07T08:10:00+02:00",
+    "EndTime": "2024-10-07T11:25:00+02:00"
   },
   {
     "Name": "E3-DI",
     "Location": "NB 01.13",
     "Description": "Dozent: FTZ",
-    "StartTime": "2024-04-16T08:10:00+02:00",
-    "EndTime": "2024-04-16T11:25:00+02:00"
+    "StartTime": "2024-10-14T08:10:00+02:00",
+    "EndTime": "2024-10-14T11:25:00+02:00"
   },
   {
     "Name": "E3-DI",
     "Location": "NB 01.13",
     "Description": "Dozent: FTZ",
-    "StartTime": "2024-04-23T08:10:00+02:00",
-    "EndTime": "2024-04-23T11:25:00+02:00"
+    "StartTime": "2024-10-21T08:10:00+02:00",
+    "EndTime": "2024-10-21T11:25:00+02:00"
   },
   {
     "Name": "E3-DI",
     "Location": "NB 01.13",
     "Description": "Dozent: FTZ",
-    "StartTime": "2024-04-30T08:10:00+02:00",
-    "EndTime": "2024-04-30T11:25:00+02:00"
+    "StartTime": "2024-10-28T08:10:00+01:00",
+    "EndTime": "2024-10-28T11:25:00+01:00"
   },
   {
     "Name": "E3-DI",
     "Location": "NB 01.13",
     "Description": "Dozent: FTZ",
-    "StartTime": "2024-05-07T08:10:00+02:00",
-    "EndTime": "2024-05-07T11:25:00+02:00"
+    "StartTime": "2024-11-04T08:10:00+01:00",
+    "EndTime": "2024-11-04T11:25:00+01:00"
   },
   {
     "Name": "E3-DI",
     "Location": "NB 01.13",
     "Description": "Dozent: FTZ",
-    "StartTime": "2024-05-28T08:10:00+02:00",
-    "EndTime": "2024-05-28T11:25:00+02:00"
+    "StartTime": "2024-11-11T08:10:00+01:00",
+    "EndTime": "2024-11-11T11:25:00+01:00"
   },
   {
     "Name": "E3-DI",
     "Location": "NB 01.13",
     "Description": "Dozent: FTZ",
-    "StartTime": "2024-06-04T08:10:00+02:00",
-    "EndTime": "2024-06-04T11:25:00+02:00"
+    "StartTime": "2024-11-18T08:10:00+01:00",
+    "EndTime": "2024-11-18T11:25:00+01:00"
   },
   {
     "Name": "E3-DI",
     "Location": "NB 01.13",
     "Description": "Dozent: FTZ",
-    "StartTime": "2024-06-11T08:10:00+02:00",
-    "EndTime": "2024-06-11T11:25:00+02:00"
+    "StartTime": "2024-12-02T08:10:00+01:00",
+    "EndTime": "2024-12-02T11:25:00+01:00"
   },
   {
     "Name": "E3-DI",
     "Location": "NB 01.13",
     "Description": "Dozent: FTZ",
-    "StartTime": "2024-06-18T08:10:00+02:00",
-    "EndTime": "2024-06-18T11:25:00+02:00"
+    "StartTime": "2024-12-09T08:10:00+01:00",
+    "EndTime": "2024-12-09T11:25:00+01:00"
   },
   {
     "Name": "E3-DI",
     "Location": "NB 01.13",
     "Description": "Dozent: FTZ",
-    "StartTime": "2024-06-25T08:10:00+02:00",
-    "EndTime": "2024-06-25T11:25:00+02:00"
+    "StartTime": "2025-01-06T08:10:00+01:00",
+    "EndTime": "2025-01-06T11:25:00+01:00"
   },
   {
     "Name": "E3-DI",
     "Location": "NB 01.13",
     "Description": "Dozent: FTZ",
-    "StartTime": "2024-07-02T08:10:00+02:00",
-    "EndTime": "2024-07-02T11:25:00+02:00"
+    "StartTime": "2025-01-13T08:10:00+01:00",
+    "EndTime": "2025-01-13T11:25:00+01:00"
   }
 ]

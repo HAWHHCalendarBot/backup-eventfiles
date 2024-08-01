@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "IE4-DSL-03",
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-10-25T08:10:00+02:00",
+    "EndTime": "2024-10-25T11:25:00+02:00"
+  },
+  {
+    "Name": "IE4-DSL-03",
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-11-15T08:10:00+01:00",
+    "EndTime": "2024-11-15T11:25:00+01:00"
+  },
+  {
+    "Name": "IE4-DSL-03",
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2024-12-06T08:10:00+01:00",
+    "EndTime": "2024-12-06T11:25:00+01:00"
+  },
+  {
+    "Name": "IE4-DSL-03",
+    "Location": "0801",
+    "Description": "Dozent: SCZ",
+    "StartTime": "2025-01-10T08:10:00+01:00",
+    "EndTime": "2025-01-10T11:25:00+01:00"
+  }
+]

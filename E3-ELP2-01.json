@@ -3,28 +3,28 @@
     "Name": "E3-ELP2-01",
     "Location": "0505",
     "Description": "Dozent: AHSD",
-    "StartTime": "2024-04-18T12:10:00+02:00",
-    "EndTime": "2024-04-18T15:40:00+02:00"
+    "StartTime": "2024-10-24T08:10:00+02:00",
+    "EndTime": "2024-10-24T11:25:00+02:00"
   },
   {
     "Name": "E3-ELP2-01",
     "Location": "0505",
     "Description": "Dozent: AHSD",
-    "StartTime": "2024-05-02T12:10:00+02:00",
-    "EndTime": "2024-05-02T15:40:00+02:00"
+    "StartTime": "2024-11-21T08:10:00+01:00",
+    "EndTime": "2024-11-21T11:25:00+01:00"
   },
   {
     "Name": "E3-ELP2-01",
     "Location": "0505",
     "Description": "Dozent: AHSD",
-    "StartTime": "2024-05-30T12:10:00+02:00",
-    "EndTime": "2024-05-30T15:40:00+02:00"
+    "StartTime": "2024-12-12T08:10:00+01:00",
+    "EndTime": "2024-12-12T11:25:00+01:00"
   },
   {
     "Name": "E3-ELP2-01",
     "Location": "0505",
     "Description": "Dozent: AHSD",
-    "StartTime": "2024-06-20T12:10:00+02:00",
-    "EndTime": "2024-06-20T15:40:00+02:00"
+    "StartTime": "2025-01-16T08:10:00+01:00",
+    "EndTime": "2025-01-16T11:25:00+01:00"
   }
 ]

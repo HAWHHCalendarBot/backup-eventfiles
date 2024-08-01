@@ -2,29 +2,29 @@
   {
     "Name": "E1a-ETP1-03",
     "Location": "0502, 0565",
-    "Description": "Dozent: JGER/LI/[Rac]",
-    "StartTime": "2024-04-18T12:10:00+02:00",
-    "EndTime": "2024-04-18T15:40:00+02:00"
+    "Description": "Dozent: LHN/[Rac]",
+    "StartTime": "2024-10-24T08:10:00+02:00",
+    "EndTime": "2024-10-24T11:25:00+02:00"
   },
   {
     "Name": "E1a-ETP1-03",
     "Location": "0502, 0565",
-    "Description": "Dozent: JGER/LI/[Rac]",
-    "StartTime": "2024-05-02T12:10:00+02:00",
-    "EndTime": "2024-05-02T15:40:00+02:00"
+    "Description": "Dozent: LHN/[Rac]",
+    "StartTime": "2024-11-28T08:10:00+01:00",
+    "EndTime": "2024-11-28T11:25:00+01:00"
   },
   {
     "Name": "E1a-ETP1-03",
     "Location": "0502, 0565",
-    "Description": "Dozent: JGER/LI/[Rac]",
-    "StartTime": "2024-05-30T12:10:00+02:00",
-    "EndTime": "2024-05-30T15:40:00+02:00"
+    "Description": "Dozent: LHN/[Rac]",
+    "StartTime": "2024-12-19T08:10:00+01:00",
+    "EndTime": "2024-12-19T11:25:00+01:00"
   },
   {
     "Name": "E1a-ETP1-03",
     "Location": "0502, 0565",
-    "Description": "Dozent: JGER/LI/[Rac]",
-    "StartTime": "2024-06-20T12:10:00+02:00",
-    "EndTime": "2024-06-20T15:40:00+02:00"
+    "Description": "Dozent: LHN/[Rac]",
+    "StartTime": "2025-01-23T08:10:00+01:00",
+    "EndTime": "2025-01-23T11:25:00+01:00"
   }
 ]

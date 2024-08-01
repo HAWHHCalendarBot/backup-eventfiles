@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "SHC-PRP3-02",
+    "Location": "1360",
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-11-04T15:55:00+01:00",
+    "EndTime": "2024-11-04T19:10:00+01:00"
+  },
+  {
+    "Name": "SHC-PRP3-02",
+    "Location": "1360",
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-11-11T15:55:00+01:00",
+    "EndTime": "2024-11-11T19:10:00+01:00"
+  },
+  {
+    "Name": "SHC-PRP3-02",
+    "Location": "1360",
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-11-18T15:55:00+01:00",
+    "EndTime": "2024-11-18T19:10:00+01:00"
+  },
+  {
+    "Name": "SHC-PRP3-02",
+    "Location": "1360",
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-11-25T15:55:00+01:00",
+    "EndTime": "2024-11-25T19:10:00+01:00"
+  }
+]

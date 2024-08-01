@@ -1,44 +1,44 @@
 [
   {
     "Name": "E2a-ETP2-03",
-    "Location": "0502, 1301a, 1301b",
+    "Location": "0502, 0565",
     "Description": "Dozent: SOLR/[Rac]",
-    "StartTime": "2024-04-16T08:10:00+02:00",
-    "EndTime": "2024-04-16T11:25:00+02:00"
+    "StartTime": "2024-10-29T08:10:00+01:00",
+    "EndTime": "2024-10-29T11:25:00+01:00"
   },
   {
     "Name": "E2a-ETP2-03",
-    "Location": "0502, 1301a, 1301b",
+    "Location": "0502, 0565",
     "Description": "Dozent: SOLR/[Rac]",
-    "StartTime": "2024-04-30T08:10:00+02:00",
-    "EndTime": "2024-04-30T11:25:00+02:00"
+    "StartTime": "2024-11-12T08:10:00+01:00",
+    "EndTime": "2024-11-12T11:25:00+01:00"
   },
   {
     "Name": "E2a-ETP2-03",
-    "Location": "0502, 1301a, 1301b",
+    "Location": "0502, 0565",
     "Description": "Dozent: SOLR/[Rac]",
-    "StartTime": "2024-05-14T08:10:00+02:00",
-    "EndTime": "2024-05-14T11:25:00+02:00"
+    "StartTime": "2024-11-26T08:10:00+01:00",
+    "EndTime": "2024-11-26T11:25:00+01:00"
   },
   {
     "Name": "E2a-ETP2-03",
-    "Location": "0502, 1301a, 1301b",
+    "Location": "0502, 0565",
     "Description": "Dozent: SOLR/[Rac]",
-    "StartTime": "2024-06-04T08:10:00+02:00",
-    "EndTime": "2024-06-04T11:25:00+02:00"
+    "StartTime": "2024-12-10T08:10:00+01:00",
+    "EndTime": "2024-12-10T11:25:00+01:00"
   },
   {
     "Name": "E2a-ETP2-03",
-    "Location": "0502, 1301a, 1301b",
+    "Location": "0502, 0565",
     "Description": "Dozent: SOLR/[Rac]",
-    "StartTime": "2024-06-18T08:10:00+02:00",
-    "EndTime": "2024-06-18T11:25:00+02:00"
+    "StartTime": "2025-01-07T08:10:00+01:00",
+    "EndTime": "2025-01-07T11:25:00+01:00"
   },
   {
     "Name": "E2a-ETP2-03",
-    "Location": "0502, 1301a, 1301b",
+    "Location": "0502, 0565",
     "Description": "Dozent: SOLR/[Rac]",
-    "StartTime": "2024-07-02T08:10:00+02:00",
-    "EndTime": "2024-07-02T11:25:00+02:00"
+    "StartTime": "2025-01-21T08:10:00+01:00",
+    "EndTime": "2025-01-21T11:25:00+01:00"
   }
 ]

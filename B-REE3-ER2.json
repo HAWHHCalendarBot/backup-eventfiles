@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "SteinD94 R0.02",
+    "Description": "Dozent: RTH",
+    "StartTime": "2024-10-09T08:10:00+02:00",
+    "EndTime": "2024-10-09T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "0862",
+    "Description": "Dozent: RTH",
+    "StartTime": "2024-10-10T08:10:00+02:00",
+    "EndTime": "2024-10-10T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "SteinD94 R0.02",
+    "Description": "Dozent: RTH",
+    "StartTime": "2024-10-16T08:10:00+02:00",
+    "EndTime": "2024-10-16T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "0862",
+    "Description": "Dozent: RTH",
+    "StartTime": "2024-10-17T08:10:00+02:00",
+    "EndTime": "2024-10-17T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "SteinD94 R0.02",
+    "Description": "Dozent: RTH",
+    "StartTime": "2024-10-23T08:10:00+02:00",
+    "EndTime": "2024-10-23T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "SteinD94 R0.02",
+    "Description": "Dozent: RTH",
+    "StartTime": "2024-10-30T08:10:00+01:00",
+    "EndTime": "2024-10-30T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "SteinD94 R0.02",
+    "Description": "Dozent: RTH",
+    "StartTime": "2024-11-06T08:10:00+01:00",
+    "EndTime": "2024-11-06T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "0862",
+    "Description": "Dozent: RTH",
+    "StartTime": "2024-11-07T08:10:00+01:00",
+    "EndTime": "2024-11-07T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "SteinD94 R0.02",
+    "Description": "Dozent: RTH",
+    "StartTime": "2024-11-13T08:10:00+01:00",
+    "EndTime": "2024-11-13T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "SteinD94 R0.02",
+    "Description": "Dozent: RTH",
+    "StartTime": "2024-12-04T08:10:00+01:00",
+    "EndTime": "2024-12-04T11:25:00+01:00"
+  },
+  {
+    "Name": "B-REE3-ER2",
+    "Location": "SteinD94 R0.02",
+    "Description": "Dozent: RTH",
+    "StartTime": "2024-12-11T08:10:00+01:00",
+    "EndTime": "2024-12-11T11:25:00+01:00"
+  }
+]

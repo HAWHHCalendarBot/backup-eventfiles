@@ -2,36 +2,36 @@
   {
     "Name": "IE3-ELL2-01",
     "Location": "0505, 0804",
-    "Description": "Dozent: RTT/SHRR",
-    "StartTime": "2024-04-29T08:10:00+02:00",
-    "EndTime": "2024-04-29T11:25:00+02:00"
+    "Description": "Dozent: CMPN/WTMR",
+    "StartTime": "2024-10-28T12:10:00+01:00",
+    "EndTime": "2024-10-28T15:40:00+01:00"
   },
   {
     "Name": "IE3-ELL2-01",
     "Location": "0505, 0804",
-    "Description": "Dozent: RTT/SHRR",
-    "StartTime": "2024-05-13T08:10:00+02:00",
-    "EndTime": "2024-05-13T11:25:00+02:00"
+    "Description": "Dozent: CMPN/WTMR",
+    "StartTime": "2024-11-11T12:10:00+01:00",
+    "EndTime": "2024-11-11T15:40:00+01:00"
   },
   {
     "Name": "IE3-ELL2-01",
     "Location": "0505, 0804",
-    "Description": "Dozent: RTT/SHRR",
-    "StartTime": "2024-05-27T08:10:00+02:00",
-    "EndTime": "2024-05-27T11:25:00+02:00"
+    "Description": "Dozent: CMPN/WTMR",
+    "StartTime": "2024-11-25T12:10:00+01:00",
+    "EndTime": "2024-11-25T15:40:00+01:00"
   },
   {
     "Name": "IE3-ELL2-01",
     "Location": "0505, 0804",
-    "Description": "Dozent: RTT/SHRR",
-    "StartTime": "2024-06-10T08:10:00+02:00",
-    "EndTime": "2024-06-10T11:25:00+02:00"
+    "Description": "Dozent: CMPN/WTMR",
+    "StartTime": "2024-12-09T12:10:00+01:00",
+    "EndTime": "2024-12-09T15:40:00+01:00"
   },
   {
     "Name": "IE3-ELL2-01",
     "Location": "0505, 0804",
-    "Description": "Dozent: RTT/SHRR",
-    "StartTime": "2024-06-24T08:10:00+02:00",
-    "EndTime": "2024-06-24T11:25:00+02:00"
+    "Description": "Dozent: CMPN/WTMR",
+    "StartTime": "2025-01-06T12:10:00+01:00",
+    "EndTime": "2025-01-06T15:40:00+01:00"
   }
 ]

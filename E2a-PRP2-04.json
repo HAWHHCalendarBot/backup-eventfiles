@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E2a-PRP2-04",
+    "Location": "1360",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-10-30T08:10:00+01:00",
+    "EndTime": "2024-10-30T11:25:00+01:00"
+  },
+  {
+    "Name": "E2a-PRP2-04",
+    "Location": "1360",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-11-06T12:10:00+01:00",
+    "EndTime": "2024-11-06T15:40:00+01:00"
+  },
+  {
+    "Name": "E2a-PRP2-04",
+    "Location": "1360",
+    "Description": "Dozent: HST",
+    "StartTime": "2024-11-27T08:10:00+01:00",
+    "EndTime": "2024-11-27T11:25:00+01:00"
+  },
+  {
+    "Name": "E2a-PRP2-04",
+    "Location": "1360",
+    "Description": "Dozent: HST",
+    "StartTime": "2025-01-08T08:10:00+01:00",
+    "EndTime": "2025-01-08T11:25:00+01:00"
+  }
+]
