@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "GW STAN1",
+    "Location": "0665",
+    "Description": "Dozent: STAN",
+    "StartTime": "2024-04-22T16:00:00+02:00",
+    "EndTime": "2024-04-22T19:00:00+02:00"
+  },
+  {
+    "Name": "GW STAN1",
+    "Location": "1283",
+    "Description": "Dozent: STAN",
+    "StartTime": "2024-05-18T09:00:00+02:00",
+    "EndTime": "2024-05-18T16:00:00+02:00"
+  },
+  {
+    "Name": "GW STAN1",
+    "Location": "1283",
+    "Description": "Dozent: STAN",
+    "StartTime": "2024-05-25T09:00:00+02:00",
+    "EndTime": "2024-05-25T16:00:00+02:00"
+  },
+  {
+    "Name": "GW STAN1",
+    "Location": "1283",
+    "Description": "Dozent: STAN",
+    "StartTime": "2024-06-01T09:00:00+02:00",
+    "EndTime": "2024-06-01T16:00:00+02:00"
+  }
+]

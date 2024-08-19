@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "GW HLLS",
+    "Location": "1486",
+    "Description": "Dozent: HLLS",
+    "StartTime": "2024-04-20T10:00:00+02:00",
+    "EndTime": "2024-04-20T17:30:00+02:00"
+  },
+  {
+    "Name": "GW HLLS",
+    "Location": "1486",
+    "Description": "Dozent: HLLS",
+    "StartTime": "2024-06-15T10:00:00+02:00",
+    "EndTime": "2024-06-15T17:30:00+02:00"
+  },
+  {
+    "Name": "GW HLLS",
+    "Location": "1486",
+    "Description": "Dozent: HLLS",
+    "StartTime": "2024-06-22T10:00:00+02:00",
+    "EndTime": "2024-06-22T17:30:00+02:00"
+  }
+]

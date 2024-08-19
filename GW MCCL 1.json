@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "GW MCCL 1",
+    "Location": "",
+    "Description": "Dozent: MCCL",
+    "StartTime": "2024-04-26T16:00:00+02:00",
+    "EndTime": "2024-04-26T21:00:00+02:00"
+  },
+  {
+    "Name": "GW MCCL 1",
+    "Location": "",
+    "Description": "Dozent: MCCL",
+    "StartTime": "2024-04-27T09:00:00+02:00",
+    "EndTime": "2024-04-27T16:00:00+02:00"
+  },
+  {
+    "Name": "GW MCCL 1",
+    "Location": "",
+    "Description": "Dozent: MCCL",
+    "StartTime": "2024-05-03T16:00:00+02:00",
+    "EndTime": "2024-05-03T21:00:00+02:00"
+  },
+  {
+    "Name": "GW MCCL 1",
+    "Location": "",
+    "Description": "Dozent: MCCL",
+    "StartTime": "2024-05-04T09:00:00+02:00",
+    "EndTime": "2024-05-04T16:00:00+02:00"
+  }
+]

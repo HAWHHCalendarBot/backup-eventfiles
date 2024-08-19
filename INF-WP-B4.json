@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "INF-WP-B4",
+    "Location": "1065",
+    "Description": "Dozent: LNS",
+    "StartTime": "2024-04-10T12:30:00+02:00",
+    "EndTime": "2024-04-10T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WP-B4",
+    "Location": "1065",
+    "Description": "Dozent: LNS",
+    "StartTime": "2024-04-17T12:30:00+02:00",
+    "EndTime": "2024-04-17T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WP-B4",
+    "Location": "1065",
+    "Description": "Dozent: LNS",
+    "StartTime": "2024-05-08T12:30:00+02:00",
+    "EndTime": "2024-05-08T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WP-B4",
+    "Location": "1065",
+    "Description": "Dozent: LNS",
+    "StartTime": "2024-05-22T12:30:00+02:00",
+    "EndTime": "2024-05-22T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WP-B4",
+    "Location": "1065",
+    "Description": "Dozent: LNS",
+    "StartTime": "2024-06-05T12:30:00+02:00",
+    "EndTime": "2024-06-05T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WP-B4",
+    "Location": "1065",
+    "Description": "Dozent: LNS",
+    "StartTime": "2024-06-19T12:30:00+02:00",
+    "EndTime": "2024-06-19T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WP-B4",
+    "Location": "1065",
+    "Description": "Dozent: LNS",
+    "StartTime": "2024-07-03T12:30:00+02:00",
+    "EndTime": "2024-07-03T15:45:00+02:00"
+  }
+]

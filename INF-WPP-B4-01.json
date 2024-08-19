@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "INF-WPP-B4/01",
+    "Location": "1105",
+    "Description": "Dozent: LNS",
+    "StartTime": "2024-04-24T12:30:00+02:00",
+    "EndTime": "2024-04-24T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WPP-B4/01",
+    "Location": "1105",
+    "Description": "Dozent: LNS",
+    "StartTime": "2024-05-15T12:30:00+02:00",
+    "EndTime": "2024-05-15T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WPP-B4/01",
+    "Location": "1105",
+    "Description": "Dozent: LNS",
+    "StartTime": "2024-05-29T12:30:00+02:00",
+    "EndTime": "2024-05-29T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WPP-B4/01",
+    "Location": "1105",
+    "Description": "Dozent: LNS",
+    "StartTime": "2024-06-12T12:30:00+02:00",
+    "EndTime": "2024-06-12T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WPP-B4/01",
+    "Location": "1105",
+    "Description": "Dozent: LNS",
+    "StartTime": "2024-06-26T12:30:00+02:00",
+    "EndTime": "2024-06-26T15:45:00+02:00"
+  },
+  {
+    "Name": "INF-WPP-B4/01",
+    "Location": "1105",
+    "Description": "Dozent: LNS",
+    "StartTime": "2024-07-10T12:30:00+02:00",
+    "EndTime": "2024-07-10T15:45:00+02:00"
+  }
+]

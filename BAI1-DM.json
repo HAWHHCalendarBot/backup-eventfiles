@@ -1,0 +1,100 @@
+[
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-04-12T09:00:00+02:00",
+    "EndTime": "2024-04-12T12:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-04-19T09:00:00+02:00",
+    "EndTime": "2024-04-19T12:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-04-26T09:00:00+02:00",
+    "EndTime": "2024-04-26T12:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-05-03T09:00:00+02:00",
+    "EndTime": "2024-05-03T12:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-05-10T09:00:00+02:00",
+    "EndTime": "2024-05-10T12:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-05-17T09:00:00+02:00",
+    "EndTime": "2024-05-17T12:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-05-24T09:00:00+02:00",
+    "EndTime": "2024-05-24T12:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-05-31T09:00:00+02:00",
+    "EndTime": "2024-05-31T12:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-06-07T09:00:00+02:00",
+    "EndTime": "2024-06-07T12:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-06-14T09:00:00+02:00",
+    "EndTime": "2024-06-14T12:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-06-21T09:00:00+02:00",
+    "EndTime": "2024-06-21T12:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-06-28T09:00:00+02:00",
+    "EndTime": "2024-06-28T12:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-07-05T09:00:00+02:00",
+    "EndTime": "2024-07-05T12:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-DM",
+    "Location": "1001",
+    "Description": "Dozent: SUJW",
+    "StartTime": "2024-07-12T09:00:00+02:00",
+    "EndTime": "2024-07-12T12:15:00+02:00"
+  }
+]
