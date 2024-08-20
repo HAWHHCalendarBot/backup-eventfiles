@@ -1,86 +1,93 @@
 [
   {
     "Name": "BAI5-VS",
-    "Location": "0460",
-    "Description": "Dozent: KLC",
-    "StartTime": "2024-04-11T12:30:00+02:00",
-    "EndTime": "2024-04-11T15:45:00+02:00"
+    "Location": "0360",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-10-17T12:30:00+02:00",
+    "EndTime": "2024-10-17T15:45:00+02:00"
   },
   {
     "Name": "BAI5-VS",
-    "Location": "0460",
-    "Description": "Dozent: KLC",
-    "StartTime": "2024-04-18T12:30:00+02:00",
-    "EndTime": "2024-04-18T15:45:00+02:00"
+    "Location": "0360",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-10-24T12:30:00+02:00",
+    "EndTime": "2024-10-24T15:45:00+02:00"
   },
   {
     "Name": "BAI5-VS",
-    "Location": "0460",
-    "Description": "Dozent: KLC",
-    "StartTime": "2024-04-25T12:30:00+02:00",
-    "EndTime": "2024-04-25T15:45:00+02:00"
+    "Location": "0360",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-11-07T12:30:00+01:00",
+    "EndTime": "2024-11-07T15:45:00+01:00"
   },
   {
     "Name": "BAI5-VS",
-    "Location": "0460",
-    "Description": "Dozent: KLC",
-    "StartTime": "2024-05-02T12:30:00+02:00",
-    "EndTime": "2024-05-02T15:45:00+02:00"
+    "Location": "0360",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-11-14T12:30:00+01:00",
+    "EndTime": "2024-11-14T15:45:00+01:00"
   },
   {
     "Name": "BAI5-VS",
-    "Location": "0460",
-    "Description": "Dozent: KLC",
-    "StartTime": "2024-05-16T12:30:00+02:00",
-    "EndTime": "2024-05-16T15:45:00+02:00"
+    "Location": "0360",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-11-21T12:30:00+01:00",
+    "EndTime": "2024-11-21T15:45:00+01:00"
   },
   {
     "Name": "BAI5-VS",
-    "Location": "0460",
-    "Description": "Dozent: KLC",
-    "StartTime": "2024-05-23T12:30:00+02:00",
-    "EndTime": "2024-05-23T15:45:00+02:00"
+    "Location": "0360",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-11-28T12:30:00+01:00",
+    "EndTime": "2024-11-28T15:45:00+01:00"
   },
   {
     "Name": "BAI5-VS",
-    "Location": "0460",
-    "Description": "Dozent: KLC",
-    "StartTime": "2024-05-30T12:30:00+02:00",
-    "EndTime": "2024-05-30T15:45:00+02:00"
+    "Location": "0360",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-12-05T12:30:00+01:00",
+    "EndTime": "2024-12-05T15:45:00+01:00"
   },
   {
     "Name": "BAI5-VS",
-    "Location": "0460",
-    "Description": "Dozent: KLC",
-    "StartTime": "2024-06-06T12:30:00+02:00",
-    "EndTime": "2024-06-06T15:45:00+02:00"
+    "Location": "0360",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-12-12T12:30:00+01:00",
+    "EndTime": "2024-12-12T15:45:00+01:00"
   },
   {
     "Name": "BAI5-VS",
-    "Location": "0460",
-    "Description": "Dozent: KLC",
-    "StartTime": "2024-06-13T12:30:00+02:00",
-    "EndTime": "2024-06-13T15:45:00+02:00"
+    "Location": "0360",
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-12-19T12:30:00+01:00",
+    "EndTime": "2024-12-19T15:45:00+01:00"
   },
   {
     "Name": "BAI5-VS",
-    "Location": "0460",
-    "Description": "Dozent: KLC",
-    "StartTime": "2024-06-20T12:30:00+02:00",
-    "EndTime": "2024-06-20T15:45:00+02:00"
+    "Location": "0360",
+    "Description": "Dozent: KSS",
+    "StartTime": "2025-01-09T12:30:00+01:00",
+    "EndTime": "2025-01-09T15:45:00+01:00"
   },
   {
     "Name": "BAI5-VS",
-    "Location": "0460",
-    "Description": "Dozent: KLC",
-    "StartTime": "2024-06-27T12:30:00+02:00",
-    "EndTime": "2024-06-27T15:45:00+02:00"
+    "Location": "0360",
+    "Description": "Dozent: KSS",
+    "StartTime": "2025-01-16T12:30:00+01:00",
+    "EndTime": "2025-01-16T15:45:00+01:00"
   },
   {
     "Name": "BAI5-VS",
-    "Location": "0460",
-    "Description": "Dozent: KLC",
-    "StartTime": "2024-07-04T12:30:00+02:00",
-    "EndTime": "2024-07-04T15:45:00+02:00"
+    "Location": "0360",
+    "Description": "Dozent: KSS",
+    "StartTime": "2025-01-23T12:30:00+01:00",
+    "EndTime": "2025-01-23T15:45:00+01:00"
+  },
+  {
+    "Name": "BAI5-VS",
+    "Location": "0360",
+    "Description": "Dozent: KSS",
+    "StartTime": "2025-01-30T12:30:00+01:00",
+    "EndTime": "2025-01-30T15:45:00+01:00"
   }
 ]

@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "BITS1-GTP/06",
+    "Location": "0765",
+    "Description": "Dozent: RST/[Ben]",
+    "StartTime": "2024-10-28T12:30:00+01:00",
+    "EndTime": "2024-10-28T15:45:00+01:00"
+  },
+  {
+    "Name": "BITS1-GTP/06",
+    "Location": "0701",
+    "Description": "Dozent: RST/[Ben]",
+    "StartTime": "2024-10-28T16:00:00+01:00",
+    "EndTime": "2024-10-28T17:30:00+01:00"
+  },
+  {
+    "Name": "BITS1-GTP/06",
+    "Location": "0765",
+    "Description": "Dozent: RST/[Ben]",
+    "StartTime": "2024-11-11T12:30:00+01:00",
+    "EndTime": "2024-11-11T15:45:00+01:00"
+  },
+  {
+    "Name": "BITS1-GTP/06",
+    "Location": "0701",
+    "Description": "Dozent: RST/[Ben]",
+    "StartTime": "2024-11-11T16:00:00+01:00",
+    "EndTime": "2024-11-11T17:30:00+01:00"
+  },
+  {
+    "Name": "BITS1-GTP/06",
+    "Location": "0765",
+    "Description": "Dozent: RST/[Ben]",
+    "StartTime": "2024-11-25T12:30:00+01:00",
+    "EndTime": "2024-11-25T15:45:00+01:00"
+  },
+  {
+    "Name": "BITS1-GTP/06",
+    "Location": "0701",
+    "Description": "Dozent: RST/[Ben]",
+    "StartTime": "2024-11-25T16:00:00+01:00",
+    "EndTime": "2024-11-25T17:30:00+01:00"
+  },
+  {
+    "Name": "BITS1-GTP/06",
+    "Location": "0765",
+    "Description": "Dozent: RST/[Ben]",
+    "StartTime": "2024-12-09T12:30:00+01:00",
+    "EndTime": "2024-12-09T15:45:00+01:00"
+  },
+  {
+    "Name": "BITS1-GTP/06",
+    "Location": "0701",
+    "Description": "Dozent: RST/[Ben]",
+    "StartTime": "2024-12-09T16:00:00+01:00",
+    "EndTime": "2024-12-09T17:30:00+01:00"
+  },
+  {
+    "Name": "BITS1-GTP/06",
+    "Location": "0765",
+    "Description": "Dozent: RST/[Ben]",
+    "StartTime": "2025-01-06T12:30:00+01:00",
+    "EndTime": "2025-01-06T15:45:00+01:00"
+  },
+  {
+    "Name": "BITS1-GTP/06",
+    "Location": "0701",
+    "Description": "Dozent: RST/[Ben]",
+    "StartTime": "2025-01-06T16:00:00+01:00",
+    "EndTime": "2025-01-06T17:30:00+01:00"
+  },
+  {
+    "Name": "BITS1-GTP/06",
+    "Location": "0765",
+    "Description": "Dozent: RST/[Ben]",
+    "StartTime": "2025-01-20T12:30:00+01:00",
+    "EndTime": "2025-01-20T15:45:00+01:00"
+  },
+  {
+    "Name": "BITS1-GTP/06",
+    "Location": "0701",
+    "Description": "Dozent: RST/[Ben]",
+    "StartTime": "2025-01-20T16:00:00+01:00",
+    "EndTime": "2025-01-20T17:30:00+01:00"
+  }
+]

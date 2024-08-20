@@ -2,29 +2,29 @@
   {
     "Name": "BAI3-ADP/02",
     "Location": "1101b",
-    "Description": "Dozent: WND/[Oel]",
-    "StartTime": "2024-04-23T12:30:00+02:00",
-    "EndTime": "2024-04-23T15:45:00+02:00"
+    "Description": "Dozent: HMN/[Bla]",
+    "StartTime": "2024-10-28T08:15:00+01:00",
+    "EndTime": "2024-10-28T11:30:00+01:00"
   },
   {
     "Name": "BAI3-ADP/02",
     "Location": "1101b",
-    "Description": "Dozent: WND/[Oel]",
-    "StartTime": "2024-05-14T12:30:00+02:00",
-    "EndTime": "2024-05-14T15:45:00+02:00"
+    "Description": "Dozent: HMN/[Bla]",
+    "StartTime": "2024-11-18T08:15:00+01:00",
+    "EndTime": "2024-11-18T11:30:00+01:00"
   },
   {
     "Name": "BAI3-ADP/02",
     "Location": "1101b",
-    "Description": "Dozent: WND/[Oel]",
-    "StartTime": "2024-06-11T12:30:00+02:00",
-    "EndTime": "2024-06-11T15:45:00+02:00"
+    "Description": "Dozent: HMN/[Bla]",
+    "StartTime": "2024-12-09T08:15:00+01:00",
+    "EndTime": "2024-12-09T11:30:00+01:00"
   },
   {
     "Name": "BAI3-ADP/02",
     "Location": "1101b",
-    "Description": "Dozent: WND/[Oel]",
-    "StartTime": "2024-07-02T12:30:00+02:00",
-    "EndTime": "2024-07-02T15:45:00+02:00"
+    "Description": "Dozent: HMN/[Bla]",
+    "StartTime": "2025-01-13T08:15:00+01:00",
+    "EndTime": "2025-01-13T11:30:00+01:00"
   }
 ]

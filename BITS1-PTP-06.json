@@ -2,43 +2,43 @@
   {
     "Name": "BITS1-PTP/06",
     "Location": "1101a",
-    "Description": "Dozent: KPCK?/[Bla]",
-    "StartTime": "2024-04-29T16:00:00+02:00",
-    "EndTime": "2024-04-29T19:15:00+02:00"
+    "Description": "Dozent: LNS/[Kas]",
+    "StartTime": "2024-11-04T12:30:00+01:00",
+    "EndTime": "2024-11-04T15:45:00+01:00"
   },
   {
     "Name": "BITS1-PTP/06",
     "Location": "1101a",
-    "Description": "Dozent: KPCK?/[Bla]",
-    "StartTime": "2024-05-13T16:00:00+02:00",
-    "EndTime": "2024-05-13T19:15:00+02:00"
+    "Description": "Dozent: LNS/[Kas]",
+    "StartTime": "2024-11-18T12:30:00+01:00",
+    "EndTime": "2024-11-18T15:45:00+01:00"
   },
   {
     "Name": "BITS1-PTP/06",
     "Location": "1101a",
-    "Description": "Dozent: KPCK?/[Bla]",
-    "StartTime": "2024-05-27T16:00:00+02:00",
-    "EndTime": "2024-05-27T19:15:00+02:00"
+    "Description": "Dozent: LNS/[Kas]",
+    "StartTime": "2024-12-02T12:30:00+01:00",
+    "EndTime": "2024-12-02T15:45:00+01:00"
   },
   {
     "Name": "BITS1-PTP/06",
     "Location": "1101a",
-    "Description": "Dozent: KPCK?/[Bla]",
-    "StartTime": "2024-06-10T16:00:00+02:00",
-    "EndTime": "2024-06-10T19:15:00+02:00"
+    "Description": "Dozent: LNS/[Kas]",
+    "StartTime": "2024-12-16T12:30:00+01:00",
+    "EndTime": "2024-12-16T15:45:00+01:00"
   },
   {
     "Name": "BITS1-PTP/06",
     "Location": "1101a",
-    "Description": "Dozent: KPCK?/[Bla]",
-    "StartTime": "2024-06-24T16:00:00+02:00",
-    "EndTime": "2024-06-24T19:15:00+02:00"
+    "Description": "Dozent: LNS/[Kas]",
+    "StartTime": "2025-01-13T12:30:00+01:00",
+    "EndTime": "2025-01-13T15:45:00+01:00"
   },
   {
     "Name": "BITS1-PTP/06",
     "Location": "1101a",
-    "Description": "Dozent: KPCK?/[Bla]",
-    "StartTime": "2024-07-08T16:00:00+02:00",
-    "EndTime": "2024-07-08T19:15:00+02:00"
+    "Description": "Dozent: LNS/[Kas]",
+    "StartTime": "2025-01-27T12:30:00+01:00",
+    "EndTime": "2025-01-27T15:45:00+01:00"
   }
 ]

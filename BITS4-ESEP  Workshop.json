@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "BITS4-ESEP  Workshop",
+    "Location": "0665",
+    "Description": "Dozent: DAI/KRF/LMN/[Chr]",
+    "StartTime": "2024-10-16T12:30:00+02:00",
+    "EndTime": "2024-10-16T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-ESEP  Workshop",
+    "Location": "0665, 0701, 0709, 0761",
+    "Description": "Dozent: DAI/KRF/LMN/[Chr]",
+    "StartTime": "2024-10-16T12:30:00+02:00",
+    "EndTime": "2024-10-16T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-ESEP  Workshop",
+    "Location": "0701",
+    "Description": "Dozent: DAI/KRF/LMN/[Chr]",
+    "StartTime": "2024-10-16T12:30:00+02:00",
+    "EndTime": "2024-10-16T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-ESEP  Workshop",
+    "Location": "0709",
+    "Description": "Dozent: DAI/KRF/LMN/[Chr]",
+    "StartTime": "2024-10-16T12:30:00+02:00",
+    "EndTime": "2024-10-16T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-ESEP  Workshop",
+    "Location": "0761",
+    "Description": "Dozent: DAI/KRF/LMN/[Chr]",
+    "StartTime": "2024-10-16T12:30:00+02:00",
+    "EndTime": "2024-10-16T15:45:00+02:00"
+  }
+]

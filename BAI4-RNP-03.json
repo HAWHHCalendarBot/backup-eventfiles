@@ -26,5 +26,33 @@
     "Description": "Dozent: KSS",
     "StartTime": "2024-07-01T12:30:00+02:00",
     "EndTime": "2024-07-01T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI4-RNP/03",
+    "Location": "0765",
+    "Description": "Dozent: HBN",
+    "StartTime": "2024-11-12T12:30:00+01:00",
+    "EndTime": "2024-11-12T15:45:00+01:00"
+  },
+  {
+    "Name": "BAI4-RNP/03",
+    "Location": "0765",
+    "Description": "Dozent: HBN",
+    "StartTime": "2024-12-03T12:30:00+01:00",
+    "EndTime": "2024-12-03T15:45:00+01:00"
+  },
+  {
+    "Name": "BAI4-RNP/03",
+    "Location": "0765",
+    "Description": "Dozent: HBN",
+    "StartTime": "2025-01-07T12:30:00+01:00",
+    "EndTime": "2025-01-07T15:45:00+01:00"
+  },
+  {
+    "Name": "BAI4-RNP/03",
+    "Location": "0765",
+    "Description": "Dozent: HBN",
+    "StartTime": "2025-01-28T12:30:00+01:00",
+    "EndTime": "2025-01-28T15:45:00+01:00"
   }
 ]

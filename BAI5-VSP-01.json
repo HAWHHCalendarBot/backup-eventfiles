@@ -2,29 +2,29 @@
   {
     "Name": "BAI5-VSP/01",
     "Location": "0765",
-    "Description": "Dozent: KLC/[Slz]",
-    "StartTime": "2024-04-25T08:15:00+02:00",
-    "EndTime": "2024-04-25T11:30:00+02:00"
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-11-04T16:00:00+01:00",
+    "EndTime": "2024-11-04T19:15:00+01:00"
   },
   {
     "Name": "BAI5-VSP/01",
     "Location": "0765",
-    "Description": "Dozent: KLC/[Slz]",
-    "StartTime": "2024-05-23T08:15:00+02:00",
-    "EndTime": "2024-05-23T11:30:00+02:00"
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-11-25T16:00:00+01:00",
+    "EndTime": "2024-11-25T19:15:00+01:00"
   },
   {
     "Name": "BAI5-VSP/01",
     "Location": "0765",
-    "Description": "Dozent: KLC/[Slz]",
-    "StartTime": "2024-06-13T08:15:00+02:00",
-    "EndTime": "2024-06-13T11:30:00+02:00"
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-12-16T16:00:00+01:00",
+    "EndTime": "2024-12-16T19:15:00+01:00"
   },
   {
     "Name": "BAI5-VSP/01",
     "Location": "0765",
-    "Description": "Dozent: KLC/[Slz]",
-    "StartTime": "2024-07-04T08:15:00+02:00",
-    "EndTime": "2024-07-04T11:30:00+02:00"
+    "Description": "Dozent: KSS",
+    "StartTime": "2025-01-20T16:00:00+01:00",
+    "EndTime": "2025-01-20T19:15:00+01:00"
   }
 ]

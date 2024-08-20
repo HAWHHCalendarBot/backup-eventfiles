@@ -2,29 +2,29 @@
   {
     "Name": "BITS3-BSP/01",
     "Location": "0761",
-    "Description": "Dozent: KRF/[Slz]",
-    "StartTime": "2024-04-24T12:30:00+02:00",
-    "EndTime": "2024-04-24T15:45:00+02:00"
+    "Description": "Dozent: RST",
+    "StartTime": "2024-10-23T08:15:00+02:00",
+    "EndTime": "2024-10-23T11:30:00+02:00"
   },
   {
     "Name": "BITS3-BSP/01",
     "Location": "0761",
-    "Description": "Dozent: KOCH/[Slz]",
-    "StartTime": "2024-05-22T12:30:00+02:00",
-    "EndTime": "2024-05-22T15:45:00+02:00"
+    "Description": "Dozent: RST",
+    "StartTime": "2024-11-13T08:15:00+01:00",
+    "EndTime": "2024-11-13T11:30:00+01:00"
   },
   {
     "Name": "BITS3-BSP/01",
     "Location": "0761",
-    "Description": "Dozent: KOCH/[Slz]",
-    "StartTime": "2024-06-12T12:30:00+02:00",
-    "EndTime": "2024-06-12T15:45:00+02:00"
+    "Description": "Dozent: RST",
+    "StartTime": "2024-12-04T08:15:00+01:00",
+    "EndTime": "2024-12-04T11:30:00+01:00"
   },
   {
     "Name": "BITS3-BSP/01",
     "Location": "0761",
-    "Description": "Dozent: KOCH/[Slz]",
-    "StartTime": "2024-07-03T12:30:00+02:00",
-    "EndTime": "2024-07-03T15:45:00+02:00"
+    "Description": "Dozent: RST",
+    "StartTime": "2025-01-08T08:15:00+01:00",
+    "EndTime": "2025-01-08T11:30:00+01:00"
   }
 ]

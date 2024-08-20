@@ -1,44 +1,44 @@
 [
   {
     "Name": "BAI1-PTP/05",
-    "Location": "1165",
-    "Description": "Dozent: SHF/[Kas]",
-    "StartTime": "2024-04-17T08:15:00+02:00",
-    "EndTime": "2024-04-17T11:30:00+02:00"
+    "Location": "0380b",
+    "Description": "Dozent: MMAY/[Oel]",
+    "StartTime": "2024-10-30T12:30:00+01:00",
+    "EndTime": "2024-10-30T15:45:00+01:00"
   },
   {
     "Name": "BAI1-PTP/05",
-    "Location": "1165",
-    "Description": "Dozent: SHF/[Kas]",
-    "StartTime": "2024-05-08T08:15:00+02:00",
-    "EndTime": "2024-05-08T11:30:00+02:00"
+    "Location": "0380b",
+    "Description": "Dozent: MMAY/[Oel]",
+    "StartTime": "2024-11-13T12:30:00+01:00",
+    "EndTime": "2024-11-13T15:45:00+01:00"
   },
   {
     "Name": "BAI1-PTP/05",
-    "Location": "1165",
-    "Description": "Dozent: SHF/[Kas]",
-    "StartTime": "2024-05-22T08:15:00+02:00",
-    "EndTime": "2024-05-22T11:30:00+02:00"
+    "Location": "0380b",
+    "Description": "Dozent: MMAY/[Oel]",
+    "StartTime": "2024-11-27T12:30:00+01:00",
+    "EndTime": "2024-11-27T15:45:00+01:00"
   },
   {
     "Name": "BAI1-PTP/05",
-    "Location": "1165",
-    "Description": "Dozent: SHF/[Kas]",
-    "StartTime": "2024-06-05T08:15:00+02:00",
-    "EndTime": "2024-06-05T11:30:00+02:00"
+    "Location": "0380b",
+    "Description": "Dozent: MMAY/[Oel]",
+    "StartTime": "2024-12-11T12:30:00+01:00",
+    "EndTime": "2024-12-11T15:45:00+01:00"
   },
   {
     "Name": "BAI1-PTP/05",
-    "Location": "1165",
-    "Description": "Dozent: SHF/[Kas]",
-    "StartTime": "2024-06-19T08:15:00+02:00",
-    "EndTime": "2024-06-19T11:30:00+02:00"
+    "Location": "0380b",
+    "Description": "Dozent: MMAY/[Oel]",
+    "StartTime": "2025-01-08T12:30:00+01:00",
+    "EndTime": "2025-01-08T15:45:00+01:00"
   },
   {
     "Name": "BAI1-PTP/05",
-    "Location": "1165",
-    "Description": "Dozent: SHF/[Kas]",
-    "StartTime": "2024-07-03T08:15:00+02:00",
-    "EndTime": "2024-07-03T11:30:00+02:00"
+    "Location": "0380b",
+    "Description": "Dozent: MMAY/[Oel]",
+    "StartTime": "2025-01-22T12:30:00+01:00",
+    "EndTime": "2025-01-22T15:45:00+01:00"
   }
 ]

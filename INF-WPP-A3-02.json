@@ -1,44 +1,51 @@
 [
   {
     "Name": "INF-WPP-A3/02",
-    "Location": "1101b",
-    "Description": "Dozent: KSS",
-    "StartTime": "2024-04-16T16:00:00+02:00",
-    "EndTime": "2024-04-16T19:15:00+02:00"
+    "Location": "0701",
+    "Description": "Dozent: KSC",
+    "StartTime": "2024-10-15T08:15:00+02:00",
+    "EndTime": "2024-10-15T11:30:00+02:00"
   },
   {
     "Name": "INF-WPP-A3/02",
-    "Location": "1101b",
-    "Description": "Dozent: KSS",
-    "StartTime": "2024-04-30T16:00:00+02:00",
-    "EndTime": "2024-04-30T19:15:00+02:00"
+    "Location": "0701",
+    "Description": "Dozent: KSC",
+    "StartTime": "2024-10-29T08:15:00+01:00",
+    "EndTime": "2024-10-29T11:30:00+01:00"
   },
   {
     "Name": "INF-WPP-A3/02",
-    "Location": "1101b",
-    "Description": "Dozent: KSS",
-    "StartTime": "2024-05-14T16:00:00+02:00",
-    "EndTime": "2024-05-14T19:15:00+02:00"
+    "Location": "0701",
+    "Description": "Dozent: KSC",
+    "StartTime": "2024-11-12T08:15:00+01:00",
+    "EndTime": "2024-11-12T11:30:00+01:00"
   },
   {
     "Name": "INF-WPP-A3/02",
-    "Location": "1101b",
-    "Description": "Dozent: KSS",
-    "StartTime": "2024-06-04T16:00:00+02:00",
-    "EndTime": "2024-06-04T19:15:00+02:00"
+    "Location": "0701",
+    "Description": "Dozent: KSC",
+    "StartTime": "2024-11-26T08:15:00+01:00",
+    "EndTime": "2024-11-26T11:30:00+01:00"
   },
   {
     "Name": "INF-WPP-A3/02",
-    "Location": "1101b",
-    "Description": "Dozent: KSS",
-    "StartTime": "2024-06-18T16:00:00+02:00",
-    "EndTime": "2024-06-18T19:15:00+02:00"
+    "Location": "0701",
+    "Description": "Dozent: KSC",
+    "StartTime": "2024-12-10T08:15:00+01:00",
+    "EndTime": "2024-12-10T11:30:00+01:00"
   },
   {
     "Name": "INF-WPP-A3/02",
-    "Location": "1101b",
-    "Description": "Dozent: KSS",
-    "StartTime": "2024-07-02T16:00:00+02:00",
-    "EndTime": "2024-07-02T19:15:00+02:00"
+    "Location": "0701",
+    "Description": "Dozent: KSC",
+    "StartTime": "2025-01-07T08:15:00+01:00",
+    "EndTime": "2025-01-07T11:30:00+01:00"
+  },
+  {
+    "Name": "INF-WPP-A3/02",
+    "Location": "0701",
+    "Description": "Dozent: KSC",
+    "StartTime": "2025-01-21T08:15:00+01:00",
+    "EndTime": "2025-01-21T11:30:00+01:00"
   }
 ]

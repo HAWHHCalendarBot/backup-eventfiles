@@ -2,43 +2,50 @@
   {
     "Name": "INF-WPP-B2/01",
     "Location": "1165",
-    "Description": "Dozent: SCMK?/TFR",
-    "StartTime": "2024-04-17T12:30:00+02:00",
-    "EndTime": "2024-04-17T15:45:00+02:00"
+    "Description": "Dozent: HMN",
+    "StartTime": "2024-10-23T08:15:00+02:00",
+    "EndTime": "2024-10-23T11:30:00+02:00"
   },
   {
     "Name": "INF-WPP-B2/01",
     "Location": "1165",
-    "Description": "Dozent: SCMK?/TFR",
-    "StartTime": "2024-05-08T12:30:00+02:00",
-    "EndTime": "2024-05-08T15:45:00+02:00"
+    "Description": "Dozent: HMN",
+    "StartTime": "2024-11-06T08:15:00+01:00",
+    "EndTime": "2024-11-06T11:30:00+01:00"
   },
   {
     "Name": "INF-WPP-B2/01",
     "Location": "1165",
-    "Description": "Dozent: SCMK?/TFR",
-    "StartTime": "2024-05-22T12:30:00+02:00",
-    "EndTime": "2024-05-22T15:45:00+02:00"
+    "Description": "Dozent: HMN",
+    "StartTime": "2024-11-20T08:15:00+01:00",
+    "EndTime": "2024-11-20T11:30:00+01:00"
   },
   {
     "Name": "INF-WPP-B2/01",
     "Location": "1165",
-    "Description": "Dozent: SCMK?/TFR",
-    "StartTime": "2024-06-05T12:30:00+02:00",
-    "EndTime": "2024-06-05T15:45:00+02:00"
+    "Description": "Dozent: HMN",
+    "StartTime": "2024-12-04T08:15:00+01:00",
+    "EndTime": "2024-12-04T11:30:00+01:00"
   },
   {
     "Name": "INF-WPP-B2/01",
     "Location": "1165",
-    "Description": "Dozent: SCMK?/TFR",
-    "StartTime": "2024-06-19T12:30:00+02:00",
-    "EndTime": "2024-06-19T15:45:00+02:00"
+    "Description": "Dozent: HMN",
+    "StartTime": "2024-12-18T08:15:00+01:00",
+    "EndTime": "2024-12-18T11:30:00+01:00"
   },
   {
     "Name": "INF-WPP-B2/01",
     "Location": "1165",
-    "Description": "Dozent: SCMK?/TFR",
-    "StartTime": "2024-07-03T12:30:00+02:00",
-    "EndTime": "2024-07-03T15:45:00+02:00"
+    "Description": "Dozent: HMN",
+    "StartTime": "2025-01-15T08:15:00+01:00",
+    "EndTime": "2025-01-15T11:30:00+01:00"
+  },
+  {
+    "Name": "INF-WPP-B2/01",
+    "Location": "1165",
+    "Description": "Dozent: HMN",
+    "StartTime": "2025-01-29T08:15:00+01:00",
+    "EndTime": "2025-01-29T11:30:00+01:00"
   }
 ]

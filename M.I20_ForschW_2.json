@@ -1,93 +1,93 @@
 [
   {
     "Name": "M.I20_ForschW_2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: BTH",
-    "StartTime": "2024-04-11T08:15:00+02:00",
-    "EndTime": "2024-04-11T11:30:00+02:00"
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: SCH/STF",
+    "StartTime": "2024-10-17T08:15:00+02:00",
+    "EndTime": "2024-10-17T11:30:00+02:00"
   },
   {
     "Name": "M.I20_ForschW_2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: BTH",
-    "StartTime": "2024-04-18T08:15:00+02:00",
-    "EndTime": "2024-04-18T11:30:00+02:00"
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: SCH/STF",
+    "StartTime": "2024-10-24T08:15:00+02:00",
+    "EndTime": "2024-10-24T11:30:00+02:00"
   },
   {
     "Name": "M.I20_ForschW_2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: BTH",
-    "StartTime": "2024-04-25T08:15:00+02:00",
-    "EndTime": "2024-04-25T11:30:00+02:00"
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: SCH/STF",
+    "StartTime": "2024-11-07T08:15:00+01:00",
+    "EndTime": "2024-11-07T11:30:00+01:00"
   },
   {
     "Name": "M.I20_ForschW_2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: BTH",
-    "StartTime": "2024-05-02T08:15:00+02:00",
-    "EndTime": "2024-05-02T11:30:00+02:00"
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: SCH/STF",
+    "StartTime": "2024-11-14T08:15:00+01:00",
+    "EndTime": "2024-11-14T11:30:00+01:00"
   },
   {
     "Name": "M.I20_ForschW_2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: BTH",
-    "StartTime": "2024-05-16T08:15:00+02:00",
-    "EndTime": "2024-05-16T11:30:00+02:00"
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: SCH/STF",
+    "StartTime": "2024-11-21T08:15:00+01:00",
+    "EndTime": "2024-11-21T11:30:00+01:00"
   },
   {
     "Name": "M.I20_ForschW_2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: BTH",
-    "StartTime": "2024-05-23T08:15:00+02:00",
-    "EndTime": "2024-05-23T11:30:00+02:00"
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: SCH/STF",
+    "StartTime": "2024-11-28T08:15:00+01:00",
+    "EndTime": "2024-11-28T11:30:00+01:00"
   },
   {
     "Name": "M.I20_ForschW_2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: BTH",
-    "StartTime": "2024-05-30T08:15:00+02:00",
-    "EndTime": "2024-05-30T11:30:00+02:00"
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: SCH/STF",
+    "StartTime": "2024-12-05T08:15:00+01:00",
+    "EndTime": "2024-12-05T11:30:00+01:00"
   },
   {
     "Name": "M.I20_ForschW_2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: BTH",
-    "StartTime": "2024-06-06T08:15:00+02:00",
-    "EndTime": "2024-06-06T11:30:00+02:00"
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: SCH/STF",
+    "StartTime": "2024-12-12T08:15:00+01:00",
+    "EndTime": "2024-12-12T11:30:00+01:00"
   },
   {
     "Name": "M.I20_ForschW_2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: BTH",
-    "StartTime": "2024-06-13T08:15:00+02:00",
-    "EndTime": "2024-06-13T11:30:00+02:00"
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: SCH/STF",
+    "StartTime": "2024-12-19T08:15:00+01:00",
+    "EndTime": "2024-12-19T11:30:00+01:00"
   },
   {
     "Name": "M.I20_ForschW_2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: BTH",
-    "StartTime": "2024-06-20T08:15:00+02:00",
-    "EndTime": "2024-06-20T11:30:00+02:00"
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: SCH/STF",
+    "StartTime": "2025-01-09T08:15:00+01:00",
+    "EndTime": "2025-01-09T11:30:00+01:00"
   },
   {
     "Name": "M.I20_ForschW_2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: BTH",
-    "StartTime": "2024-06-27T08:15:00+02:00",
-    "EndTime": "2024-06-27T11:30:00+02:00"
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: SCH/STF",
+    "StartTime": "2025-01-16T08:15:00+01:00",
+    "EndTime": "2025-01-16T11:30:00+01:00"
   },
   {
     "Name": "M.I20_ForschW_2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: BTH",
-    "StartTime": "2024-07-04T08:15:00+02:00",
-    "EndTime": "2024-07-04T11:30:00+02:00"
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: SCH/STF",
+    "StartTime": "2025-01-23T08:15:00+01:00",
+    "EndTime": "2025-01-23T11:30:00+01:00"
   },
   {
     "Name": "M.I20_ForschW_2",
-    "Location": "Stiftstr69 R304a",
-    "Description": "Dozent: BTH",
-    "StartTime": "2024-07-11T08:15:00+02:00",
-    "EndTime": "2024-07-11T11:30:00+02:00"
+    "Location": "Stiftstr69  R206",
+    "Description": "Dozent: SCH/STF",
+    "StartTime": "2025-01-30T08:15:00+01:00",
+    "EndTime": "2025-01-30T11:30:00+01:00"
   }
 ]

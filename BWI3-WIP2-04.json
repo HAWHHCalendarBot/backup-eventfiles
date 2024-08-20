@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "BWI3-WIP2/04",
+    "Location": "1101b",
+    "Description": "Dozent: SCH",
+    "StartTime": "2024-10-25T10:00:00+02:00",
+    "EndTime": "2024-10-25T11:30:00+02:00"
+  },
+  {
+    "Name": "BWI3-WIP2/04",
+    "Location": "1101b",
+    "Description": "Dozent: SCH",
+    "StartTime": "2024-11-08T10:00:00+01:00",
+    "EndTime": "2024-11-08T11:30:00+01:00"
+  },
+  {
+    "Name": "BWI3-WIP2/04",
+    "Location": "1101b",
+    "Description": "Dozent: SCH",
+    "StartTime": "2024-11-22T10:00:00+01:00",
+    "EndTime": "2024-11-22T11:30:00+01:00"
+  },
+  {
+    "Name": "BWI3-WIP2/04",
+    "Location": "1101b",
+    "Description": "Dozent: SCH",
+    "StartTime": "2024-12-06T10:00:00+01:00",
+    "EndTime": "2024-12-06T11:30:00+01:00"
+  },
+  {
+    "Name": "BWI3-WIP2/04",
+    "Location": "1101b",
+    "Description": "Dozent: SCH",
+    "StartTime": "2024-12-20T10:00:00+01:00",
+    "EndTime": "2024-12-20T11:30:00+01:00"
+  },
+  {
+    "Name": "BWI3-WIP2/04",
+    "Location": "1101b",
+    "Description": "Dozent: SCH",
+    "StartTime": "2025-01-17T10:00:00+01:00",
+    "EndTime": "2025-01-17T11:30:00+01:00"
+  },
+  {
+    "Name": "BWI3-WIP2/04",
+    "Location": "1101b",
+    "Description": "Dozent: SCH",
+    "StartTime": "2025-01-31T10:00:00+01:00",
+    "EndTime": "2025-01-31T11:30:00+01:00"
+  }
+]

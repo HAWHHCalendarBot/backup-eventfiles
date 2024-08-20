@@ -1,30 +1,30 @@
 [
   {
     "Name": "BAI2-PMP2/03",
-    "Location": "1105",
-    "Description": "Dozent: FISH/SML",
-    "StartTime": "2024-04-16T12:30:00+02:00",
-    "EndTime": "2024-04-16T15:45:00+02:00"
+    "Location": "1101b",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2024-11-06T12:30:00+01:00",
+    "EndTime": "2024-11-06T15:45:00+01:00"
   },
   {
     "Name": "BAI2-PMP2/03",
-    "Location": "1105",
-    "Description": "Dozent: FISH/SML",
-    "StartTime": "2024-05-07T12:30:00+02:00",
-    "EndTime": "2024-05-07T15:45:00+02:00"
+    "Location": "1101b",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2024-11-27T12:30:00+01:00",
+    "EndTime": "2024-11-27T15:45:00+01:00"
   },
   {
     "Name": "BAI2-PMP2/03",
-    "Location": "1105",
-    "Description": "Dozent: FISH/SML",
-    "StartTime": "2024-06-04T12:30:00+02:00",
-    "EndTime": "2024-06-04T15:45:00+02:00"
+    "Location": "1101b",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2024-12-18T12:30:00+01:00",
+    "EndTime": "2024-12-18T15:45:00+01:00"
   },
   {
     "Name": "BAI2-PMP2/03",
-    "Location": "1105",
-    "Description": "Dozent: FISH/SML",
-    "StartTime": "2024-06-25T12:30:00+02:00",
-    "EndTime": "2024-06-25T15:45:00+02:00"
+    "Location": "1101b",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2025-01-22T12:30:00+01:00",
+    "EndTime": "2025-01-22T15:45:00+01:00"
   }
 ]

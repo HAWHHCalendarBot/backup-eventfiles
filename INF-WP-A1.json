@@ -2,85 +2,50 @@
   {
     "Name": "INF-WP-A1",
     "Location": "0665",
-    "Description": "Dozent: BTH/MYER",
-    "StartTime": "2024-04-16T12:30:00+02:00",
-    "EndTime": "2024-04-16T15:45:00+02:00"
+    "Description": "Dozent: KHL",
+    "StartTime": "2024-10-15T08:15:00+02:00",
+    "EndTime": "2024-10-15T11:30:00+02:00"
   },
   {
     "Name": "INF-WP-A1",
     "Location": "0665",
-    "Description": "Dozent: BTH/MYER",
-    "StartTime": "2024-04-23T12:30:00+02:00",
-    "EndTime": "2024-04-23T15:45:00+02:00"
+    "Description": "Dozent: KHL",
+    "StartTime": "2024-10-29T08:15:00+01:00",
+    "EndTime": "2024-10-29T11:30:00+01:00"
   },
   {
     "Name": "INF-WP-A1",
     "Location": "0665",
-    "Description": "Dozent: BTH/MYER",
-    "StartTime": "2024-04-30T12:30:00+02:00",
-    "EndTime": "2024-04-30T15:45:00+02:00"
+    "Description": "Dozent: KHL",
+    "StartTime": "2024-11-12T08:15:00+01:00",
+    "EndTime": "2024-11-12T11:30:00+01:00"
   },
   {
     "Name": "INF-WP-A1",
     "Location": "0665",
-    "Description": "Dozent: BTH/MYER",
-    "StartTime": "2024-05-07T12:30:00+02:00",
-    "EndTime": "2024-05-07T15:45:00+02:00"
+    "Description": "Dozent: KHL",
+    "StartTime": "2024-11-26T08:15:00+01:00",
+    "EndTime": "2024-11-26T11:30:00+01:00"
   },
   {
     "Name": "INF-WP-A1",
     "Location": "0665",
-    "Description": "Dozent: BTH/MYER",
-    "StartTime": "2024-05-14T12:30:00+02:00",
-    "EndTime": "2024-05-14T15:45:00+02:00"
+    "Description": "Dozent: KHL",
+    "StartTime": "2024-12-10T08:15:00+01:00",
+    "EndTime": "2024-12-10T11:30:00+01:00"
   },
   {
     "Name": "INF-WP-A1",
     "Location": "0665",
-    "Description": "Dozent: BTH/MYER",
-    "StartTime": "2024-05-28T12:30:00+02:00",
-    "EndTime": "2024-05-28T15:45:00+02:00"
+    "Description": "Dozent: KHL",
+    "StartTime": "2025-01-07T08:15:00+01:00",
+    "EndTime": "2025-01-07T11:30:00+01:00"
   },
   {
     "Name": "INF-WP-A1",
     "Location": "0665",
-    "Description": "Dozent: BTH/MYER",
-    "StartTime": "2024-06-04T12:30:00+02:00",
-    "EndTime": "2024-06-04T15:45:00+02:00"
-  },
-  {
-    "Name": "INF-WP-A1",
-    "Location": "0665",
-    "Description": "Dozent: BTH/MYER",
-    "StartTime": "2024-06-11T12:30:00+02:00",
-    "EndTime": "2024-06-11T15:45:00+02:00"
-  },
-  {
-    "Name": "INF-WP-A1",
-    "Location": "0665",
-    "Description": "Dozent: BTH/MYER",
-    "StartTime": "2024-06-18T12:30:00+02:00",
-    "EndTime": "2024-06-18T15:45:00+02:00"
-  },
-  {
-    "Name": "INF-WP-A1",
-    "Location": "0665",
-    "Description": "Dozent: BTH/MYER",
-    "StartTime": "2024-06-25T12:30:00+02:00",
-    "EndTime": "2024-06-25T15:45:00+02:00"
-  },
-  {
-    "Name": "INF-WP-A1",
-    "Location": "0665",
-    "Description": "Dozent: BTH/MYER",
-    "StartTime": "2024-07-02T12:30:00+02:00",
-    "EndTime": "2024-07-02T15:45:00+02:00"
-  },
-  {
-    "Name": "INF-WP-A1",
-    "Location": "0665",
-    "Description": "Dozent: BTH/MYER",
-    "StartTime": "2024-07-09T12:30:00+02:00",
-    "EndTime": "2024-07-09T15:45:00+02:00"
+    "Description": "Dozent: KHL",
+    "StartTime": "2025-01-21T08:15:00+01:00",
+    "EndTime": "2025-01-21T11:30:00+01:00"
   }
 ]

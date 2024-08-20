@@ -1,30 +1,30 @@
 [
   {
     "Name": "BAI3-DSP/03",
-    "Location": "0380b",
+    "Location": "1165",
     "Description": "Dozent: SCEI?",
-    "StartTime": "2024-04-16T12:30:00+02:00",
-    "EndTime": "2024-04-16T15:45:00+02:00"
+    "StartTime": "2024-11-05T12:30:00+01:00",
+    "EndTime": "2024-11-05T15:45:00+01:00"
   },
   {
     "Name": "BAI3-DSP/03",
-    "Location": "0380b",
+    "Location": "1165",
     "Description": "Dozent: SCEI?",
-    "StartTime": "2024-05-07T12:30:00+02:00",
-    "EndTime": "2024-05-07T15:45:00+02:00"
+    "StartTime": "2024-11-26T12:30:00+01:00",
+    "EndTime": "2024-11-26T15:45:00+01:00"
   },
   {
     "Name": "BAI3-DSP/03",
-    "Location": "0380b",
+    "Location": "1165",
     "Description": "Dozent: SCEI?",
-    "StartTime": "2024-06-04T12:30:00+02:00",
-    "EndTime": "2024-06-04T15:45:00+02:00"
+    "StartTime": "2024-12-17T12:30:00+01:00",
+    "EndTime": "2024-12-17T15:45:00+01:00"
   },
   {
     "Name": "BAI3-DSP/03",
-    "Location": "0380b",
+    "Location": "1165",
     "Description": "Dozent: SCEI?",
-    "StartTime": "2024-06-25T12:30:00+02:00",
-    "EndTime": "2024-06-25T15:45:00+02:00"
+    "StartTime": "2025-01-21T12:30:00+01:00",
+    "EndTime": "2025-01-21T15:45:00+01:00"
   }
 ]

@@ -1,44 +1,44 @@
 [
   {
     "Name": "BAI2-DBP/02",
-    "Location": "1102",
-    "Description": "Dozent: ZKN/[Bro]",
-    "StartTime": "2024-05-03T08:15:00+02:00",
-    "EndTime": "2024-05-03T09:45:00+02:00"
+    "Location": "0380b",
+    "Description": "Dozent: SCH",
+    "StartTime": "2024-11-06T08:15:00+01:00",
+    "EndTime": "2024-11-06T09:45:00+01:00"
   },
   {
     "Name": "BAI2-DBP/02",
-    "Location": "1102",
-    "Description": "Dozent: ZKN/[Bro]",
-    "StartTime": "2024-05-17T08:15:00+02:00",
-    "EndTime": "2024-05-17T09:45:00+02:00"
+    "Location": "0380b",
+    "Description": "Dozent: SCH",
+    "StartTime": "2024-11-20T08:15:00+01:00",
+    "EndTime": "2024-11-20T09:45:00+01:00"
   },
   {
     "Name": "BAI2-DBP/02",
-    "Location": "1102",
-    "Description": "Dozent: ZKN/[Bro]",
-    "StartTime": "2024-05-31T08:15:00+02:00",
-    "EndTime": "2024-05-31T09:45:00+02:00"
+    "Location": "0380b",
+    "Description": "Dozent: SCH",
+    "StartTime": "2024-12-04T08:15:00+01:00",
+    "EndTime": "2024-12-04T09:45:00+01:00"
   },
   {
     "Name": "BAI2-DBP/02",
-    "Location": "1102",
-    "Description": "Dozent: ZKN/[Bro]",
-    "StartTime": "2024-06-14T08:15:00+02:00",
-    "EndTime": "2024-06-14T09:45:00+02:00"
+    "Location": "0380b",
+    "Description": "Dozent: SCH",
+    "StartTime": "2024-12-18T08:15:00+01:00",
+    "EndTime": "2024-12-18T09:45:00+01:00"
   },
   {
     "Name": "BAI2-DBP/02",
-    "Location": "1102",
-    "Description": "Dozent: ZKN/[Bro]",
-    "StartTime": "2024-06-28T08:15:00+02:00",
-    "EndTime": "2024-06-28T09:45:00+02:00"
+    "Location": "0380b",
+    "Description": "Dozent: SCH",
+    "StartTime": "2025-01-15T08:15:00+01:00",
+    "EndTime": "2025-01-15T09:45:00+01:00"
   },
   {
     "Name": "BAI2-DBP/02",
-    "Location": "1102",
-    "Description": "Dozent: ZKN/[Bro]",
-    "StartTime": "2024-07-12T08:15:00+02:00",
-    "EndTime": "2024-07-12T09:45:00+02:00"
+    "Location": "0380b",
+    "Description": "Dozent: SCH",
+    "StartTime": "2025-01-29T08:15:00+01:00",
+    "EndTime": "2025-01-29T09:45:00+01:00"
   }
 ]

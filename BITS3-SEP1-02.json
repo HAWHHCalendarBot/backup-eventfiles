@@ -2,29 +2,29 @@
   {
     "Name": "BITS3-SEP1/02",
     "Location": "0761",
-    "Description": "Dozent: DAI/[Chr]",
-    "StartTime": "2024-05-03T08:15:00+02:00",
-    "EndTime": "2024-05-03T11:30:00+02:00"
+    "Description": "Dozent: SRS/[Chr]",
+    "StartTime": "2024-11-07T08:15:00+01:00",
+    "EndTime": "2024-11-07T11:30:00+01:00"
   },
   {
     "Name": "BITS3-SEP1/02",
     "Location": "0761",
-    "Description": "Dozent: DAI/[Chr]",
-    "StartTime": "2024-05-24T08:15:00+02:00",
-    "EndTime": "2024-05-24T11:30:00+02:00"
+    "Description": "Dozent: SRS/[Chr]",
+    "StartTime": "2024-11-28T08:15:00+01:00",
+    "EndTime": "2024-11-28T11:30:00+01:00"
   },
   {
     "Name": "BITS3-SEP1/02",
     "Location": "0761",
-    "Description": "Dozent: DAI/[Chr]",
-    "StartTime": "2024-06-14T08:15:00+02:00",
-    "EndTime": "2024-06-14T11:30:00+02:00"
+    "Description": "Dozent: SRS/[Chr]",
+    "StartTime": "2024-12-19T08:15:00+01:00",
+    "EndTime": "2024-12-19T11:30:00+01:00"
   },
   {
     "Name": "BITS3-SEP1/02",
     "Location": "0761",
-    "Description": "Dozent: DAI/[Chr]",
-    "StartTime": "2024-07-05T08:15:00+02:00",
-    "EndTime": "2024-07-05T11:30:00+02:00"
+    "Description": "Dozent: SRS/[Chr]",
+    "StartTime": "2025-01-23T08:15:00+01:00",
+    "EndTime": "2025-01-23T11:30:00+01:00"
   }
 ]

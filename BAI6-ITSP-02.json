@@ -2,29 +2,29 @@
   {
     "Name": "BAI6-ITSP/02",
     "Location": "0380b",
-    "Description": "Dozent: HBN",
-    "StartTime": "2024-04-25T12:30:00+02:00",
-    "EndTime": "2024-04-25T15:45:00+02:00"
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-10-24T16:00:00+02:00",
+    "EndTime": "2024-10-24T19:15:00+02:00"
   },
   {
     "Name": "BAI6-ITSP/02",
     "Location": "0380b",
-    "Description": "Dozent: HBN",
-    "StartTime": "2024-05-23T12:30:00+02:00",
-    "EndTime": "2024-05-23T15:45:00+02:00"
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-11-21T16:00:00+01:00",
+    "EndTime": "2024-11-21T19:15:00+01:00"
   },
   {
     "Name": "BAI6-ITSP/02",
     "Location": "0380b",
-    "Description": "Dozent: HBN",
-    "StartTime": "2024-06-13T12:30:00+02:00",
-    "EndTime": "2024-06-13T15:45:00+02:00"
+    "Description": "Dozent: KSS",
+    "StartTime": "2024-12-12T16:00:00+01:00",
+    "EndTime": "2024-12-12T19:15:00+01:00"
   },
   {
     "Name": "BAI6-ITSP/02",
     "Location": "0380b",
-    "Description": "Dozent: HBN",
-    "StartTime": "2024-07-04T12:30:00+02:00",
-    "EndTime": "2024-07-04T15:45:00+02:00"
+    "Description": "Dozent: KSS",
+    "StartTime": "2025-01-16T16:00:00+01:00",
+    "EndTime": "2025-01-16T19:15:00+01:00"
   }
 ]
