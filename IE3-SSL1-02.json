@@ -1,28 +1,21 @@
 [
   {
     "Name": "IE3-SSL1-02",
-    "Location": "1303a, 1303b",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-10-21T12:10:00+02:00",
-    "EndTime": "2024-10-21T15:40:00+02:00"
-  },
-  {
-    "Name": "IE3-SSL1-02",
-    "Location": "1303a, 1303b",
+    "Location": "1360",
     "Description": "Dozent: LHN",
     "StartTime": "2024-11-25T12:10:00+01:00",
     "EndTime": "2024-11-25T15:40:00+01:00"
   },
   {
     "Name": "IE3-SSL1-02",
-    "Location": "1303a, 1303b",
+    "Location": "1360",
     "Description": "Dozent: LHN",
     "StartTime": "2024-12-09T12:10:00+01:00",
     "EndTime": "2024-12-09T15:40:00+01:00"
   },
   {
     "Name": "IE3-SSL1-02",
-    "Location": "1303a, 1303b",
+    "Location": "1360",
     "Description": "Dozent: LHN",
     "StartTime": "2025-01-20T12:10:00+01:00",
     "EndTime": "2025-01-20T15:40:00+01:00"
