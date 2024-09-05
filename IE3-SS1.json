@@ -24,13 +24,6 @@
     "Name": "IE3-SS1",
     "Location": "0560",
     "Description": "Dozent: LHN",
-    "StartTime": "2024-10-30T12:10:00+01:00",
-    "EndTime": "2024-10-30T15:40:00+01:00"
-  },
-  {
-    "Name": "IE3-SS1",
-    "Location": "0560",
-    "Description": "Dozent: LHN",
     "StartTime": "2024-11-06T12:10:00+01:00",
     "EndTime": "2024-11-06T15:40:00+01:00"
   },
@@ -75,5 +68,12 @@
     "Description": "Dozent: LHN",
     "StartTime": "2024-12-18T12:10:00+01:00",
     "EndTime": "2024-12-18T15:40:00+01:00"
+  },
+  {
+    "Name": "IE3-SS1",
+    "Location": "0560",
+    "Description": "Dozent: LHN",
+    "StartTime": "2025-01-08T12:10:00+01:00",
+    "EndTime": "2025-01-08T15:40:00+01:00"
   }
 ]

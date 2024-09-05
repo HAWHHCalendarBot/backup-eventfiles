@@ -10,6 +10,13 @@
     "Name": "E6-MC",
     "Location": "0862",
     "Description": "Dozent: RMS",
+    "StartTime": "2024-10-10T12:10:00+02:00",
+    "EndTime": "2024-10-10T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-MC",
+    "Location": "0862",
+    "Description": "Dozent: RMS",
     "StartTime": "2024-10-16T12:10:00+02:00",
     "EndTime": "2024-10-16T15:40:00+02:00"
   },
@@ -26,13 +33,6 @@
     "Description": "Dozent: RMS",
     "StartTime": "2024-10-30T12:10:00+01:00",
     "EndTime": "2024-10-30T15:40:00+01:00"
-  },
-  {
-    "Name": "E6-MC",
-    "Location": "0862",
-    "Description": "Dozent: RMS",
-    "StartTime": "2024-11-06T12:10:00+01:00",
-    "EndTime": "2024-11-06T15:40:00+01:00"
   },
   {
     "Name": "E6-MC",
