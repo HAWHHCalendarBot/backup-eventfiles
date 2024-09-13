@@ -10,6 +10,13 @@
     "Name": "IE1-MA1",
     "Location": "NB 01.13",
     "Description": "Dozent: NIDR",
+    "StartTime": "2024-10-18T12:10:00+02:00",
+    "EndTime": "2024-10-18T15:40:00+02:00"
+  },
+  {
+    "Name": "IE1-MA1",
+    "Location": "NB 01.13",
+    "Description": "Dozent: NIDR",
     "StartTime": "2024-10-25T12:10:00+02:00",
     "EndTime": "2024-10-25T15:40:00+02:00"
   },
@@ -82,13 +89,6 @@
     "Description": "Dozent: NIDR",
     "StartTime": "2024-12-11T08:10:00+01:00",
     "EndTime": "2024-12-11T11:25:00+01:00"
-  },
-  {
-    "Name": "IE1-MA1",
-    "Location": "NB 01.13",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2024-12-13T12:10:00+01:00",
-    "EndTime": "2024-12-13T15:40:00+01:00"
   },
   {
     "Name": "IE1-MA1",

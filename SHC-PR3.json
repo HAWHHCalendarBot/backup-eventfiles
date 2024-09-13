@@ -1,86 +1,86 @@
 [
   {
     "Name": "SHC-PR3",
+    "Location": "1065",
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-10-08T15:55:00+02:00",
+    "EndTime": "2024-10-08T19:10:00+02:00"
+  },
+  {
+    "Name": "SHC-PR3",
     "Location": "1281",
-    "Description": "Dozent: SHN",
-    "StartTime": "2024-10-10T08:10:00+02:00",
-    "EndTime": "2024-10-10T11:25:00+02:00"
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-10-10T17:15:00+02:00",
+    "EndTime": "2024-10-10T20:30:00+02:00"
   },
   {
     "Name": "SHC-PR3",
     "Location": "1065",
-    "Description": "Dozent: SHN",
-    "StartTime": "2024-10-10T12:10:00+02:00",
-    "EndTime": "2024-10-10T15:40:00+02:00"
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-10-15T15:55:00+02:00",
+    "EndTime": "2024-10-15T19:10:00+02:00"
   },
   {
     "Name": "SHC-PR3",
     "Location": "1281",
-    "Description": "Dozent: SHN",
-    "StartTime": "2024-10-17T08:10:00+02:00",
-    "EndTime": "2024-10-17T11:25:00+02:00"
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-10-17T15:55:00+02:00",
+    "EndTime": "2024-10-17T19:10:00+02:00"
   },
   {
     "Name": "SHC-PR3",
     "Location": "1065",
-    "Description": "Dozent: SHN",
-    "StartTime": "2024-10-17T12:10:00+02:00",
-    "EndTime": "2024-10-17T15:40:00+02:00"
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-10-22T15:55:00+02:00",
+    "EndTime": "2024-10-22T19:10:00+02:00"
   },
   {
     "Name": "SHC-PR3",
     "Location": "1281",
-    "Description": "Dozent: SHN",
-    "StartTime": "2024-10-24T08:10:00+02:00",
-    "EndTime": "2024-10-24T11:25:00+02:00"
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-10-24T15:55:00+02:00",
+    "EndTime": "2024-10-24T19:10:00+02:00"
+  },
+  {
+    "Name": "SHC-PR3",
+    "Location": "1065",
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-10-29T15:55:00+01:00",
+    "EndTime": "2024-10-29T19:10:00+01:00"
+  },
+  {
+    "Name": "SHC-PR3",
+    "Location": "1065",
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-11-05T15:55:00+01:00",
+    "EndTime": "2024-11-05T19:10:00+01:00"
   },
   {
     "Name": "SHC-PR3",
     "Location": "1281",
-    "Description": "Dozent: SHN",
-    "StartTime": "2024-11-14T08:10:00+01:00",
-    "EndTime": "2024-11-14T11:25:00+01:00"
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-11-07T15:55:00+01:00",
+    "EndTime": "2024-11-07T19:10:00+01:00"
   },
   {
     "Name": "SHC-PR3",
     "Location": "1281",
-    "Description": "Dozent: SHN",
-    "StartTime": "2024-11-21T08:10:00+01:00",
-    "EndTime": "2024-11-21T11:25:00+01:00"
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-12-12T15:55:00+01:00",
+    "EndTime": "2024-12-12T19:10:00+01:00"
   },
   {
     "Name": "SHC-PR3",
     "Location": "1281",
-    "Description": "Dozent: SHN",
-    "StartTime": "2024-11-28T08:10:00+01:00",
-    "EndTime": "2024-11-28T11:25:00+01:00"
+    "Description": "Dozent: NN1",
+    "StartTime": "2024-12-19T15:55:00+01:00",
+    "EndTime": "2024-12-19T19:10:00+01:00"
   },
   {
     "Name": "SHC-PR3",
     "Location": "1281",
-    "Description": "Dozent: SHN",
-    "StartTime": "2024-12-12T08:10:00+01:00",
-    "EndTime": "2024-12-12T11:25:00+01:00"
-  },
-  {
-    "Name": "SHC-PR3",
-    "Location": "1281",
-    "Description": "Dozent: SHN",
-    "StartTime": "2024-12-19T08:10:00+01:00",
-    "EndTime": "2024-12-19T11:25:00+01:00"
-  },
-  {
-    "Name": "SHC-PR3",
-    "Location": "1281",
-    "Description": "Dozent: SHN",
-    "StartTime": "2025-01-16T08:10:00+01:00",
-    "EndTime": "2025-01-16T11:25:00+01:00"
-  },
-  {
-    "Name": "SHC-PR3",
-    "Location": "1281",
-    "Description": "Dozent: SHN",
-    "StartTime": "2025-01-23T08:10:00+01:00",
-    "EndTime": "2025-01-23T11:25:00+01:00"
+    "Description": "Dozent: NN1",
+    "StartTime": "2025-01-16T15:55:00+01:00",
+    "EndTime": "2025-01-16T19:10:00+01:00"
   }
 ]

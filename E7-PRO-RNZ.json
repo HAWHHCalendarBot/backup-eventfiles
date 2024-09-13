@@ -10,6 +10,13 @@
     "Name": "E7-PRO-RNZ",
     "Location": "0565",
     "Description": "Dozent: RNZ",
+    "StartTime": "2024-10-18T08:10:00+02:00",
+    "EndTime": "2024-10-18T11:25:00+02:00"
+  },
+  {
+    "Name": "E7-PRO-RNZ",
+    "Location": "0565",
+    "Description": "Dozent: RNZ",
     "StartTime": "2024-10-25T08:10:00+02:00",
     "EndTime": "2024-10-25T11:25:00+02:00"
   },

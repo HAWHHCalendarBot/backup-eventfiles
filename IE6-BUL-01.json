@@ -1,28 +1,28 @@
 [
   {
     "Name": "IE6-BUL-01",
-    "Location": "0801",
+    "Location": "0804, 0865",
     "Description": "Dozent: RTT",
     "StartTime": "2024-10-23T08:10:00+02:00",
     "EndTime": "2024-10-23T11:25:00+02:00"
   },
   {
     "Name": "IE6-BUL-01",
-    "Location": "0801",
+    "Location": "0804, 0865",
     "Description": "Dozent: RTT",
     "StartTime": "2024-11-18T08:10:00+01:00",
     "EndTime": "2024-11-18T11:25:00+01:00"
   },
   {
     "Name": "IE6-BUL-01",
-    "Location": "0801",
+    "Location": "0804, 0865",
     "Description": "Dozent: RTT",
     "StartTime": "2024-12-09T08:10:00+01:00",
     "EndTime": "2024-12-09T11:25:00+01:00"
   },
   {
     "Name": "IE6-BUL-01",
-    "Location": "0801",
+    "Location": "0804, 0865",
     "Description": "Dozent: RTT",
     "StartTime": "2025-01-13T08:10:00+01:00",
     "EndTime": "2025-01-13T11:25:00+01:00"

@@ -10,6 +10,13 @@
     "Name": "E7-WP_WPP-SCZ",
     "Location": "0804",
     "Description": "Dozent: SCZ",
+    "StartTime": "2024-10-18T12:10:00+02:00",
+    "EndTime": "2024-10-18T15:40:00+02:00"
+  },
+  {
+    "Name": "E7-WP_WPP-SCZ",
+    "Location": "0804",
+    "Description": "Dozent: SCZ",
     "StartTime": "2024-10-25T12:10:00+02:00",
     "EndTime": "2024-10-25T15:40:00+02:00"
   },
@@ -61,13 +68,6 @@
     "Description": "Dozent: SCZ",
     "StartTime": "2024-12-06T15:55:00+01:00",
     "EndTime": "2024-12-06T17:25:00+01:00"
-  },
-  {
-    "Name": "E7-WP_WPP-SCZ",
-    "Location": "0804",
-    "Description": "Dozent: SCZ",
-    "StartTime": "2024-12-13T12:10:00+01:00",
-    "EndTime": "2024-12-13T15:40:00+01:00"
   },
   {
     "Name": "E7-WP_WPP-SCZ",

@@ -3,6 +3,13 @@
     "Name": "IE2-EL1",
     "Location": "SteinD94 R0.02",
     "Description": "Dozent: HSE",
+    "StartTime": "2024-10-18T12:10:00+02:00",
+    "EndTime": "2024-10-18T15:40:00+02:00"
+  },
+  {
+    "Name": "IE2-EL1",
+    "Location": "SteinD94 R0.02",
+    "Description": "Dozent: HSE",
     "StartTime": "2024-10-25T12:10:00+02:00",
     "EndTime": "2024-10-25T15:40:00+02:00"
   },
@@ -47,13 +54,6 @@
     "Description": "Dozent: HSE",
     "StartTime": "2024-12-06T12:10:00+01:00",
     "EndTime": "2024-12-06T15:40:00+01:00"
-  },
-  {
-    "Name": "IE2-EL1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: HSE",
-    "StartTime": "2024-12-13T12:10:00+01:00",
-    "EndTime": "2024-12-13T15:40:00+01:00"
   },
   {
     "Name": "IE2-EL1",

@@ -1,31 +1,24 @@
 [
   {
     "Name": "IE2-MA2",
-    "Location": "1060",
-    "Description": "Dozent: NMN",
-    "StartTime": "2024-10-14T12:10:00+02:00",
-    "EndTime": "2024-10-14T15:40:00+02:00"
+    "Location": "Stiftstr69  R106",
+    "Description": "Dozent: DRK",
+    "StartTime": "2024-10-16T08:10:00+02:00",
+    "EndTime": "2024-10-16T11:25:00+02:00"
   },
   {
     "Name": "IE2-MA2",
     "Location": "1060",
-    "Description": "Dozent: NMN",
-    "StartTime": "2024-10-21T12:10:00+02:00",
-    "EndTime": "2024-10-21T15:40:00+02:00"
-  },
-  {
-    "Name": "IE2-MA2",
-    "Location": "1060",
-    "Description": "Dozent: NMN",
+    "Description": "Dozent: DRK",
     "StartTime": "2024-10-22T12:10:00+02:00",
     "EndTime": "2024-10-22T15:40:00+02:00"
   },
   {
     "Name": "IE2-MA2",
-    "Location": "1060",
-    "Description": "Dozent: NMN",
-    "StartTime": "2024-10-28T12:10:00+01:00",
-    "EndTime": "2024-10-28T15:40:00+01:00"
+    "Location": "Stiftstr69  R106",
+    "Description": "Dozent: DRK",
+    "StartTime": "2024-10-30T08:10:00+01:00",
+    "EndTime": "2024-10-30T11:25:00+01:00"
   },
   {
     "Name": "IE2-MA2",
@@ -96,6 +89,13 @@
     "Description": "Dozent: NMN",
     "StartTime": "2024-12-16T12:10:00+01:00",
     "EndTime": "2024-12-16T15:40:00+01:00"
+  },
+  {
+    "Name": "IE2-MA2",
+    "Location": "1060",
+    "Description": "Dozent: NMN",
+    "StartTime": "2024-12-17T12:10:00+01:00",
+    "EndTime": "2024-12-17T15:40:00+01:00"
   },
   {
     "Name": "IE2-MA2",
