@@ -1,6 +1,13 @@
 [
   {
     "Name": "B-REE3-VS",
+    "Location": "0665",
+    "Description": "Dozent: RNZ",
+    "StartTime": "2024-10-08T08:10:00+02:00",
+    "EndTime": "2024-10-08T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE3-VS",
     "Location": "0560",
     "Description": "Dozent: RNZ",
     "StartTime": "2024-10-15T08:10:00+02:00",
@@ -8,17 +15,10 @@
   },
   {
     "Name": "B-REE3-VS",
-    "Location": "0560",
+    "Location": "0665",
     "Description": "Dozent: RNZ",
-    "StartTime": "2024-10-22T08:10:00+02:00",
-    "EndTime": "2024-10-22T11:25:00+02:00"
-  },
-  {
-    "Name": "B-REE3-VS",
-    "Location": "0560",
-    "Description": "Dozent: RNZ",
-    "StartTime": "2024-10-29T08:10:00+01:00",
-    "EndTime": "2024-10-29T11:25:00+01:00"
+    "StartTime": "2024-10-17T12:10:00+02:00",
+    "EndTime": "2024-10-17T15:40:00+02:00"
   },
   {
     "Name": "B-REE3-VS",
