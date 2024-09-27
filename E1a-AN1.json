@@ -1,79 +1,79 @@
 [
   {
     "Name": "E1a-AN1",
-    "Location": "1260",
+    "Location": "SteinD94 R0.01",
     "Description": "Dozent: GTF",
-    "StartTime": "2024-10-16T12:10:00+02:00",
-    "EndTime": "2024-10-16T15:40:00+02:00"
+    "StartTime": "2024-10-14T12:10:00+02:00",
+    "EndTime": "2024-10-14T15:40:00+02:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "1260",
+    "Location": "SteinD94 R0.01",
     "Description": "Dozent: GTF",
-    "StartTime": "2024-10-23T12:10:00+02:00",
-    "EndTime": "2024-10-23T15:40:00+02:00"
+    "StartTime": "2024-10-17T08:10:00+02:00",
+    "EndTime": "2024-10-17T11:25:00+02:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "1260",
+    "Location": "SteinD94 R0.02",
     "Description": "Dozent: GTF",
-    "StartTime": "2024-10-30T12:10:00+01:00",
-    "EndTime": "2024-10-30T15:40:00+01:00"
+    "StartTime": "2024-10-24T12:10:00+02:00",
+    "EndTime": "2024-10-24T15:40:00+02:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "1260",
+    "Location": "SteinD94 R0.02",
     "Description": "Dozent: GTF",
-    "StartTime": "2024-11-06T12:10:00+01:00",
-    "EndTime": "2024-11-06T15:40:00+01:00"
+    "StartTime": "2024-11-07T12:10:00+01:00",
+    "EndTime": "2024-11-07T15:40:00+01:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "1260",
+    "Location": "1001",
     "Description": "Dozent: GTF",
-    "StartTime": "2024-11-13T12:10:00+01:00",
-    "EndTime": "2024-11-13T15:40:00+01:00"
+    "StartTime": "2024-11-11T12:10:00+01:00",
+    "EndTime": "2024-11-11T15:40:00+01:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "1260",
+    "Location": "SteinD94 R0.02",
     "Description": "Dozent: GTF",
-    "StartTime": "2024-11-20T12:10:00+01:00",
-    "EndTime": "2024-11-20T15:40:00+01:00"
+    "StartTime": "2024-11-14T12:10:00+01:00",
+    "EndTime": "2024-11-14T15:40:00+01:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "1260",
+    "Location": "SteinD94 R0.02",
     "Description": "Dozent: GTF",
-    "StartTime": "2024-11-27T12:10:00+01:00",
-    "EndTime": "2024-11-27T15:40:00+01:00"
+    "StartTime": "2024-11-28T12:10:00+01:00",
+    "EndTime": "2024-11-28T15:40:00+01:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "1260",
+    "Location": "SteinD94 R0.02",
     "Description": "Dozent: GTF",
-    "StartTime": "2024-12-04T12:10:00+01:00",
-    "EndTime": "2024-12-04T15:40:00+01:00"
+    "StartTime": "2024-12-12T12:10:00+01:00",
+    "EndTime": "2024-12-12T15:40:00+01:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "1260",
+    "Location": "SteinD94 R0.02",
     "Description": "Dozent: GTF",
-    "StartTime": "2024-12-11T12:10:00+01:00",
-    "EndTime": "2024-12-11T15:40:00+01:00"
+    "StartTime": "2025-01-09T12:10:00+01:00",
+    "EndTime": "2025-01-09T15:40:00+01:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "1260",
+    "Location": "0660",
     "Description": "Dozent: GTF",
-    "StartTime": "2024-12-18T12:10:00+01:00",
-    "EndTime": "2024-12-18T15:40:00+01:00"
+    "StartTime": "2025-01-20T12:10:00+01:00",
+    "EndTime": "2025-01-20T15:40:00+01:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "1260",
+    "Location": "SteinD94 R0.02",
     "Description": "Dozent: GTF",
-    "StartTime": "2025-01-08T12:10:00+01:00",
-    "EndTime": "2025-01-08T15:40:00+01:00"
+    "StartTime": "2025-01-23T12:10:00+01:00",
+    "EndTime": "2025-01-23T15:40:00+01:00"
   }
 ]

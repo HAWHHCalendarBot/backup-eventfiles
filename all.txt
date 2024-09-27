@@ -95,8 +95,12 @@ E1-Studienfachberatung
 E1a-AN1
 E1a-ANUe1-01
 E1a-ANUe1-02
+E1a-ANUe1-03
+E1a-ANUe1-04
 E1a-EK-01
 E1a-EK-02
+E1a-EK-03
+E1a-EK-04
 E1a-ET1
 E1a-ETP1-01
 E1a-ETP1-02
@@ -105,6 +109,8 @@ E1a-ETP1-04
 E1a-LA
 E1a-LAUe-01
 E1a-LAUe-02
+E1a-LAUe-03
+E1a-LAUe-04
 E1a-OE_I
 E1a-PH1
 E1a-PR1
@@ -145,6 +151,7 @@ E3-ELP2-01
 E3-ELP2-02
 E3-ELP2-03
 E3-ELP2-04
+E3-Info
 E3-Laborbes__A_E
 E3-Laborbes__DI
 E3-Laborbes__K

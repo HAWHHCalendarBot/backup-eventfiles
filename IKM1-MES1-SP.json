@@ -8,6 +8,13 @@
   },
   {
     "Name": "IKM1-MES1-SP",
+    "Location": "1465",
+    "Description": "Dozent: LTL",
+    "StartTime": "2024-10-09T12:10:00+02:00",
+    "EndTime": "2024-10-09T15:40:00+02:00"
+  },
+  {
+    "Name": "IKM1-MES1-SP",
     "Location": "1065",
     "Description": "Dozent: LTL",
     "StartTime": "2024-10-15T08:10:00+02:00",
@@ -89,12 +96,5 @@
     "Description": "Dozent: LTL",
     "StartTime": "2025-01-14T08:10:00+01:00",
     "EndTime": "2025-01-14T11:25:00+01:00"
-  },
-  {
-    "Name": "IKM1-MES1-SP",
-    "Location": "1065",
-    "Description": "Dozent: LTL",
-    "StartTime": "2025-01-21T08:10:00+01:00",
-    "EndTime": "2025-01-21T11:25:00+01:00"
   }
 ]
