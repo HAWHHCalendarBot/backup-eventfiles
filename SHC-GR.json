@@ -1,14 +1,14 @@
 [
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1281, 1303a, 1303b",
     "Description": "Dozent: Bruce-Boye",
     "StartTime": "2024-11-13T12:10:00+01:00",
     "EndTime": "2024-11-13T15:40:00+01:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1281, 1303a, 1303b",
     "Description": "Dozent: Bruce-Boye",
     "StartTime": "2024-11-13T15:55:00+01:00",
     "EndTime": "2024-11-13T17:25:00+01:00"
@@ -22,35 +22,35 @@
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1281, 1303a, 1303b, 1365",
     "Description": "Dozent: Bruce-Boye",
     "StartTime": "2024-11-14T15:55:00+01:00",
     "EndTime": "2024-11-14T17:25:00+01:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1281, 1303a, 1303b, 1365",
     "Description": "Dozent: Bruce-Boye",
     "StartTime": "2024-11-15T12:10:00+01:00",
     "EndTime": "2024-11-15T15:40:00+01:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1281, 1303a, 1303b, 1365",
     "Description": "Dozent: Bruce-Boye",
     "StartTime": "2024-11-15T15:55:00+01:00",
     "EndTime": "2024-11-15T17:25:00+01:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1281, 1303a, 1303b",
     "Description": "Dozent: Bruce-Boye",
     "StartTime": "2024-11-20T12:10:00+01:00",
     "EndTime": "2024-11-20T15:40:00+01:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1281, 1303a, 1303b",
     "Description": "Dozent: Bruce-Boye",
     "StartTime": "2024-11-20T15:55:00+01:00",
     "EndTime": "2024-11-20T17:25:00+01:00"
@@ -64,28 +64,28 @@
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1281, 1303a, 1303b, 1365",
     "Description": "Dozent: Bruce-Boye",
     "StartTime": "2024-11-21T15:55:00+01:00",
     "EndTime": "2024-11-21T17:25:00+01:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1281, 1303a, 1303b, 1365",
     "Description": "Dozent: Bruce-Boye",
     "StartTime": "2024-11-22T12:10:00+01:00",
     "EndTime": "2024-11-22T15:40:00+01:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1281, 1303a, 1303b, 1365",
     "Description": "Dozent: Bruce-Boye",
     "StartTime": "2024-11-22T15:55:00+01:00",
     "EndTime": "2024-11-22T17:25:00+01:00"
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1281, 1303a, 1303b",
     "Description": "Dozent: Bruce-Boye",
     "StartTime": "2024-11-27T12:10:00+01:00",
     "EndTime": "2024-11-27T15:40:00+01:00"
@@ -99,7 +99,7 @@
   },
   {
     "Name": "SHC-GR",
-    "Location": "1281",
+    "Location": "1281, 1303a, 1303b, 1365",
     "Description": "Dozent: Bruce-Boye",
     "StartTime": "2024-11-29T12:10:00+01:00",
     "EndTime": "2024-11-29T15:40:00+01:00"

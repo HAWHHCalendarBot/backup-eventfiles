@@ -1,7 +1,7 @@
 [
   {
     "Name": "E2a-b-LP-IE2-LSL",
-    "Location": "NB 01.13",
+    "Location": "BT21 Aula",
     "Description": "",
     "StartTime": "2024-10-07T10:00:00+02:00",
     "EndTime": "2024-10-07T12:00:00+02:00"
@@ -15,28 +15,35 @@
   },
   {
     "Name": "E2a-b-LP-IE2-LSL",
-    "Location": "0501, 0804",
+    "Location": "BT21 Aula",
     "Description": "",
-    "StartTime": "2024-10-08T08:00:00+02:00",
+    "StartTime": "2024-10-08T08:10:00+02:00",
+    "EndTime": "2024-10-08T09:45:00+02:00"
+  },
+  {
+    "Name": "E2a-b-LP-IE2-LSL",
+    "Location": "0501, 0502, 0505, 0801, 0804, 0880",
+    "Description": "",
+    "StartTime": "2024-10-08T10:00:00+02:00",
     "EndTime": "2024-10-08T18:00:00+02:00"
   },
   {
     "Name": "E2a-b-LP-IE2-LSL",
-    "Location": "0502, 0880",
+    "Location": "0501, 0801",
     "Description": "",
     "StartTime": "2024-10-09T08:00:00+02:00",
     "EndTime": "2024-10-09T18:00:00+02:00"
   },
   {
     "Name": "E2a-b-LP-IE2-LSL",
-    "Location": "0505",
+    "Location": "0502, 0804",
     "Description": "",
     "StartTime": "2024-10-10T08:00:00+02:00",
     "EndTime": "2024-10-10T18:00:00+02:00"
   },
   {
     "Name": "E2a-b-LP-IE2-LSL",
-    "Location": "0801",
+    "Location": "0505, 0880",
     "Description": "",
     "StartTime": "2024-10-11T08:00:00+02:00",
     "EndTime": "2024-10-11T18:00:00+02:00"

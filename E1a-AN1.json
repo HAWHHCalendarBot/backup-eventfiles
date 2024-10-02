@@ -1,28 +1,28 @@
 [
   {
     "Name": "E1a-AN1",
-    "Location": "SteinD94 R0.01",
+    "Location": "1060",
     "Description": "Dozent: GTF",
-    "StartTime": "2024-10-14T12:10:00+02:00",
-    "EndTime": "2024-10-14T15:40:00+02:00"
+    "StartTime": "2024-10-15T12:10:00+02:00",
+    "EndTime": "2024-10-15T15:40:00+02:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "SteinD94 R0.01",
+    "Location": "0405",
     "Description": "Dozent: GTF",
     "StartTime": "2024-10-17T08:10:00+02:00",
     "EndTime": "2024-10-17T11:25:00+02:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "SteinD94 R0.02",
+    "Location": "1060",
     "Description": "Dozent: GTF",
     "StartTime": "2024-10-24T12:10:00+02:00",
     "EndTime": "2024-10-24T15:40:00+02:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "SteinD94 R0.02",
+    "Location": "1060",
     "Description": "Dozent: GTF",
     "StartTime": "2024-11-07T12:10:00+01:00",
     "EndTime": "2024-11-07T15:40:00+01:00"
@@ -36,28 +36,28 @@
   },
   {
     "Name": "E1a-AN1",
-    "Location": "SteinD94 R0.02",
+    "Location": "1060",
     "Description": "Dozent: GTF",
     "StartTime": "2024-11-14T12:10:00+01:00",
     "EndTime": "2024-11-14T15:40:00+01:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "SteinD94 R0.02",
+    "Location": "1060",
     "Description": "Dozent: GTF",
     "StartTime": "2024-11-28T12:10:00+01:00",
     "EndTime": "2024-11-28T15:40:00+01:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "SteinD94 R0.02",
+    "Location": "1060",
     "Description": "Dozent: GTF",
     "StartTime": "2024-12-12T12:10:00+01:00",
     "EndTime": "2024-12-12T15:40:00+01:00"
   },
   {
     "Name": "E1a-AN1",
-    "Location": "SteinD94 R0.02",
+    "Location": "1060",
     "Description": "Dozent: GTF",
     "StartTime": "2025-01-09T12:10:00+01:00",
     "EndTime": "2025-01-09T15:40:00+01:00"
@@ -71,7 +71,7 @@
   },
   {
     "Name": "E1a-AN1",
-    "Location": "SteinD94 R0.02",
+    "Location": "1060",
     "Description": "Dozent: GTF",
     "StartTime": "2025-01-23T12:10:00+01:00",
     "EndTime": "2025-01-23T15:40:00+01:00"
