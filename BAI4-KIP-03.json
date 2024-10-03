@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI4-KIP/03",
+    "Location": "1102",
+    "Description": "Dozent: DHL",
+    "StartTime": "2024-11-05T12:30:00+01:00",
+    "EndTime": "2024-11-05T15:45:00+01:00"
+  },
+  {
+    "Name": "BAI4-KIP/03",
+    "Location": "1102",
+    "Description": "Dozent: DHL",
+    "StartTime": "2024-11-26T12:30:00+01:00",
+    "EndTime": "2024-11-26T15:45:00+01:00"
+  },
+  {
+    "Name": "BAI4-KIP/03",
+    "Location": "1102",
+    "Description": "Dozent: DHL",
+    "StartTime": "2024-12-17T12:30:00+01:00",
+    "EndTime": "2024-12-17T15:45:00+01:00"
+  },
+  {
+    "Name": "BAI4-KIP/03",
+    "Location": "1102",
+    "Description": "Dozent: DHL",
+    "StartTime": "2025-01-21T12:30:00+01:00",
+    "EndTime": "2025-01-21T15:45:00+01:00"
+  }
+]

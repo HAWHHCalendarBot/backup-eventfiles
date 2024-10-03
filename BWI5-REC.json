@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "BWI5-REC",
+    "Location": "0665",
+    "Description": "Dozent: BRLL",
+    "StartTime": "2024-11-08T08:15:00+01:00",
+    "EndTime": "2024-11-08T11:30:00+01:00"
+  },
+  {
+    "Name": "BWI5-REC",
+    "Location": "0665",
+    "Description": "Dozent: BRLL",
+    "StartTime": "2024-11-22T08:15:00+01:00",
+    "EndTime": "2024-11-22T11:30:00+01:00"
+  },
+  {
+    "Name": "BWI5-REC",
+    "Location": "0665",
+    "Description": "Dozent: BRLL",
+    "StartTime": "2024-12-06T08:15:00+01:00",
+    "EndTime": "2024-12-06T11:30:00+01:00"
+  },
+  {
+    "Name": "BWI5-REC",
+    "Location": "0665",
+    "Description": "Dozent: BRLL",
+    "StartTime": "2024-12-20T08:15:00+01:00",
+    "EndTime": "2024-12-20T11:30:00+01:00"
+  },
+  {
+    "Name": "BWI5-REC",
+    "Location": "0665",
+    "Description": "Dozent: BRLL",
+    "StartTime": "2025-01-17T08:15:00+01:00",
+    "EndTime": "2025-01-17T11:30:00+01:00"
+  },
+  {
+    "Name": "BWI5-REC",
+    "Location": "0665",
+    "Description": "Dozent: BRLL",
+    "StartTime": "2025-01-31T08:15:00+01:00",
+    "EndTime": "2025-01-31T11:30:00+01:00"
+  }
+]

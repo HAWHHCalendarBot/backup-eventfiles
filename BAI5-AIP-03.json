@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI5-AIP/03",
+    "Location": "1101b",
+    "Description": "Dozent: HMN",
+    "StartTime": "2024-11-14T08:15:00+01:00",
+    "EndTime": "2024-11-14T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI5-AIP/03",
+    "Location": "1101b",
+    "Description": "Dozent: HMN",
+    "StartTime": "2024-12-05T08:15:00+01:00",
+    "EndTime": "2024-12-05T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI5-AIP/03",
+    "Location": "1101b",
+    "Description": "Dozent: HMN",
+    "StartTime": "2025-01-09T08:15:00+01:00",
+    "EndTime": "2025-01-09T11:30:00+01:00"
+  },
+  {
+    "Name": "BAI5-AIP/03",
+    "Location": "1101b",
+    "Description": "Dozent: HMN",
+    "StartTime": "2025-01-30T08:15:00+01:00",
+    "EndTime": "2025-01-30T11:30:00+01:00"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI2-PMP2/03",
+    "Location": "1101b",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2024-11-06T12:30:00+01:00",
+    "EndTime": "2024-11-06T15:45:00+01:00"
+  },
+  {
+    "Name": "BAI2-PMP2/03",
+    "Location": "1101b",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2024-11-27T12:30:00+01:00",
+    "EndTime": "2024-11-27T15:45:00+01:00"
+  },
+  {
+    "Name": "BAI2-PMP2/03",
+    "Location": "1101b",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2024-12-18T12:30:00+01:00",
+    "EndTime": "2024-12-18T15:45:00+01:00"
+  },
+  {
+    "Name": "BAI2-PMP2/03",
+    "Location": "1101b",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2025-01-22T12:30:00+01:00",
+    "EndTime": "2025-01-22T15:45:00+01:00"
+  }
+]

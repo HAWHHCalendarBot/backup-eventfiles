@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "GW HLLS",
+    "Location": "1486",
+    "Description": "Dozent: HLLS",
+    "StartTime": "2024-10-12T10:00:00+02:00",
+    "EndTime": "2024-10-12T17:30:00+02:00"
+  },
+  {
+    "Name": "GW HLLS",
+    "Location": "1486",
+    "Description": "Dozent: HLLS",
+    "StartTime": "2024-10-26T10:00:00+02:00",
+    "EndTime": "2024-10-26T17:30:00+02:00"
+  },
+  {
+    "Name": "GW HLLS",
+    "Location": "1283",
+    "Description": "Dozent: HLLS",
+    "StartTime": "2024-11-23T10:00:00+01:00",
+    "EndTime": "2024-11-23T17:30:00+01:00"
+  },
+  {
+    "Name": "GW HLLS",
+    "Location": "1486",
+    "Description": "Dozent: HLLS",
+    "StartTime": "2024-11-30T10:00:00+01:00",
+    "EndTime": "2024-11-30T17:30:00+01:00"
+  },
+  {
+    "Name": "GW HLLS",
+    "Location": "1283",
+    "Description": "Dozent: HLLS",
+    "StartTime": "2025-01-11T10:00:00+01:00",
+    "EndTime": "2025-01-11T17:30:00+01:00"
+  },
+  {
+    "Name": "GW HLLS",
+    "Location": "1283",
+    "Description": "Dozent: HLLS",
+    "StartTime": "2025-01-18T10:00:00+01:00",
+    "EndTime": "2025-01-18T17:30:00+01:00"
+  }
+]
