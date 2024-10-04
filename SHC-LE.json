@@ -1,13 +1,6 @@
 [
   {
     "Name": "SHC-LE",
-    "Location": "1260",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2024-09-13T09:30:00+02:00",
-    "EndTime": "2024-09-13T13:00:00+02:00"
-  },
-  {
-    "Name": "SHC-LE",
     "Location": "1065",
     "Description": "Dozent: GNZ",
     "StartTime": "2024-10-07T08:10:00+02:00",

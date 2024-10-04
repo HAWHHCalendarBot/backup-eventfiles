@@ -1,41 +1,6 @@
 [
   {
     "Name": "SHC-DE-01",
-    "Location": "1281",
-    "Description": "Dozent: Kruk",
-    "StartTime": "2024-09-09T14:15:00+02:00",
-    "EndTime": "2024-09-09T17:45:00+02:00"
-  },
-  {
-    "Name": "SHC-DE-01",
-    "Location": "1281",
-    "Description": "Dozent: Kruk",
-    "StartTime": "2024-09-16T14:15:00+02:00",
-    "EndTime": "2024-09-16T17:45:00+02:00"
-  },
-  {
-    "Name": "SHC-DE-01",
-    "Location": "1281",
-    "Description": "Dozent: Kruk",
-    "StartTime": "2024-09-17T14:15:00+02:00",
-    "EndTime": "2024-09-17T17:45:00+02:00"
-  },
-  {
-    "Name": "SHC-DE-01",
-    "Location": "1281",
-    "Description": "Dozent: Kruk",
-    "StartTime": "2024-09-18T14:15:00+02:00",
-    "EndTime": "2024-09-18T17:45:00+02:00"
-  },
-  {
-    "Name": "SHC-DE-01",
-    "Location": "1281",
-    "Description": "Dozent: Kruk",
-    "StartTime": "2024-09-20T14:15:00+02:00",
-    "EndTime": "2024-09-20T17:45:00+02:00"
-  },
-  {
-    "Name": "SHC-DE-01",
     "Location": "1065",
     "Description": "Dozent: Kruk",
     "StartTime": "2024-10-07T14:30:00+02:00",
