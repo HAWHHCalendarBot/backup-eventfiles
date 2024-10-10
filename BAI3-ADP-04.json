@@ -1,29 +1,29 @@
 [
   {
-    "Name": "BWI3-ADP/02",
-    "Location": "0380a",
-    "Description": "Dozent: KLC",
+    "Name": "BAI3-ADP/04",
+    "Location": "0380b",
+    "Description": "Dozent: [Bla]",
     "StartTime": "2024-11-07T08:15:00+01:00",
     "EndTime": "2024-11-07T11:30:00+01:00"
   },
   {
-    "Name": "BWI3-ADP/02",
-    "Location": "0380a",
-    "Description": "Dozent: KLC",
+    "Name": "BAI3-ADP/04",
+    "Location": "0380b",
+    "Description": "Dozent: [Bla]",
     "StartTime": "2024-11-28T08:15:00+01:00",
     "EndTime": "2024-11-28T11:30:00+01:00"
   },
   {
-    "Name": "BWI3-ADP/02",
-    "Location": "0380a",
-    "Description": "Dozent: KLC",
+    "Name": "BAI3-ADP/04",
+    "Location": "0380b",
+    "Description": "Dozent: [Bla]",
     "StartTime": "2024-12-19T08:15:00+01:00",
     "EndTime": "2024-12-19T11:30:00+01:00"
   },
   {
-    "Name": "BWI3-ADP/02",
-    "Location": "0380a",
-    "Description": "Dozent: KLC",
+    "Name": "BAI3-ADP/04",
+    "Location": "0380b",
+    "Description": "Dozent: [Bla]",
     "StartTime": "2025-01-23T08:15:00+01:00",
     "EndTime": "2025-01-23T11:30:00+01:00"
   }

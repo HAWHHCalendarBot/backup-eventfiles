@@ -3,6 +3,13 @@
     "Name": "BAI2-DBP/01",
     "Location": "0380b",
     "Description": "Dozent: SCH",
+    "StartTime": "2024-10-16T08:15:00+02:00",
+    "EndTime": "2024-10-16T09:45:00+02:00"
+  },
+  {
+    "Name": "BAI2-DBP/01",
+    "Location": "0380b",
+    "Description": "Dozent: SCH",
     "StartTime": "2024-10-30T08:15:00+01:00",
     "EndTime": "2024-10-30T09:45:00+01:00"
   },
