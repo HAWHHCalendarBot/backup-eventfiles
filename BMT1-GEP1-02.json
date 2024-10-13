@@ -1,20 +1,27 @@
 [
   {
-    "Name": "BMT1-GEP1/02",
+    "Name": "BMT1-GEP1-02",
+    "Location": "0501",
+    "Description": "Dozent: WGM/WTMR",
+    "StartTime": "2024-10-28T08:10:00+01:00",
+    "EndTime": "2024-10-28T11:25:00+01:00"
+  },
+  {
+    "Name": "BMT1-GEP1-02",
     "Location": "0501",
     "Description": "Dozent: WGM/WTMR",
     "StartTime": "2024-11-18T08:10:00+01:00",
     "EndTime": "2024-11-18T11:25:00+01:00"
   },
   {
-    "Name": "BMT1-GEP1/02",
+    "Name": "BMT1-GEP1-02",
     "Location": "0501",
     "Description": "Dozent: WGM/WTMR",
     "StartTime": "2024-12-09T08:10:00+01:00",
     "EndTime": "2024-12-09T11:25:00+01:00"
   },
   {
-    "Name": "BMT1-GEP1/02",
+    "Name": "BMT1-GEP1-02",
     "Location": "0501",
     "Description": "Dozent: WGM/WTMR",
     "StartTime": "2025-01-13T08:10:00+01:00",
