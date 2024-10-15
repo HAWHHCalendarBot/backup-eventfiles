@@ -1,13 +1,6 @@
 [
   {
     "Name": "SHC-LEP-02",
-    "Location": "0501",
-    "Description": "Dozent: [Pot]",
-    "StartTime": "2024-09-26T12:10:00+02:00",
-    "EndTime": "2024-09-26T15:40:00+02:00"
-  },
-  {
-    "Name": "SHC-LEP-02",
     "Location": "0301",
     "Description": "Dozent: GNZ/[Pot]",
     "StartTime": "2024-10-23T12:10:00+02:00",
