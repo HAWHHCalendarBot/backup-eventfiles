@@ -15,10 +15,24 @@
   },
   {
     "Name": "E6-EN",
+    "Location": "0660",
+    "Description": "Dozent: WNK",
+    "StartTime": "2024-10-14T08:10:00+02:00",
+    "EndTime": "2024-10-14T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-EN",
     "Location": "1260",
     "Description": "Dozent: WNK",
     "StartTime": "2024-10-16T08:10:00+02:00",
     "EndTime": "2024-10-16T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-EN",
+    "Location": "0660",
+    "Description": "Dozent: WNK",
+    "StartTime": "2024-10-21T08:10:00+02:00",
+    "EndTime": "2024-10-21T11:25:00+02:00"
   },
   {
     "Name": "E6-EN",
@@ -59,7 +73,21 @@
     "Name": "E6-EN",
     "Location": "1260",
     "Description": "Dozent: WNK",
-    "StartTime": "2024-11-27T08:10:00+01:00",
-    "EndTime": "2024-11-27T11:25:00+01:00"
+    "StartTime": "2024-12-04T08:10:00+01:00",
+    "EndTime": "2024-12-04T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-EN",
+    "Location": "1260",
+    "Description": "Dozent: WNK",
+    "StartTime": "2024-12-11T08:10:00+01:00",
+    "EndTime": "2024-12-11T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-EN",
+    "Location": "1260",
+    "Description": "Dozent: WNK",
+    "StartTime": "2025-01-08T08:10:00+01:00",
+    "EndTime": "2025-01-08T11:25:00+01:00"
   }
 ]

@@ -22,6 +22,13 @@
   },
   {
     "Name": "IE6-OS",
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: GRS",
+    "StartTime": "2024-11-05T12:10:00+01:00",
+    "EndTime": "2024-11-05T15:40:00+01:00"
+  },
+  {
+    "Name": "IE6-OS",
     "Location": "1465",
     "Description": "Dozent: GRS",
     "StartTime": "2024-11-12T08:10:00+01:00",
@@ -36,10 +43,10 @@
   },
   {
     "Name": "IE6-OS",
-    "Location": "1465",
+    "Location": "Stiftstr69  R110",
     "Description": "Dozent: GRS",
-    "StartTime": "2024-11-26T08:10:00+01:00",
-    "EndTime": "2024-11-26T11:25:00+01:00"
+    "StartTime": "2024-11-26T12:10:00+01:00",
+    "EndTime": "2024-11-26T15:40:00+01:00"
   },
   {
     "Name": "IE6-OS",
@@ -54,13 +61,6 @@
     "Description": "Dozent: GRS",
     "StartTime": "2024-12-10T08:10:00+01:00",
     "EndTime": "2024-12-10T11:25:00+01:00"
-  },
-  {
-    "Name": "IE6-OS",
-    "Location": "1465",
-    "Description": "Dozent: GRS",
-    "StartTime": "2024-12-17T08:10:00+01:00",
-    "EndTime": "2024-12-17T11:25:00+01:00"
   },
   {
     "Name": "IE6-OS",

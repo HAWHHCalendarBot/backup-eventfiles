@@ -50,7 +50,7 @@
   },
   {
     "Name": "E1a-ET1",
-    "Location": "SteinD94 R0.02",
+    "Location": "1060",
     "Description": "Dozent: LHN",
     "StartTime": "2024-11-21T12:10:00+01:00",
     "EndTime": "2024-11-21T15:40:00+01:00"
@@ -71,7 +71,7 @@
   },
   {
     "Name": "E1a-ET1",
-    "Location": "SteinD94 R0.02",
+    "Location": "1060",
     "Description": "Dozent: LHN",
     "StartTime": "2024-12-05T12:10:00+01:00",
     "EndTime": "2024-12-05T15:40:00+01:00"
@@ -92,7 +92,7 @@
   },
   {
     "Name": "E1a-ET1",
-    "Location": "SteinD94 R0.02",
+    "Location": "1060",
     "Description": "Dozent: LHN",
     "StartTime": "2024-12-19T12:10:00+01:00",
     "EndTime": "2024-12-19T15:40:00+01:00"
@@ -113,7 +113,7 @@
   },
   {
     "Name": "E1a-ET1",
-    "Location": "SteinD94 R0.02",
+    "Location": "1060",
     "Description": "Dozent: LHN",
     "StartTime": "2025-01-16T12:10:00+01:00",
     "EndTime": "2025-01-16T15:40:00+01:00"
