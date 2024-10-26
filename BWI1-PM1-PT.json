@@ -3,6 +3,20 @@
     "Name": "BWI1-PM1/PT",
     "Location": "SteinD94 R0.01",
     "Description": "Dozent: SML",
+    "StartTime": "2024-10-14T10:00:00+02:00",
+    "EndTime": "2024-10-14T13:15:00+02:00"
+  },
+  {
+    "Name": "BWI1-PM1/PT",
+    "Location": "SteinD94 R0.01",
+    "Description": "Dozent: SML",
+    "StartTime": "2024-10-16T12:30:00+02:00",
+    "EndTime": "2024-10-16T15:45:00+02:00"
+  },
+  {
+    "Name": "BWI1-PM1/PT",
+    "Location": "SteinD94 R0.01",
+    "Description": "Dozent: SML",
     "StartTime": "2024-10-21T10:00:00+02:00",
     "EndTime": "2024-10-21T13:15:00+02:00"
   },

@@ -3,41 +3,6 @@
     "Name": "BWI1-PTP Gruppen 01-04",
     "Location": "0380a",
     "Description": "Dozent: SML/SHF/[Bla]/[Kas]",
-    "StartTime": "2024-10-15T08:00:00+02:00",
-    "EndTime": "2024-10-15T12:30:00+02:00"
-  },
-  {
-    "Name": "BWI1-PTP Gruppen 01-04",
-    "Location": "0380a, 0380b, 1101a, 1101b",
-    "Description": "Dozent: SML/SHF/[Bla]/[Kas]",
-    "StartTime": "2024-10-15T08:00:00+02:00",
-    "EndTime": "2024-10-15T12:30:00+02:00"
-  },
-  {
-    "Name": "BWI1-PTP Gruppen 01-04",
-    "Location": "0380b",
-    "Description": "Dozent: SML/SHF/[Bla]/[Kas]",
-    "StartTime": "2024-10-15T08:00:00+02:00",
-    "EndTime": "2024-10-15T12:30:00+02:00"
-  },
-  {
-    "Name": "BWI1-PTP Gruppen 01-04",
-    "Location": "1101a",
-    "Description": "Dozent: SML/SHF/[Bla]/[Kas]",
-    "StartTime": "2024-10-15T08:00:00+02:00",
-    "EndTime": "2024-10-15T12:30:00+02:00"
-  },
-  {
-    "Name": "BWI1-PTP Gruppen 01-04",
-    "Location": "1101b",
-    "Description": "Dozent: SML/SHF/[Bla]/[Kas]",
-    "StartTime": "2024-10-15T08:00:00+02:00",
-    "EndTime": "2024-10-15T12:30:00+02:00"
-  },
-  {
-    "Name": "BWI1-PTP Gruppen 01-04",
-    "Location": "0380a",
-    "Description": "Dozent: SML/SHF/[Bla]/[Kas]",
     "StartTime": "2024-10-22T08:00:00+02:00",
     "EndTime": "2024-10-22T12:30:00+02:00"
   },
