@@ -50,6 +50,13 @@
   },
   {
     "Name": "IE4-MC",
+    "Location": "1001",
+    "Description": "Dozent: BCZ",
+    "StartTime": "2024-11-20T12:10:00+01:00",
+    "EndTime": "2024-11-20T15:40:00+01:00"
+  },
+  {
+    "Name": "IE4-MC",
     "Location": "Stiftstr69  R106",
     "Description": "Dozent: BCZ",
     "StartTime": "2024-11-26T12:10:00+01:00",
