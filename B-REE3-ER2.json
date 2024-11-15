@@ -57,14 +57,14 @@
   },
   {
     "Name": "B-REE3-ER2",
-    "Location": "0861, SteinD94 R0.02",
+    "Location": "0861",
     "Description": "Dozent: RTH",
     "StartTime": "2024-11-13T08:10:00+01:00",
     "EndTime": "2024-11-13T11:25:00+01:00"
   },
   {
     "Name": "B-REE3-ER2",
-    "Location": "0861, SteinD94 R0.02",
+    "Location": "0861",
     "Description": "Dozent: RTH",
     "StartTime": "2024-12-04T08:10:00+01:00",
     "EndTime": "2024-12-04T11:25:00+01:00"
@@ -78,7 +78,7 @@
   },
   {
     "Name": "B-REE3-ER2",
-    "Location": "0861, SteinD94 R0.02",
+    "Location": "0861",
     "Description": "Dozent: RTH",
     "StartTime": "2024-12-18T08:10:00+01:00",
     "EndTime": "2024-12-18T11:25:00+01:00"

@@ -17,6 +17,13 @@
     "Name": "IE1-LSE1-01",
     "Location": "1283",
     "Description": "Dozent: MCCB",
+    "StartTime": "2024-11-28T08:10:00+01:00",
+    "EndTime": "2024-11-28T11:25:00+01:00"
+  },
+  {
+    "Name": "IE1-LSE1-01",
+    "Location": "1283",
+    "Description": "Dozent: MCCB",
     "StartTime": "2024-11-28T12:10:00+01:00",
     "EndTime": "2024-11-28T15:40:00+01:00"
   },
