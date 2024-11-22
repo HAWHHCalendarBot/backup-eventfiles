@@ -43,6 +43,13 @@
   },
   {
     "Name": "E3-TE-03",
+    "Location": "1360",
+    "Description": "Dozent: KENN",
+    "StartTime": "2024-11-25T16:00:00+01:00",
+    "EndTime": "2024-11-25T17:30:00+01:00"
+  },
+  {
+    "Name": "E3-TE-03",
     "Location": "1065",
     "Description": "Dozent: KENN",
     "StartTime": "2024-11-27T08:10:00+01:00",

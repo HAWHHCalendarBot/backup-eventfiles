@@ -29,6 +29,20 @@
   },
   {
     "Name": "SHC-EA",
+    "Location": "1281",
+    "Description": "Dozent: VPL/[Pot]",
+    "StartTime": "2024-11-28T09:55:00+01:00",
+    "EndTime": "2024-11-28T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-EA",
+    "Location": "1465",
+    "Description": "Dozent: VPL/[Pot]",
+    "StartTime": "2024-11-29T09:55:00+01:00",
+    "EndTime": "2024-11-29T11:25:00+01:00"
+  },
+  {
+    "Name": "SHC-EA",
     "Location": "1065",
     "Description": "Dozent: VPL",
     "StartTime": "2024-12-02T08:10:00+01:00",

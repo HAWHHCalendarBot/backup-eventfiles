@@ -82,5 +82,12 @@
     "Description": "Dozent: GNZ",
     "StartTime": "2024-11-12T12:10:00+01:00",
     "EndTime": "2024-11-12T15:40:00+01:00"
+  },
+  {
+    "Name": "SHC-LE",
+    "Location": "1060",
+    "Description": "Dozent: GNZ",
+    "StartTime": "2024-12-06T08:10:00+01:00",
+    "EndTime": "2024-12-06T11:25:00+01:00"
   }
 ]

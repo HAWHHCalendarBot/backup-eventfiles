@@ -57,14 +57,14 @@
   },
   {
     "Name": "IE6-OS",
-    "Location": "1465",
+    "Location": "1301a, 1301b, 1303a, 1303b",
     "Description": "Dozent: GRS",
     "StartTime": "2024-12-10T08:10:00+01:00",
     "EndTime": "2024-12-10T11:25:00+01:00"
   },
   {
     "Name": "IE6-OS",
-    "Location": "1465",
+    "Location": "1301a, 1301b, 1303a, 1303b",
     "Description": "Dozent: GRS",
     "StartTime": "2025-01-07T08:10:00+01:00",
     "EndTime": "2025-01-07T11:25:00+01:00"

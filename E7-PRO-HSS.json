@@ -66,6 +66,13 @@
     "Name": "E7-PRO-HSS",
     "Location": "1065",
     "Description": "Dozent: HSS",
+    "StartTime": "2024-12-13T08:10:00+01:00",
+    "EndTime": "2024-12-13T11:25:00+01:00"
+  },
+  {
+    "Name": "E7-PRO-HSS",
+    "Location": "1065",
+    "Description": "Dozent: HSS",
     "StartTime": "2024-12-20T08:10:00+01:00",
     "EndTime": "2024-12-20T11:25:00+01:00"
   },
@@ -75,13 +82,6 @@
     "Description": "Dozent: HSS",
     "StartTime": "2025-01-10T08:10:00+01:00",
     "EndTime": "2025-01-10T11:25:00+01:00"
-  },
-  {
-    "Name": "E7-PRO-HSS",
-    "Location": "1065",
-    "Description": "Dozent: HSS",
-    "StartTime": "2025-01-17T08:10:00+01:00",
-    "EndTime": "2025-01-17T11:25:00+01:00"
   },
   {
     "Name": "E7-PRO-HSS",

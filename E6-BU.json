@@ -50,28 +50,28 @@
   },
   {
     "Name": "E6-BU",
-    "Location": "0801",
+    "Location": "0801, 0861",
     "Description": "Dozent: FTZ",
     "StartTime": "2024-12-05T15:55:00+01:00",
     "EndTime": "2024-12-05T19:10:00+01:00"
   },
   {
     "Name": "E6-BU",
-    "Location": "0801",
+    "Location": "0801, 0861",
     "Description": "Dozent: FTZ",
     "StartTime": "2024-12-12T15:55:00+01:00",
     "EndTime": "2024-12-12T19:10:00+01:00"
   },
   {
     "Name": "E6-BU",
-    "Location": "0801",
+    "Location": "0801, 0861",
     "Description": "Dozent: FTZ",
     "StartTime": "2025-01-09T15:55:00+01:00",
     "EndTime": "2025-01-09T19:10:00+01:00"
   },
   {
     "Name": "E6-BU",
-    "Location": "0801",
+    "Location": "0801, 0861",
     "Description": "Dozent: FTZ",
     "StartTime": "2025-01-16T15:55:00+01:00",
     "EndTime": "2025-01-16T19:10:00+01:00"
