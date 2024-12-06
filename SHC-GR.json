@@ -103,5 +103,12 @@
     "Description": "Dozent: Bruce-Boye",
     "StartTime": "2024-11-29T12:10:00+01:00",
     "EndTime": "2024-11-29T15:40:00+01:00"
+  },
+  {
+    "Name": "SHC-GR",
+    "Location": "1283, 1303a, 1303b",
+    "Description": "Dozent: Bruce-Boye",
+    "StartTime": "2024-12-20T10:00:00+01:00",
+    "EndTime": "2024-12-20T12:00:00+01:00"
   }
 ]
