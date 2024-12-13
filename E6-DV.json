@@ -75,5 +75,19 @@
     "Description": "Dozent: VLM",
     "StartTime": "2024-12-16T08:10:00+01:00",
     "EndTime": "2024-12-16T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-DV",
+    "Location": "1401",
+    "Description": "Dozent: VLM",
+    "StartTime": "2025-01-06T08:10:00+01:00",
+    "EndTime": "2025-01-06T11:25:00+01:00"
+  },
+  {
+    "Name": "E6-DV",
+    "Location": "1401",
+    "Description": "Dozent: VLM",
+    "StartTime": "2025-01-13T08:10:00+01:00",
+    "EndTime": "2025-01-13T11:25:00+01:00"
   }
 ]
