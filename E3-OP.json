@@ -75,5 +75,12 @@
     "Description": "Dozent: DRK",
     "StartTime": "2025-01-08T12:10:00+01:00",
     "EndTime": "2025-01-08T15:40:00+01:00"
+  },
+  {
+    "Name": "E3-OP",
+    "Location": "0660",
+    "Description": "Dozent: DRK",
+    "StartTime": "2025-01-15T12:10:00+01:00",
+    "EndTime": "2025-01-15T15:40:00+01:00"
   }
 ]

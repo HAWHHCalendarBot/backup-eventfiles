@@ -36,14 +36,14 @@
   },
   {
     "Name": "IE1-LSE1-01",
-    "Location": "1283",
+    "Location": "1281, 1283",
     "Description": "Dozent: MCCB",
     "StartTime": "2025-01-09T12:10:00+01:00",
     "EndTime": "2025-01-09T15:40:00+01:00"
   },
   {
     "Name": "IE1-LSE1-01",
-    "Location": "1283",
+    "Location": "1281, 1283",
     "Description": "Dozent: MCCB",
     "StartTime": "2025-01-23T12:10:00+01:00",
     "EndTime": "2025-01-23T15:40:00+01:00"
