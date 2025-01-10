@@ -75,5 +75,12 @@
     "Description": "Dozent: ERD",
     "StartTime": "2025-01-06T08:10:00+01:00",
     "EndTime": "2025-01-06T11:25:00+01:00"
+  },
+  {
+    "Name": "E4-RT",
+    "Location": "1060",
+    "Description": "Dozent: ERD",
+    "StartTime": "2025-01-24T12:10:00+01:00",
+    "EndTime": "2025-01-24T15:40:00+01:00"
   }
 ]
