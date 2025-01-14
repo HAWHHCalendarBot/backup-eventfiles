@@ -1,5 +1,19 @@
 [
   {
+    "Name": "BMT3-DTP-02",
+    "Location": "0801",
+    "Description": "Dozent: BHRW/SHRR/[Zein]",
+    "StartTime": "2024-10-24T08:10:00+02:00",
+    "EndTime": "2024-10-24T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT3-DTP-02",
+    "Location": "0801",
+    "Description": "Dozent: BHRW/SHRR/[Zein]",
+    "StartTime": "2024-11-21T08:10:00+01:00",
+    "EndTime": "2024-11-21T11:25:00+01:00"
+  },
+  {
     "Name": "BMT3-DTP/02",
     "Location": "0801",
     "Description": "Dozent: BHRW/SHRR/[Zein]",
@@ -12,6 +26,20 @@
     "Description": "Dozent: BHRW/SHRR/[Zein]",
     "StartTime": "2024-12-12T08:10:00+01:00",
     "EndTime": "2024-12-12T11:25:00+01:00"
+  },
+  {
+    "Name": "BMT3-DTP-02",
+    "Location": "0801",
+    "Description": "Dozent: BHRW/SHRR/[Zein]",
+    "StartTime": "2025-01-14T08:10:00+01:00",
+    "EndTime": "2025-01-14T11:25:00+01:00"
+  },
+  {
+    "Name": "BMT3-DTP-02",
+    "Location": "0801",
+    "Description": "Dozent: BHRW/SHRR/[Zein]",
+    "StartTime": "2025-01-16T08:10:00+01:00",
+    "EndTime": "2025-01-16T11:25:00+01:00"
   },
   {
     "Name": "BMT3-DTP/02",
