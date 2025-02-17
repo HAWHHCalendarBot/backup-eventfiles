@@ -2,29 +2,29 @@
   {
     "Name": "E3-ELP2-01",
     "Location": "0505",
-    "Description": "Dozent: AHSD",
-    "StartTime": "2024-10-24T08:10:00+02:00",
-    "EndTime": "2024-10-24T11:25:00+02:00"
+    "Description": "Dozent: Kruse",
+    "StartTime": "2025-04-30T08:10:00+02:00",
+    "EndTime": "2025-04-30T11:25:00+02:00"
   },
   {
     "Name": "E3-ELP2-01",
     "Location": "0505",
-    "Description": "Dozent: AHSD",
-    "StartTime": "2024-11-21T08:10:00+01:00",
-    "EndTime": "2024-11-21T11:25:00+01:00"
+    "Description": "Dozent: Kruse",
+    "StartTime": "2025-05-15T08:10:00+02:00",
+    "EndTime": "2025-05-15T11:25:00+02:00"
   },
   {
     "Name": "E3-ELP2-01",
     "Location": "0505",
-    "Description": "Dozent: AHSD",
-    "StartTime": "2024-12-12T08:10:00+01:00",
-    "EndTime": "2024-12-12T11:25:00+01:00"
+    "Description": "Dozent: Kruse",
+    "StartTime": "2025-06-12T08:10:00+02:00",
+    "EndTime": "2025-06-12T11:25:00+02:00"
   },
   {
     "Name": "E3-ELP2-01",
     "Location": "0505",
-    "Description": "Dozent: AHSD",
-    "StartTime": "2025-01-16T08:10:00+01:00",
-    "EndTime": "2025-01-16T11:25:00+01:00"
+    "Description": "Dozent: Kruse",
+    "StartTime": "2025-07-03T08:10:00+02:00",
+    "EndTime": "2025-07-03T11:25:00+02:00"
   }
 ]

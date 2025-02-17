@@ -1,37 +1,37 @@
 [
   {
     "Name": "IE3-ELL2-03",
-    "Location": "0505, 0804",
-    "Description": "Dozent: CMPN/WTMR",
-    "StartTime": "2024-11-05T08:10:00+01:00",
-    "EndTime": "2024-11-05T11:25:00+01:00"
+    "Location": "0505",
+    "Description": "Dozent: AHSD/[Gassinez]/WTMR",
+    "StartTime": "2025-05-16T12:10:00+02:00",
+    "EndTime": "2025-05-16T15:40:00+02:00"
   },
   {
     "Name": "IE3-ELL2-03",
-    "Location": "0505, 0804",
-    "Description": "Dozent: CMPN/WTMR",
-    "StartTime": "2024-11-26T08:10:00+01:00",
-    "EndTime": "2024-11-26T11:25:00+01:00"
+    "Location": "0505",
+    "Description": "Dozent: AHSD/[Gassinez]/WTMR",
+    "StartTime": "2025-05-30T12:10:00+02:00",
+    "EndTime": "2025-05-30T15:40:00+02:00"
   },
   {
     "Name": "IE3-ELL2-03",
-    "Location": "0505, 0804",
-    "Description": "Dozent: CMPN/WTMR",
-    "StartTime": "2024-12-17T08:10:00+01:00",
-    "EndTime": "2024-12-17T11:25:00+01:00"
+    "Location": "0505",
+    "Description": "Dozent: AHSD/[Gassinez]/WTMR",
+    "StartTime": "2025-06-13T12:10:00+02:00",
+    "EndTime": "2025-06-13T15:40:00+02:00"
   },
   {
     "Name": "IE3-ELL2-03",
-    "Location": "0505, 0804",
-    "Description": "Dozent: CMPN/WTMR",
-    "StartTime": "2025-01-07T08:10:00+01:00",
-    "EndTime": "2025-01-07T11:25:00+01:00"
+    "Location": "0804",
+    "Description": "Dozent: AHSD/[Gassinez]",
+    "StartTime": "2025-06-23T12:10:00+02:00",
+    "EndTime": "2025-06-23T15:40:00+02:00"
   },
   {
     "Name": "IE3-ELL2-03",
-    "Location": "0505, 0804",
-    "Description": "Dozent: CMPN/WTMR",
-    "StartTime": "2025-01-21T08:10:00+01:00",
-    "EndTime": "2025-01-21T11:25:00+01:00"
+    "Location": "0804",
+    "Description": "Dozent: AHSD/[Gassinez]",
+    "StartTime": "2025-07-07T12:10:00+02:00",
+    "EndTime": "2025-07-07T15:40:00+02:00"
   }
 ]

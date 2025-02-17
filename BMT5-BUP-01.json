@@ -2,29 +2,29 @@
   {
     "Name": "BMT5-BUP-01",
     "Location": "0401, 0402",
-    "Description": "Dozent: WSTK/STKR",
-    "StartTime": "2024-11-07T12:10:00+01:00",
-    "EndTime": "2024-11-07T15:40:00+01:00"
+    "Description": "Dozent: NN1/EBEL",
+    "StartTime": "2025-04-30T12:10:00+02:00",
+    "EndTime": "2025-04-30T15:40:00+02:00"
   },
   {
     "Name": "BMT5-BUP-01",
     "Location": "0401, 0402",
-    "Description": "Dozent: WSTK/STKR",
-    "StartTime": "2024-11-14T12:10:00+01:00",
-    "EndTime": "2024-11-14T15:40:00+01:00"
+    "Description": "Dozent: NN1/EBEL",
+    "StartTime": "2025-05-23T12:10:00+02:00",
+    "EndTime": "2025-05-23T15:40:00+02:00"
   },
   {
     "Name": "BMT5-BUP-01",
     "Location": "0401, 0402",
-    "Description": "Dozent: WSTK/STKR",
-    "StartTime": "2024-12-05T12:10:00+01:00",
-    "EndTime": "2024-12-05T15:40:00+01:00"
+    "Description": "Dozent: NN1/EBEL",
+    "StartTime": "2025-06-13T12:10:00+02:00",
+    "EndTime": "2025-06-13T15:40:00+02:00"
   },
   {
     "Name": "BMT5-BUP-01",
     "Location": "0401, 0402",
-    "Description": "Dozent: WSTK/STKR",
-    "StartTime": "2025-01-09T12:10:00+01:00",
-    "EndTime": "2025-01-09T15:40:00+01:00"
+    "Description": "Dozent: NN1/EBEL",
+    "StartTime": "2025-07-04T12:10:00+02:00",
+    "EndTime": "2025-07-04T15:40:00+02:00"
   }
 ]

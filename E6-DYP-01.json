@@ -2,29 +2,29 @@
   {
     "Name": "E6-DYP-01",
     "Location": "0801",
-    "Description": "Dozent: LTL",
-    "StartTime": "2024-11-04T12:10:00+01:00",
-    "EndTime": "2024-11-04T15:40:00+01:00"
+    "Description": "Dozent: FTZ",
+    "StartTime": "2025-05-07T08:10:00+02:00",
+    "EndTime": "2025-05-07T11:25:00+02:00"
   },
   {
     "Name": "E6-DYP-01",
     "Location": "0801",
-    "Description": "Dozent: LTL",
-    "StartTime": "2024-11-28T08:10:00+01:00",
-    "EndTime": "2024-11-28T11:25:00+01:00"
+    "Description": "Dozent: FTZ",
+    "StartTime": "2025-05-14T08:10:00+02:00",
+    "EndTime": "2025-05-14T11:25:00+02:00"
   },
   {
     "Name": "E6-DYP-01",
     "Location": "0801",
-    "Description": "Dozent: LTL",
-    "StartTime": "2024-12-19T08:10:00+01:00",
-    "EndTime": "2024-12-19T11:25:00+01:00"
+    "Description": "Dozent: FTZ",
+    "StartTime": "2025-06-04T08:10:00+02:00",
+    "EndTime": "2025-06-04T11:25:00+02:00"
   },
   {
     "Name": "E6-DYP-01",
     "Location": "0801",
-    "Description": "Dozent: LTL",
-    "StartTime": "2025-01-23T08:10:00+01:00",
-    "EndTime": "2025-01-23T11:25:00+01:00"
+    "Description": "Dozent: FTZ",
+    "StartTime": "2025-06-25T08:10:00+02:00",
+    "EndTime": "2025-06-25T11:25:00+02:00"
   }
 ]

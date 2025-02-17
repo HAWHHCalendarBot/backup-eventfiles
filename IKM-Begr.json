@@ -3,14 +3,7 @@
     "Name": "IKM-Begr",
     "Location": "1486",
     "Description": "Dozent: KRN",
-    "StartTime": "2024-10-07T08:00:00+02:00",
-    "EndTime": "2024-10-07T08:45:00+02:00"
-  },
-  {
-    "Name": "IKM-Begr",
-    "Location": "0460",
-    "Description": "Dozent: KRN",
-    "StartTime": "2024-10-07T08:45:00+02:00",
-    "EndTime": "2024-10-07T09:40:00+02:00"
+    "StartTime": "2025-04-07T08:00:00+02:00",
+    "EndTime": "2025-04-07T08:45:00+02:00"
   }
 ]

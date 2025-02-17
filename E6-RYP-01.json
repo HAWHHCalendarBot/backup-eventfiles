@@ -2,29 +2,29 @@
   {
     "Name": "E6-RYP-01",
     "Location": "0601",
-    "Description": "Dozent: MAA/[Huss]",
-    "StartTime": "2024-11-05T12:10:00+01:00",
-    "EndTime": "2024-11-05T13:40:00+01:00"
+    "Description": "Dozent: ERD/[Huss]",
+    "StartTime": "2025-04-30T08:10:00+02:00",
+    "EndTime": "2025-04-30T09:40:00+02:00"
   },
   {
     "Name": "E6-RYP-01",
     "Location": "0601",
-    "Description": "Dozent: MAA/[Huss]",
-    "StartTime": "2024-11-25T08:10:00+01:00",
-    "EndTime": "2024-11-25T11:25:00+01:00"
+    "Description": "Dozent: ERD/[Huss]",
+    "StartTime": "2025-05-26T08:10:00+02:00",
+    "EndTime": "2025-05-26T11:25:00+02:00"
   },
   {
     "Name": "E6-RYP-01",
     "Location": "0601",
-    "Description": "Dozent: MAA/[Huss]",
-    "StartTime": "2024-12-16T08:10:00+01:00",
-    "EndTime": "2024-12-16T11:25:00+01:00"
+    "Description": "Dozent: ERD/[Huss]",
+    "StartTime": "2025-06-16T08:10:00+02:00",
+    "EndTime": "2025-06-16T11:25:00+02:00"
   },
   {
     "Name": "E6-RYP-01",
     "Location": "0601",
-    "Description": "Dozent: MAA/[Huss]",
-    "StartTime": "2025-01-20T08:10:00+01:00",
-    "EndTime": "2025-01-20T11:25:00+01:00"
+    "Description": "Dozent: ERD/[Huss]",
+    "StartTime": "2025-07-07T08:10:00+02:00",
+    "EndTime": "2025-07-07T11:25:00+02:00"
   }
 ]

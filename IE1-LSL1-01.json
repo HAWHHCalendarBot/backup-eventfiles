@@ -1,23 +1,23 @@
 [
   {
     "Name": "IE1-LSL1-01",
-    "Location": "1465",
+    "Location": "0861",
     "Description": "Dozent: RDT",
-    "StartTime": "2024-11-07T08:10:00+01:00",
-    "EndTime": "2024-11-07T11:25:00+01:00"
+    "StartTime": "2025-05-16T12:10:00+02:00",
+    "EndTime": "2025-05-16T15:40:00+02:00"
   },
   {
     "Name": "IE1-LSL1-01",
-    "Location": "1465",
+    "Location": "0861",
     "Description": "Dozent: RDT",
-    "StartTime": "2024-11-21T08:10:00+01:00",
-    "EndTime": "2024-11-21T11:25:00+01:00"
+    "StartTime": "2025-05-30T12:10:00+02:00",
+    "EndTime": "2025-05-30T15:40:00+02:00"
   },
   {
     "Name": "IE1-LSL1-01",
-    "Location": "1465",
+    "Location": "0861",
     "Description": "Dozent: RDT",
-    "StartTime": "2024-12-05T08:10:00+01:00",
-    "EndTime": "2024-12-05T11:25:00+01:00"
+    "StartTime": "2025-06-20T12:10:00+02:00",
+    "EndTime": "2025-06-20T15:40:00+02:00"
   }
 ]

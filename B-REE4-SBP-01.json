@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "B-REE4-SBP-01",
+    "Location": "0402",
+    "Description": "Dozent: SLR",
+    "StartTime": "2025-04-24T08:10:00+02:00",
+    "EndTime": "2025-04-24T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-SBP-01",
+    "Location": "0402",
+    "Description": "Dozent: SLR",
+    "StartTime": "2025-05-08T08:10:00+02:00",
+    "EndTime": "2025-05-08T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-SBP-01",
+    "Location": "0402",
+    "Description": "Dozent: SLR",
+    "StartTime": "2025-06-05T08:10:00+02:00",
+    "EndTime": "2025-06-05T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-SBP-01",
+    "Location": "0402",
+    "Description": "Dozent: SLR",
+    "StartTime": "2025-06-26T08:10:00+02:00",
+    "EndTime": "2025-06-26T11:25:00+02:00"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E3-OPP-03",
+    "Location": "1360",
+    "Description": "Dozent: HSL",
+    "StartTime": "2025-04-28T15:55:00+02:00",
+    "EndTime": "2025-04-28T19:10:00+02:00"
+  },
+  {
+    "Name": "E3-OPP-03",
+    "Location": "1360",
+    "Description": "Dozent: HSL",
+    "StartTime": "2025-05-12T15:55:00+02:00",
+    "EndTime": "2025-05-12T19:10:00+02:00"
+  },
+  {
+    "Name": "E3-OPP-03",
+    "Location": "1360",
+    "Description": "Dozent: HSL",
+    "StartTime": "2025-06-02T15:55:00+02:00",
+    "EndTime": "2025-06-02T19:10:00+02:00"
+  },
+  {
+    "Name": "E3-OPP-03",
+    "Location": "1360",
+    "Description": "Dozent: HSL",
+    "StartTime": "2025-06-23T15:55:00+02:00",
+    "EndTime": "2025-06-23T19:10:00+02:00"
+  }
+]

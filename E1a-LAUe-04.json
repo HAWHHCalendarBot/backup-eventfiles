@@ -1,44 +1,44 @@
 [
   {
     "Name": "E1a-LAUe-04",
-    "Location": "0665",
-    "Description": "Dozent: JNM",
-    "StartTime": "2024-10-30T14:10:00+01:00",
-    "EndTime": "2024-10-30T15:40:00+01:00"
+    "Location": "1065",
+    "Description": "Dozent: HSL",
+    "StartTime": "2025-04-22T17:40:00+02:00",
+    "EndTime": "2025-04-22T19:10:00+02:00"
   },
   {
     "Name": "E1a-LAUe-04",
-    "Location": "0665",
-    "Description": "Dozent: JNM",
-    "StartTime": "2024-11-13T14:10:00+01:00",
-    "EndTime": "2024-11-13T15:40:00+01:00"
+    "Location": "1065",
+    "Description": "Dozent: HSL",
+    "StartTime": "2025-05-06T17:40:00+02:00",
+    "EndTime": "2025-05-06T19:10:00+02:00"
   },
   {
     "Name": "E1a-LAUe-04",
-    "Location": "0665",
-    "Description": "Dozent: JNM",
-    "StartTime": "2024-11-27T14:10:00+01:00",
-    "EndTime": "2024-11-27T15:40:00+01:00"
+    "Location": "1065",
+    "Description": "Dozent: HSL",
+    "StartTime": "2025-05-20T17:40:00+02:00",
+    "EndTime": "2025-05-20T19:10:00+02:00"
   },
   {
     "Name": "E1a-LAUe-04",
-    "Location": "0665",
-    "Description": "Dozent: JNM",
-    "StartTime": "2024-12-11T14:10:00+01:00",
-    "EndTime": "2024-12-11T15:40:00+01:00"
+    "Location": "1065",
+    "Description": "Dozent: HSL",
+    "StartTime": "2025-06-03T17:40:00+02:00",
+    "EndTime": "2025-06-03T19:10:00+02:00"
   },
   {
     "Name": "E1a-LAUe-04",
-    "Location": "0665",
-    "Description": "Dozent: JNM",
-    "StartTime": "2025-01-08T14:10:00+01:00",
-    "EndTime": "2025-01-08T15:40:00+01:00"
+    "Location": "1065",
+    "Description": "Dozent: HSL",
+    "StartTime": "2025-06-24T17:40:00+02:00",
+    "EndTime": "2025-06-24T19:10:00+02:00"
   },
   {
     "Name": "E1a-LAUe-04",
-    "Location": "0665",
-    "Description": "Dozent: JNM",
-    "StartTime": "2025-01-22T14:10:00+01:00",
-    "EndTime": "2025-01-22T15:40:00+01:00"
+    "Location": "1065",
+    "Description": "Dozent: HSL",
+    "StartTime": "2025-07-08T17:40:00+02:00",
+    "EndTime": "2025-07-08T19:10:00+02:00"
   }
 ]

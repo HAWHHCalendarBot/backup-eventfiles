@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "B-REE6-EGP-02",
+    "Location": "1303a, 1303b",
+    "Description": "Dozent: NN2",
+    "StartTime": "2025-05-09T12:10:00+02:00",
+    "EndTime": "2025-05-09T15:40:00+02:00"
+  },
+  {
+    "Name": "B-REE6-EGP-02",
+    "Location": "1365",
+    "Description": "Dozent: NN2",
+    "StartTime": "2025-05-23T12:10:00+02:00",
+    "EndTime": "2025-05-23T15:40:00+02:00"
+  },
+  {
+    "Name": "B-REE6-EGP-02",
+    "Location": "1365",
+    "Description": "Dozent: NN2",
+    "StartTime": "2025-06-13T12:10:00+02:00",
+    "EndTime": "2025-06-13T15:40:00+02:00"
+  },
+  {
+    "Name": "B-REE6-EGP-02",
+    "Location": "1365",
+    "Description": "Dozent: NN2",
+    "StartTime": "2025-07-04T12:10:00+02:00",
+    "EndTime": "2025-07-04T15:40:00+02:00"
+  }
+]

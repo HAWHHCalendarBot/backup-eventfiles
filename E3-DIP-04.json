@@ -2,29 +2,29 @@
   {
     "Name": "E3-DIP-04",
     "Location": "0801",
-    "Description": "Dozent: FTZ",
-    "StartTime": "2024-11-05T12:10:00+01:00",
-    "EndTime": "2024-11-05T15:40:00+01:00"
+    "Description": "Dozent: FTZ/[Zein]",
+    "StartTime": "2025-04-24T12:10:00+02:00",
+    "EndTime": "2025-04-24T15:40:00+02:00"
   },
   {
     "Name": "E3-DIP-04",
     "Location": "0801",
-    "Description": "Dozent: FTZ",
-    "StartTime": "2024-11-14T12:10:00+01:00",
-    "EndTime": "2024-11-14T15:40:00+01:00"
+    "Description": "Dozent: FTZ/[Zein]",
+    "StartTime": "2025-05-15T12:10:00+02:00",
+    "EndTime": "2025-05-15T15:40:00+02:00"
   },
   {
     "Name": "E3-DIP-04",
     "Location": "0801",
-    "Description": "Dozent: FTZ",
-    "StartTime": "2024-12-05T12:10:00+01:00",
-    "EndTime": "2024-12-05T15:40:00+01:00"
+    "Description": "Dozent: FTZ/[Zein]",
+    "StartTime": "2025-06-12T12:10:00+02:00",
+    "EndTime": "2025-06-12T15:40:00+02:00"
   },
   {
     "Name": "E3-DIP-04",
     "Location": "0801",
-    "Description": "Dozent: FTZ",
-    "StartTime": "2025-01-09T12:10:00+01:00",
-    "EndTime": "2025-01-09T15:40:00+01:00"
+    "Description": "Dozent: FTZ/[Zein]",
+    "StartTime": "2025-07-03T12:10:00+02:00",
+    "EndTime": "2025-07-03T15:40:00+02:00"
   }
 ]

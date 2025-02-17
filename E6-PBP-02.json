@@ -2,29 +2,29 @@
   {
     "Name": "E6-PBP-02",
     "Location": "0402",
-    "Description": "Dozent: GRS/STKR",
-    "StartTime": "2024-11-06T12:10:00+01:00",
-    "EndTime": "2024-11-06T15:40:00+01:00"
+    "Description": "Dozent: NN1/[Huss]",
+    "StartTime": "2025-05-07T08:10:00+02:00",
+    "EndTime": "2025-05-07T11:25:00+02:00"
   },
   {
     "Name": "E6-PBP-02",
     "Location": "0402",
-    "Description": "Dozent: GRS/STKR",
-    "StartTime": "2024-11-13T12:10:00+01:00",
-    "EndTime": "2024-11-13T15:40:00+01:00"
+    "Description": "Dozent: NN1/[Huss]",
+    "StartTime": "2025-05-28T08:10:00+02:00",
+    "EndTime": "2025-05-28T11:25:00+02:00"
   },
   {
     "Name": "E6-PBP-02",
     "Location": "0402",
-    "Description": "Dozent: GRS/STKR",
-    "StartTime": "2024-12-04T12:10:00+01:00",
-    "EndTime": "2024-12-04T15:40:00+01:00"
+    "Description": "Dozent: NN1/[Huss]",
+    "StartTime": "2025-06-18T08:10:00+02:00",
+    "EndTime": "2025-06-18T11:25:00+02:00"
   },
   {
     "Name": "E6-PBP-02",
     "Location": "0402",
-    "Description": "Dozent: GRS/STKR",
-    "StartTime": "2025-01-08T12:10:00+01:00",
-    "EndTime": "2025-01-08T15:40:00+01:00"
+    "Description": "Dozent: NN1/[Huss]",
+    "StartTime": "2025-07-09T08:10:00+02:00",
+    "EndTime": "2025-07-09T11:25:00+02:00"
   }
 ]

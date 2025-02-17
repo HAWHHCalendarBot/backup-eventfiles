@@ -1,30 +1,30 @@
 [
   {
     "Name": "IE3-SSL1-01",
-    "Location": "1303a, 1303b",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-10-30T12:10:00+01:00",
-    "EndTime": "2024-10-30T15:40:00+01:00"
+    "Location": "1303a, 1303b, 1365",
+    "Description": "Dozent: LGE",
+    "StartTime": "2025-04-28T08:10:00+02:00",
+    "EndTime": "2025-04-28T11:25:00+02:00"
   },
   {
     "Name": "IE3-SSL1-01",
     "Location": "1360",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-11-18T12:10:00+01:00",
-    "EndTime": "2024-11-18T15:40:00+01:00"
+    "Description": "Dozent: LGE",
+    "StartTime": "2025-05-12T08:10:00+02:00",
+    "EndTime": "2025-05-12T11:25:00+02:00"
   },
   {
     "Name": "IE3-SSL1-01",
     "Location": "1360",
-    "Description": "Dozent: LHN",
-    "StartTime": "2024-12-16T12:10:00+01:00",
-    "EndTime": "2024-12-16T15:40:00+01:00"
+    "Description": "Dozent: LGE",
+    "StartTime": "2025-06-10T08:10:00+02:00",
+    "EndTime": "2025-06-10T11:25:00+02:00"
   },
   {
     "Name": "IE3-SSL1-01",
     "Location": "1360",
-    "Description": "Dozent: LHN",
-    "StartTime": "2025-01-13T12:10:00+01:00",
-    "EndTime": "2025-01-13T15:40:00+01:00"
+    "Description": "Dozent: LGE",
+    "StartTime": "2025-06-23T08:10:00+02:00",
+    "EndTime": "2025-06-23T11:25:00+02:00"
   }
 ]

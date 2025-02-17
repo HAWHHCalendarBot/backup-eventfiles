@@ -2,29 +2,29 @@
   {
     "Name": "IE4-DSL-01",
     "Location": "0801",
-    "Description": "Dozent: SCZ/[Gassinez]",
-    "StartTime": "2024-10-25T08:10:00+02:00",
-    "EndTime": "2024-10-25T11:25:00+02:00"
+    "Description": "Dozent: LTL/[Zein]",
+    "StartTime": "2025-04-22T12:10:00+02:00",
+    "EndTime": "2025-04-22T15:40:00+02:00"
   },
   {
     "Name": "IE4-DSL-01",
     "Location": "0801",
-    "Description": "Dozent: SCZ/[Gassinez]",
-    "StartTime": "2024-11-22T08:10:00+01:00",
-    "EndTime": "2024-11-22T11:25:00+01:00"
+    "Description": "Dozent: LTL/[Zein]",
+    "StartTime": "2025-05-20T12:10:00+02:00",
+    "EndTime": "2025-05-20T15:40:00+02:00"
   },
   {
     "Name": "IE4-DSL-01",
     "Location": "0801",
-    "Description": "Dozent: SCZ/[Gassinez]",
-    "StartTime": "2024-12-20T08:10:00+01:00",
-    "EndTime": "2024-12-20T11:25:00+01:00"
+    "Description": "Dozent: LTL/[Zein]",
+    "StartTime": "2025-06-17T12:10:00+02:00",
+    "EndTime": "2025-06-17T15:40:00+02:00"
   },
   {
     "Name": "IE4-DSL-01",
     "Location": "0801",
-    "Description": "Dozent: SCZ/[Gassinez]",
-    "StartTime": "2025-01-15T12:10:00+01:00",
-    "EndTime": "2025-01-15T15:40:00+01:00"
+    "Description": "Dozent: LTL/[Zein]",
+    "StartTime": "2025-07-08T12:10:00+02:00",
+    "EndTime": "2025-07-08T15:40:00+02:00"
   }
 ]

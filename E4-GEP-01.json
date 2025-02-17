@@ -2,29 +2,29 @@
   {
     "Name": "E4-GEP-01",
     "Location": "0301",
-    "Description": "Dozent: GNZ/[Kor]",
-    "StartTime": "2024-10-23T08:10:00+02:00",
-    "EndTime": "2024-10-23T11:25:00+02:00"
+    "Description": "Dozent: [Kor]/SZNY",
+    "StartTime": "2025-04-29T08:10:00+02:00",
+    "EndTime": "2025-04-29T11:25:00+02:00"
   },
   {
     "Name": "E4-GEP-01",
     "Location": "0301",
-    "Description": "Dozent: GNZ/[Kor]",
-    "StartTime": "2024-11-11T12:10:00+01:00",
-    "EndTime": "2024-11-11T15:40:00+01:00"
+    "Description": "Dozent: [Kor]/SZNY",
+    "StartTime": "2025-05-13T08:10:00+02:00",
+    "EndTime": "2025-05-13T11:25:00+02:00"
   },
   {
     "Name": "E4-GEP-01",
     "Location": "0301",
-    "Description": "Dozent: GNZ/[Kor]",
-    "StartTime": "2024-12-02T12:10:00+01:00",
-    "EndTime": "2024-12-02T15:40:00+01:00"
+    "Description": "Dozent: [Kor]/SZNY",
+    "StartTime": "2025-06-03T08:10:00+02:00",
+    "EndTime": "2025-06-03T11:25:00+02:00"
   },
   {
     "Name": "E4-GEP-01",
     "Location": "0301",
-    "Description": "Dozent: GNZ/[Kor]",
-    "StartTime": "2025-01-06T12:10:00+01:00",
-    "EndTime": "2025-01-06T15:40:00+01:00"
+    "Description": "Dozent: [Kor]/SZNY",
+    "StartTime": "2025-07-01T08:10:00+02:00",
+    "EndTime": "2025-07-01T11:25:00+02:00"
   }
 ]

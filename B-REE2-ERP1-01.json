@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "B-REE2-ERP1-01",
+    "Location": "0301",
+    "Description": "Dozent: [Kor]/SZNY",
+    "StartTime": "2025-04-30T08:10:00+02:00",
+    "EndTime": "2025-04-30T09:40:00+02:00"
+  },
+  {
+    "Name": "B-REE2-ERP1-01",
+    "Location": "0301",
+    "Description": "Dozent: [Kor]/SZNY",
+    "StartTime": "2025-05-15T08:10:00+02:00",
+    "EndTime": "2025-05-15T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE2-ERP1-01",
+    "Location": "0301",
+    "Description": "Dozent: [Kor]/SZNY",
+    "StartTime": "2025-06-12T08:10:00+02:00",
+    "EndTime": "2025-06-12T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE2-ERP1-01",
+    "Location": "0301",
+    "Description": "Dozent: [Kor]/SZNY",
+    "StartTime": "2025-07-03T08:10:00+02:00",
+    "EndTime": "2025-07-03T11:25:00+02:00"
+  }
+]

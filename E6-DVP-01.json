@@ -3,28 +3,28 @@
     "Name": "E6-DVP-01",
     "Location": "0885",
     "Description": "Dozent: KPKE",
-    "StartTime": "2024-10-24T08:10:00+02:00",
-    "EndTime": "2024-10-24T11:25:00+02:00"
+    "StartTime": "2025-04-24T08:10:00+02:00",
+    "EndTime": "2025-04-24T11:25:00+02:00"
   },
   {
     "Name": "E6-DVP-01",
     "Location": "0885",
     "Description": "Dozent: KPKE",
-    "StartTime": "2024-11-14T08:10:00+01:00",
-    "EndTime": "2024-11-14T11:25:00+01:00"
+    "StartTime": "2025-05-15T08:10:00+02:00",
+    "EndTime": "2025-05-15T11:25:00+02:00"
   },
   {
     "Name": "E6-DVP-01",
     "Location": "0885",
     "Description": "Dozent: KPKE",
-    "StartTime": "2024-12-05T08:10:00+01:00",
-    "EndTime": "2024-12-05T11:25:00+01:00"
+    "StartTime": "2025-06-12T08:10:00+02:00",
+    "EndTime": "2025-06-12T11:25:00+02:00"
   },
   {
     "Name": "E6-DVP-01",
     "Location": "0885",
     "Description": "Dozent: KPKE",
-    "StartTime": "2025-01-09T08:10:00+01:00",
-    "EndTime": "2025-01-09T11:25:00+01:00"
+    "StartTime": "2025-07-03T08:10:00+02:00",
+    "EndTime": "2025-07-03T11:25:00+02:00"
   }
 ]

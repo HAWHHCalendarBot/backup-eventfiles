@@ -1,9 +1,30 @@
 [
   {
     "Name": "E1a-OE_I",
-    "Location": "1060",
+    "Location": "0405",
     "Description": "",
-    "StartTime": "2025-01-23T15:40:00+01:00",
-    "EndTime": "2025-01-23T17:00:00+01:00"
+    "StartTime": "2025-04-01T09:00:00+02:00",
+    "EndTime": "2025-04-01T16:00:00+02:00"
+  },
+  {
+    "Name": "E1a-OE_I",
+    "Location": "0405",
+    "Description": "",
+    "StartTime": "2025-04-02T09:00:00+02:00",
+    "EndTime": "2025-04-02T16:00:00+02:00"
+  },
+  {
+    "Name": "E1a-OE_I",
+    "Location": "0405",
+    "Description": "",
+    "StartTime": "2025-04-03T09:00:00+02:00",
+    "EndTime": "2025-04-03T16:00:00+02:00"
+  },
+  {
+    "Name": "E1a-OE_I",
+    "Location": "0405, 0660",
+    "Description": "",
+    "StartTime": "2025-04-04T09:00:00+02:00",
+    "EndTime": "2025-04-04T16:00:00+02:00"
   }
 ]

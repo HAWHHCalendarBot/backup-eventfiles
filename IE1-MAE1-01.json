@@ -1,44 +1,44 @@
 [
   {
     "Name": "IE1-MAE1-01",
-    "Location": "1465",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2024-10-23T09:55:00+02:00",
-    "EndTime": "2024-10-23T11:25:00+02:00"
+    "Location": "0861",
+    "Description": "Dozent: Maesaka",
+    "StartTime": "2025-04-16T12:10:00+02:00",
+    "EndTime": "2025-04-16T13:40:00+02:00"
   },
   {
     "Name": "IE1-MAE1-01",
-    "Location": "1465",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2024-11-06T09:55:00+01:00",
-    "EndTime": "2024-11-06T11:25:00+01:00"
+    "Location": "0861",
+    "Description": "Dozent: Maesaka",
+    "StartTime": "2025-05-07T12:10:00+02:00",
+    "EndTime": "2025-05-07T13:40:00+02:00"
   },
   {
     "Name": "IE1-MAE1-01",
-    "Location": "1465",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2024-11-20T09:55:00+01:00",
-    "EndTime": "2024-11-20T11:25:00+01:00"
+    "Location": "0861",
+    "Description": "Dozent: Maesaka",
+    "StartTime": "2025-05-21T12:10:00+02:00",
+    "EndTime": "2025-05-21T13:40:00+02:00"
   },
   {
     "Name": "IE1-MAE1-01",
-    "Location": "1465",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2024-12-04T09:55:00+01:00",
-    "EndTime": "2024-12-04T11:25:00+01:00"
+    "Location": "0861",
+    "Description": "Dozent: Maesaka",
+    "StartTime": "2025-06-04T12:10:00+02:00",
+    "EndTime": "2025-06-04T13:40:00+02:00"
   },
   {
     "Name": "IE1-MAE1-01",
-    "Location": "1465",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2024-12-18T09:55:00+01:00",
-    "EndTime": "2024-12-18T11:25:00+01:00"
+    "Location": "0861",
+    "Description": "Dozent: Maesaka",
+    "StartTime": "2025-06-18T12:10:00+02:00",
+    "EndTime": "2025-06-18T13:40:00+02:00"
   },
   {
     "Name": "IE1-MAE1-01",
-    "Location": "1465",
-    "Description": "Dozent: NIDR",
-    "StartTime": "2025-01-15T09:55:00+01:00",
-    "EndTime": "2025-01-15T11:25:00+01:00"
+    "Location": "0861",
+    "Description": "Dozent: Maesaka",
+    "StartTime": "2025-07-02T12:10:00+02:00",
+    "EndTime": "2025-07-02T13:40:00+02:00"
   }
 ]

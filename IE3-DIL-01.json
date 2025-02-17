@@ -2,29 +2,29 @@
   {
     "Name": "IE3-DIL-01",
     "Location": "0801",
-    "Description": "Dozent: SCZ/SHRR",
-    "StartTime": "2024-11-06T08:10:00+01:00",
-    "EndTime": "2024-11-06T11:25:00+01:00"
+    "Description": "Dozent: SCZ/[Gassinez]",
+    "StartTime": "2025-04-29T08:10:00+02:00",
+    "EndTime": "2025-04-29T11:25:00+02:00"
   },
   {
     "Name": "IE3-DIL-01",
     "Location": "0801",
-    "Description": "Dozent: SCZ/SHRR",
-    "StartTime": "2024-11-20T08:10:00+01:00",
-    "EndTime": "2024-11-20T11:25:00+01:00"
+    "Description": "Dozent: SCZ/[Gassinez]",
+    "StartTime": "2025-05-13T08:10:00+02:00",
+    "EndTime": "2025-05-13T11:25:00+02:00"
   },
   {
     "Name": "IE3-DIL-01",
     "Location": "0801",
-    "Description": "Dozent: SCZ/SHRR",
-    "StartTime": "2024-12-11T08:10:00+01:00",
-    "EndTime": "2024-12-11T11:25:00+01:00"
+    "Description": "Dozent: SCZ/[Gassinez]",
+    "StartTime": "2025-06-03T08:10:00+02:00",
+    "EndTime": "2025-06-03T11:25:00+02:00"
   },
   {
     "Name": "IE3-DIL-01",
     "Location": "0801",
-    "Description": "Dozent: SCZ/SHRR",
-    "StartTime": "2025-01-15T08:10:00+01:00",
-    "EndTime": "2025-01-15T11:25:00+01:00"
+    "Description": "Dozent: SCZ/[Gassinez]",
+    "StartTime": "2025-07-01T08:10:00+02:00",
+    "EndTime": "2025-07-01T11:25:00+02:00"
   }
 ]

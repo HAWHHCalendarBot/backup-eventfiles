@@ -1,44 +1,44 @@
 [
   {
     "Name": "E1a-PRP1-01",
-    "Location": "1365",
-    "Description": "Dozent: SRMM/VOEL",
-    "StartTime": "2024-10-29T08:10:00+01:00",
-    "EndTime": "2024-10-29T11:25:00+01:00"
+    "Location": "1360",
+    "Description": "Dozent: HST/NIDR",
+    "StartTime": "2025-04-16T12:10:00+02:00",
+    "EndTime": "2025-04-16T15:40:00+02:00"
   },
   {
     "Name": "E1a-PRP1-01",
-    "Location": "1365",
-    "Description": "Dozent: SRMM/VOEL",
-    "StartTime": "2024-11-12T08:10:00+01:00",
-    "EndTime": "2024-11-12T11:25:00+01:00"
+    "Location": "1360",
+    "Description": "Dozent: HST/NIDR",
+    "StartTime": "2025-05-07T12:10:00+02:00",
+    "EndTime": "2025-05-07T15:40:00+02:00"
   },
   {
     "Name": "E1a-PRP1-01",
-    "Location": "1365",
-    "Description": "Dozent: SRMM/VOEL",
-    "StartTime": "2024-11-26T08:10:00+01:00",
-    "EndTime": "2024-11-26T11:25:00+01:00"
+    "Location": "1360",
+    "Description": "Dozent: HST/NIDR",
+    "StartTime": "2025-05-21T12:10:00+02:00",
+    "EndTime": "2025-05-21T15:40:00+02:00"
   },
   {
     "Name": "E1a-PRP1-01",
-    "Location": "1365",
-    "Description": "Dozent: SRMM/VOEL",
-    "StartTime": "2024-12-10T08:10:00+01:00",
-    "EndTime": "2024-12-10T11:25:00+01:00"
+    "Location": "1360",
+    "Description": "Dozent: HST/NIDR",
+    "StartTime": "2025-06-04T12:10:00+02:00",
+    "EndTime": "2025-06-04T15:40:00+02:00"
   },
   {
     "Name": "E1a-PRP1-01",
-    "Location": "1365",
-    "Description": "Dozent: SRMM/VOEL",
-    "StartTime": "2025-01-07T08:10:00+01:00",
-    "EndTime": "2025-01-07T11:25:00+01:00"
+    "Location": "1360",
+    "Description": "Dozent: HST/NIDR",
+    "StartTime": "2025-06-18T12:10:00+02:00",
+    "EndTime": "2025-06-18T15:40:00+02:00"
   },
   {
     "Name": "E1a-PRP1-01",
-    "Location": "1365",
-    "Description": "Dozent: SRMM/VOEL",
-    "StartTime": "2025-01-21T08:10:00+01:00",
-    "EndTime": "2025-01-21T11:25:00+01:00"
+    "Location": "1360",
+    "Description": "Dozent: HST/NIDR",
+    "StartTime": "2025-07-02T12:10:00+02:00",
+    "EndTime": "2025-07-02T15:40:00+02:00"
   }
 ]

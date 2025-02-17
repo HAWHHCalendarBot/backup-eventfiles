@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BMT2-GEP2-02",
+    "Location": "0501",
+    "Description": "Dozent: WGM/WTMR",
+    "StartTime": "2025-04-23T08:10:00+02:00",
+    "EndTime": "2025-04-23T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT2-GEP2-02",
+    "Location": "0501",
+    "Description": "Dozent: WGM/WTMR",
+    "StartTime": "2025-05-21T08:10:00+02:00",
+    "EndTime": "2025-05-21T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT2-GEP2-02",
+    "Location": "0501",
+    "Description": "Dozent: WGM/WTMR",
+    "StartTime": "2025-06-11T08:10:00+02:00",
+    "EndTime": "2025-06-11T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT2-GEP2-02",
+    "Location": "0501",
+    "Description": "Dozent: WGM/WTMR",
+    "StartTime": "2025-07-02T08:10:00+02:00",
+    "EndTime": "2025-07-02T11:25:00+02:00"
+  }
+]

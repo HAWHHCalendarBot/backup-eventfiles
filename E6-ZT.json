@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "E6-ZT",
+    "Location": "1465",
+    "Description": "Dozent: WNC",
+    "StartTime": "2025-04-09T08:10:00+02:00",
+    "EndTime": "2025-04-09T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-ZT",
+    "Location": "1465",
+    "Description": "Dozent: WNC",
+    "StartTime": "2025-04-10T12:10:00+02:00",
+    "EndTime": "2025-04-10T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-ZT",
+    "Location": "1465",
+    "Description": "Dozent: WNC",
+    "StartTime": "2025-04-16T08:10:00+02:00",
+    "EndTime": "2025-04-16T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-ZT",
+    "Location": "1465",
+    "Description": "Dozent: WNC",
+    "StartTime": "2025-04-17T12:10:00+02:00",
+    "EndTime": "2025-04-17T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-ZT",
+    "Location": "1465",
+    "Description": "Dozent: WNC",
+    "StartTime": "2025-04-23T09:55:00+02:00",
+    "EndTime": "2025-04-23T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-ZT",
+    "Location": "1465",
+    "Description": "Dozent: WNC",
+    "StartTime": "2025-04-24T12:10:00+02:00",
+    "EndTime": "2025-04-24T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-ZT",
+    "Location": "1465",
+    "Description": "Dozent: WNC",
+    "StartTime": "2025-05-08T12:10:00+02:00",
+    "EndTime": "2025-05-08T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-ZT",
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: WNC",
+    "StartTime": "2025-05-13T08:10:00+02:00",
+    "EndTime": "2025-05-13T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-ZT",
+    "Location": "1465",
+    "Description": "Dozent: WNC",
+    "StartTime": "2025-06-05T12:10:00+02:00",
+    "EndTime": "2025-06-05T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-ZT",
+    "Location": "1465",
+    "Description": "Dozent: WNC",
+    "StartTime": "2025-06-26T12:10:00+02:00",
+    "EndTime": "2025-06-26T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-ZT",
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: WNC",
+    "StartTime": "2025-07-01T08:10:00+02:00",
+    "EndTime": "2025-07-01T11:25:00+02:00"
+  }
+]

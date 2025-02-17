@@ -2,8 +2,29 @@
   {
     "Name": "BMT4-MPP-02",
     "Location": "0880",
-    "Description": "Dozent: SHRR",
-    "StartTime": "2024-11-05T08:10:00+01:00",
-    "EndTime": "2024-11-05T11:25:00+01:00"
+    "Description": "Dozent: SCZ/[Zein]",
+    "StartTime": "2025-05-02T08:10:00+02:00",
+    "EndTime": "2025-05-02T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT4-MPP-02",
+    "Location": "0880",
+    "Description": "Dozent: SCZ/[Zein]",
+    "StartTime": "2025-05-09T08:10:00+02:00",
+    "EndTime": "2025-05-09T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT4-MPP-02",
+    "Location": "0880",
+    "Description": "Dozent: SCZ/[Zein]",
+    "StartTime": "2025-05-23T08:10:00+02:00",
+    "EndTime": "2025-05-23T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT4-MPP-02",
+    "Location": "0880",
+    "Description": "Dozent: SCZ/[Zein]",
+    "StartTime": "2025-06-13T08:10:00+02:00",
+    "EndTime": "2025-06-13T11:25:00+02:00"
   }
 ]

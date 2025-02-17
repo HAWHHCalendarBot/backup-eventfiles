@@ -1,20 +1,6 @@
 [
   {
     "Name": "BMT6-LE",
-    "Location": "0861",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2024-10-07T12:10:00+02:00",
-    "EndTime": "2024-10-07T15:25:00+02:00"
-  },
-  {
-    "Name": "BMT6-LE",
-    "Location": "Stiftstr69  R110",
-    "Description": "Dozent: GNZ",
-    "StartTime": "2024-10-08T08:10:00+02:00",
-    "EndTime": "2024-10-08T11:25:00+02:00"
-  },
-  {
-    "Name": "BMT6-LE",
     "Location": "Stiftstr69  R110",
     "Description": "Dozent: GNZ",
     "StartTime": "2024-10-15T08:10:00+02:00",

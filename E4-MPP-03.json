@@ -2,29 +2,29 @@
   {
     "Name": "E4-MPP-03",
     "Location": "0880",
-    "Description": "Dozent: STKR",
-    "StartTime": "2024-10-21T12:10:00+02:00",
-    "EndTime": "2024-10-21T13:40:00+02:00"
+    "Description": "Dozent: RMS/SHRR",
+    "StartTime": "2025-04-28T08:10:00+02:00",
+    "EndTime": "2025-04-28T11:25:00+02:00"
   },
   {
     "Name": "E4-MPP-03",
     "Location": "0880",
-    "Description": "Dozent: STKR",
-    "StartTime": "2024-11-26T12:10:00+01:00",
-    "EndTime": "2024-11-26T15:40:00+01:00"
+    "Description": "Dozent: RMS/SHRR",
+    "StartTime": "2025-05-20T08:10:00+02:00",
+    "EndTime": "2025-05-20T11:25:00+02:00"
   },
   {
     "Name": "E4-MPP-03",
     "Location": "0880",
-    "Description": "Dozent: STKR",
-    "StartTime": "2024-12-17T12:10:00+01:00",
-    "EndTime": "2024-12-17T15:40:00+01:00"
+    "Description": "Dozent: RMS/SHRR",
+    "StartTime": "2025-06-17T08:10:00+02:00",
+    "EndTime": "2025-06-17T11:25:00+02:00"
   },
   {
     "Name": "E4-MPP-03",
     "Location": "0880",
-    "Description": "Dozent: STKR",
-    "StartTime": "2025-01-21T12:10:00+01:00",
-    "EndTime": "2025-01-21T15:40:00+01:00"
+    "Description": "Dozent: RMS/SHRR",
+    "StartTime": "2025-07-08T08:10:00+02:00",
+    "EndTime": "2025-07-08T11:25:00+02:00"
   }
 ]

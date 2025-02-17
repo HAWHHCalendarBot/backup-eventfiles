@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BMT5-AKP-02",
+    "Location": "0601",
+    "Description": "Dozent: Plaumann",
+    "StartTime": "2025-04-28T12:15:00+02:00",
+    "EndTime": "2025-04-28T15:30:00+02:00"
+  },
+  {
+    "Name": "BMT5-AKP-02",
+    "Location": "0601",
+    "Description": "Dozent: Plaumann",
+    "StartTime": "2025-05-15T08:10:00+02:00",
+    "EndTime": "2025-05-15T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT5-AKP-02",
+    "Location": "0601",
+    "Description": "Dozent: Plaumann",
+    "StartTime": "2025-06-12T08:10:00+02:00",
+    "EndTime": "2025-06-12T11:25:00+02:00"
+  },
+  {
+    "Name": "BMT5-AKP-02",
+    "Location": "0601",
+    "Description": "Dozent: Plaumann",
+    "StartTime": "2025-07-03T08:10:00+02:00",
+    "EndTime": "2025-07-03T11:25:00+02:00"
+  }
+]

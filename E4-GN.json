@@ -3,84 +3,77 @@
     "Name": "E4-GN",
     "Location": "1405, 1465",
     "Description": "Dozent: WDL",
-    "StartTime": "2024-10-10T08:10:00+02:00",
-    "EndTime": "2024-10-10T11:25:00+02:00"
+    "StartTime": "2025-04-07T12:10:00+02:00",
+    "EndTime": "2025-04-07T15:40:00+02:00"
   },
   {
     "Name": "E4-GN",
     "Location": "1405, 1465",
     "Description": "Dozent: WDL",
-    "StartTime": "2024-10-10T12:10:00+02:00",
-    "EndTime": "2024-10-10T15:40:00+02:00"
+    "StartTime": "2025-04-28T12:10:00+02:00",
+    "EndTime": "2025-04-28T15:40:00+02:00"
   },
   {
     "Name": "E4-GN",
     "Location": "1405, 1465",
     "Description": "Dozent: WDL",
-    "StartTime": "2024-10-17T12:10:00+02:00",
-    "EndTime": "2024-10-17T15:40:00+02:00"
+    "StartTime": "2025-05-05T12:10:00+02:00",
+    "EndTime": "2025-05-05T15:40:00+02:00"
   },
   {
     "Name": "E4-GN",
     "Location": "1405, 1465",
     "Description": "Dozent: WDL",
-    "StartTime": "2024-10-24T12:10:00+02:00",
-    "EndTime": "2024-10-24T15:40:00+02:00"
+    "StartTime": "2025-05-12T12:10:00+02:00",
+    "EndTime": "2025-05-12T15:40:00+02:00"
+  },
+  {
+    "Name": "E4-GN",
+    "Location": "1405, 1465",
+    "Description": "Dozent: WDL",
+    "StartTime": "2025-05-19T12:10:00+02:00",
+    "EndTime": "2025-05-19T15:40:00+02:00"
+  },
+  {
+    "Name": "E4-GN",
+    "Location": "1405, 1465",
+    "Description": "Dozent: VLM/WDL",
+    "StartTime": "2025-05-29T12:10:00+02:00",
+    "EndTime": "2025-05-29T15:40:00+02:00"
   },
   {
     "Name": "E4-GN",
     "Location": "1405",
-    "Description": "Dozent: WDL",
-    "StartTime": "2024-10-30T08:10:00+01:00",
-    "EndTime": "2024-10-30T11:25:00+01:00"
+    "Description": "Dozent: VLM",
+    "StartTime": "2025-06-05T12:10:00+02:00",
+    "EndTime": "2025-06-05T15:40:00+02:00"
   },
   {
     "Name": "E4-GN",
     "Location": "1405",
-    "Description": "Dozent: WDL",
-    "StartTime": "2024-11-13T08:10:00+01:00",
-    "EndTime": "2024-11-13T11:25:00+01:00"
-  },
-  {
-    "Name": "E4-GN",
-    "Location": "1405, 1465",
-    "Description": "Dozent: WDL",
-    "StartTime": "2024-11-14T12:10:00+01:00",
-    "EndTime": "2024-11-14T15:40:00+01:00"
-  },
-  {
-    "Name": "E4-GN",
-    "Location": "1405, 1465",
     "Description": "Dozent: VLM",
-    "StartTime": "2024-11-28T12:10:00+01:00",
-    "EndTime": "2024-11-28T15:40:00+01:00"
+    "StartTime": "2025-06-12T12:10:00+02:00",
+    "EndTime": "2025-06-12T15:40:00+02:00"
   },
   {
     "Name": "E4-GN",
-    "Location": "1405, 1465",
+    "Location": "1405",
     "Description": "Dozent: VLM",
-    "StartTime": "2024-12-05T12:10:00+01:00",
-    "EndTime": "2024-12-05T15:40:00+01:00"
+    "StartTime": "2025-06-19T12:10:00+02:00",
+    "EndTime": "2025-06-19T15:40:00+02:00"
   },
   {
     "Name": "E4-GN",
-    "Location": "1405, 1465",
+    "Location": "1405",
     "Description": "Dozent: VLM",
-    "StartTime": "2024-12-12T12:10:00+01:00",
-    "EndTime": "2024-12-12T15:40:00+01:00"
+    "StartTime": "2025-06-26T12:10:00+02:00",
+    "EndTime": "2025-06-26T15:40:00+02:00"
   },
   {
     "Name": "E4-GN",
-    "Location": "1405, 1465",
+    "Location": "1405",
     "Description": "Dozent: VLM",
-    "StartTime": "2024-12-19T12:10:00+01:00",
-    "EndTime": "2024-12-19T15:40:00+01:00"
-  },
-  {
-    "Name": "E4-GN",
-    "Location": "1405, 1465",
-    "Description": "Dozent: VLM",
-    "StartTime": "2025-01-09T12:10:00+01:00",
-    "EndTime": "2025-01-09T15:40:00+01:00"
+    "StartTime": "2025-07-03T12:10:00+02:00",
+    "EndTime": "2025-07-03T15:40:00+02:00"
   }
 ]

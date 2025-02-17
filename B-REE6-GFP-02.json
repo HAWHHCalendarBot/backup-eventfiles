@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "B-REE6-GFP-02",
+    "Location": "0401",
+    "Description": "Dozent: GRS",
+    "StartTime": "2025-05-05T08:10:00+02:00",
+    "EndTime": "2025-05-05T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE6-GFP-02",
+    "Location": "0401",
+    "Description": "Dozent: GRS",
+    "StartTime": "2025-05-12T08:10:00+02:00",
+    "EndTime": "2025-05-12T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE6-GFP-02",
+    "Location": "0401",
+    "Description": "Dozent: GRS",
+    "StartTime": "2025-06-02T08:10:00+02:00",
+    "EndTime": "2025-06-02T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE6-GFP-02",
+    "Location": "0401",
+    "Description": "Dozent: GRS",
+    "StartTime": "2025-06-23T08:10:00+02:00",
+    "EndTime": "2025-06-23T11:25:00+02:00"
+  }
+]

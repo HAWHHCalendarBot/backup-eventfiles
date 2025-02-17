@@ -1,12 +1,5 @@
 [
   {
-    "Name": "BMT3-SEP-01",
-    "Location": "0761",
-    "Description": "Dozent: DAI/[Chr]",
-    "StartTime": "2024-10-29T12:30:00+01:00",
-    "EndTime": "2024-10-29T15:45:00+01:00"
-  },
-  {
     "Name": "BMT3-SEP/01",
     "Location": "0761",
     "Description": "Dozent: DAI/[Chr]",
@@ -14,7 +7,7 @@
     "EndTime": "2024-10-29T15:45:00+01:00"
   },
   {
-    "Name": "BMT3-SEP-01",
+    "Name": "BMT3-SEP/01",
     "Location": "0761",
     "Description": "Dozent: DAI/[Chr]",
     "StartTime": "2024-11-19T12:30:00+01:00",
@@ -24,29 +17,8 @@
     "Name": "BMT3-SEP/01",
     "Location": "0761",
     "Description": "Dozent: DAI/[Chr]",
-    "StartTime": "2024-11-19T12:30:00+01:00",
-    "EndTime": "2024-11-19T15:45:00+01:00"
-  },
-  {
-    "Name": "BMT3-SEP-01",
-    "Location": "0761",
-    "Description": "Dozent: DAI/[Chr]",
     "StartTime": "2024-12-10T12:30:00+01:00",
     "EndTime": "2024-12-10T15:45:00+01:00"
-  },
-  {
-    "Name": "BMT3-SEP/01",
-    "Location": "0761",
-    "Description": "Dozent: DAI/[Chr]",
-    "StartTime": "2024-12-10T12:30:00+01:00",
-    "EndTime": "2024-12-10T15:45:00+01:00"
-  },
-  {
-    "Name": "BMT3-SEP-01",
-    "Location": "0761",
-    "Description": "Dozent: DAI/[Chr]",
-    "StartTime": "2025-01-14T12:30:00+01:00",
-    "EndTime": "2025-01-14T15:45:00+01:00"
   },
   {
     "Name": "BMT3-SEP/01",

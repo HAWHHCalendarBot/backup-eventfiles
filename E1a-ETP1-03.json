@@ -2,29 +2,29 @@
   {
     "Name": "E1a-ETP1-03",
     "Location": "0502, 0565",
-    "Description": "Dozent: LHN/[Rac]",
-    "StartTime": "2024-11-07T08:10:00+01:00",
-    "EndTime": "2024-11-07T11:25:00+01:00"
+    "Description": "Dozent: AHSD/HSE/[Rac]",
+    "StartTime": "2025-04-24T12:10:00+02:00",
+    "EndTime": "2025-04-24T15:40:00+02:00"
   },
   {
     "Name": "E1a-ETP1-03",
     "Location": "0502, 0565",
-    "Description": "Dozent: LHN/[Rac]",
-    "StartTime": "2024-11-28T08:10:00+01:00",
-    "EndTime": "2024-11-28T11:25:00+01:00"
+    "Description": "Dozent: AHSD/[Rac]",
+    "StartTime": "2025-05-08T12:10:00+02:00",
+    "EndTime": "2025-05-08T15:40:00+02:00"
   },
   {
     "Name": "E1a-ETP1-03",
     "Location": "0502, 0565",
-    "Description": "Dozent: LHN/[Rac]",
-    "StartTime": "2024-12-19T08:10:00+01:00",
-    "EndTime": "2024-12-19T11:25:00+01:00"
+    "Description": "Dozent: AHSD/[Rac]",
+    "StartTime": "2025-06-05T12:10:00+02:00",
+    "EndTime": "2025-06-05T15:40:00+02:00"
   },
   {
     "Name": "E1a-ETP1-03",
     "Location": "0502, 0565",
-    "Description": "Dozent: LHN/[Rac]",
-    "StartTime": "2025-01-23T08:10:00+01:00",
-    "EndTime": "2025-01-23T11:25:00+01:00"
+    "Description": "Dozent: AHSD/[Rac]",
+    "StartTime": "2025-06-26T12:10:00+02:00",
+    "EndTime": "2025-06-26T15:40:00+02:00"
   }
 ]

@@ -1,79 +1,79 @@
 [
   {
     "Name": "IE2-EL1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: HSE",
-    "StartTime": "2024-10-18T12:10:00+02:00",
-    "EndTime": "2024-10-18T15:40:00+02:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-04-17T12:10:00+02:00",
+    "EndTime": "2025-04-17T15:40:00+02:00"
   },
   {
     "Name": "IE2-EL1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: HSE",
-    "StartTime": "2024-10-25T12:10:00+02:00",
-    "EndTime": "2024-10-25T15:40:00+02:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-04-24T12:10:00+02:00",
+    "EndTime": "2025-04-24T15:40:00+02:00"
   },
   {
     "Name": "IE2-EL1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: HSE",
-    "StartTime": "2024-11-01T12:10:00+01:00",
-    "EndTime": "2024-11-01T15:40:00+01:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-04-30T12:10:00+02:00",
+    "EndTime": "2025-04-30T15:40:00+02:00"
   },
   {
     "Name": "IE2-EL1",
-    "Location": "SteinD94 R0.02",
-    "Description": "Dozent: HSE",
-    "StartTime": "2024-11-08T12:10:00+01:00",
-    "EndTime": "2024-11-08T15:40:00+01:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-05-08T12:10:00+02:00",
+    "EndTime": "2025-05-08T15:40:00+02:00"
   },
   {
     "Name": "IE2-EL1",
-    "Location": "0560, SteinD94 R0.02",
-    "Description": "Dozent: HSE",
-    "StartTime": "2024-11-15T12:10:00+01:00",
-    "EndTime": "2024-11-15T15:40:00+01:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-05-15T12:10:00+02:00",
+    "EndTime": "2025-05-15T15:40:00+02:00"
   },
   {
     "Name": "IE2-EL1",
-    "Location": "0560, SteinD94 R0.02",
-    "Description": "Dozent: HSE",
-    "StartTime": "2024-11-22T12:10:00+01:00",
-    "EndTime": "2024-11-22T15:40:00+01:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-05-22T12:10:00+02:00",
+    "EndTime": "2025-05-22T15:40:00+02:00"
   },
   {
     "Name": "IE2-EL1",
-    "Location": "0560, SteinD94 R0.02",
-    "Description": "Dozent: HSE",
-    "StartTime": "2024-11-29T12:10:00+01:00",
-    "EndTime": "2024-11-29T15:40:00+01:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-06-05T12:10:00+02:00",
+    "EndTime": "2025-06-05T15:40:00+02:00"
   },
   {
     "Name": "IE2-EL1",
-    "Location": "0560, SteinD94 R0.02",
-    "Description": "Dozent: HSE",
-    "StartTime": "2024-12-06T12:10:00+01:00",
-    "EndTime": "2024-12-06T15:40:00+01:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-06-12T12:10:00+02:00",
+    "EndTime": "2025-06-12T15:40:00+02:00"
   },
   {
     "Name": "IE2-EL1",
-    "Location": "0560, SteinD94 R0.02",
-    "Description": "Dozent: HSE",
-    "StartTime": "2024-12-13T12:10:00+01:00",
-    "EndTime": "2024-12-13T15:40:00+01:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-06-19T12:10:00+02:00",
+    "EndTime": "2025-06-19T15:40:00+02:00"
   },
   {
     "Name": "IE2-EL1",
-    "Location": "0560, SteinD94 R0.02",
-    "Description": "Dozent: HSE",
-    "StartTime": "2024-12-20T12:10:00+01:00",
-    "EndTime": "2024-12-20T15:40:00+01:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-06-26T12:10:00+02:00",
+    "EndTime": "2025-06-26T15:40:00+02:00"
   },
   {
     "Name": "IE2-EL1",
-    "Location": "0560, SteinD94 R0.02",
-    "Description": "Dozent: HSE",
-    "StartTime": "2025-01-10T12:10:00+01:00",
-    "EndTime": "2025-01-10T15:40:00+01:00"
+    "Location": "1260",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-07-03T12:10:00+02:00",
+    "EndTime": "2025-07-03T15:40:00+02:00"
   }
 ]
