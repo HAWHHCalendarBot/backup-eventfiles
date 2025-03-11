@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI1-GIP/01",
+    "Location": "1105",
+    "Description": "Dozent: BAR",
+    "StartTime": "2025-04-23T16:00:00+02:00",
+    "EndTime": "2025-04-23T19:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-GIP/01",
+    "Location": "1105",
+    "Description": "Dozent: BAR",
+    "StartTime": "2025-05-21T16:00:00+02:00",
+    "EndTime": "2025-05-21T19:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-GIP/01",
+    "Location": "1105",
+    "Description": "Dozent: BAR",
+    "StartTime": "2025-06-11T16:00:00+02:00",
+    "EndTime": "2025-06-11T19:15:00+02:00"
+  },
+  {
+    "Name": "BAI1-GIP/01",
+    "Location": "1105",
+    "Description": "Dozent: BAR",
+    "StartTime": "2025-07-02T16:00:00+02:00",
+    "EndTime": "2025-07-02T19:15:00+02:00"
+  }
+]

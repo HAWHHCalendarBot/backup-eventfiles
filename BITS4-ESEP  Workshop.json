@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "BITS4-ESEP  Workshop",
+    "Location": "0460",
+    "Description": "Dozent: DAI/KRF/[Chr]",
+    "StartTime": "2025-04-16T08:15:00+02:00",
+    "EndTime": "2025-04-16T16:00:00+02:00"
+  },
+  {
+    "Name": "BITS4-ESEP  Workshop",
+    "Location": "0460, 0701, 0709, 0761",
+    "Description": "Dozent: DAI/KRF/[Chr]",
+    "StartTime": "2025-04-16T08:15:00+02:00",
+    "EndTime": "2025-04-16T16:00:00+02:00"
+  },
+  {
+    "Name": "BITS4-ESEP  Workshop",
+    "Location": "0701",
+    "Description": "Dozent: DAI/KRF/[Chr]",
+    "StartTime": "2025-04-16T08:15:00+02:00",
+    "EndTime": "2025-04-16T16:00:00+02:00"
+  },
+  {
+    "Name": "BITS4-ESEP  Workshop",
+    "Location": "0709",
+    "Description": "Dozent: DAI/KRF/[Chr]",
+    "StartTime": "2025-04-16T08:15:00+02:00",
+    "EndTime": "2025-04-16T16:00:00+02:00"
+  },
+  {
+    "Name": "BITS4-ESEP  Workshop",
+    "Location": "0761",
+    "Description": "Dozent: DAI/KRF/[Chr]",
+    "StartTime": "2025-04-16T08:15:00+02:00",
+    "EndTime": "2025-04-16T16:00:00+02:00"
+  }
+]

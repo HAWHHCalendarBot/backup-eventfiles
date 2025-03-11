@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BITS5-VSP/03",
+    "Location": "0765",
+    "Description": "Dozent: BCK/[Mat]/[Wag]",
+    "StartTime": "2025-05-08T12:30:00+02:00",
+    "EndTime": "2025-05-08T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS5-VSP/03",
+    "Location": "0765",
+    "Description": "Dozent: BCK/[Mat]/[Wag]",
+    "StartTime": "2025-06-05T12:30:00+02:00",
+    "EndTime": "2025-06-05T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS5-VSP/03",
+    "Location": "0765",
+    "Description": "Dozent: BCK/[Mat]/[Wag]",
+    "StartTime": "2025-06-26T12:30:00+02:00",
+    "EndTime": "2025-06-26T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS5-VSP/03",
+    "Location": "0765",
+    "Description": "Dozent: BCK/[Mat]/[Wag]",
+    "StartTime": "2025-07-17T12:30:00+02:00",
+    "EndTime": "2025-07-17T15:45:00+02:00"
+  }
+]

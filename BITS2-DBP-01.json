@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "BITS2-DBP/01",
+    "Location": "1102",
+    "Description": "Dozent: PLSK",
+    "StartTime": "2025-04-29T16:00:00+02:00",
+    "EndTime": "2025-04-29T17:30:00+02:00"
+  },
+  {
+    "Name": "BITS2-DBP/01",
+    "Location": "1102",
+    "Description": "Dozent: PLSK",
+    "StartTime": "2025-05-13T16:00:00+02:00",
+    "EndTime": "2025-05-13T17:30:00+02:00"
+  },
+  {
+    "Name": "BITS2-DBP/01",
+    "Location": "1102",
+    "Description": "Dozent: PLSK",
+    "StartTime": "2025-05-27T16:00:00+02:00",
+    "EndTime": "2025-05-27T17:30:00+02:00"
+  },
+  {
+    "Name": "BITS2-DBP/01",
+    "Location": "1102",
+    "Description": "Dozent: PLSK",
+    "StartTime": "2025-06-17T16:00:00+02:00",
+    "EndTime": "2025-06-17T17:30:00+02:00"
+  },
+  {
+    "Name": "BITS2-DBP/01",
+    "Location": "1102",
+    "Description": "Dozent: PLSK",
+    "StartTime": "2025-07-01T16:00:00+02:00",
+    "EndTime": "2025-07-01T17:30:00+02:00"
+  },
+  {
+    "Name": "BITS2-DBP/01",
+    "Location": "1102",
+    "Description": "Dozent: PLSK",
+    "StartTime": "2025-07-15T16:00:00+02:00",
+    "EndTime": "2025-07-15T17:30:00+02:00"
+  }
+]

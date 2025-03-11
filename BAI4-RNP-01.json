@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI4-RNP/01",
+    "Location": "0765",
+    "Description": "Dozent: BCK",
+    "StartTime": "2025-04-22T08:15:00+02:00",
+    "EndTime": "2025-04-22T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI4-RNP/01",
+    "Location": "0765",
+    "Description": "Dozent: BCK",
+    "StartTime": "2025-05-13T08:15:00+02:00",
+    "EndTime": "2025-05-13T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI4-RNP/01",
+    "Location": "0765",
+    "Description": "Dozent: BCK",
+    "StartTime": "2025-06-03T08:15:00+02:00",
+    "EndTime": "2025-06-03T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI4-RNP/01",
+    "Location": "0765",
+    "Description": "Dozent: BCK",
+    "StartTime": "2025-07-01T08:15:00+02:00",
+    "EndTime": "2025-07-01T11:30:00+02:00"
+  }
+]

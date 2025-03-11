@@ -1,0 +1,254 @@
+[
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-04-23T12:30:00+02:00",
+    "EndTime": "2025-04-23T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701, 0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-04-23T12:30:00+02:00",
+    "EndTime": "2025-04-23T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-04-23T12:30:00+02:00",
+    "EndTime": "2025-04-23T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-05-07T12:30:00+02:00",
+    "EndTime": "2025-05-07T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701, 0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-05-07T12:30:00+02:00",
+    "EndTime": "2025-05-07T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-05-07T12:30:00+02:00",
+    "EndTime": "2025-05-07T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-05-14T12:30:00+02:00",
+    "EndTime": "2025-05-14T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701, 0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-05-14T12:30:00+02:00",
+    "EndTime": "2025-05-14T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-05-14T12:30:00+02:00",
+    "EndTime": "2025-05-14T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-05-21T12:30:00+02:00",
+    "EndTime": "2025-05-21T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701, 0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-05-21T12:30:00+02:00",
+    "EndTime": "2025-05-21T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-05-21T12:30:00+02:00",
+    "EndTime": "2025-05-21T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-05-28T12:30:00+02:00",
+    "EndTime": "2025-05-28T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701, 0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-05-28T12:30:00+02:00",
+    "EndTime": "2025-05-28T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-05-28T12:30:00+02:00",
+    "EndTime": "2025-05-28T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-06-04T12:30:00+02:00",
+    "EndTime": "2025-06-04T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701, 0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-06-04T12:30:00+02:00",
+    "EndTime": "2025-06-04T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-06-04T12:30:00+02:00",
+    "EndTime": "2025-06-04T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-06-11T12:30:00+02:00",
+    "EndTime": "2025-06-11T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701, 0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-06-11T12:30:00+02:00",
+    "EndTime": "2025-06-11T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-06-11T12:30:00+02:00",
+    "EndTime": "2025-06-11T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-06-18T12:30:00+02:00",
+    "EndTime": "2025-06-18T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701, 0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-06-18T12:30:00+02:00",
+    "EndTime": "2025-06-18T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-06-18T12:30:00+02:00",
+    "EndTime": "2025-06-18T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-06-25T12:30:00+02:00",
+    "EndTime": "2025-06-25T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701, 0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-06-25T12:30:00+02:00",
+    "EndTime": "2025-06-25T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-06-25T12:30:00+02:00",
+    "EndTime": "2025-06-25T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-07-02T12:30:00+02:00",
+    "EndTime": "2025-07-02T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701, 0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-07-02T12:30:00+02:00",
+    "EndTime": "2025-07-02T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-07-02T12:30:00+02:00",
+    "EndTime": "2025-07-02T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-07-09T12:30:00+02:00",
+    "EndTime": "2025-07-09T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701, 0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-07-09T12:30:00+02:00",
+    "EndTime": "2025-07-09T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-07-09T12:30:00+02:00",
+    "EndTime": "2025-07-09T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-07-16T12:30:00+02:00",
+    "EndTime": "2025-07-16T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0701, 0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-07-16T12:30:00+02:00",
+    "EndTime": "2025-07-16T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-GTP/01-03",
+    "Location": "0709",
+    "Description": "Dozent: KRF/[Ben]",
+    "StartTime": "2025-07-16T12:30:00+02:00",
+    "EndTime": "2025-07-16T15:45:00+02:00"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "BAI1-PTP/05",
+    "Location": "1101a",
+    "Description": "Dozent: SWZR/[Kas]",
+    "StartTime": "2025-04-22T12:30:00+02:00",
+    "EndTime": "2025-04-22T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI1-PTP/05",
+    "Location": "1101a",
+    "Description": "Dozent: SWZR/[Kas]",
+    "StartTime": "2025-05-06T12:30:00+02:00",
+    "EndTime": "2025-05-06T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI1-PTP/05",
+    "Location": "1101a",
+    "Description": "Dozent: SWZR/[Kas]",
+    "StartTime": "2025-05-20T12:30:00+02:00",
+    "EndTime": "2025-05-20T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI1-PTP/05",
+    "Location": "1101a",
+    "Description": "Dozent: SWZR/[Kas]",
+    "StartTime": "2025-06-03T12:30:00+02:00",
+    "EndTime": "2025-06-03T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI1-PTP/05",
+    "Location": "1101a",
+    "Description": "Dozent: SWZR/[Kas]",
+    "StartTime": "2025-06-24T12:30:00+02:00",
+    "EndTime": "2025-06-24T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI1-PTP/05",
+    "Location": "1101a",
+    "Description": "Dozent: SWZR/[Kas]",
+    "StartTime": "2025-07-08T12:30:00+02:00",
+    "EndTime": "2025-07-08T15:45:00+02:00"
+  }
+]

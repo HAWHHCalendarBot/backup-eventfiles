@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "BITS4-SY",
+    "Location": "0460",
+    "Description": "Dozent: KRF",
+    "StartTime": "2025-04-16T16:00:00+02:00",
+    "EndTime": "2025-04-16T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-SY",
+    "Location": "0460",
+    "Description": "Dozent: KRF",
+    "StartTime": "2025-04-23T16:00:00+02:00",
+    "EndTime": "2025-04-23T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-SY",
+    "Location": "0460",
+    "Description": "Dozent: KRF",
+    "StartTime": "2025-04-30T16:00:00+02:00",
+    "EndTime": "2025-04-30T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-SY",
+    "Location": "0460",
+    "Description": "Dozent: KRF",
+    "StartTime": "2025-05-07T16:00:00+02:00",
+    "EndTime": "2025-05-07T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-SY",
+    "Location": "0460",
+    "Description": "Dozent: KRF",
+    "StartTime": "2025-05-14T16:00:00+02:00",
+    "EndTime": "2025-05-14T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-SY",
+    "Location": "0460",
+    "Description": "Dozent: KRF",
+    "StartTime": "2025-05-21T16:00:00+02:00",
+    "EndTime": "2025-05-21T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-SY",
+    "Location": "0460",
+    "Description": "Dozent: KRF",
+    "StartTime": "2025-05-28T16:00:00+02:00",
+    "EndTime": "2025-05-28T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-SY",
+    "Location": "0460",
+    "Description": "Dozent: KRF",
+    "StartTime": "2025-06-04T16:00:00+02:00",
+    "EndTime": "2025-06-04T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-SY",
+    "Location": "0460",
+    "Description": "Dozent: KRF",
+    "StartTime": "2025-06-18T16:00:00+02:00",
+    "EndTime": "2025-06-18T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-SY",
+    "Location": "0460",
+    "Description": "Dozent: KRF",
+    "StartTime": "2025-06-25T16:00:00+02:00",
+    "EndTime": "2025-06-25T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-SY",
+    "Location": "0460",
+    "Description": "Dozent: KRF",
+    "StartTime": "2025-07-02T16:00:00+02:00",
+    "EndTime": "2025-07-02T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-SY",
+    "Location": "0460",
+    "Description": "Dozent: KRF",
+    "StartTime": "2025-07-09T16:00:00+02:00",
+    "EndTime": "2025-07-09T19:15:00+02:00"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "BITS1-PTP/04",
+    "Location": "1105",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2025-04-29T12:30:00+02:00",
+    "EndTime": "2025-04-29T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/04",
+    "Location": "1105",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2025-05-13T12:30:00+02:00",
+    "EndTime": "2025-05-13T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/04",
+    "Location": "1105",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2025-05-27T12:30:00+02:00",
+    "EndTime": "2025-05-27T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/04",
+    "Location": "1105",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2025-06-17T12:30:00+02:00",
+    "EndTime": "2025-06-17T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/04",
+    "Location": "1105",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2025-07-01T12:30:00+02:00",
+    "EndTime": "2025-07-01T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS1-PTP/04",
+    "Location": "1105",
+    "Description": "Dozent: SHF/[Bla]",
+    "StartTime": "2025-07-15T12:30:00+02:00",
+    "EndTime": "2025-07-15T15:45:00+02:00"
+  }
+]

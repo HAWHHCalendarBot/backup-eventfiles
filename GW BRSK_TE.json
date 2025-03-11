@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "GW BRSK_TE",
+    "Location": "1283",
+    "Description": "Dozent: BRSK",
+    "StartTime": "2025-05-09T16:00:00+02:00",
+    "EndTime": "2025-05-09T19:00:00+02:00"
+  },
+  {
+    "Name": "GW BRSK_TE",
+    "Location": "0665",
+    "Description": "Dozent: BRSK",
+    "StartTime": "2025-05-10T10:00:00+02:00",
+    "EndTime": "2025-05-10T16:00:00+02:00"
+  },
+  {
+    "Name": "GW BRSK_TE",
+    "Location": "1283",
+    "Description": "Dozent: BRSK",
+    "StartTime": "2025-05-16T16:00:00+02:00",
+    "EndTime": "2025-05-16T19:00:00+02:00"
+  },
+  {
+    "Name": "GW BRSK_TE",
+    "Location": "0665",
+    "Description": "Dozent: BRSK",
+    "StartTime": "2025-05-17T10:00:00+02:00",
+    "EndTime": "2025-05-17T16:00:00+02:00"
+  },
+  {
+    "Name": "GW BRSK_TE",
+    "Location": "0665",
+    "Description": "Dozent: BRSK",
+    "StartTime": "2025-05-24T10:00:00+02:00",
+    "EndTime": "2025-05-24T16:00:00+02:00"
+  }
+]

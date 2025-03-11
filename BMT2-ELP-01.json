@@ -14,6 +14,13 @@
     "EndTime": "2025-05-06T15:40:00+02:00"
   },
   {
+    "Name": "BMT2-ELP/01",
+    "Location": "0505",
+    "Description": "Dozent: LHN",
+    "StartTime": "2025-05-06T12:10:00+02:00",
+    "EndTime": "2025-05-06T15:40:00+02:00"
+  },
+  {
     "Name": "BMT2-ELP-01",
     "Location": "0505",
     "Description": "Dozent: LHN",
@@ -21,7 +28,21 @@
     "EndTime": "2025-05-27T15:40:00+02:00"
   },
   {
+    "Name": "BMT2-ELP/01",
+    "Location": "0505",
+    "Description": "Dozent: LHN",
+    "StartTime": "2025-05-27T12:10:00+02:00",
+    "EndTime": "2025-05-27T15:40:00+02:00"
+  },
+  {
     "Name": "BMT2-ELP-01",
+    "Location": "0505",
+    "Description": "Dozent: LHN",
+    "StartTime": "2025-06-24T12:10:00+02:00",
+    "EndTime": "2025-06-24T15:40:00+02:00"
+  },
+  {
+    "Name": "BMT2-ELP/01",
     "Location": "0505",
     "Description": "Dozent: LHN",
     "StartTime": "2025-06-24T12:10:00+02:00",

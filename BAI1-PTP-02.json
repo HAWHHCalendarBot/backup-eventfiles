@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "BAI1-PTP/02",
+    "Location": "1101a",
+    "Description": "Dozent: [Ale]/[Kas]",
+    "StartTime": "2025-05-05T12:30:00+02:00",
+    "EndTime": "2025-05-05T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI1-PTP/02",
+    "Location": "1101a",
+    "Description": "Dozent: [Ale]/[Kas]",
+    "StartTime": "2025-05-19T12:30:00+02:00",
+    "EndTime": "2025-05-19T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI1-PTP/02",
+    "Location": "1101a",
+    "Description": "Dozent: [Ale]/[Kas]",
+    "StartTime": "2025-06-02T12:30:00+02:00",
+    "EndTime": "2025-06-02T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI1-PTP/02",
+    "Location": "1101a",
+    "Description": "Dozent: [Ale]/[Kas]",
+    "StartTime": "2025-06-16T12:30:00+02:00",
+    "EndTime": "2025-06-16T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI1-PTP/02",
+    "Location": "1101a",
+    "Description": "Dozent: [Ale]/[Kas]",
+    "StartTime": "2025-06-30T12:30:00+02:00",
+    "EndTime": "2025-06-30T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI1-PTP/02",
+    "Location": "1101a",
+    "Description": "Dozent: [Ale]/[Kas]",
+    "StartTime": "2025-07-14T12:30:00+02:00",
+    "EndTime": "2025-07-14T15:45:00+02:00"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BITS6-CPSP/01",
+    "Location": "0765",
+    "Description": "Dozent: SKT/[Mat]",
+    "StartTime": "2025-04-24T08:15:00+02:00",
+    "EndTime": "2025-04-24T11:30:00+02:00"
+  },
+  {
+    "Name": "BITS6-CPSP/01",
+    "Location": "0765",
+    "Description": "Dozent: SKT/[Mat]",
+    "StartTime": "2025-05-15T08:15:00+02:00",
+    "EndTime": "2025-05-15T11:30:00+02:00"
+  },
+  {
+    "Name": "BITS6-CPSP/01",
+    "Location": "0765",
+    "Description": "Dozent: SKT/[Mat]",
+    "StartTime": "2025-06-12T08:15:00+02:00",
+    "EndTime": "2025-06-12T11:30:00+02:00"
+  },
+  {
+    "Name": "BITS6-CPSP/01",
+    "Location": "0765",
+    "Description": "Dozent: SKT/[Mat]",
+    "StartTime": "2025-07-03T08:15:00+02:00",
+    "EndTime": "2025-07-03T11:30:00+02:00"
+  }
+]

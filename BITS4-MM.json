@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "BITS4-MM",
+    "Location": "SteinD94 R0.01",
+    "Description": "Dozent: STG",
+    "StartTime": "2025-04-14T12:30:00+02:00",
+    "EndTime": "2025-04-14T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-MM",
+    "Location": "SteinD94 R0.01",
+    "Description": "Dozent: STG",
+    "StartTime": "2025-04-28T12:30:00+02:00",
+    "EndTime": "2025-04-28T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-MM",
+    "Location": "0665",
+    "Description": "Dozent: STG",
+    "StartTime": "2025-05-05T16:00:00+02:00",
+    "EndTime": "2025-05-05T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-MM",
+    "Location": "SteinD94 R0.01",
+    "Description": "Dozent: STG",
+    "StartTime": "2025-05-12T12:30:00+02:00",
+    "EndTime": "2025-05-12T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-MM",
+    "Location": "SteinD94 R0.01",
+    "Description": "Dozent: STG",
+    "StartTime": "2025-05-19T12:30:00+02:00",
+    "EndTime": "2025-05-19T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-MM",
+    "Location": "0665",
+    "Description": "Dozent: STG",
+    "StartTime": "2025-05-26T16:00:00+02:00",
+    "EndTime": "2025-05-26T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-MM",
+    "Location": "SteinD94 R0.01",
+    "Description": "Dozent: STG",
+    "StartTime": "2025-06-02T12:30:00+02:00",
+    "EndTime": "2025-06-02T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-MM",
+    "Location": "SteinD94 R0.01",
+    "Description": "Dozent: STG",
+    "StartTime": "2025-06-10T12:30:00+02:00",
+    "EndTime": "2025-06-10T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-MM",
+    "Location": "0665",
+    "Description": "Dozent: STG",
+    "StartTime": "2025-06-16T16:00:00+02:00",
+    "EndTime": "2025-06-16T19:15:00+02:00"
+  },
+  {
+    "Name": "BITS4-MM",
+    "Location": "SteinD94 R0.01",
+    "Description": "Dozent: STG",
+    "StartTime": "2025-06-23T12:30:00+02:00",
+    "EndTime": "2025-06-23T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-MM",
+    "Location": "SteinD94 R0.01",
+    "Description": "Dozent: STG",
+    "StartTime": "2025-06-30T12:30:00+02:00",
+    "EndTime": "2025-06-30T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS4-MM",
+    "Location": "0665",
+    "Description": "Dozent: STG",
+    "StartTime": "2025-07-07T16:00:00+02:00",
+    "EndTime": "2025-07-07T19:15:00+02:00"
+  }
+]

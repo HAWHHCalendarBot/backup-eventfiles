@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BITS4-MMP/02",
+    "Location": "0761",
+    "Description": "Dozent: DHN/[DeG]",
+    "StartTime": "2025-05-05T08:15:00+02:00",
+    "EndTime": "2025-05-05T11:30:00+02:00"
+  },
+  {
+    "Name": "BITS4-MMP/02",
+    "Location": "0761",
+    "Description": "Dozent: DHN/[DeG]",
+    "StartTime": "2025-05-26T08:15:00+02:00",
+    "EndTime": "2025-05-26T11:30:00+02:00"
+  },
+  {
+    "Name": "BITS4-MMP/02",
+    "Location": "0761",
+    "Description": "Dozent: DHN/[DeG]",
+    "StartTime": "2025-06-16T08:15:00+02:00",
+    "EndTime": "2025-06-16T11:30:00+02:00"
+  },
+  {
+    "Name": "BITS4-MMP/02",
+    "Location": "0761",
+    "Description": "Dozent: DHN/[DeG]",
+    "StartTime": "2025-07-07T08:15:00+02:00",
+    "EndTime": "2025-07-07T11:30:00+02:00"
+  }
+]

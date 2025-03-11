@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BWI4-IN2P/02",
+    "Location": "0380b",
+    "Description": "Dozent: [Ale]",
+    "StartTime": "2025-05-05T16:00:00+02:00",
+    "EndTime": "2025-05-05T19:15:00+02:00"
+  },
+  {
+    "Name": "BWI4-IN2P/02",
+    "Location": "0380b",
+    "Description": "Dozent: [Ale]",
+    "StartTime": "2025-05-26T16:00:00+02:00",
+    "EndTime": "2025-05-26T19:15:00+02:00"
+  },
+  {
+    "Name": "BWI4-IN2P/02",
+    "Location": "0380b",
+    "Description": "Dozent: [Ale]",
+    "StartTime": "2025-06-16T16:00:00+02:00",
+    "EndTime": "2025-06-16T19:15:00+02:00"
+  },
+  {
+    "Name": "BWI4-IN2P/02",
+    "Location": "0380b",
+    "Description": "Dozent: [Ale]",
+    "StartTime": "2025-07-07T16:00:00+02:00",
+    "EndTime": "2025-07-07T19:15:00+02:00"
+  }
+]

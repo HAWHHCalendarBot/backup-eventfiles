@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI2-RMPP/03",
+    "Location": "0765",
+    "Description": "Dozent: TDM/[DeG]",
+    "StartTime": "2025-04-23T08:15:00+02:00",
+    "EndTime": "2025-04-23T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI2-RMPP/03",
+    "Location": "0765",
+    "Description": "Dozent: TDM/[DeG]",
+    "StartTime": "2025-05-21T08:15:00+02:00",
+    "EndTime": "2025-05-21T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI2-RMPP/03",
+    "Location": "0765",
+    "Description": "Dozent: TDM/[DeG]",
+    "StartTime": "2025-06-11T08:15:00+02:00",
+    "EndTime": "2025-06-11T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI2-RMPP/03",
+    "Location": "0765",
+    "Description": "Dozent: TDM/[DeG]",
+    "StartTime": "2025-07-02T08:15:00+02:00",
+    "EndTime": "2025-07-02T11:30:00+02:00"
+  }
+]

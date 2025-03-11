@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BITS1-OE I",
+    "Location": "0360",
+    "Description": "",
+    "StartTime": "2025-04-01T09:00:00+02:00",
+    "EndTime": "2025-04-01T17:00:00+02:00"
+  },
+  {
+    "Name": "BITS1-OE I",
+    "Location": "0360",
+    "Description": "",
+    "StartTime": "2025-04-02T09:00:00+02:00",
+    "EndTime": "2025-04-02T17:00:00+02:00"
+  },
+  {
+    "Name": "BITS1-OE I",
+    "Location": "0360",
+    "Description": "",
+    "StartTime": "2025-04-03T09:00:00+02:00",
+    "EndTime": "2025-04-03T17:00:00+02:00"
+  },
+  {
+    "Name": "BITS1-OE I",
+    "Location": "0360",
+    "Description": "",
+    "StartTime": "2025-04-04T09:00:00+02:00",
+    "EndTime": "2025-04-04T17:00:00+02:00"
+  }
+]

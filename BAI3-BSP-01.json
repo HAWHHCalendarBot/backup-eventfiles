@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "BAI3-BSP/01",
+    "Location": "0709",
+    "Description": "Dozent: SCRZ/[DeG]",
+    "StartTime": "2025-04-22T12:30:00+02:00",
+    "EndTime": "2025-04-22T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI3-BSP/01",
+    "Location": "0709",
+    "Description": "Dozent: SCRZ/[DeG]",
+    "StartTime": "2025-05-13T12:30:00+02:00",
+    "EndTime": "2025-05-13T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI3-BSP/01",
+    "Location": "0709",
+    "Description": "Dozent: SCRZ/[DeG]",
+    "StartTime": "2025-06-03T12:30:00+02:00",
+    "EndTime": "2025-06-03T15:45:00+02:00"
+  },
+  {
+    "Name": "BAI3-BSP/01",
+    "Location": "0709",
+    "Description": "Dozent: SCRZ/[DeG]",
+    "StartTime": "2025-07-01T12:30:00+02:00",
+    "EndTime": "2025-07-01T15:45:00+02:00"
+  }
+]
