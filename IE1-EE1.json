@@ -24,13 +24,6 @@
     "Name": "IE1-EE1",
     "Location": "NB 01.13",
     "Description": "Dozent: LAP",
-    "StartTime": "2025-04-30T08:10:00+02:00",
-    "EndTime": "2025-04-30T11:25:00+02:00"
-  },
-  {
-    "Name": "IE1-EE1",
-    "Location": "NB 01.13",
-    "Description": "Dozent: LAP",
     "StartTime": "2025-05-08T08:10:00+02:00",
     "EndTime": "2025-05-08T11:25:00+02:00"
   },
@@ -75,5 +68,12 @@
     "Description": "Dozent: LAP",
     "StartTime": "2025-06-26T08:10:00+02:00",
     "EndTime": "2025-06-26T11:25:00+02:00"
+  },
+  {
+    "Name": "IE1-EE1",
+    "Location": "NB 01.13",
+    "Description": "Dozent: LAP",
+    "StartTime": "2025-07-03T08:10:00+02:00",
+    "EndTime": "2025-07-03T11:25:00+02:00"
   }
 ]

@@ -26,5 +26,12 @@
     "Description": "Dozent: SHOK",
     "StartTime": "2025-07-01T08:10:00+02:00",
     "EndTime": "2025-07-01T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-EME-02",
+    "Location": "1281",
+    "Description": "Dozent: SHOK",
+    "StartTime": "2025-07-08T08:10:00+02:00",
+    "EndTime": "2025-07-08T11:25:00+02:00"
   }
 ]

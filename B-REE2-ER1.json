@@ -22,10 +22,10 @@
   },
   {
     "Name": "B-REE2-ER1",
-    "Location": "SteinD94 R0.02",
+    "Location": "0560",
     "Description": "Dozent: HSE",
-    "StartTime": "2025-05-05T08:10:00+02:00",
-    "EndTime": "2025-05-05T11:25:00+02:00"
+    "StartTime": "2025-05-05T12:10:00+02:00",
+    "EndTime": "2025-05-05T15:40:00+02:00"
   },
   {
     "Name": "B-REE2-ER1",
@@ -50,10 +50,10 @@
   },
   {
     "Name": "B-REE2-ER1",
-    "Location": "SteinD94 R0.02",
+    "Location": "0560",
     "Description": "Dozent: HSE",
-    "StartTime": "2025-06-02T08:10:00+02:00",
-    "EndTime": "2025-06-02T11:25:00+02:00"
+    "StartTime": "2025-06-02T12:10:00+02:00",
+    "EndTime": "2025-06-02T15:40:00+02:00"
   },
   {
     "Name": "B-REE2-ER1",

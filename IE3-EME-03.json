@@ -10,6 +10,13 @@
     "Name": "IE3-EME-03",
     "Location": "1281",
     "Description": "Dozent: SHOK",
+    "StartTime": "2025-04-29T08:10:00+02:00",
+    "EndTime": "2025-04-29T11:25:00+02:00"
+  },
+  {
+    "Name": "IE3-EME-03",
+    "Location": "1281",
+    "Description": "Dozent: SHOK",
     "StartTime": "2025-05-20T08:10:00+02:00",
     "EndTime": "2025-05-20T11:25:00+02:00"
   },
