@@ -1,50 +1,50 @@
 [
   {
-    "Name": "INF-WP-C3",
-    "Location": "0380b",
-    "Description": "Dozent: SRSK/STF",
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
     "StartTime": "2025-04-25T12:30:00+02:00",
     "EndTime": "2025-04-25T15:45:00+02:00"
   },
   {
-    "Name": "INF-WP-C3",
-    "Location": "0380b",
-    "Description": "Dozent: SRSK/STF",
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
     "StartTime": "2025-05-09T12:30:00+02:00",
     "EndTime": "2025-05-09T15:45:00+02:00"
   },
   {
-    "Name": "INF-WP-C3",
-    "Location": "0380b",
-    "Description": "Dozent: SRSK/STF",
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
     "StartTime": "2025-05-23T12:30:00+02:00",
     "EndTime": "2025-05-23T15:45:00+02:00"
   },
   {
-    "Name": "INF-WP-C3",
-    "Location": "0380b",
-    "Description": "Dozent: SRSK/STF",
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
     "StartTime": "2025-06-06T12:30:00+02:00",
     "EndTime": "2025-06-06T15:45:00+02:00"
   },
   {
-    "Name": "INF-WP-C3",
-    "Location": "0380b",
-    "Description": "Dozent: SRSK/STF",
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
     "StartTime": "2025-06-20T12:30:00+02:00",
     "EndTime": "2025-06-20T15:45:00+02:00"
   },
   {
-    "Name": "INF-WP-C3",
-    "Location": "0380b",
-    "Description": "Dozent: SRSK/STF",
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
     "StartTime": "2025-07-04T12:30:00+02:00",
     "EndTime": "2025-07-04T15:45:00+02:00"
   },
   {
-    "Name": "INF-WP-C3",
-    "Location": "0380b",
-    "Description": "Dozent: SRSK/STF",
+    "Name": "INF-WP-C1",
+    "Location": "0380a",
+    "Description": "Dozent: BKMN/STF",
     "StartTime": "2025-07-18T12:30:00+02:00",
     "EndTime": "2025-07-18T15:45:00+02:00"
   }

@@ -82,5 +82,12 @@
     "Description": "Dozent: SML/STG",
     "StartTime": "2025-07-08T16:00:00+02:00",
     "EndTime": "2025-07-08T18:00:00+02:00"
+  },
+  {
+    "Name": "B-Seminar_B",
+    "Location": "0560",
+    "Description": "Dozent: SML/STG",
+    "StartTime": "2025-07-15T16:00:00+02:00",
+    "EndTime": "2025-07-15T18:00:00+02:00"
   }
 ]
