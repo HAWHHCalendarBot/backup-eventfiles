@@ -1,13 +1,6 @@
 [
   {
-    "Name": "BMT5-AKP-01",
-    "Location": "0601",
-    "Description": "Dozent: Plaumann",
-    "StartTime": "2025-04-28T12:15:00+02:00",
-    "EndTime": "2025-04-28T15:30:00+02:00"
-  },
-  {
-    "Name": "BMT5-AKP-01",
+    "Name": "BMT5-AKP/01",
     "Location": "0601",
     "Description": "Dozent: Plaumann",
     "StartTime": "2025-05-08T08:10:00+02:00",
@@ -17,29 +10,8 @@
     "Name": "BMT5-AKP/01",
     "Location": "0601",
     "Description": "Dozent: Plaumann",
-    "StartTime": "2025-05-08T08:10:00+02:00",
-    "EndTime": "2025-05-08T11:25:00+02:00"
-  },
-  {
-    "Name": "BMT5-AKP-01",
-    "Location": "0601",
-    "Description": "Dozent: Plaumann",
     "StartTime": "2025-06-05T08:10:00+02:00",
     "EndTime": "2025-06-05T11:25:00+02:00"
-  },
-  {
-    "Name": "BMT5-AKP/01",
-    "Location": "0601",
-    "Description": "Dozent: Plaumann",
-    "StartTime": "2025-06-05T08:10:00+02:00",
-    "EndTime": "2025-06-05T11:25:00+02:00"
-  },
-  {
-    "Name": "BMT5-AKP-01",
-    "Location": "0601",
-    "Description": "Dozent: Plaumann",
-    "StartTime": "2025-06-26T08:10:00+02:00",
-    "EndTime": "2025-06-26T11:25:00+02:00"
   },
   {
     "Name": "BMT5-AKP/01",

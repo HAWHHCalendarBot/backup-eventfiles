@@ -3,6 +3,13 @@
     "Name": "BMT2-PR2",
     "Location": "0460",
     "Description": "Dozent: ALTB",
+    "StartTime": "2025-04-14T12:30:00+02:00",
+    "EndTime": "2025-04-14T15:45:00+02:00"
+  },
+  {
+    "Name": "BMT2-PR2",
+    "Location": "0460",
+    "Description": "Dozent: ALTB",
     "StartTime": "2025-04-14T16:15:00+02:00",
     "EndTime": "2025-04-14T19:30:00+02:00"
   },
