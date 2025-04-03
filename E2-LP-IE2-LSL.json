@@ -1,42 +1,63 @@
 [
   {
     "Name": "E2-LP-IE2-LSL",
-    "Location": "NB 01.13",
+    "Location": "BT21 Aula",
     "Description": "",
-    "StartTime": "2025-04-07T08:10:00+02:00",
-    "EndTime": "2025-04-07T11:25:00+02:00"
+    "StartTime": "2025-04-07T10:00:00+02:00",
+    "EndTime": "2025-04-07T12:00:00+02:00"
   },
   {
     "Name": "E2-LP-IE2-LSL",
     "Location": "0501, 0502, 0505, 0801, 0804, 0880",
     "Description": "",
     "StartTime": "2025-04-07T12:10:00+02:00",
-    "EndTime": "2025-04-07T17:25:00+02:00"
+    "EndTime": "2025-04-07T14:00:00+02:00"
   },
   {
     "Name": "E2-LP-IE2-LSL",
-    "Location": "0501, 0804",
+    "Location": "BT21 Aula",
     "Description": "",
-    "StartTime": "2025-04-08T08:10:00+02:00",
+    "StartTime": "2025-04-07T14:00:00+02:00",
+    "EndTime": "2025-04-07T15:00:00+02:00"
+  },
+  {
+    "Name": "E2-LP-IE2-LSL",
+    "Location": "0501, 0502, 0505, 0801, 0804, 0880",
+    "Description": "",
+    "StartTime": "2025-04-07T15:00:00+02:00",
+    "EndTime": "2025-04-07T16:00:00+02:00"
+  },
+  {
+    "Name": "E2-LP-IE2-LSL",
+    "Location": "BT21 Aula",
+    "Description": "",
+    "StartTime": "2025-04-08T09:00:00+02:00",
+    "EndTime": "2025-04-08T10:00:00+02:00"
+  },
+  {
+    "Name": "E2-LP-IE2-LSL",
+    "Location": "0501, 0502, 0505, 0801, 0804, 0880",
+    "Description": "",
+    "StartTime": "2025-04-08T10:00:00+02:00",
     "EndTime": "2025-04-08T16:00:00+02:00"
   },
   {
     "Name": "E2-LP-IE2-LSL",
-    "Location": "0502, 0880",
+    "Location": "0501, 0801",
     "Description": "",
     "StartTime": "2025-04-09T08:10:00+02:00",
     "EndTime": "2025-04-09T16:00:00+02:00"
   },
   {
     "Name": "E2-LP-IE2-LSL",
-    "Location": "0505",
+    "Location": "0502, 0804",
     "Description": "",
     "StartTime": "2025-04-10T08:10:00+02:00",
     "EndTime": "2025-04-10T16:00:00+02:00"
   },
   {
     "Name": "E2-LP-IE2-LSL",
-    "Location": "0801",
+    "Location": "0505, 0880",
     "Description": "",
     "StartTime": "2025-04-11T08:10:00+02:00",
     "EndTime": "2025-04-11T16:00:00+02:00"

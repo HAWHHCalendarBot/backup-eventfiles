@@ -3,13 +3,6 @@
     "Name": "E2a-PH2",
     "Location": "1060",
     "Description": "Dozent: NRMF",
-    "StartTime": "2025-04-14T08:10:00+02:00",
-    "EndTime": "2025-04-14T11:25:00+02:00"
-  },
-  {
-    "Name": "E2a-PH2",
-    "Location": "1060",
-    "Description": "Dozent: NRMF",
     "StartTime": "2025-04-28T08:10:00+02:00",
     "EndTime": "2025-04-28T11:25:00+02:00"
   },
@@ -75,6 +68,13 @@
     "Description": "Dozent: NRMF",
     "StartTime": "2025-06-30T08:10:00+02:00",
     "EndTime": "2025-06-30T11:25:00+02:00"
+  },
+  {
+    "Name": "E2a-PH2",
+    "Location": "1060",
+    "Description": "Dozent: NRMF",
+    "StartTime": "2025-06-30T12:10:00+02:00",
+    "EndTime": "2025-06-30T15:40:00+02:00"
   },
   {
     "Name": "E2a-PH2",

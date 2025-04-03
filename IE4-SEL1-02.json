@@ -3,6 +3,13 @@
     "Name": "IE4-SEL1-02",
     "Location": "0565",
     "Description": "Dozent: RNZ",
+    "StartTime": "2025-04-14T17:40:00+02:00",
+    "EndTime": "2025-04-14T19:10:00+02:00"
+  },
+  {
+    "Name": "IE4-SEL1-02",
+    "Location": "0565",
+    "Description": "Dozent: RNZ",
     "StartTime": "2025-04-28T17:40:00+02:00",
     "EndTime": "2025-04-28T19:10:00+02:00"
   },
@@ -33,12 +40,5 @@
     "Description": "Dozent: RNZ",
     "StartTime": "2025-06-23T17:40:00+02:00",
     "EndTime": "2025-06-23T19:10:00+02:00"
-  },
-  {
-    "Name": "IE4-SEL1-02",
-    "Location": "0565",
-    "Description": "Dozent: RNZ",
-    "StartTime": "2025-07-07T17:40:00+02:00",
-    "EndTime": "2025-07-07T19:10:00+02:00"
   }
 ]
