@@ -15,17 +15,17 @@
   },
   {
     "Name": "IE1-MA1",
+    "Location": "0360",
+    "Description": "Dozent: NMN",
+    "StartTime": "2025-04-22T12:10:00+02:00",
+    "EndTime": "2025-04-22T15:40:00+02:00"
+  },
+  {
+    "Name": "IE1-MA1",
     "Location": "NB 01.13",
     "Description": "Dozent: NMN",
     "StartTime": "2025-04-23T08:10:00+02:00",
     "EndTime": "2025-04-23T11:25:00+02:00"
-  },
-  {
-    "Name": "IE1-MA1",
-    "Location": "0360",
-    "Description": "Dozent: NMN",
-    "StartTime": "2025-05-02T12:10:00+02:00",
-    "EndTime": "2025-05-02T15:40:00+02:00"
   },
   {
     "Name": "IE1-MA1",
