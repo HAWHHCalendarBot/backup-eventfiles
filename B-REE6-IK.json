@@ -22,10 +22,10 @@
   },
   {
     "Name": "B-REE6-IK",
-    "Location": "Stiftstr69  R106",
+    "Location": "1265",
     "Description": "Dozent: EGR",
-    "StartTime": "2025-04-29T12:10:00+02:00",
-    "EndTime": "2025-04-29T15:40:00+02:00"
+    "StartTime": "2025-04-23T08:10:00+02:00",
+    "EndTime": "2025-04-23T11:25:00+02:00"
   },
   {
     "Name": "B-REE6-IK",
@@ -36,17 +36,17 @@
   },
   {
     "Name": "B-REE6-IK",
-    "Location": "Stiftstr69  R106",
+    "Location": "1265",
     "Description": "Dozent: EGR",
-    "StartTime": "2025-05-13T12:10:00+02:00",
-    "EndTime": "2025-05-13T15:40:00+02:00"
+    "StartTime": "2025-05-07T08:10:00+02:00",
+    "EndTime": "2025-05-07T11:25:00+02:00"
   },
   {
     "Name": "B-REE6-IK",
     "Location": "Stiftstr69  R106",
     "Description": "Dozent: EGR",
-    "StartTime": "2025-05-20T12:10:00+02:00",
-    "EndTime": "2025-05-20T15:40:00+02:00"
+    "StartTime": "2025-05-13T12:10:00+02:00",
+    "EndTime": "2025-05-13T15:40:00+02:00"
   },
   {
     "Name": "B-REE6-IK",
@@ -66,14 +66,14 @@
     "Name": "B-REE6-IK",
     "Location": "Stiftstr69  R106",
     "Description": "Dozent: EGR",
-    "StartTime": "2025-06-17T12:10:00+02:00",
-    "EndTime": "2025-06-17T15:40:00+02:00"
+    "StartTime": "2025-06-24T12:10:00+02:00",
+    "EndTime": "2025-06-24T15:40:00+02:00"
   },
   {
     "Name": "B-REE6-IK",
     "Location": "Stiftstr69  R106",
     "Description": "Dozent: EGR",
-    "StartTime": "2025-06-24T12:10:00+02:00",
-    "EndTime": "2025-06-24T15:40:00+02:00"
+    "StartTime": "2025-07-01T12:10:00+02:00",
+    "EndTime": "2025-07-01T15:40:00+02:00"
   }
 ]

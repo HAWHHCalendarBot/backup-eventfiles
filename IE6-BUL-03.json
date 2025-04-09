@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "IE6-BUL-03",
+    "Location": "0804, 0865",
+    "Description": "Dozent: RTT",
+    "StartTime": "2025-04-23T12:10:00+02:00",
+    "EndTime": "2025-04-23T13:40:00+02:00"
+  },
+  {
+    "Name": "IE6-BUL-03",
+    "Location": "0804, 0865",
+    "Description": "Dozent: RTT",
+    "StartTime": "2025-05-14T08:10:00+02:00",
+    "EndTime": "2025-05-14T11:25:00+02:00"
+  },
+  {
+    "Name": "IE6-BUL-03",
+    "Location": "0804, 0865",
+    "Description": "Dozent: RTT",
+    "StartTime": "2025-06-04T08:10:00+02:00",
+    "EndTime": "2025-06-04T11:25:00+02:00"
+  },
+  {
+    "Name": "IE6-BUL-03",
+    "Location": "0804, 0865",
+    "Description": "Dozent: RTT",
+    "StartTime": "2025-06-25T08:10:00+02:00",
+    "EndTime": "2025-06-25T11:25:00+02:00"
+  }
+]
