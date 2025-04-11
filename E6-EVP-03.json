@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "E6-EVP-03",
+    "Location": "1401",
+    "Description": "Dozent: NGBR/WDL",
+    "StartTime": "2025-05-15T08:10:00+02:00",
+    "EndTime": "2025-05-15T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-EVP-03",
+    "Location": "1401",
+    "Description": "Dozent: NGBR/WDL",
+    "StartTime": "2025-05-27T12:10:00+02:00",
+    "EndTime": "2025-05-27T15:40:00+02:00"
+  },
+  {
+    "Name": "E6-EVP-03",
+    "Location": "1401",
+    "Description": "Dozent: NGBR/WDL",
+    "StartTime": "2025-06-12T08:10:00+02:00",
+    "EndTime": "2025-06-12T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-EVP-03",
+    "Location": "1401",
+    "Description": "Dozent: NGBR/WDL",
+    "StartTime": "2025-07-03T08:10:00+02:00",
+    "EndTime": "2025-07-03T11:25:00+02:00"
+  }
+]

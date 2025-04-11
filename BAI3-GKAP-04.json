@@ -19,12 +19,5 @@
     "Description": "Dozent: BAR",
     "StartTime": "2025-06-24T08:15:00+02:00",
     "EndTime": "2025-06-24T11:30:00+02:00"
-  },
-  {
-    "Name": "BAI3-GKAP/04",
-    "Location": "1101a",
-    "Description": "Dozent: BAR",
-    "StartTime": "2025-07-15T08:15:00+02:00",
-    "EndTime": "2025-07-15T11:30:00+02:00"
   }
 ]

@@ -17,13 +17,6 @@
     "Name": "BITS3-BS",
     "Location": "",
     "Description": "Dozent: LNS",
-    "StartTime": "2025-04-30T14:00:00+02:00",
-    "EndTime": "2025-04-30T17:15:00+02:00"
-  },
-  {
-    "Name": "BITS3-BS",
-    "Location": "",
-    "Description": "Dozent: LNS",
     "StartTime": "2025-05-07T14:00:00+02:00",
     "EndTime": "2025-05-07T17:15:00+02:00"
   },
@@ -54,6 +47,13 @@
     "Description": "Dozent: LNS",
     "StartTime": "2025-06-04T14:00:00+02:00",
     "EndTime": "2025-06-04T17:15:00+02:00"
+  },
+  {
+    "Name": "BITS3-BS",
+    "Location": "",
+    "Description": "Dozent: LNS",
+    "StartTime": "2025-06-11T14:00:00+02:00",
+    "EndTime": "2025-06-11T17:15:00+02:00"
   },
   {
     "Name": "BITS3-BS",

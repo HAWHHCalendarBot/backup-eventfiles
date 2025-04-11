@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "BAI3-GKAP/05",
+    "Location": "1101a",
+    "Description": "Dozent: BAR",
+    "StartTime": "2025-05-13T08:15:00+02:00",
+    "EndTime": "2025-05-13T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI3-GKAP/05",
+    "Location": "1101a",
+    "Description": "Dozent: BAR",
+    "StartTime": "2025-06-03T08:15:00+02:00",
+    "EndTime": "2025-06-03T11:30:00+02:00"
+  },
+  {
+    "Name": "BAI3-GKAP/05",
+    "Location": "1101a",
+    "Description": "Dozent: BAR",
+    "StartTime": "2025-07-08T08:15:00+02:00",
+    "EndTime": "2025-07-08T11:30:00+02:00"
+  }
+]

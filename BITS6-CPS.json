@@ -82,5 +82,12 @@
     "Description": "Dozent: SKT",
     "StartTime": "2025-07-10T12:30:00+02:00",
     "EndTime": "2025-07-10T15:45:00+02:00"
+  },
+  {
+    "Name": "BITS6-CPS",
+    "Location": "0460",
+    "Description": "Dozent: SKT",
+    "StartTime": "2025-07-17T12:30:00+02:00",
+    "EndTime": "2025-07-17T15:45:00+02:00"
   }
 ]

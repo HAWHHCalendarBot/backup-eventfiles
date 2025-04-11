@@ -3,6 +3,20 @@
     "Name": "E1a-PR1_Tutorium",
     "Location": "1365",
     "Description": "",
+    "StartTime": "2025-04-23T16:00:00+02:00",
+    "EndTime": "2025-04-23T17:30:00+02:00"
+  },
+  {
+    "Name": "E1a-PR1_Tutorium",
+    "Location": "1365",
+    "Description": "",
+    "StartTime": "2025-04-28T16:00:00+02:00",
+    "EndTime": "2025-04-28T17:30:00+02:00"
+  },
+  {
+    "Name": "E1a-PR1_Tutorium",
+    "Location": "1365",
+    "Description": "",
     "StartTime": "2025-05-07T16:00:00+02:00",
     "EndTime": "2025-05-07T17:30:00+02:00"
   },
