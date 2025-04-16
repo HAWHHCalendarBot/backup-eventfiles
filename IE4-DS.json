@@ -10,6 +10,13 @@
     "Name": "IE4-DS",
     "Location": "Stiftstr69  R110",
     "Description": "Dozent: LTL",
+    "StartTime": "2025-04-22T08:10:00+02:00",
+    "EndTime": "2025-04-22T11:25:00+02:00"
+  },
+  {
+    "Name": "IE4-DS",
+    "Location": "Stiftstr69  R110",
+    "Description": "Dozent: LTL",
     "StartTime": "2025-04-25T08:10:00+02:00",
     "EndTime": "2025-04-25T11:25:00+02:00"
   },
