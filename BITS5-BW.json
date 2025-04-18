@@ -17,6 +17,13 @@
     "Name": "BITS5-BW",
     "Location": "0460",
     "Description": "Dozent: KLSP",
+    "StartTime": "2025-05-08T16:00:00+02:00",
+    "EndTime": "2025-05-08T19:30:00+02:00"
+  },
+  {
+    "Name": "BITS5-BW",
+    "Location": "0460",
+    "Description": "Dozent: KLSP",
     "StartTime": "2025-05-15T16:00:00+02:00",
     "EndTime": "2025-05-15T19:30:00+02:00"
   },
