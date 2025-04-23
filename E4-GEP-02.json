@@ -4,7 +4,14 @@
     "Location": "0301",
     "Description": "Dozent: [Kor]/SZNY",
     "StartTime": "2025-04-29T08:10:00+02:00",
-    "EndTime": "2025-04-29T11:25:00+02:00"
+    "EndTime": "2025-04-29T09:40:00+02:00"
+  },
+  {
+    "Name": "E4-GEP-02",
+    "Location": "0861",
+    "Description": "Dozent: WNK",
+    "StartTime": "2025-05-08T12:10:00+02:00",
+    "EndTime": "2025-05-08T13:40:00+02:00"
   },
   {
     "Name": "E4-GEP-02",

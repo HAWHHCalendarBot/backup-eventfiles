@@ -24,6 +24,13 @@
     "Name": "B-REE6-ATP-01",
     "Location": "0301",
     "Description": "Dozent: [Kor]/[Pot]",
+    "StartTime": "2025-06-19T12:10:00+02:00",
+    "EndTime": "2025-06-19T15:40:00+02:00"
+  },
+  {
+    "Name": "B-REE6-ATP-01",
+    "Location": "0301",
+    "Description": "Dozent: [Kor]/[Pot]",
     "StartTime": "2025-07-03T12:10:00+02:00",
     "EndTime": "2025-07-03T15:40:00+02:00"
   }
