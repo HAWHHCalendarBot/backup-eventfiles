@@ -3,13 +3,6 @@
     "Name": "A-M-EPP-02",
     "Location": "0401",
     "Description": "Dozent: WNC/EBEL",
-    "StartTime": "2025-05-05T12:10:00+02:00",
-    "EndTime": "2025-05-05T15:40:00+02:00"
-  },
-  {
-    "Name": "A-M-EPP-02",
-    "Location": "0401",
-    "Description": "Dozent: WNC/EBEL",
     "StartTime": "2025-05-26T12:10:00+02:00",
     "EndTime": "2025-05-26T15:40:00+02:00"
   },
