@@ -22,17 +22,17 @@
   },
   {
     "Name": "E4-GE",
+    "Location": "1060",
+    "Description": "Dozent: WNK",
+    "StartTime": "2025-05-12T08:10:00+02:00",
+    "EndTime": "2025-05-12T11:25:00+02:00"
+  },
+  {
+    "Name": "E4-GE",
     "Location": "Stiftstr69  R106",
     "Description": "Dozent: WNK",
     "StartTime": "2025-05-12T12:10:00+02:00",
     "EndTime": "2025-05-12T15:40:00+02:00"
-  },
-  {
-    "Name": "E4-GE",
-    "Location": "0660",
-    "Description": "Dozent: WNK",
-    "StartTime": "2025-05-12T15:55:00+02:00",
-    "EndTime": "2025-05-12T19:25:00+02:00"
   },
   {
     "Name": "E4-GE",

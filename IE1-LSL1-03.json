@@ -19,5 +19,12 @@
     "Description": "Dozent: LTL",
     "StartTime": "2025-06-17T08:10:00+02:00",
     "EndTime": "2025-06-17T11:25:00+02:00"
+  },
+  {
+    "Name": "IE1-LSL1-03",
+    "Location": "1486",
+    "Description": "Dozent: LTL",
+    "StartTime": "2025-07-01T08:10:00+02:00",
+    "EndTime": "2025-07-01T11:25:00+02:00"
   }
 ]

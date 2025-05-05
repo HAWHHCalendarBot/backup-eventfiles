@@ -19,5 +19,12 @@
     "Description": "Dozent: RDT",
     "StartTime": "2025-06-13T12:10:00+02:00",
     "EndTime": "2025-06-13T15:40:00+02:00"
+  },
+  {
+    "Name": "IE1-LSL1-01",
+    "Location": "0861",
+    "Description": "Dozent: RDT",
+    "StartTime": "2025-07-01T12:10:00+02:00",
+    "EndTime": "2025-07-01T15:40:00+02:00"
   }
 ]
