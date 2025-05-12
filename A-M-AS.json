@@ -75,5 +75,12 @@
     "Description": "Dozent: RTH",
     "StartTime": "2025-05-27T08:10:00+02:00",
     "EndTime": "2025-05-27T11:25:00+02:00"
+  },
+  {
+    "Name": "A-M-AS",
+    "Location": "0861",
+    "Description": "Dozent: RTH",
+    "StartTime": "2025-06-03T08:10:00+02:00",
+    "EndTime": "2025-06-03T11:25:00+02:00"
   }
 ]
