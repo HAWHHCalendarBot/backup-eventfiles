@@ -5,26 +5,5 @@
     "Description": "Dozent: HSL",
     "StartTime": "2025-04-28T15:55:00+02:00",
     "EndTime": "2025-04-28T19:10:00+02:00"
-  },
-  {
-    "Name": "E3-OPP-05",
-    "Location": "1365",
-    "Description": "Dozent: HSL",
-    "StartTime": "2025-05-26T15:55:00+02:00",
-    "EndTime": "2025-05-26T19:10:00+02:00"
-  },
-  {
-    "Name": "E3-OPP-05",
-    "Location": "1365",
-    "Description": "Dozent: HSL",
-    "StartTime": "2025-06-16T15:55:00+02:00",
-    "EndTime": "2025-06-16T19:10:00+02:00"
-  },
-  {
-    "Name": "E3-OPP-05",
-    "Location": "1365",
-    "Description": "Dozent: HSL",
-    "StartTime": "2025-07-07T15:55:00+02:00",
-    "EndTime": "2025-07-07T19:10:00+02:00"
   }
 ]
