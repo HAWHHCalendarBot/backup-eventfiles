@@ -75,5 +75,12 @@
     "Description": "Dozent: VPL",
     "StartTime": "2025-06-25T08:10:00+02:00",
     "EndTime": "2025-06-25T11:25:00+02:00"
+  },
+  {
+    "Name": "A-M-DE",
+    "Location": "0862",
+    "Description": "Dozent: VPL",
+    "StartTime": "2025-07-09T08:10:00+02:00",
+    "EndTime": "2025-07-09T11:25:00+02:00"
   }
 ]
