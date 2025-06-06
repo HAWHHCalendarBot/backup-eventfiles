@@ -52,13 +52,6 @@
     "Name": "E6-PA",
     "Location": "0660, SteinD94 R0.02",
     "Description": "Dozent: MAA",
-    "StartTime": "2025-06-03T08:10:00+02:00",
-    "EndTime": "2025-06-03T11:25:00+02:00"
-  },
-  {
-    "Name": "E6-PA",
-    "Location": "0660, SteinD94 R0.02",
-    "Description": "Dozent: MAA",
     "StartTime": "2025-06-17T08:10:00+02:00",
     "EndTime": "2025-06-17T11:25:00+02:00"
   },
@@ -68,6 +61,13 @@
     "Description": "Dozent: MAA",
     "StartTime": "2025-06-24T08:10:00+02:00",
     "EndTime": "2025-06-24T11:25:00+02:00"
+  },
+  {
+    "Name": "E6-PA",
+    "Location": "0660",
+    "Description": "Dozent: MAA",
+    "StartTime": "2025-07-01T12:10:00+02:00",
+    "EndTime": "2025-07-01T15:40:00+02:00"
   },
   {
     "Name": "E6-PA",
