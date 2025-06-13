@@ -57,6 +57,13 @@
   },
   {
     "Name": "E1a-PH1",
+    "Location": "0560",
+    "Description": "Dozent: NRMF",
+    "StartTime": "2025-06-17T08:10:00+02:00",
+    "EndTime": "2025-06-17T11:25:00+02:00"
+  },
+  {
+    "Name": "E1a-PH1",
     "Location": "MP-F327",
     "Description": "Dozent: NRMF",
     "StartTime": "2025-06-20T08:10:00+02:00",
