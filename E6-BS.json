@@ -57,17 +57,17 @@
   },
   {
     "Name": "E6-BS",
-    "Location": "1303a, 1303b, 1365",
+    "Location": "1301a, 1301b, 1303a, 1303b",
     "Description": "Dozent: GRS",
-    "StartTime": "2025-06-19T12:10:00+02:00",
-    "EndTime": "2025-06-19T15:40:00+02:00"
+    "StartTime": "2025-06-23T12:10:00+02:00",
+    "EndTime": "2025-06-23T15:40:00+02:00"
   },
   {
     "Name": "E6-BS",
     "Location": "1303a, 1303b, 1365",
     "Description": "Dozent: GRS",
-    "StartTime": "2025-07-03T12:10:00+02:00",
-    "EndTime": "2025-07-03T15:40:00+02:00"
+    "StartTime": "2025-06-26T12:10:00+02:00",
+    "EndTime": "2025-06-26T15:40:00+02:00"
   },
   {
     "Name": "E6-BS",

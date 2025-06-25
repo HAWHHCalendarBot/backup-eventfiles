@@ -75,5 +75,12 @@
     "Description": "Dozent: ERD",
     "StartTime": "2025-06-24T08:10:00+02:00",
     "EndTime": "2025-06-24T11:25:00+02:00"
+  },
+  {
+    "Name": "B-REE4-RT",
+    "Location": "1281",
+    "Description": "Dozent: ERD",
+    "StartTime": "2025-07-08T16:00:00+02:00",
+    "EndTime": "2025-07-08T17:30:00+02:00"
   }
 ]
